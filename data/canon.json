@@ -1,0 +1,2162 @@
+{
+ "Darkshire": {
+  "canon": "Даркшир",
+  "forbidden": [
+   "Дарксфаєр",
+   "Темнокра"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Brightwood": {
+  "canon": "Брайтвуд",
+  "forbidden": [
+   "Світлоліс"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Ebonlocke": {
+  "canon": "Ебонлок",
+  "forbidden": [
+   "Чорнокам",
+   "Чорнолик"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Nightbane": {
+  "canon": "Найтбейн",
+  "forbidden": [
+   "Нічн\\w*\\s+Згуб"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Somber Dawn": {
+  "canon": "Похмурий світанок",
+  "forbidden": [
+   "Похмурий Світанок"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Salethan the Broodwalker": {
+  "canon": "Салетан Виводкохід",
+  "forbidden": [
+   "Салетан Виводкоход"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Potionmaster Gloop": {
+  "canon": "Зільмайстер Ґлуп",
+  "forbidden": [
+   "Зільничий Глуп",
+   "Зільничий Ґлуп"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Malorus the Soulkeeper": {
+  "canon": "Малорус Хранитель Душ",
+  "forbidden": [
+   "Малорус Душохранитель"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Inquisitor Chillbane": {
+  "canon": "Інквізитор Холодогуб",
+  "forbidden": [
+   "Інквізитор Мерзлозгуб"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Felbringer Xar'thok": {
+  "canon": "Сквернозвісник Ксар'ток",
+  "forbidden": [
+   "Звивач Скверни Ксар'ток",
+   "Скверноносець Ксар'ток"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Doombringer Zar'thoz": {
+  "canon": "Згубоносець Зар'тоз",
+  "forbidden": [
+   "Приреченосець Зар'тоз"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Brood Mother Nix": {
+  "canon": "Матір виводка Нікс",
+  "forbidden": [
+   "Матір Виводку Нікс"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Zeppelin Engineer": {
+  "canon": "Інженер дирижабля",
+  "forbidden": [
+   "Інженер цепеліна",
+   "Інженер Дирижабля"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Ysondre, Dragon of Nightmare": {
+  "canon": "Ісондра, Дракон Жахіття",
+  "forbidden": [
+   "Ісондре, Дракон Жахіття"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Xorogun the Flamecarver": {
+  "canon": "Ксороґун Полум'яріз",
+  "forbidden": [
+   "Ксороґун Полум'ярізьбяр"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Wild Skyscreamer": {
+  "canon": "Дикий небокрик",
+  "forbidden": [
+   "Дикий Небокрик"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Wild Cloudrunner": {
+  "canon": "Дикий хмарохід",
+  "forbidden": [
+   "Дикий хмарний бігун",
+   "Хмарохід Шан'зе"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Wild Argali": {
+  "canon": "Дикий арґалі",
+  "forbidden": [
+   "Дикий аргалі"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Whispering Pandaren Spirit": {
+  "canon": "Шепітний дух пандаренів",
+  "forbidden": [
+   "Шепочучий дух пандаренів",
+   "Шепітний Пандаренський Дух"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Weave-Rat Cache": {
+  "canon": "Сховок Щурів-ткачів",
+  "forbidden": [
+   "Сховок Ткацьких Щурів"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Waycrest Guard": {
+  "canon": "Вартовий Вейкреста",
+  "forbidden": [
+   "Вартовий Вейкресту"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Waterlogged Chest": {
+  "canon": "Підтоплена Скриня",
+  "forbidden": [
+   "Намокла скриня",
+   "Намокла Скриня"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Wastewalker Shu": {
+  "canon": "Пустошехід Шу",
+  "forbidden": [
+   "Пустоброд Шу"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Wandering Axebeak": {
+  "canon": "Мандрівний сокиродзьоб",
+  "forbidden": [
+   "Мандрівний сокирокдзьоб"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Voidstorm Rift": {
+  "canon": "Розлам Войдшторму",
+  "forbidden": [
+   "Розлом Войдшторму"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Void-Crazed Crawler": {
+  "canon": "Очманілий від Порожнечі повзун",
+  "forbidden": [
+   "Збожеволілий від Порожнечі Плазун"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Vivid Gladebeetle": {
+  "canon": "Яскравий галявинний жук",
+  "forbidden": [
+   "Яскравий Галявинний Жук"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Vindicaar, Antoran Wastes": {
+  "canon": "Віндікаар, Анторанські Пустки",
+  "forbidden": [
+   "Віндікаар, Анторанські Пустища"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Venomous Diemetradon": {
+  "canon": "Отруйний дієметрадон",
+  "forbidden": [
+   "отруйний діметрадон",
+   "Отруйний діметрадон"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Veinripper Matriarch": {
+  "canon": "Матріарх жиложерів",
+  "forbidden": [
+   "матріарх жилодерів",
+   "Матріарх жилодерів"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Valesoar Petalwing": {
+  "canon": "Долинокрилий пелюсткокрил",
+  "forbidden": [
+   "Долинопарне Пелюсткокриле"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Tree of Ages": {
+  "canon": "Дерево Віків",
+  "forbidden": [
+   "Дерево Епох"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Timewalking Vendor": {
+  "canon": "Торговець Подорожі в Часі",
+  "forbidden": [
+   "Торговець Мандрівників Часом"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Thunderlord Cache": {
+  "canon": "Сховок Громовладців",
+  "forbidden": [
+   "Скарбничка Громовладців"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Thundering Pandaren Spirit": {
+  "canon": "Громовий дух пандаренів",
+  "forbidden": [
+   "Громовий Пандаренський Дух"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "The Spellweaver": {
+  "canon": "Ткач заклять",
+  "forbidden": [
+   "Чароткач"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "The Lich King": {
+  "canon": "Король-ліч",
+  "forbidden": [
+   "Король-лич"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "The Drain": {
+  "canon": "Стік",
+  "forbidden": [
+   "Стічний Канал"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Territorial Petalwing": {
+  "canon": "Територіальний пелюсткокрил",
+  "forbidden": [
+   "Територіальне Пелюсткокриле"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Territorial Pango": {
+  "canon": "Територіальний панго",
+  "forbidden": [
+   "Територіальний Панґо"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Taerar, Dragon of Nightmare": {
+  "canon": "Терар, Дракон Жахіття",
+  "forbidden": [
+   "Таерар, Дракон Жахіття"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Swift Skymane": {
+  "canon": "Прудка небесногрива",
+  "forbidden": [
+   "Прудка Небесногрива",
+   "Прудкий Скаймейн"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Stress Express": {
+  "canon": "Нервовий Експрес",
+  "forbidden": [
+   "Стрес-Експрес"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Stone Cold Trixxy": {
+  "canon": "Крижана Триксі",
+  "forbidden": [
+   "Незворушна Тріксі"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Springpaw Lynx": {
+  "canon": "Прудколапа рись",
+  "forbidden": [
+   "Рись Спрингпо"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Sparkling Animaseed": {
+  "canon": "Іскристе Анімазерня",
+  "forbidden": [
+   "Іскриста Сім'янка Аніми"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Smuggler's Cache": {
+  "canon": "Сховок Контрабандиста",
+  "forbidden": [
+   "Схованка Контрабандиста"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Siphoning Blistercreep": {
+  "canon": "Висмоктувальний пухироповз",
+  "forbidden": [
+   "висотний пухироповз",
+   "Висотний пухироповз"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Shuddering Hollow": {
+  "canon": "Тремтлива Улоговина",
+  "forbidden": [
+   "Здригаюча Западина"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Seeker Zusshi": {
+  "canon": "Шукач Зуссі",
+  "forbidden": [
+   "Шукач Зушші"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "SI:7 Operative": {
+  "canon": "Агент SI:7",
+  "forbidden": [
+   "Оперативник SI:7"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Rumor Broker": {
+  "canon": "Торговець чутками",
+  "forbidden": [
+   "Торговець Чутками"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Rootforage Beetle": {
+  "canon": "Корененорний жук",
+  "forbidden": [
+   "Корінепошуковий Жук"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Rocktalon Scavenger": {
+  "canon": "Скелекоготь-падложер",
+  "forbidden": [
+   "Стерв'ятник Рокталона"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Riptalon Eviscerator": {
+  "canon": "Дряпокогтистий патрач",
+  "forbidden": [
+   "Потрошитель Дряпокіготь"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Respawn Location": {
+  "canon": "Місце відродження",
+  "forbidden": [
+   "Місце Відродження"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Prototype Aquilon": {
+  "canon": "Прототип аквілона",
+  "forbidden": [
+   "Прототип Аквілон"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Primrose Crankshaft, Riot Scheduler": {
+  "canon": "Примроуз Кранкшафт, Розпорядниця заворушень",
+  "forbidden": [
+   "Примроуз Кривошип, Розпорядниця заворушень",
+   "Примроуз Кранкшафт, Розпорядниця Бунтів"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Poisonous Hoplet": {
+  "canon": "Отруйний стрибунчик",
+  "forbidden": [
+   "Отруйне стрибунча"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Plains Rockfang": {
+  "canon": "Рівнинний скелезуб",
+  "forbidden": [
+   "Степовий скелеіклий"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Penitence of Purity": {
+  "canon": "Покута Чистоти",
+  "forbidden": [
+   "Покаяння Чистоти"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Paragon of Humility": {
+  "canon": "Взірець смирення",
+  "forbidden": [
+   "Взірець Смирення"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Pale Fishmonger": {
+  "canon": "Блідий торговець рибою",
+  "forbidden": [
+   "Блідий Торговець Рибою"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Orc Skeleton": {
+  "canon": "Скелет орка",
+  "forbidden": [
+   "Скелет Орка"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Night Fae Enhancements Available": {
+  "canon": "Доступні Покращення Нічних Фейрі",
+  "forbidden": [
+   "Доступні Покращення Нічних Фей"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Nicki Tinytech": {
+  "canon": "Нікі Тайнітек",
+  "forbidden": [
+   "Нікі Дрібнотех"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Nearly Headless Jacob": {
+  "canon": "Майже безголовий Джейкоб",
+  "forbidden": [
+   "Майже Безголовий Джейкоб"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Mudwallow Boar": {
+  "canon": "Багновалький вепр",
+  "forbidden": [
+   "Багновепр"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Mountain Rocktalon": {
+  "canon": "Гірський скелекіготь",
+  "forbidden": [
+   "Гірський Скелекіготь"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Mistskitter Beetle": {
+  "canon": "Туманодріботливий жук",
+  "forbidden": [
+   "Туманоснуйний жук",
+   "Туманодріботливий Жук"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Lord Hel'Nurath": {
+  "canon": "Лорд Гел'Нурат",
+  "forbidden": [
+   "Лорд Хел'Нурат"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Lightbloom Hydra": {
+  "canon": "Світлоцвітна гідра",
+  "forbidden": [
+   "гідра світлоцвіту",
+   "Гідра світлоцвіту"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Light Wyrm": {
+  "canon": "Світляний вирм",
+  "forbidden": [
+   "Світловий вирм",
+   "Світляний Вірм",
+   "Світловий вірм"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Latticewing Sporeglider": {
+  "canon": "Сітчастокрилий спороковзун",
+  "forbidden": [
+   "Решіткокрилий спороліт"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Large Lunarlight Pod": {
+  "canon": "Велика Місяцесвітна Коробочка",
+  "forbidden": [
+   "Велика Стручина Місячного Світла"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Kyrian Enhancements Available": {
+  "canon": "Доступні Покращення Кіріанів",
+  "forbidden": [
+   "Доступні Покращення Кіріян"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Kela Grimtotem": {
+  "canon": "Кела Ґрімтотем",
+  "forbidden": [
+   "Кела Грімтотем"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Keen-Eye Riptalon": {
+  "canon": "Гострозорий дряпокіготь",
+  "forbidden": [
+   "Гострозір Риптелон"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Juvenile Pango": {
+  "canon": "Молодий панго",
+  "forbidden": [
+   "молодий панго"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Jeremy Feasel": {
+  "canon": "Джеремі Фізл",
+  "forbidden": [
+   "Джеремі Фізел"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Jehil the Climber": {
+  "canon": "Джегіл Скелелаз",
+  "forbidden": [
+   "Джехіл Верхолаз",
+   "Джегіл Верхолаз",
+   "Джехіл Скелелаз"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Invasive Consumptor": {
+  "canon": "Інвазивний пожирач",
+  "forbidden": [
+   "загарбний пожирач",
+   "Загарбний пожирач"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Invasion Point": {
+  "canon": "Точка Вторгнення",
+  "forbidden": [
+   "Точка вторгнення"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Infinite Bazaar": {
+  "canon": "Безконечний Базар",
+  "forbidden": [
+   "Нескінченний Базар"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Imp Mother Bruva": {
+  "canon": "Матір Бісенят Брува",
+  "forbidden": [
+   "Мати Бісенят Брува"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Hyuna of the Shrines": {
+  "canon": "Г'юна зі Святилищ",
+  "forbidden": [
+   "Г'юна Святилищ",
+   "Гʼюна зі Святилищ",
+   "Гʼюна Святилищ"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Horned Plainstomper": {
+  "canon": "Рогатий рівнинотоп",
+  "forbidden": [
+   "Рогатий степотоп"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "High Vindicator": {
+  "canon": "Верховний захисник",
+  "forbidden": [
+   "Великий відстоювач"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Hatesting Netherwasp": {
+  "canon": "Злостена нетер-оса",
+  "forbidden": [
+   "Ненавистожальна оса Нижнього світу"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Hatesting Hatchling": {
+  "canon": "Злостене дитинча",
+  "forbidden": [
+   "Дитинча злостеня",
+   "ненавистожальне пташеня",
+   "Ненавистожальне пташеня"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Groveherd Chloroceros": {
+  "canon": "Гайстадний хлороцерос",
+  "forbidden": [
+   "Гайстадний Хлороцерос"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Groveherd Bull": {
+  "canon": "Гайстадний бик",
+  "forbidden": [
+   "Гайстадний Бик"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Greater Invasion Point": {
+  "canon": "Велика Точка Вторгнення",
+  "forbidden": [
+   "Великий Пункт Вторгнення"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Greater Greedstone": {
+  "canon": "Більший Камінь Жадоби",
+  "forbidden": [
+   "Більший Камінь Захланності"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Goldtoe's Plunder": {
+  "canon": "Здобич Золотопалого",
+  "forbidden": [
+   "Награбоване Голдтоу"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Ghostfeather Dragonhawk": {
+  "canon": "Примарнопірний драконояструб",
+  "forbidden": [
+   "Драконояструб Привидопера"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Ghostfeather Alpha": {
+  "canon": "Ватажок примарнопірних",
+  "forbidden": [
+   "Ватажок Привидоперих"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Ghostclaw Lynx": {
+  "canon": "Примарокогтиста рись",
+  "forbidden": [
+   "Примарокіготь рись",
+   "Рись Привидокіготь"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Forgotten Memorial": {
+  "canon": "Забутий меморіал",
+  "forbidden": [
+   "Забутий Меморіал"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Foraging Pango": {
+  "canon": "Панго-збирач",
+  "forbidden": [
+   "панго-збирач"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Flowing Pandaren Spirit": {
+  "canon": "Плинний дух пандаренів",
+  "forbidden": [
+   "Плинний дух пандарена",
+   "Плинний Пандаренський Дух"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Flayedwing Wraith": {
+  "canon": "Привид шкуракрилих",
+  "forbidden": [
+   "Привид білокрила",
+   "Привид Шкуракрилих"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Felmaw Emberfiend": {
+  "canon": "Сквернопащ Жариннодемон",
+  "forbidden": [
+   "Сквернопаща Жаринодемон"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Felcaller Zelthae": {
+  "canon": "Сквернозаклиначка Зелтай",
+  "forbidden": [
+   "Сквернозаклинателька Зелтей",
+   "Сквернозаклиначка Зелтае"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Eversong Rootway": {
+  "canon": "Кореневий Шлях Лісу Вічної Пісні",
+  "forbidden": [
+   "Вічноспівний кореневий шлях"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Emeriss, Dragon of Nightmare": {
+  "canon": "Емерісс, Дракон Жахіття",
+  "forbidden": [
+   "Емеріс, Дракон Жахіття"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Elena Flutterfly": {
+  "canon": "Елена Флаттерфлай",
+  "forbidden": [
+   "Елена Метеликокрилка"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Elemental Storm": {
+  "canon": "Елементальна Буря",
+  "forbidden": [
+   "Стихійна буря",
+   "Стихійна Буря"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Elemental Bound Chest": {
+  "canon": "Скриня, Скута Елементалями",
+  "forbidden": [
+   "Скриня, Скута Стихією"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Druid of the Talon": {
+  "canon": "Друїд Кігтя",
+  "forbidden": [
+   "Друїд Пазура"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Dredterror Ballista": {
+  "canon": "Баліста Жахоморока",
+  "forbidden": [
+   "Балиста Жахоморока",
+   "Баліста Жахожаху"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Dreadblade Annihilator": {
+  "canon": "Жахоклинок-нищитель",
+  "forbidden": [
+   "Жахоклинок Нищитель",
+   "Знищувач Жахоклинка"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Direhorn Bull": {
+  "canon": "Жахорог-бугай",
+  "forbidden": [
+   "бик-люторіг",
+   "Бик-люторіг"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Cymre Brightblade": {
+  "canon": "Сімре Брайтблейд",
+  "forbidden": [
+   "Сімра Брайтблейд"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Crystalline Survey": {
+  "canon": "Кристалічна Розвідка",
+  "forbidden": [
+   "Кристалічне Дослідження"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Crimson Bloodfeather": {
+  "canon": "Багряний кривавопер",
+  "forbidden": [
+   "Багряне Кровопір'я"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Cove Seagull": {
+  "canon": "Бухтова чайка",
+  "forbidden": [
+   "Бухтова Чайка"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Corrupted Bonebreaker": {
+  "canon": "Зіпсований костолам",
+  "forbidden": [
+   "Зіпсований Кісткороб",
+   "Зіпсований кісткороб"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Commander": {
+  "canon": "Командир",
+  "forbidden": [
+   "Командирка"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Command Table": {
+  "canon": "Командний стіл",
+  "forbidden": [
+   "Командний Стіл"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Clutchmother Zavas": {
+  "canon": "Виводкова матір Завас",
+  "forbidden": [
+   "Кладкоматір Завас"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Burning Pandaren Spirit": {
+  "canon": "Палаючий дух пандаренів",
+  "forbidden": [
+   "Палаючий Пандаренський Дух"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Brilliant Hawkstrider": {
+  "canon": "Блискучий яструбоступ",
+  "forbidden": [
+   "Блискучий соколохід",
+   "Сяйливий яструбоверхій"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Bloodfeather Dragonhawk": {
+  "canon": "Кривавопірний драконояструб",
+  "forbidden": [
+   "Драконояструб Кривавопера"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Beegle Blastfuse": {
+  "canon": "Біґл Бластф'юз",
+  "forbidden": [
+   "Біґл Вибухоґніт"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Astarii Starseeker": {
+  "canon": "Астарій Зорешукач",
+  "forbidden": [
+   "Астарії Шукачка Зірок"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Arcane Forge": {
+  "canon": "Чародійна Кузня",
+  "forbidden": [
+   "Арканна Кузня"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Apprentice": {
+  "canon": "Учень",
+  "forbidden": [
+   "Підмайстер"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Apexis Guardian": {
+  "canon": "Апексійський вартовий",
+  "forbidden": [
+   "Сторож Апексіса"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Ancient of War": {
+  "canon": "Прадавній війни",
+  "forbidden": [
+   "Древо війни"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Ancient Inferno": {
+  "canon": "Прадавнє Пекло",
+  "forbidden": [
+   "Прадавнє пекло"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Amani Mauler": {
+  "canon": "Трощій амані",
+  "forbidden": [
+   "калічник Амані",
+   "Калічник Амані"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Altar of Elders": {
+  "canon": "Вівтар Предків",
+  "forbidden": [
+   "Вівтар Старійшин"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Agitated Wyrm": {
+  "canon": "Збуджений вирм",
+  "forbidden": [
+   "Збурений Вірм",
+   "Збурений вірм"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Adolescent Direhorn": {
+  "canon": "Молодий жахоріг",
+  "forbidden": [
+   "Підрослий жахоріг",
+   "молодий люторіг",
+   "Молодий люторіг"
+  ],
+  "type": "name",
+  "gate": false
+ },
+ "Lich King": {
+  "canon": "Король-Ліч",
+  "forbidden": [
+   "Король-лич",
+   "Король-ліч",
+   "Король-Лич"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Stormwind": {
+  "canon": "Стормвінд",
+  "forbidden": [
+   "Штормові[йю]",
+   "Штормовійськ",
+   "Штормоград"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Stormrage": {
+  "canon": "Стормрейдж",
+  "forbidden": [
+   "Штормлют",
+   "Штормогнів"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Wrathion": {
+  "canon": "Вратіон",
+  "forbidden": [
+   "Враксіон",
+   "Вротіон"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Faerin": {
+  "canon": "Фейрін",
+  "forbidden": [
+   "Фаерін",
+   "Феєрін"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Orgrimmar": {
+  "canon": "Оґриммар",
+  "forbidden": [
+   "Оґрімар",
+   "Огрімар"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Blackrock": {
+  "canon": "Блекрок",
+  "forbidden": [
+   "Чорної? Скел",
+   "Чорноскел",
+   "Чорногор"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Scourge": {
+  "canon": "Погибель",
+  "forbidden": [
+   "\bПлеть\b",
+   "Полчищ"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Shadowlands": {
+  "canon": "Тіньокрай",
+  "forbidden": [
+   "Темн\\w* Земл",
+   "Тіньов\\w* Земл"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Keystone": {
+  "canon": "ключ",
+  "forbidden": [
+   "наріжн\\w* кам"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Auchindoun": {
+  "canon": "Аучиндон",
+  "forbidden": [
+   "Аучіндун",
+   "Аучиндун",
+   "Аухиндун"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Stormstout": {
+  "canon": "Штормстаут",
+  "forbidden": [
+   "Грозоброд",
+   "Штормов\\w* Хмел"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Sinfall": {
+  "canon": "Гріхопад",
+  "forbidden": [
+   "Грехопад"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Bloodhoof": {
+  "canon": "Бладгуф",
+  "forbidden": [
+   "Кривав\\w* Копит"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Saurfang": {
+  "canon": "Саурфанг",
+  "forbidden": [
+   "Сорфанг"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Frostmane": {
+  "canon": "Фростмейн",
+  "forbidden": [
+   "Морозогрив",
+   "Морозногрив"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Sunreaver": {
+  "canon": "Санрівер",
+  "forbidden": [
+   "Сонцехват",
+   "Сонцеборц",
+   "Сонячн\\w* Жнец",
+   "Сонячн\\w* Жниц"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Vindicator": {
+  "canon": "Захисник",
+  "forbidden": [
+   "Воздаятел",
+   "Воздаятель"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Tzadah": {
+  "canon": "Тзейда",
+  "forbidden": [
+   "Цада",
+   "Цадаг",
+   "Цадах",
+   "Цаду",
+   "Цади",
+   "Тзада",
+   "Тзаду"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Lycaneum": {
+  "canon": "Ліканеум",
+  "forbidden": [
+   "Лікенеум",
+   "Ліценеум"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Zul'jan": {
+  "canon": "Зул'джан",
+  "forbidden": [
+   "Зул'джин"
+  ],
+  "type": "npc",
+  "gate": true,
+  "allow_en": [
+   "Zul'jin"
+  ]
+ },
+ "Ziadan": {
+  "canon": "Зіадан",
+  "forbidden": [
+   "Зіадана",
+   "Зіадану",
+   "Зіаданом"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Manus Deathwake": {
+  "canon": "Манус Дезвейк",
+  "forbidden": [
+   "Десвейк"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Hagar": {
+  "canon": "Гаґар",
+  "forbidden": [
+   "Гагар"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Voidscar Arena": {
+  "canon": "Арена Шраму Порожнечі",
+  "forbidden": [
+   "Порожнечошрам",
+   "Войдшрам",
+   "Порожнього Шраму"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Slayer's Rise": {
+  "canon": "Височина Вбивць",
+  "forbidden": [
+   "Узвишшя Вбивць",
+   "Пагорб Вбивці",
+   "Підйом Душогуба"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Numazon": {
+  "canon": "Нумазон",
+  "forbidden": [
+   "Нумазона"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Vidious": {
+  "canon": "Відіус",
+  "forbidden": [],
+  "type": "npc",
+  "gate": true
+ },
+ "Charonus": {
+  "canon": "Харонус",
+  "forbidden": [],
+  "type": "npc",
+  "gate": true
+ },
+ "Vordaza": {
+  "canon": "Вордаза",
+  "forbidden": [],
+  "type": "npc",
+  "gate": true
+ },
+ "Ula'tek": {
+  "canon": "Ула'тек",
+  "forbidden": [],
+  "type": "npc",
+  "gate": true
+ },
+ "Y'mera": {
+  "canon": "Й'мера",
+  "forbidden": [
+   "Ї'мера",
+   "Ймера",
+   "Аймера",
+   "Аймеро"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Voidbreaker": {
+  "canon": "Руйнівник Порожнечі",
+  "forbidden": [
+   "Зломник Порожнечі",
+   "Розбивач Порожнечі",
+   "Трощитель Порожнечі",
+   "Войдбрейкер"
+  ],
+  "gate": true,
+  "note": "-breaker=руйнівник (як Spellbreaker/Dawnbreaker); повна форма Voidbreaker=Руйнівник Порожнечі"
+ },
+ "Kasiea": {
+  "canon": "Касієя",
+  "forbidden": [
+   "Касіеа",
+   "Касіея",
+   "Каліея"
+  ],
+  "gate": true,
+  "note": "EN 'Caliea' (quest 86625) — одруківка Blizzard, 1:11 проти Kasiea; de дає Kasiea в тому ж квесті; правопис: після голосного і — є (Касієя)"
+ },
+ "Manacell": {
+  "canon": "манакомірка",
+  "forbidden": [
+   "манакапсула",
+   "манагільза",
+   "манабатарея",
+   "маносховище"
+  ],
+  "gate": true,
+  "note": "de Manazellen/fr cellules de mana; у базі був різнобій ×4 — канон із QA позагілкових 2026-07-02"
+ },
+ "Nexus-Point": {
+  "canon": "Вузлова Точка",
+  "forbidden": [
+   "Нексус-Точ",
+   "Нексус-точ",
+   "нексус-пункт"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Sanguithorn": {
+  "canon": "Кровотерн",
+  "forbidden": [
+   "Кривавошип (трава)",
+   "Сангвітерн",
+   "Кривошип",
+   "Кривотерн",
+   "кривавотерн"
+  ],
+  "gate": false,
+  "note": "трава Midnight; Кривавошип лишається за мобом Gorebarb — тому gate=false, стежити вручну"
+ },
+ "Mana Lily": {
+  "canon": "Лілея мани",
+  "forbidden": [
+   "Манолілія",
+   "Лілія мани",
+   "манова лілія"
+  ],
+  "gate": true,
+  "note": "трава Midnight"
+ },
+ "Tranquility Bloom": {
+  "canon": "Цвіт спокою",
+  "forbidden": [
+   "Квіт спокою",
+   "квітка спокою"
+  ],
+  "gate": true,
+  "note": "трава Midnight"
+ },
+ "Tusk Taker": {
+  "canon": "Викрадачка Бивнів",
+  "forbidden": [
+   "Іклогриз",
+   "Іклокрадка",
+   "Іклогарбитель",
+   "Збирачка Бивнів",
+   "Іклоносій"
+  ],
+  "gate": true,
+  "note": "жінка (fr la voleuse); було 5 форм"
+ },
+ "Masters' Perch": {
+  "canon": "Сідало Володарів",
+  "forbidden": [
+   "Сідало Майстрів",
+   "Сідало Повелителів",
+   "Осідок Владарів"
+  ],
+  "gate": true,
+  "note": "цитадель доманаарів"
+ },
+ "Void Post": {
+  "canon": "Застава Порожнечі",
+  "forbidden": [
+   "Пост Порожнечі"
+  ],
+  "gate": true,
+  "note": "AreaPOI-канон"
+ },
+ "Fungarian": {
+  "canon": "фунґаріани",
+  "forbidden": [
+   "Фунгійці",
+   "фунґіани",
+   "фунґарці",
+   "Грибожителі",
+   "Грибарі",
+   "фунгаріанці",
+   "Фунгарійці"
+  ],
+  "gate": false,
+  "note": "раса; одн. фунґаріанин; багато Title Case предметів — гейтити вручну"
+ },
+ "Aweohna": {
+  "canon": "Аве'огна",
+  "forbidden": [
+   "Аве'она",
+   "Аве'оны",
+   "Ов'огна"
+  ],
+  "gate": true,
+  "note": "h→г; жінка"
+ },
+ "Nullaeus": {
+  "canon": "Нуллей",
+  "forbidden": [
+   "Нуллеус"
+  ],
+  "gate": true,
+  "note": "канон бази (Titles/Items/цілі)"
+ },
+ "Cuzolth": {
+  "canon": "Кузолт",
+  "forbidden": [
+   "Кузольт"
+  ],
+  "gate": true,
+  "note": "більшість бази 6:2"
+ },
+ "Perodius": {
+  "canon": "Перодіус",
+  "forbidden": [
+   "Перодій"
+  ],
+  "gate": true,
+  "note": ""
+ },
+ "Ayisha": {
+  "canon": "Аїша",
+  "forbidden": [
+   "Айша"
+  ],
+  "gate": true,
+  "note": "правопис ї після голосного"
+ },
+ "Collegiate Calamity": {
+  "canon": "Університетське Лихо",
+  "forbidden": [
+   "Колегіальне Лихо",
+   "Академічне лихо",
+   "Університетська Халепа"
+  ],
+  "gate": true,
+  "note": "глибина; було 4 форми"
+ },
+ "Falconwing Square": {
+  "canon": "площа Соколиного Крила",
+  "forbidden": [
+   "Соколинокрила Площа",
+   "Соколиний майдан"
+  ],
+  "gate": true,
+  "note": "de/fr описові"
+ },
+ "Ruia": {
+  "canon": "Руя",
+  "forbidden": [
+   "Руйя",
+   "Руїлла"
+  ],
+  "gate": false,
+  "note": "ЧОЛОВІК (EN he, de er, Wurzelhüter); вартовий коренів"
+ },
+ "Mor'duun": {
+  "canon": "Мор'дуун",
+  "forbidden": [
+   "Мор'дун"
+  ],
+  "gate": true,
+  "note": ""
+ },
+ "Har'alnor": {
+  "canon": "Гар'алнор",
+  "forbidden": [
+   "Хар'алнор"
+  ],
+  "gate": true,
+  "note": "h→г"
+ },
+ "Aln'hara": {
+  "canon": "Альн'гара",
+  "forbidden": [
+   "Алн'хара",
+   "Алн'гара",
+   "Ален'гара"
+  ],
+  "gate": true,
+  "note": "богиня-корені гаранірів"
+ },
+ "Darkglen": {
+  "canon": "Даркґлен",
+  "forbidden": [
+   "Дарґлен"
+  ],
+  "gate": true,
+  "note": "Dark+glen: к з EN зберігається; леді Даркґлен"
+ },
+ "Hungering Oblivium": {
+  "canon": "Голодне Забуття",
+  "forbidden": [
+   "Ненаситний Обливіум",
+   "Зголоднілий Обливіум"
+  ],
+  "gate": false,
+  "note": "форма цілі трекера; у базі було 4 форми — донормалізувати"
+ },
+ "Sporefall": {
+  "canon": "Спорепад",
+  "forbidden": [
+   "Спороспад"
+  ],
+  "gate": true,
+  "note": "назва події в трекері"
+ },
+ "Snapdragon": {
+  "canon": "Кусач-дракон",
+  "forbidden": [
+   "драконощелеп",
+   "Зубощелеп",
+   "ротатий дракон",
+   "Снепдракон",
+   "Драконокус",
+   "Скусидракон"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Fyrakk": {
+  "canon": "Фіракк",
+  "forbidden": [
+   "Файракк",
+   "Фаярак",
+   "Фаєракк",
+   "Фаяракк"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Mueh'zala": {
+  "canon": "Муех'зала",
+  "forbidden": [
+   "Мве'зал"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Nightborne": {
+  "canon": "нічнонароджені",
+  "forbidden": [
+   "нічнароджен",
+   "Ночеродн"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Abundance": {
+  "canon": "Рясність",
+  "forbidden": [],
+  "type": "system",
+  "gate": false,
+  "note": "Zul'Aman-подія жнив (лоа Дундун) => Рясність (жін.). НЕ чіпати: друїд-талант 207383 (Достаток), спели 'Abundance of X' (достаток/удосталь), Emerald 'Смарагдовий достаток', 'Ріг достатку' (cornucopia)."
+ },
+ "Tyr": {
+  "canon": "Тір",
+  "forbidden": [
+   "\\bТир\\b",
+   "\\bТира\\b",
+   "\\bТиру\\b",
+   "\\bТирові\\b",
+   "\\bТиром\\b",
+   "\\bТире\\b"
+  ],
+  "type": "npc",
+  "gate": true,
+  "allow_en": [
+   "Tyrant",
+   "Tyrannus",
+   "Tyranny",
+   "Tyrande",
+   "Tyran",
+   "Tyrgon",
+   "Tyrantus",
+   "satyr",
+   "Satyr",
+   "Tyri",
+   "Martyr",
+   "martyr"
+  ]
+ },
+ "Tyrhold": {
+  "canon": "Тіргольд",
+  "forbidden": [
+   "Тиргольд",
+   "Твердиня Тіра"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Vyranoth": {
+  "canon": "Віранот",
+  "forbidden": [
+   "Вайранот",
+   "Віраност",
+   "Вайраност"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Loamm": {
+  "canon": "Лоамм",
+  "forbidden": [
+   "\\bЛомм"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Edweard": {
+  "canon": "Едвард",
+  "forbidden": [
+   "Едвеард"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Rokhan": {
+  "canon": "Рокан",
+  "forbidden": [
+   "Рокхан"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Primalist": {
+  "canon": "первісник",
+  "forbidden": [
+   "Первородні",
+   "Первородний",
+   "Прадавник",
+   "Прималіст",
+   "прималіст"
+  ],
+  "type": "faction",
+  "gate": true
+ },
+ "Stranglethorn": {
+  "canon": "Стренглторн",
+  "forbidden": [
+   "Терниста долина",
+   "Тернистій долині",
+   "Тернистої долини",
+   "Тернисту долину",
+   "Стренґлторн"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Deatholme": {
+  "canon": "Детхолм",
+  "forbidden": [
+   "Мертвохолм",
+   "Смертохолм"
+  ],
+  "type": "place",
+  "gate": true,
+  "note": "власна назва фортеці — транслітерація; «холм» як слово=русизм"
+ },
+ "Ashbringer": {
+  "canon": "Ешбрінгер",
+  "forbidden": [
+   "Попелоносц",
+   "Попелоносець",
+   "Попелобій",
+   "Попелобоя",
+   "Попелобоєм"
+  ],
+  "type": "item",
+  "gate": true
+ },
+ "Arathi": {
+  "canon": "Араті",
+  "forbidden": [
+   "арафі",
+   "Арафі"
+  ],
+  "type": "faction",
+  "gate": true
+ },
+ "Haranir": {
+  "canon": "гаранір",
+  "forbidden": [
+   "Харанір",
+   "харанір"
+  ],
+  "type": "race",
+  "gate": true
+ },
+ "Harandar": {
+  "canon": "Гарандар",
+  "forbidden": [
+   "Харандар",
+   "харандар"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Azure Span": {
+  "canon": "Лазуровий Простір",
+  "forbidden": [
+   "Лазурова Широчінь",
+   "Лазурової Широчіні",
+   "Лазуровій Широчіні",
+   "Лазурову Широчінь",
+   "Лазурова Гряда",
+   "Лазурової Гряди",
+   "Лазуровій Гряді",
+   "Лазурову Гряду",
+   "Лазурова Протока",
+   "Лазурової Протоки",
+   "Лазуровій Протоці",
+   "Лазурову Протоку",
+   "Лазуровою Протокою",
+   "Лазурова Грань",
+   "Лазурової Грані",
+   "Лазуровій Грані",
+   "Лазурову Грань",
+   "Лазуровою Гранню",
+   "Лазурова Протяжність",
+   "Лазурової Протяжності",
+   "Лазуровій Протяжності",
+   "Лазурову Протяжність",
+   "Лазуровою Протяжністю",
+   "Лазуровий Кряж",
+   "Лазурового Кряжу",
+   "Лазуровому Кряжі",
+   "Лазурове пасмо",
+   "Лазурового пасма",
+   "Лазуровому пасмі"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Parhelion Plaza": {
+  "canon": "Площа Паргеліон",
+  "forbidden": [
+   "Пархелій",
+   "Пархеліон"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Gallywix": {
+  "canon": "Ґаллівікс",
+  "forbidden": [
+   "Ґалівікс",
+   "Геллівікс",
+   "Ґеллівікс"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Gallagio": {
+  "canon": "Ґалладжіо",
+  "forbidden": [
+   "Галладжіо",
+   "Галладжо",
+   "Ґалладжо",
+   "Ґаллаґіо"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Gundargaz": {
+  "canon": "Ґундарґаз",
+  "forbidden": [
+   "Гундарґаз",
+   "Гундаргаз",
+   "Ґундаргаз"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Hallowfall": {
+  "canon": "Голловфол",
+  "forbidden": [
+   "Святопад",
+   "Святопаду",
+   "Святопаді",
+   "Святопада",
+   "Святопадом"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Nials": {
+  "canon": "Найлс",
+  "forbidden": [
+   "Ніалс"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Khaz Algar": {
+  "canon": "Каз Алґар",
+  "forbidden": [
+   "Каз Алгар",
+   "Хаз Алгар",
+   "алгарськ"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Dimensius": {
+  "canon": "Дименсіус",
+  "forbidden": [
+   "Дімензіус"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Gazlowe": {
+  "canon": "Ґазлоу",
+  "forbidden": [
+   "Газлоу"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Necroray": {
+  "canon": "некроскат",
+  "forbidden": [
+   "некрорай",
+   "некрорат"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Earthen": {
+  "canon": "земельники",
+  "forbidden": [
+   "земнородн",
+   "Земнородн",
+   "землородн"
+  ],
+  "type": "race",
+  "gate": true
+ },
+ "Riftblade": {
+  "canon": "Клинок Розлому",
+  "forbidden": [
+   "Розломоклинок",
+   "Розколоклинок",
+   "Рифтоклин",
+   "розломоклинк"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Northrend": {
+  "canon": "Нортренд",
+  "forbidden": [
+   "Нордренд"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Iridikron": {
+  "canon": "Іридикрон",
+  "forbidden": [
+   "Іридікрон"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Telogrus": {
+  "canon": "Телоґрус",
+  "forbidden": [
+   "Телогрус"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Booty Bay": {
+  "canon": "Бухта Здобичі",
+  "forbidden": [
+   "Бухта Награбованого",
+   "Бухти Награбованого",
+   "Бухту Награбованого",
+   "Бухті Награбованого"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Riftwalker": {
+  "canon": "розломохід",
+  "forbidden": [
+   "марше-фейл",
+   "Блукачі Розломів",
+   "Блукачів Розлом",
+   "Блукачами Розлом",
+   "Блукачц"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Gurubashi": {
+  "canon": "Ґурубаші",
+  "forbidden": [
+   "Гурубаші"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Grimtotem": {
+  "canon": "Ґрімтотем",
+  "forbidden": [
+   "Грімтотем"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Azgalor": {
+  "canon": "Азґалор",
+  "forbidden": [
+   "Азгалор"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Raszageth": {
+  "canon": "Расзаґет",
+  "forbidden": [
+   "Расзагет"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Gilneas": {
+  "canon": "Ґілнеа",
+  "forbidden": [
+   "Гілнеа"
+  ],
+  "type": "place",
+  "gate": true
+ },
+ "Azshara-apos": {
+  "canon": "Азшар",
+  "forbidden": [
+   "Азш'ар"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Soul-Scribe": {
+  "canon": "Скрижальниця Доль",
+  "forbidden": [
+   "Душеписар",
+   "Писарка Душ",
+   "Писарки Душ"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Steamwheedle": {
+  "canon": "Стімвідл",
+  "forbidden": [
+   "Парокрут",
+   "Парогвинт",
+   "Парохитр",
+   "Паровий Картель",
+   "Парового Картел",
+   "Парове Колесо",
+   "Парового Свистка"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Venture Co": {
+  "canon": "Венчурна Компанія",
+  "forbidden": [
+   "Картель Венчер",
+   "Картелю Венчер",
+   "Венчур Компані",
+   "Компанія «Авантюра»",
+   "Корпорація «Авантюра»",
+   "Корпорація «Пригода»"
+  ],
+  "type": "name",
+  "gate": true
+ },
+ "Darkfuse": {
+  "canon": "Даркф'юз",
+  "forbidden": [
+   "Темнозлука",
+   "Темнозлуки",
+   "Темного Запалу",
+   "Темний Запал",
+   "Темна Звара",
+   "Темної Звари"
+  ],
+  "type": "org",
+  "gate": true
+ },
+ "Life-Binder": {
+  "canon": "Життєдайна",
+  "forbidden": [
+   "Зв['’ʼ]язувач\\w* Життя"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Lifebinder": {
+  "canon": "Життєдайна",
+  "forbidden": [
+   "Зв['’ʼ]язувач\\w* Життя"
+  ],
+  "type": "npc",
+  "gate": true
+ },
+ "Blacktalon": {
+  "canon": "Чорний Пазур",
+  "forbidden": [
+   "Блектелон",
+   "Чорнокіг",
+   "Чорн\\w+ Кіг"
+  ],
+  "allow_en": [
+   "Savage"
+  ],
+  "type": "faction",
+  "gate": true
+ }
+}

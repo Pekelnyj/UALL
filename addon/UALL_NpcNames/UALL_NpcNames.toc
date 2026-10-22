@@ -1,0 +1,9 @@
+## Interface: 120100
+## Title: UALL |cff808080(Імена NPC)|r
+## Notes: Імена NPC (LoadOnDemand — вантажиться за потреби)
+## Author: UALL
+## Version: 0.63.0
+## LoadOnDemand: 1
+## Dependencies: UALL
+
+NpcNames.lua

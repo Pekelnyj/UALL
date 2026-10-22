@@ -1,0 +1,4818 @@
+{
+ "235095": {
+  "name": {
+   "en": "Dreaming Festive Reindeer",
+   "de": "Träumendes Festrentier",
+   "fr": "Renne festif onirique"
+  }
+ },
+ "235230": {
+  "name": {
+   "en": "Saltwind Pterrodax",
+   "de": "Salzwindpterrordax",
+   "fr": "Pterreurdactyle ventesel"
+  }
+ },
+ "235303": {
+  "name": {
+   "en": "Pit Prowler",
+   "de": "Grubenpirscher",
+   "fr": "Rôdeuse de la fosse"
+  }
+ },
+ "235350": {
+  "name": {
+   "en": "Netherwasp",
+   "de": "Netherwespe",
+   "fr": "Guêpe du Néant"
+  }
+ },
+ "235351": {
+  "name": {
+   "en": "Kilivore",
+   "de": "Totfresser",
+   "fr": "Mortivore"
+  }
+ },
+ "235413": {
+  "name": {
+   "en": "Territorial Netherwasp",
+   "de": "Territoriale Netherwespe",
+   "fr": "Guêpe du Néant territoriale"
+  }
+ },
+ "235414": {
+  "name": {
+   "en": "Ravenous Shredclaw",
+   "de": "Unersättliche Schredderklaue",
+   "fr": "Griffentaille vorace"
+  }
+ },
+ "235507": {
+  "name": {
+   "en": "Beast, Tamable"
+  }
+ },
+ "235562": {
+  "name": {
+   "en": "Vicious Kilivore",
+   "de": "Bösartiger Totfresser",
+   "fr": "Mortivore vicieux"
+  }
+ },
+ "235657": {
+  "name": {
+   "en": "Amani Lynx",
+   "de": "Luchs der Amani",
+   "fr": "Lynx amani"
+  }
+ },
+ "235673": {
+  "name": {
+   "en": "Giant Eagle",
+   "de": "Riesenadler",
+   "fr": "Aigle géant"
+  }
+ },
+ "235686": {
+  "name": {
+   "en": "Pangolin",
+   "de": "Schuppentier",
+   "fr": "Pangolin"
+  }
+ },
+ "235874": {
+  "name": {
+   "en": "Pestilential Necroray",
+   "de": "Pestbringender Nekrorochen",
+   "fr": "Nécroraie pestilentielle"
+  }
+ },
+ "235896": {
+  "name": {
+   "en": "Diseased Bear",
+   "de": "Kranker Bär",
+   "fr": "Ours contaminé"
+  }
+ },
+ "235983": {
+  "name": {
+   "en": "Pango",
+   "de": "Schuppentier",
+   "fr": "Pango"
+  }
+ },
+ "235995": {
+  "name": {
+   "en": "Bear",
+   "de": "Bär",
+   "fr": "Ours"
+  }
+ },
+ "236039": {
+  "name": {
+   "en": "Escaped Stonesniffer",
+   "de": "Ausgebüchster Steinschnüffler",
+   "fr": "Flairepierre en fuite"
+  }
+ },
+ "236131": {
+  "name": {
+   "en": "Endangered Eaglet",
+   "de": "Bedrohtes Adlerjunges",
+   "fr": "Aiglon menacé"
+  }
+ },
+ "236137": {
+  "name": {
+   "en": "[DNT][OLD]"
+  }
+ },
+ "236165": {
+  "name": {
+   "en": "Dragonhawk Mossbeak",
+   "de": "Drachenfalkenmoosschnabel",
+   "fr": "Faucon-dragon becmoussu"
+  }
+ },
+ "236166": {
+  "name": {
+   "en": "Dragonhawk Plumesparker",
+   "de": "Drachenfalkenfunkensprüher",
+   "fr": "Faucon-dragon plumétincelle"
+  }
+ },
+ "236168": {
+  "name": {
+   "en": "Cinderdig Amazard",
+   "de": "Glutgräberschildechse",
+   "fr": "Blindézard cendrefouille"
+  }
+ },
+ "236169": {
+  "name": {
+   "en": "Cinderscale Amazard",
+   "de": "Glutschuppenschildechse",
+   "fr": "Blindézard cendrécaille"
+  }
+ },
+ "236182": {
+  "name": {
+   "en": "Light Wyrm",
+   "de": "Lichtwyrm",
+   "fr": "Wyrm lumineux"
+  }
+ },
+ "236186": {
+  "name": {
+   "en": "Captured Witherbark Lynx",
+   "de": "Gefangener Bleichborkenluchs",
+   "fr": "Lynx fanécorce capturé"
+  }
+ },
+ "236187": {
+  "name": {
+   "en": "Lynx Matriarch",
+   "de": "Luchsmatriarchin",
+   "fr": "Matriarche des lynx"
+  }
+ },
+ "236246": {
+  "name": {
+   "en": "Scarlet Dragonhawk",
+   "de": "Scharlachroter Drachenfalke",
+   "fr": "Faucon-dragon écarlate"
+  }
+ },
+ "236295": {
+  "name": {
+   "en": "Forest Lynx",
+   "de": "Waldluchs",
+   "fr": "Lynx des forêts"
+  }
+ },
+ "236317": {
+  "name": {
+   "en": "Lightbloom Hydra",
+   "de": "Lichtblütenhydra",
+   "fr": "Hydre luméclat"
+  }
+ },
+ "236333": {
+  "name": {
+   "en": "Cosmic Worm",
+   "de": "Kosmischer Wurm",
+   "fr": "Ver cosmique"
+  }
+ },
+ "236335": {
+  "name": {
+   "en": "Mammoth",
+   "de": "Mammut",
+   "fr": "Mammouth"
+  }
+ },
+ "236336": {
+  "name": {
+   "en": "Mammoth Calf",
+   "de": "Mammutkalb",
+   "fr": "Jeune mammouth"
+  }
+ },
+ "236340": {
+  "name": {
+   "en": "Lightbloom Crawler",
+   "de": "Lichtblütenkrabbler",
+   "fr": "Rampant luméclat"
+  }
+ },
+ "236346": {
+  "name": {
+   "en": "Lightdazzled Crawler",
+   "de": "Lichtgeblendeter Krabbler",
+   "fr": "Rampant lumébloui"
+  }
+ },
+ "236352": {
+  "name": {
+   "en": "Lightbloom Crawler [Max Level Only]",
+   "de": "Lichtblütenkrabbler [Nur Maximalstufe]",
+   "fr": "Rampant luméclat [niveau max. uniquement]"
+  }
+ },
+ "236379": {
+  "name": {
+   "en": "Snaplizard",
+   "de": "Schnappechse",
+   "fr": "Lézard mordeur"
+  }
+ },
+ "236384": {
+  "name": {
+   "en": "Amazard",
+   "de": "Schildechse",
+   "fr": "Blindézard"
+  }
+ },
+ "236401": {
+  "name": {
+   "en": "Giant Wasp",
+   "de": "Riesenwespe",
+   "fr": "Guêpe géante"
+  }
+ },
+ "236428": {
+  "name": {
+   "en": "Giant Rodent",
+   "de": "Riesennagetier",
+   "fr": "Rongeur géant"
+  }
+ },
+ "236443": {
+  "name": {
+   "en": "Crab",
+   "de": "Krabbe",
+   "fr": "Crabe"
+  }
+ },
+ "236446": {
+  "name": {
+   "en": "Poison Dart Frog",
+   "de": "Pfeilgiftfrosch",
+   "fr": "Grenouille venimeuse"
+  }
+ },
+ "236539": {
+  "name": {
+   "en": "Giant Goldeneye",
+   "de": "Riesiges Goldauge",
+   "fr": "Oeil-doré géant"
+  }
+ },
+ "236552": {
+  "name": {
+   "en": "Lightbloat Trampler",
+   "de": "Lichtblähtrampler",
+   "fr": "Piétineuse lumicloque"
+  }
+ },
+ "236560": {
+  "name": {
+   "en": "Lucent Hookbeak",
+   "de": "Schillernder Hakenschnabel",
+   "fr": "Crochebec luminescent"
+  }
+ },
+ "236598": {
+  "name": {
+   "en": "Watchful Eagle",
+   "de": "Wachsamer Adler",
+   "fr": "Aigle attentif"
+  }
+ },
+ "236600": {
+  "name": {
+   "en": "Large Eagle",
+   "de": "Großer Adler",
+   "fr": "Grand aigle"
+  }
+ },
+ "236635": {
+  "name": {
+   "en": "Mine Spider",
+   "de": "Minenspinne",
+   "fr": "Araignée minière"
+  }
+ },
+ "236640": {
+  "name": {
+   "en": "Dustseeker Spiderling",
+   "de": "Staubsucherspinnling",
+   "fr": "Jeune araignée cherche-poussière"
+  }
+ },
+ "236641": {
+  "name": {
+   "en": "Giant Bat",
+   "de": "Riesenfledermaus",
+   "fr": "Chauve-souris géante"
+  }
+ },
+ "236645": {
+  "name": {
+   "en": "Shadetooth Bat",
+   "de": "Schattenzahnfledermaus",
+   "fr": "Chauve-souris ombrecroc"
+  }
+ },
+ "236646": {
+  "name": {
+   "en": "Giant Bat - NOT USED"
+  }
+ },
+ "236662": {
+  "name": {
+   "en": "Sporeglider",
+   "de": "Sporengleiter",
+   "fr": "Glissespore"
+  }
+ },
+ "236663": {
+  "name": {
+   "en": "Snapdragon",
+   "de": "Schnappdrache",
+   "fr": "Mordragon"
+  }
+ },
+ "236664": {
+  "name": {
+   "en": "Swamp Worm",
+   "de": "Sumpfwurm",
+   "fr": "Ver des marais"
+  }
+ },
+ "236668": {
+  "name": {
+   "en": "Boggorm",
+   "de": "Sumpfgorm",
+   "fr": "Lombarais"
+  }
+ },
+ "236708": {
+  "name": {
+   "en": "Mukleech",
+   "de": "Mieswurm",
+   "fr": "Bourbansue"
+  }
+ },
+ "236709": {
+  "name": {
+   "en": "Swamp Leech",
+   "de": "Sumpfegel",
+   "fr": "Sangsue des marais"
+  }
+ },
+ "236725": {
+  "name": {
+   "en": "Void Stalker",
+   "de": "Leerenpirscher",
+   "fr": "Traqueur du Vide"
+  }
+ },
+ "236744": {
+  "name": {
+   "en": "Ravager",
+   "de": "Verheerer",
+   "fr": "Ravageur"
+  }
+ },
+ "236751": {
+  "name": {
+   "en": "Stormray",
+   "de": "Sturmrochen",
+   "fr": "Raie-tempête"
+  }
+ },
+ "236759": {
+  "name": {
+   "en": "Klaxid",
+   "de": "Klaxid",
+   "fr": "Klaxide"
+  }
+ },
+ "236766": {
+  "name": {
+   "en": "Calmed Necroray",
+   "de": "Beruhigter Nekrorochen",
+   "fr": "Nécroraie calmée"
+  }
+ },
+ "236768": {
+  "name": {
+   "en": "Consumptor",
+   "de": "Vertilger",
+   "fr": "Gavodon"
+  }
+ },
+ "236781": {
+  "name": {
+   "en": "Blistercreep",
+   "de": "Blasenkriecher",
+   "fr": "Ectocloque"
+  }
+ },
+ "236788": {
+  "name": {
+   "en": "Trigore",
+   "de": "Trigore",
+   "fr": "Trigore"
+  }
+ },
+ "236842": {
+  "name": {
+   "en": "Mana Ray",
+   "de": "Manarochen",
+   "fr": "Raie de mana"
+  }
+ },
+ "236848": {
+  "name": {
+   "en": "Curious Necroray",
+   "de": "Neugieriger Nekrorochen",
+   "fr": "Nécroraie curieuse"
+  }
+ },
+ "236919": {
+  "name": {
+   "en": "Nascent Larva",
+   "de": "Heranreifende Larve",
+   "fr": "Larve naissante"
+  }
+ },
+ "236993": {
+  "name": {
+   "en": "Saptor",
+   "de": "Harzraptor",
+   "fr": "Cédraptor"
+  }
+ },
+ "237001": {
+  "name": {
+   "en": "Lightbloom Saptor",
+   "de": "Lichtblütenharzraptor",
+   "fr": "Cédraptor luméclat"
+  }
+ },
+ "237008": {
+  "name": {
+   "en": "Devilsaptor",
+   "de": "Teufelsharzraptor",
+   "fr": "Cédraptor diabolique"
+  }
+ },
+ "237021": {
+  "name": {
+   "en": "Chloroceros",
+   "de": "Chlorozeros",
+   "fr": "Chlorocéros"
+  }
+ },
+ "237048": {
+  "name": {
+   "en": "Potatoad",
+   "de": "Krötoffel",
+   "fr": "Terratracien"
+  }
+ },
+ "237081": {
+  "name": {
+   "en": "Underroot Beetle",
+   "de": "Unterwurzelkäfer",
+   "fr": "Hanneton scaracine"
+  }
+ },
+ "237083": {
+  "name": {
+   "en": "Skipper",
+   "de": "Springer",
+   "fr": "Cavaleur"
+  }
+ },
+ "237093": {
+  "name": {
+   "en": "Grovecrawler",
+   "de": "Hainkrabbler",
+   "fr": "Rampant des bosquets"
+  }
+ },
+ "237113": {
+  "name": {
+   "en": "Plant Hydra",
+   "de": "Pflanzenhydra",
+   "fr": "Hydre végétale"
+  }
+ },
+ "237127": {
+  "name": {
+   "en": "Water Strider",
+   "de": "Wasserschreiter",
+   "fr": "Trotteur aquatique"
+  }
+ },
+ "237133": {
+  "name": {
+   "en": "Fungal Stalker",
+   "de": "Pilzpirscher",
+   "fr": "Traqueur fongique"
+  }
+ },
+ "237185": {
+  "name": {
+   "en": "Rock Sporebat",
+   "de": "Felsensporensegler",
+   "fr": "Sporoptère de roche"
+  }
+ },
+ "237186": {
+  "name": {
+   "en": "Rock Snail",
+   "de": "Felsschnecke",
+   "fr": "Escargot de roche"
+  }
+ },
+ "237201": {
+  "name": {
+   "en": "Agitated Thorntalon",
+   "de": "Aufgebrachte Dornenkralle",
+   "fr": "Serre-épine agité"
+  }
+ },
+ "237204": {
+  "name": {
+   "en": "Surly Potatoad",
+   "de": "Mürrische Krötoffel",
+   "fr": "Terratracien maussade"
+  }
+ },
+ "237207": {
+  "name": {
+   "en": "K'aresh Flyer",
+   "de": "Flieger von K'aresh",
+   "fr": "Voltigeur k'areshi"
+  }
+ },
+ "237237": {
+  "name": {
+   "en": "Cragshell Snail",
+   "de": "Felshausschnecke",
+   "fr": "Escargot rocailleux"
+  }
+ },
+ "237265": {
+  "name": {
+   "en": "Ravenous Stomper",
+   "de": "Gefräßiger Stampfer",
+   "fr": "Ecrabouilleur vorace"
+  }
+ },
+ "237399": {
+  "name": {
+   "en": "Erratic Light Wyrm",
+   "de": "Unberechenbarer Lichtwyrm",
+   "fr": "Wyrm lumineux erratique"
+  }
+ },
+ "237400": {
+  "name": {
+   "en": "Displaced Lynx",
+   "de": "Vertriebener Luchs",
+   "fr": "Lynx déplacé"
+  }
+ },
+ "237407": {
+  "name": {
+   "en": "Displaced Hawkstrider",
+   "de": "Vertriebener Falkenschreiter",
+   "fr": "Faucon-pérégrin déplacé"
+  }
+ },
+ "237500": {
+  "name": {
+   "en": "Invasive Shinesipper",
+   "de": "Invasiver Scheinschlucker",
+   "fr": "Sirote-éclat invasif"
+  }
+ },
+ "237501": {
+  "name": {
+   "en": "Lightbloom Chloroceros",
+   "de": "Lichtblütenchlorozeros",
+   "fr": "Chlorocéros luméclat"
+  }
+ },
+ "237505": {
+  "name": {
+   "en": "Overzealous Lightcrawler",
+   "de": "Übereifriger Lichtkrabbler",
+   "fr": "Rampe-lumière frénétique"
+  }
+ },
+ "237583": {
+  "name": {
+   "en": "Gurgling Skipper",
+   "de": "Gurgelnder Springer",
+   "fr": "Cavaleur gargouillant"
+  }
+ },
+ "237632": {
+  "name": {
+   "en": "Lightfrenzy Tanglesnap",
+   "de": "Lichtwütiger Wirrbeißer",
+   "fr": "Trancheliane frénéclat"
+  }
+ },
+ "237633": {
+  "name": {
+   "en": "Lightfrenzy Devourer",
+   "de": "Lichtwütiger Verschlinger",
+   "fr": "Dévoreur frénéclat"
+  }
+ },
+ "237635": {
+  "name": {
+   "en": "Lightfrenzy Tyrannosaptor",
+   "de": "Lichtwütiger Tyrannoharzraptor",
+   "fr": "Tyrannocédraptor frénéclat"
+  }
+ },
+ "237704": {
+  "name": {
+   "en": "Cleftling Sporeglider",
+   "de": "Sporengleiterkluftling",
+   "fr": "Glissespore fissurant"
+  }
+ },
+ "237709": {
+  "name": {
+   "en": "Pilfering Petalwing",
+   "de": "Diebische Blütenblattschwinge",
+   "fr": "Folibri voleur"
+  }
+ },
+ "237711": {
+  "name": {
+   "en": "Petalchomper",
+   "de": "Blütenblattmampfer",
+   "fr": "Croque-pétale"
+  }
+ },
+ "237750": {
+  "name": {
+   "en": "Ramon'ta the Insatiable",
+   "de": "Ramon'ta der Unersättliche",
+   "fr": "Ramon'ta l'Insatiable"
+  }
+ },
+ "237755": {
+  "name": {
+   "en": "Void Slayer",
+   "de": "Leerenschlächter",
+   "fr": "Tueur du Vide"
+  }
+ },
+ "237825": {
+  "name": {
+   "en": "Tamed Potatoad",
+   "de": "Gezähmte Krötoffel",
+   "fr": "Terratracien apprivoisé"
+  }
+ },
+ "237840": {
+  "name": {
+   "en": "Nether Ray",
+   "de": "Netherrochen",
+   "fr": "Raie du Néant"
+  }
+ },
+ "237958": {
+  "name": {
+   "en": "Shrine Pango",
+   "de": "Schreinschuppentier",
+   "fr": "Pango du sanctuaire"
+  }
+ },
+ "237959": {
+  "name": {
+   "en": "Pangopup",
+   "de": "Schuppenjunges",
+   "fr": "Jeune pangolin"
+  }
+ },
+ "237960": {
+  "name": {
+   "en": "Pango Matriarch",
+   "de": "Schuppentiermatriarchin",
+   "fr": "Matriarche pango"
+  }
+ },
+ "238032": {
+  "name": {
+   "en": "Void-Gorged Hydra",
+   "de": "Leerengesättigte Hydra",
+   "fr": "Hydre gorgée de Vide"
+  }
+ },
+ "238087": {
+  "name": {
+   "en": "Agitated Wyrm",
+   "de": "Aufgebrachter Wyrm",
+   "fr": "Wyrm agité"
+  }
+ },
+ "238089": {
+  "name": {
+   "en": "Territorial Dragonhawk",
+   "de": "Territorialer Drachenfalke",
+   "fr": "Faucon-dragon territorial"
+  }
+ },
+ "238162": {
+  "name": {
+   "en": "Trench Shredclaw",
+   "de": "Grabenschredderklaue",
+   "fr": "Griffentaille des tranchées"
+  }
+ },
+ "238357": {
+  "name": {
+   "en": "Cozy Hyena",
+   "de": "Gemütliche Hyäne",
+   "fr": "Hyène à l'aise"
+  }
+ },
+ "238369": {
+  "name": {
+   "en": "Whipwind Shredclaw",
+   "de": "Windpeitschenschredderklaue",
+   "fr": "Griffentaille fouette-vent"
+  }
+ },
+ "238478": {
+  "name": {
+   "en": "Untethered Jawhead",
+   "de": "Freigelassener Kieferkopf",
+   "fr": "Gueule-étau détachée"
+  }
+ },
+ "238488": {
+  "name": {
+   "en": "Seething Shredclaw",
+   "de": "Wutentbrannte Schredderklaue",
+   "fr": "Griffentaille enragée"
+  }
+ },
+ "238492": {
+  "name": {
+   "en": "Gale Stormray",
+   "de": "Orkanrochen",
+   "fr": "Raie-tempête des trombes"
+  }
+ },
+ "238547": {
+  "name": {
+   "en": "Enraged K'arroc Shade",
+   "de": "Zorniger Schatten von K'arroc",
+   "fr": "Ombre de k'arroc enragée"
+  }
+ },
+ "238570": {
+  "name": {
+   "en": "[DNT] Bird - Needs Better Name"
+  }
+ },
+ "238607": {
+  "name": {
+   "en": "Junkyard Hyena",
+   "de": "Schrottplatzhyäne",
+   "fr": "Hyène de la casse"
+  }
+ },
+ "238608": {
+  "name": {
+   "en": "Trained Scrounger",
+   "de": "Ausgebildeter Schmarotzer",
+   "fr": "Récupératrice dressée"
+  }
+ },
+ "238609": {
+  "name": {
+   "en": "Salty Snarler",
+   "de": "Seetüchtiger Knurrer",
+   "fr": "Grogneuse salée"
+  }
+ },
+ "238610": {
+  "name": {
+   "en": "Armored Growler",
+   "de": "Gepanzerter Knurrer",
+   "fr": "Grondeuse cuirassée"
+  }
+ },
+ "238611": {
+  "name": {
+   "en": "Off-Duty Sniffer",
+   "de": "Schnüffler außer Dienst",
+   "fr": "Renifleuse au repos"
+  }
+ },
+ "238625": {
+  "name": {
+   "en": "Escaped Bombshell",
+   "de": "Entkommene Bombenhülse",
+   "fr": "Crabombe en fuite"
+  }
+ },
+ "238739": {
+  "name": {
+   "en": "Squatter",
+   "de": "Hausbesetzer",
+   "fr": "Squatteuse"
+  }
+ },
+ "239207": {
+  "name": {
+   "en": "Crusty Litterpicker",
+   "de": "Krustiger Müllsammler",
+   "fr": "Fouille-fond encroûté"
+  }
+ },
+ "239210": {
+  "name": {
+   "en": "Fluorescent Trashpicker",
+   "de": "Fluoreszierender Müllaufleser",
+   "fr": "Ramasse-déchets fluorescent"
+  }
+ },
+ "239229": {
+  "name": {
+   "en": "Rusty Trashnester",
+   "de": "Rostiger Schrottnister",
+   "fr": "Nichordure rouillé"
+  }
+ },
+ "239324": {
+  "name": {
+   "en": "Escaped Subject",
+   "de": "Entkommenes Versuchsobjekt",
+   "fr": "Spécimen échappé"
+  }
+ },
+ "239325": {
+  "name": {
+   "en": "Radioactive Subject",
+   "de": "Radioaktives Versuchsobjekt",
+   "fr": "Spécimen radioactif"
+  }
+ },
+ "239427": {
+  "name": {
+   "en": "Vengeful Shredclaw",
+   "de": "Rachsüchtige Schredderklaue",
+   "fr": "Griffentaille vengeuse"
+  }
+ },
+ "239461": {
+  "name": {
+   "en": "Heinous Klaxid",
+   "de": "Abscheulicher Klaxid",
+   "fr": "Klaxide abominable"
+  }
+ },
+ "239528": {
+  "name": {
+   "en": "Lightbloom Thornmaw",
+   "de": "Lichtblütendornenmaul",
+   "fr": "Gueulépine luméclat"
+  }
+ },
+ "239532": {
+  "name": {
+   "en": "Thornmaw",
+   "de": "Dornenmaul",
+   "fr": "Gueulépine"
+  }
+ },
+ "239546": {
+  "name": {
+   "en": "Lightbloom Plant Hydra",
+   "de": "Lichtblütenpflanzenhydra",
+   "fr": "Hydre végétale luméclat"
+  }
+ },
+ "239832": {
+  "name": {
+   "en": "Enraged Thorntail Shade",
+   "de": "Zorniger Dornschweifschatten",
+   "fr": "Ombre de caudépine enragée"
+  }
+ },
+ "239878": {
+  "name": {
+   "en": "Weary Matriarch",
+   "de": "Erschöpfte Matriarchin",
+   "fr": "Matriarche lasse"
+  }
+ },
+ "239879": {
+  "name": {
+   "en": "Riled-Up Ruffian",
+   "de": "Verärgerter Grobian",
+   "fr": "Canaille en colère"
+  }
+ },
+ "239880": {
+  "name": {
+   "en": "Curious Kitten",
+   "de": "Neugieriges Kätzchen",
+   "fr": "Chaton curieux"
+  }
+ },
+ "240070": {
+  "name": {
+   "en": "Docile Flamingo",
+   "de": "Handzahmer Flamingo",
+   "fr": "Flamant rose docile"
+  }
+ },
+ "240495": {
+  "name": {
+   "en": "Swarming Shinemaw",
+   "de": "Schwärmendes Leuchtmaul",
+   "fr": "Gueuléclat grouillant"
+  }
+ },
+ "240511": {
+  "name": {
+   "en": "Twilight Ray",
+   "de": "Zwielichtrochen",
+   "fr": "Raie du Crépuscule"
+  }
+ },
+ "240544": {
+  "name": {
+   "en": "Vicious Ray",
+   "de": "Heimtückischer Rochen",
+   "fr": "Raie vicieuse"
+  }
+ },
+ "240577": {
+  "name": {
+   "en": "Lightfrenzy Shinesipper",
+   "de": "Lichtwütiger Scheinschlucker",
+   "fr": "Sirote-éclat lumenragé"
+  }
+ },
+ "240618": {
+  "name": {
+   "en": "Giant Eagle, Undead",
+   "de": "Riesenadler, untot",
+   "fr": "Aigle géant, mort-vivant"
+  }
+ },
+ "240622": {
+  "name": {
+   "en": "Vilebranch Eagle",
+   "de": "Adler der Blutfratzen",
+   "fr": "Aigle vilebranche"
+  }
+ },
+ "240676": {
+  "name": {
+   "en": "Cautious Turtle",
+   "de": "Vorsichtige Schildkröte",
+   "fr": "Tortue prudente"
+  }
+ },
+ "240737": {
+  "name": {
+   "en": "Trench Stalker",
+   "de": "Grabenpirscher",
+   "fr": "Traqueur de tranchée"
+  }
+ },
+ "240764": {
+  "name": {
+   "en": "Thorntail",
+   "de": "Dornschweif",
+   "fr": "Caudépine"
+  }
+ },
+ "240996": {
+  "name": {
+   "en": "Hydra",
+   "de": "Hydra",
+   "fr": "Hydre"
+  }
+ },
+ "241354": {
+  "name": {
+   "en": "Void-Infused Brightscale",
+   "de": "Leerenerfüllte Hellschuppe",
+   "fr": "Brillécaille imprégné de Vide"
+  }
+ },
+ "241360": {
+  "name": {
+   "en": "Dustback Burrower",
+   "de": "Staubrückenwühler",
+   "fr": "Fouisseur saléchine"
+  }
+ },
+ "241363": {
+  "name": {
+   "en": "Siltwing Hunter",
+   "de": "Schlickflügeljäger",
+   "fr": "Chasseur bourbeux"
+  }
+ },
+ "241374": {
+  "name": {
+   "en": "Scintillant Wyrm",
+   "de": "Funkelnder Wyrm",
+   "fr": "Wyrm de brillance"
+  }
+ },
+ "241420": {
+  "name": {
+   "en": "Curious Ruffian",
+   "de": "Neugieriger Grobian",
+   "fr": "Canaille curieuse"
+  }
+ },
+ "241426": {
+  "name": {
+   "en": "Harried Eagle",
+   "de": "Gehetzter Adler",
+   "fr": "Aigle exténué"
+  }
+ },
+ "241442": {
+  "name": {
+   "en": "Endangered Lynx",
+   "de": "Bedrohter Luchs",
+   "fr": "Lynx menacé"
+  }
+ },
+ "241465": {
+  "name": {
+   "en": "Swarming Shinesipper",
+   "de": "Schwärmender Scheinschlucker",
+   "fr": "Sirote-éclat grouillant"
+  }
+ },
+ "241466": {
+  "name": {
+   "en": "Swarming Lightsaptor",
+   "de": "Schwärmender Lichtharzraptor",
+   "fr": "Lumicédraptor grouillant"
+  }
+ },
+ "241512": {
+  "name": {
+   "en": "Watchful Guardian",
+   "de": "Beobachtender Wächter",
+   "fr": "Gardien vigilant"
+  }
+ },
+ "241513": {
+  "name": {
+   "en": "Young Saptor",
+   "de": "Junger Harzraptor",
+   "fr": "Jeune cédraptor"
+  }
+ },
+ "241570": {
+  "name": {
+   "en": "Vicious Consumptor",
+   "de": "Grausamer Vertilger",
+   "fr": "Gavodon perfide"
+  }
+ },
+ "241582": {
+  "name": {
+   "en": "Blooming Shinesipper",
+   "de": "Blühender Scheinschlucker",
+   "fr": "Sirote-éclat florissant"
+  }
+ },
+ "241761": {
+  "name": {
+   "en": "Lightbloom Grovecrawler",
+   "de": "Lichtblütenhainkrabbler",
+   "fr": "Rampant des bosquets luméclat"
+  }
+ },
+ "242024": {
+  "name": {
+   "en": "The Snapping Scourge",
+   "de": "Die Schnappgeißel",
+   "fr": "Le fléau carnassier"
+  }
+ },
+ "242028": {
+  "name": {
+   "en": "Lightwood Borer",
+   "de": "Lichtholzbohrer",
+   "fr": "Fouisseur de bois clair"
+  }
+ },
+ "242032": {
+  "name": {
+   "en": "Oophaga",
+   "de": "Oophaga",
+   "fr": "Oophaga"
+  }
+ },
+ "242034": {
+  "name": {
+   "en": "Voidtouched Crustacean",
+   "de": "Leerenberührtes Krustentier",
+   "fr": "Crustacé touché par le Vide"
+  }
+ },
+ "242035": {
+  "name": {
+   "en": "The Devouring Invader",
+   "de": "Der verschlingende Invasor",
+   "fr": "L'envahisseuse dévorante"
+  }
+ },
+ "242055": {
+  "name": {
+   "en": "Blinding Thornmaw",
+   "de": "Blendendes Dornenmaul",
+   "fr": "Gueulépine aveuglant"
+  }
+ },
+ "242057": {
+  "name": {
+   "en": "Glimmering Thornmaw",
+   "de": "Schimmerndes Dornenmaul",
+   "fr": "Gueulépine luisant"
+  }
+ },
+ "242165": {
+  "name": {
+   "en": "Tearful Boar",
+   "de": "Weinender Eber",
+   "fr": "Sanglier larmoyant"
+  }
+ },
+ "242166": {
+  "name": {
+   "en": "Weeping Swine",
+   "de": "Schluchzendes Schwein",
+   "fr": "Pourceau éploré"
+  }
+ },
+ "242167": {
+  "name": {
+   "en": "Moody Mammoth",
+   "de": "Mürrisches Mammut",
+   "fr": "Mammouth morose"
+  }
+ },
+ "242168": {
+  "name": {
+   "en": "Jubilant Calf",
+   "de": "Frohlockendes Kalb",
+   "fr": "Jeune en liesse"
+  }
+ },
+ "242189": {
+  "name": {
+   "en": "Melancholy Eagle",
+   "de": "Melancholischer Adler",
+   "fr": "Aigle mélancolique"
+  }
+ },
+ "242226": {
+  "name": {
+   "en": "Underbrush Prowler",
+   "de": "Unterholzschleicher",
+   "fr": "Rôdeur des broussailles"
+  }
+ },
+ "242227": {
+  "name": {
+   "en": "Nightshade Flutterer",
+   "de": "Nachtschattenflatterer",
+   "fr": "Virevolteuse de belladone"
+  }
+ },
+ "242247": {
+  "name": {
+   "en": "Scrapdrift Burrower",
+   "de": "Treibschrottgräber",
+   "fr": "Fouisseur des dunes des Rebuts"
+  }
+ },
+ "242260": {
+  "name": {
+   "en": "Toxic Ridgeworm",
+   "de": "Toxischer Kammwurm",
+   "fr": "Ver de crête toxique"
+  }
+ },
+ "242351": {
+  "name": {
+   "en": "Void-Altered Ray",
+   "de": "Leerenveränderter Rochen",
+   "fr": "Raie altérée par le Vide"
+  }
+ },
+ "242352": {
+  "name": {
+   "en": "Void-Altered Stinger",
+   "de": "Leerenveränderter Stachel",
+   "fr": "Dardeuse altérée par le Vide"
+  }
+ },
+ "242397": {
+  "name": {
+   "en": "Hidegorger the Everburning",
+   "de": "Balgfresser der Ewigbrennende",
+   "fr": "Goulurion le Semperardent"
+  }
+ },
+ "242401": {
+  "name": {
+   "en": "Saltleaf Snouter",
+   "de": "Salzblattschnauze",
+   "fr": "Groink feuille-de-sel"
+  }
+ },
+ "242402": {
+  "name": {
+   "en": "Saltleaf Boar",
+   "de": "Salzblatteber",
+   "fr": "Sanglier feuille-de-sel"
+  }
+ },
+ "242403": {
+  "name": {
+   "en": "Cascades Fenhunter",
+   "de": "Marschjäger der Kaskaden",
+   "fr": "Chasse-fagne des cascades"
+  }
+ },
+ "242440": {
+  "name": {
+   "en": "Dragonhawk Mistswooper",
+   "de": "Drachenfalkennebelsturzflieger",
+   "fr": "Faucon-dragon pique-brume"
+  }
+ },
+ "242520": {
+  "name": {
+   "en": "Encroaching Mana Wyrm",
+   "de": "Eindringender Manawyrm",
+   "fr": "Wyrm de mana envahissant"
+  }
+ },
+ "242553": {
+  "name": {
+   "en": "Cautious Netherwasp",
+   "de": "Vorsichtige Netherwespe",
+   "fr": "Guêpe du Néant prudente"
+  }
+ },
+ "242603": {
+  "name": {
+   "en": "Encroaching Forest Lynx",
+   "de": "Eindringender Waldluchs",
+   "fr": "Lynx des forêts envahissant"
+  }
+ },
+ "242749": {
+  "name": {
+   "en": "Dreadmaw Consumptor",
+   "de": "Schreckensrachenvertilger",
+   "fr": "Gavodon gueule-d'effroi"
+  }
+ },
+ "242750": {
+  "name": {
+   "en": "Marrowmouth Consumptor",
+   "de": "Markmaulvertilger",
+   "fr": "Gavodon gueule-de-moelle"
+  }
+ },
+ "242755": {
+  "name": {
+   "en": "Enspored Potatoad",
+   "de": "Versporte Krötoffel",
+   "fr": "Terratracien sporé"
+  }
+ },
+ "242773": {
+  "name": {
+   "en": "Agitated Rootbat",
+   "de": "Aufgebrachte Wurzelfledermaus",
+   "fr": "Rhizoptère agitée"
+  }
+ },
+ "242781": {
+  "name": {
+   "en": "Bakar",
+   "de": "Bakar",
+   "fr": "Bakar"
+  }
+ },
+ "242944": {
+  "name": {
+   "en": "Crazed Petalwing",
+   "de": "Wahnsinnige Blütenblattschwinge",
+   "fr": "Folibri affolé"
+  }
+ },
+ "242945": {
+  "name": {
+   "en": "Coasting Petalwing",
+   "de": "Gleitende Blütenblattschwinge",
+   "fr": "Folibri flâneur"
+  }
+ },
+ "243133": {
+  "name": {
+   "en": "Runaway Hawkstrider",
+   "de": "Entlaufener Falkenschreiter",
+   "fr": "Faucon-pérégrin en fuite"
+  }
+ },
+ "243171": {
+  "name": {
+   "en": "Gloombelly Toad",
+   "de": "Düsterbauchkröte",
+   "fr": "Crapaud ventre-sombre"
+  }
+ },
+ "243397": {
+  "name": {
+   "en": "Fluttering Dragonhawk",
+   "de": "Flatternder Drachenfalke",
+   "fr": "Faucon-dragon voltigeur"
+  }
+ },
+ "243411": {
+  "name": {
+   "en": "Void-Yoked Shredclaw",
+   "de": "Leerenunterjochte Schredderklaue",
+   "fr": "Griffentaille soumise au Vide"
+  }
+ },
+ "243532": {
+  "name": {
+   "en": "Grazing Boar",
+   "de": "Grasender Eber",
+   "fr": "Sanglier broutant"
+  }
+ },
+ "243631": {
+  "name": {
+   "en": "Agitated Boar",
+   "de": "Aufgebrachter Eber",
+   "fr": "Sanglier agité"
+  }
+ },
+ "243770": {
+  "name": {
+   "en": "Blossom-Bound Fledgling",
+   "de": "Blütengebundenes Junges",
+   "fr": "Jeune florelige"
+  }
+ },
+ "243775": {
+  "name": {
+   "en": "Blossom-Bound Thiever",
+   "de": "Blütengebundener Stehler",
+   "fr": "Voleur florelige"
+  }
+ },
+ "243777": {
+  "name": {
+   "en": "[DNT] Devilsaptor"
+  }
+ },
+ "243778": {
+  "name": {
+   "en": "Torbrul",
+   "de": "Torbrul",
+   "fr": "Torbrul"
+  }
+ },
+ "243780": {
+  "name": {
+   "en": "Opportunistic Sporeglider",
+   "de": "Opportunistischer Sporengleiter",
+   "fr": "Glissespore opportuniste"
+  }
+ },
+ "243832": {
+  "name": {
+   "en": "Cowed Hawkstrider",
+   "de": "Eingeschüchterter Falkenschreiter",
+   "fr": "Faucon-pérégrin intimidé"
+  }
+ },
+ "243864": {
+  "name": {
+   "en": "Voidfang",
+   "de": "Leerenzahn",
+   "fr": "Croc-du-Vide"
+  }
+ },
+ "243941": {
+  "name": {
+   "en": "Stemsnap",
+   "de": "Stielschnapp",
+   "fr": "Brise-tige"
+  }
+ },
+ "244029": {
+  "name": {
+   "en": "Bloodtrained Lynx",
+   "de": "Blutabgerichteter Luchs",
+   "fr": "Lynx dressé au sang"
+  }
+ },
+ "244048": {
+  "name": {
+   "en": "Trained Snapdragon",
+   "de": "Abgerichteter Schnappdrache",
+   "fr": "Mordragon dressé"
+  }
+ },
+ "244239": {
+  "name": {
+   "en": "Frightened Hauler",
+   "de": "Verängstigter Schlepper",
+   "fr": "Haleur effrayé"
+  }
+ },
+ "244325": {
+  "name": {
+   "en": "Toxic Potatotoad",
+   "de": "Toxische Krötoffel",
+   "fr": "Terramphibien toxique"
+  }
+ },
+ "244326": {
+  "name": {
+   "en": "Toxic Potatotoadling",
+   "de": "Toxisches Krötoffelchen",
+   "fr": "Jeune terramphibien toxique"
+  }
+ },
+ "244338": {
+  "name": {
+   "en": "Wetland Terror",
+   "de": "Sumpflandschrecken",
+   "fr": "Terreur des Paluns"
+  }
+ },
+ "244349": {
+  "name": {
+   "en": "Potatotoad Brute",
+   "de": "Krötoffelgrobian",
+   "fr": "Brute terramphibienne"
+  }
+ },
+ "244363": {
+  "name": {
+   "en": "Poisonous Firefly",
+   "de": "Giftiges Glühwürmchen",
+   "fr": "Luciole venimeuse"
+  }
+ },
+ "244371": {
+  "name": {
+   "en": "Ahl'ua Chloroceros",
+   "de": "Chlorozeros von Ahl'ua",
+   "fr": "Chlorocéros d'Ahl'ua"
+  }
+ },
+ "244376": {
+  "name": {
+   "en": "Ahl'ua Bull",
+   "de": "Bulle von Ahl'ua",
+   "fr": "Mâle d'Ahl'ua"
+  }
+ },
+ "244617": {
+  "name": {
+   "en": "Shredclaw Packhunter",
+   "de": "Schredderklauenrudeljäger",
+   "fr": "Chasseur de meute griffentaille"
+  }
+ },
+ "244618": {
+  "name": {
+   "en": "Hunting Netherwasp",
+   "de": "Jagende Netherwespe",
+   "fr": "Guêpe du Néant en chasse"
+  }
+ },
+ "244650": {
+  "name": {
+   "en": "Rotting Vilefeaster",
+   "de": "Modernder Übelschmauser",
+   "fr": "Festoyeur abject en décomposition"
+  }
+ },
+ "244763": {
+  "name": {
+   "en": "Blush Pinebeak",
+   "de": "Rötlicher Kiefernschnabel",
+   "fr": "Bec-des-pins rougissant"
+  }
+ },
+ "244873": {
+  "name": {
+   "en": "Tamed Amani Crocolisk",
+   "de": "Gezähmter Krokilisk der Amani",
+   "fr": "Crocilisque amani apprivoisé"
+  }
+ },
+ "244874": {
+  "name": {
+   "en": "Amani Crocolisk",
+   "de": "Krokilisk der Amani",
+   "fr": "Crocilisque amani"
+  }
+ },
+ "244918": {
+  "name": {
+   "en": "Supply Strider",
+   "de": "Versorgungsschreiter",
+   "fr": "Trotteur de ravitaillement"
+  }
+ },
+ "244945": {
+  "name": {
+   "en": "Rampant Shredclaw",
+   "de": "Tobende Schredderklaue",
+   "fr": "Griffentaille galopante"
+  }
+ },
+ "244946": {
+  "name": {
+   "en": "Marauding Trigore",
+   "de": "Räuberischer Trigore",
+   "fr": "Trigore en maraude"
+  }
+ },
+ "244967": {
+  "name": {
+   "en": "Crawling Blistercreep",
+   "de": "Krabbelnder Blasenkriecher",
+   "fr": "Ectocloque grouillant"
+  }
+ },
+ "244968": {
+  "name": {
+   "en": "Nether Broodling",
+   "de": "Netherbrutling",
+   "fr": "Rejeton du Néant"
+  }
+ },
+ "245041": {
+  "name": {
+   "en": "Netherflit",
+   "de": "Netherflitzer",
+   "fr": "Virevolte du Néant"
+  }
+ },
+ "245044": {
+  "name": {
+   "en": "Nightbrood",
+   "de": "Nachtbrut",
+   "fr": "Couvée nocturne"
+  }
+ },
+ "245116": {
+  "name": {
+   "en": "Tranquil Sporeglider",
+   "de": "Ruhiger Sporengleiter",
+   "fr": "Glissespore tranquille"
+  }
+ },
+ "245326": {
+  "name": {
+   "en": "Panicked Lynx",
+   "de": "Panischer Luchs",
+   "fr": "Lynx paniqué"
+  }
+ },
+ "245427": {
+  "name": {
+   "en": "Plains Rockfang",
+   "de": "Ebenenfelszahn",
+   "fr": "Rochecroc des plaines"
+  }
+ },
+ "245429": {
+  "name": {
+   "en": "Umbra Panthera",
+   "de": "Umbralpanther",
+   "fr": "Panthère ombrale"
+  }
+ },
+ "245619": {
+  "name": {
+   "en": "Watchful Nestguard",
+   "de": "Wachsame Nestwache",
+   "fr": "Garde de nid attentif"
+  }
+ },
+ "245659": {
+  "name": {
+   "en": "Lattice Crawler",
+   "de": "Geflechtkrabbler",
+   "fr": "Rampant des treilles"
+  }
+ },
+ "245690": {
+  "name": {
+   "en": "Lumenfin",
+   "de": "Lumenflosse",
+   "fr": "Lumaileron"
+  }
+ },
+ "245778": {
+  "name": {
+   "en": "Calmed Wagonlin",
+   "de": "Beruhigtes Wagentier",
+   "fr": "Pangolin de transport apaisé"
+  }
+ },
+ "245947": {
+  "name": {
+   "en": "Just a Testing Guy [DNT]"
+  }
+ },
+ "245957": {
+  "name": {
+   "en": "Underrift Beetle",
+   "de": "Unterrisskäfer",
+   "fr": "Hanneton des profondeurs de la faille"
+  }
+ },
+ "245997": {
+  "name": {
+   "en": "Malek'ta",
+   "de": "Malek'ta",
+   "fr": "Malek'ta"
+  }
+ },
+ "246051": {
+  "name": {
+   "en": "Alloyed Voidcrawler",
+   "de": "Legierter Leerenkriecher",
+   "fr": "Rampant du Vide en alliage"
+  }
+ },
+ "246060": {
+  "name": {
+   "en": "Stormray Remora",
+   "de": "Sturmrochenschiffshalter",
+   "fr": "Rémora de raie-tempête"
+  }
+ },
+ "246074": {
+  "name": {
+   "en": "Voidtouched Hatchling",
+   "de": "Leerenberührter Schlüpfling",
+   "fr": "Jeune touché par le Vide"
+  }
+ },
+ "246103": {
+  "name": {
+   "en": "Cascades Shimmerbug",
+   "de": "Kaskadenschimmerinsekt",
+   "fr": "Luisoptère des cascades"
+  }
+ },
+ "246106": {
+  "name": {
+   "en": "Majestic Sporeglider",
+   "de": "Majestätischer Sporengleiter",
+   "fr": "Glissespore majestueux"
+  }
+ },
+ "246162": {
+  "name": {
+   "en": "Foraging Sporeglider",
+   "de": "Stöbernder Sporengleiter",
+   "fr": "Glissespore fouineur"
+  }
+ },
+ "246168": {
+  "name": {
+   "en": "Ravenous Saptor",
+   "de": "Gefräßiger Harzraptor",
+   "fr": "Cédraptor vorace"
+  }
+ },
+ "246365": {
+  "name": {
+   "en": "Encroaching Lynx",
+   "de": "Eindringender Luchs",
+   "fr": "Lynx envahissant"
+  }
+ },
+ "246459": {
+  "name": {
+   "en": "Fortamus",
+   "de": "Fortamus",
+   "fr": "Fortamus"
+  }
+ },
+ "246574": {
+  "name": {
+   "en": "Sungrub",
+   "de": "Sonnenlarve",
+   "fr": "Larve de soleil"
+  }
+ },
+ "246580": {
+  "name": {
+   "en": "Invasive Lynx",
+   "de": "Invasiver Luchs",
+   "fr": "Lynx envahissant"
+  }
+ },
+ "246622": {
+  "name": {
+   "en": "Trigore Denguard",
+   "de": "Trigorebauwächter",
+   "fr": "Protège-tanière trigore"
+  }
+ },
+ "246633": {
+  "name": {
+   "en": "Harried Hawkstrider",
+   "de": "Gehetzter Falkenschreiter",
+   "fr": "Faucon-pérégrin exténué"
+  }
+ },
+ "246640": {
+  "name": {
+   "en": "Netherhunter Infestor",
+   "de": "Netherjägerverseucher",
+   "fr": "Infestateur chasseur du Néant"
+  }
+ },
+ "246713": {
+  "name": {
+   "en": "Harmonious Petalwing",
+   "de": "Harmonische Blütenblattschwinge",
+   "fr": "Folibri harmonieux"
+  }
+ },
+ "246715": {
+  "name": {
+   "en": "Aggressive Potatoad",
+   "de": "Aggressive Krötoffel",
+   "fr": "Terratracien agressif"
+  }
+ },
+ "246787": {
+  "name": {
+   "en": "Decanimated Stalker",
+   "de": "Dekanimierter Pirscher",
+   "fr": "Traqueur décanimé"
+  }
+ },
+ "246808": {
+  "name": {
+   "en": "Decanimated Sporeglider",
+   "de": "Dekanimierter Sporengleiter",
+   "fr": "Glissespore décanimé"
+  }
+ },
+ "246895": {
+  "name": {
+   "en": "Runaway Supply Strider",
+   "de": "Entflohener Versorgungsschreiter",
+   "fr": "Trotteur de ravitaillement fugueur"
+  }
+ },
+ "246921": {
+  "name": {
+   "en": "Sleepy Strider",
+   "de": "Schläfriger Schreiter",
+   "fr": "Trotteur endormi"
+  }
+ },
+ "247011": {
+  "name": {
+   "en": "Horned Frog",
+   "de": "Hornfrosch",
+   "fr": "Grenouille cornue"
+  }
+ },
+ "247090": {
+  "name": {
+   "en": "Grumpy Chloroceros",
+   "de": "Mürrisches Chlorozeros",
+   "fr": "Chlorocéros grincheux"
+  }
+ },
+ "247111": {
+  "name": {
+   "en": "Scavenging Biledrinker",
+   "de": "Aasfressender Galleschlürfer",
+   "fr": "Charognard buveur de bile"
+  }
+ },
+ "247393": {
+  "name": {
+   "en": "Molted Mana Wyrm",
+   "de": "Häutender Manawyrm",
+   "fr": "Mue de wyrm de mana"
+  }
+ },
+ "247438": {
+  "name": {
+   "en": "Succulent Voidcrawler",
+   "de": "Saftiger Leerenkriecher",
+   "fr": "Rampant du Vide gourmand"
+  }
+ },
+ "247444": {
+  "name": {
+   "en": "Infused Klaxid",
+   "de": "Erfüllter Klaxid",
+   "fr": "Klaxide imprégné"
+  }
+ },
+ "247445": {
+  "name": {
+   "en": "Drifting Stormray",
+   "de": "Treibender Sturmrochen",
+   "fr": "Raie-tempête dérivante"
+  }
+ },
+ "247490": {
+  "name": {
+   "en": "Mature Consumptor",
+   "de": "Ausgewachsener Vertilger",
+   "fr": "Gavodon adulte"
+  }
+ },
+ "247504": {
+  "name": {
+   "en": "Wandering Mauler",
+   "de": "Umherstreifender Zerfleischer",
+   "fr": "Marteleur vagabond"
+  }
+ },
+ "247505": {
+  "name": {
+   "en": "Wandering Stalker",
+   "de": "Wanderpirscher",
+   "fr": "Traqueur vagabond"
+  }
+ },
+ "247553": {
+  "name": {
+   "en": "Daggerspine Snapdragon",
+   "de": "Schnappdrache der Säbelflossen",
+   "fr": "Mordragon daguéchine"
+  }
+ },
+ "247559": {
+  "name": {
+   "en": "Den-Gorger Zitoc",
+   "de": "Höhlenschlinger Zitoc",
+   "fr": "Goinfre de l'antre Zitoc"
+  }
+ },
+ "247563": {
+  "name": {
+   "en": "Wild Hawkstrider",
+   "de": "Wilder Falkenschreiter",
+   "fr": "Faucon-pérégrin sauvage"
+  }
+ },
+ "247565": {
+  "name": {
+   "en": "Drained Mana Wyrm",
+   "de": "Ausgelaugter Manawyrm",
+   "fr": "Wyrm de mana drainé"
+  }
+ },
+ "247569": {
+  "name": {
+   "en": "Captured Mana Wyrm",
+   "de": "Gefangener Manawyrm",
+   "fr": "Wyrm de mana capturé"
+  }
+ },
+ "247602": {
+  "name": {
+   "en": "Spirit of Lake Elrendar",
+   "de": "Geist des Elrendarsees",
+   "fr": "Esprit du lac Elrendar"
+  }
+ },
+ "247603": {
+  "name": {
+   "en": "Enclave Lurker",
+   "de": "Enklavenlauerer",
+   "fr": "Rôdeur de l'enclave"
+  }
+ },
+ "247630": {
+  "name": {
+   "en": "Watchful Striker",
+   "de": "Wachsamer Angreifer",
+   "fr": "Frappeur vigilant"
+  }
+ },
+ "247649": {
+  "name": {
+   "en": "Engorged Silk Wyrm",
+   "de": "Vollgefressener Seidenwyrm",
+   "fr": "Wyrm de soie congestionné"
+  }
+ },
+ "247752": {
+  "name": {
+   "en": "Farstrider Tracker",
+   "de": "Aufspürer der Weltenwanderer",
+   "fr": "Pisteur de pérégrin"
+  }
+ },
+ "247772": {
+  "name": {
+   "en": "Territorial Petalwing",
+   "de": "Territoriale Blütenblattschwinge",
+   "fr": "Folibri territorial"
+  }
+ },
+ "247783": {
+  "name": {
+   "en": "Charging Chloroceros",
+   "de": "Anstürmendes Chlorozeros",
+   "fr": "Chlorocéros chargeur"
+  }
+ },
+ "247807": {
+  "name": {
+   "en": "Prowling Griefshredder",
+   "de": "Schleichender Gramschredder",
+   "fr": "Taille-chagrin en maraude"
+  }
+ },
+ "248013": {
+  "name": {
+   "en": "Spiteful Consumptor",
+   "de": "Boshafter Vertilger",
+   "fr": "Gavodon malveillant"
+  }
+ },
+ "248016": {
+  "name": {
+   "en": "Grafted Shredder",
+   "de": "Okulierter Schredder",
+   "fr": "Déchiqueteur greffé"
+  }
+ },
+ "248025": {
+  "name": {
+   "en": "Kilivore Hunter",
+   "de": "Totfresserjäger",
+   "fr": "Chasseur mortivore"
+  }
+ },
+ "248038": {
+  "name": {
+   "en": "Ambush Consumptor",
+   "de": "Hinterhältiger Vertilger",
+   "fr": "Gavodon embusqué"
+  }
+ },
+ "248070": {
+  "name": {
+   "en": "Perturbed Petalwing",
+   "de": "Unruhige Blütenblattschwinge",
+   "fr": "Folibri perturbé"
+  }
+ },
+ "248127": {
+  "name": {
+   "en": "Peckish Beetle",
+   "de": "Hungriger Käfer",
+   "fr": "Hanneton affamé"
+  }
+ },
+ "248374": {
+  "name": {
+   "en": "Village Strongpaw",
+   "de": "Starkpranke des Dorfes",
+   "fr": "Patte-forte du village"
+  }
+ },
+ "248375": {
+  "name": {
+   "en": "Agitated Guardian",
+   "de": "Aufgebrachter Wächter",
+   "fr": "Gardien agité"
+  }
+ },
+ "248424": {
+  "name": {
+   "en": "Glimmering Stonesnail",
+   "de": "Glimmernde Steinschnecke",
+   "fr": "Galix rougeoyant"
+  }
+ },
+ "248425": {
+  "name": {
+   "en": "Territorial Sporebat",
+   "de": "Territorialer Sporensegler",
+   "fr": "Sporoptère territorial"
+  }
+ },
+ "248428": {
+  "name": {
+   "en": "Luminescent Cavefly",
+   "de": "Lumineszierende Höhlenfliege",
+   "fr": "Mouche des cavernes luminescente"
+  }
+ },
+ "248447": {
+  "name": {
+   "en": "Kilivore Drone",
+   "de": "Totfresserdrohne",
+   "fr": "Ouvrier mortivore"
+  }
+ },
+ "248448": {
+  "name": {
+   "en": "Territorial Consumptor",
+   "de": "Territorialer Vertilger",
+   "fr": "Gavodon territorial"
+  }
+ },
+ "248457": {
+  "name": {
+   "en": "Legendary Spirit",
+   "de": "Legendärer Geist",
+   "fr": "Esprit légendaire"
+  }
+ },
+ "248460": {
+  "name": {
+   "en": "Juvenile Crawler",
+   "de": "Junger Krabbler",
+   "fr": "Petit rampant"
+  }
+ },
+ "248470": {
+  "name": {
+   "en": "Stalking Thorntalon",
+   "de": "Pirschende Dornenkralle",
+   "fr": "Serre-épine traqueur"
+  }
+ },
+ "248471": {
+  "name": {
+   "en": "Petalscaled Potatoad",
+   "de": "Blütengeschuppte Krötoffel",
+   "fr": "Terratracien florécaille"
+  }
+ },
+ "248473": {
+  "name": {
+   "en": "Skittering Dencrawler",
+   "de": "Huschender Höhlenkrabbler",
+   "fr": "Rampant des tanières grouillant"
+  }
+ },
+ "248475": {
+  "name": {
+   "en": "Preening Petalwing",
+   "de": "Sich putzende Blütenblattschwinge",
+   "fr": "Folibri apprêté"
+  }
+ },
+ "248500": {
+  "name": {
+   "en": "Backwoods Boar",
+   "de": "Hinterwaldeber",
+   "fr": "Sanglier des Arbois"
+  }
+ },
+ "248577": {
+  "name": {
+   "en": "Rootbound Horror",
+   "de": "Wurzelgebundener Schrecken",
+   "fr": "Horreur racinaire"
+  }
+ },
+ "248598": {
+  "name": {
+   "en": "Sporeglider Bloomterror",
+   "de": "Sporengleiterblütenschrecken",
+   "fr": "Florreur glissespore"
+  }
+ },
+ "248646": {
+  "name": {
+   "en": "Skittish Springrunner",
+   "de": "Ängstlicher Quellläufer",
+   "fr": "Coursevif fébrile"
+  }
+ },
+ "248715": {
+  "name": {
+   "en": "Overtaken Matriarch",
+   "de": "Überwältigte Matriarchin",
+   "fr": "Matriarche submergée"
+  }
+ },
+ "248741": {
+  "name": {
+   "en": "Rhazul",
+   "de": "Rhazul",
+   "fr": "Rhazul"
+  }
+ },
+ "248906": {
+  "name": {
+   "en": "Trigore Shard-Breaker",
+   "de": "Splitterbrechertrigore",
+   "fr": "Trigore brise-éclat"
+  }
+ },
+ "248938": {
+  "name": {
+   "en": "Albino Trigore",
+   "de": "Albinotrigore",
+   "fr": "Trigore albinos"
+  }
+ },
+ "248939": {
+  "name": {
+   "en": "Blistercreep Bottomfeeder",
+   "de": "Blasenkriechergründler",
+   "fr": "Racle-fonds ectocloque"
+  }
+ },
+ "248940": {
+  "name": {
+   "en": "Bloodthirsty Kilivore",
+   "de": "Blutdurstiger Totfresser",
+   "fr": "Mortivore assoiffé de sang"
+  }
+ },
+ "249006": {
+  "name": {
+   "en": "Pernicious Petalwing",
+   "de": "Schädliche Blütenblattschwinge",
+   "fr": "Folibri pernicieux"
+  }
+ },
+ "249039": {
+  "name": {
+   "en": "Lurking Stormray",
+   "de": "Lauernder Sturmrochen",
+   "fr": "Raie-tempête en maraude"
+  }
+ },
+ "249250": {
+  "name": {
+   "en": "Thrashing Consumptor",
+   "de": "Dreschender Vertilger",
+   "fr": "Gavodon ravageur"
+  }
+ },
+ "249285": {
+  "name": {
+   "en": "Salivating Saptor",
+   "de": "Geifernder Harzraptor",
+   "fr": "Cédraptor salivant"
+  }
+ },
+ "249328": {
+  "name": {
+   "en": "Hellebora",
+   "de": "Fieswurz",
+   "fr": "Héllébora"
+  }
+ },
+ "249329": {
+  "name": {
+   "en": "Toadshade",
+   "de": "Krötschatten",
+   "fr": "Ombratra"
+  }
+ },
+ "249332": {
+  "name": {
+   "en": "Slewstalk",
+   "de": "Schlachtstiel",
+   "fr": "Multige"
+  }
+ },
+ "249343": {
+  "name": {
+   "en": "Dionaea",
+   "de": "Dionaea",
+   "fr": "Dionée"
+  }
+ },
+ "249354": {
+  "name": {
+   "en": "Pango Hauler",
+   "de": "Schuppentierschlepper",
+   "fr": "Haleur de pangos"
+  }
+ },
+ "249358": {
+  "name": {
+   "en": "Poisonous Passhopper",
+   "de": "Giftiger Passhüpfer",
+   "fr": "Saute-passe venimeux"
+  }
+ },
+ "249359": {
+  "name": {
+   "en": "Barkfur Bear",
+   "de": "Borkenfellbär",
+   "fr": "Ours poilécorce"
+  }
+ },
+ "249392": {
+  "name": {
+   "en": "Nesting Silk Wyrm",
+   "de": "Nistender Seidenwyrm",
+   "fr": "Wyrm de soie nicheur"
+  }
+ },
+ "249397": {
+  "name": {
+   "en": "Enclave Skitterer",
+   "de": "Enklavenhuscher",
+   "fr": "Glisseuse de l'enclave"
+  }
+ },
+ "249409": {
+  "name": {
+   "en": "Vigilant Sporeglider",
+   "de": "Wachsamer Sporengleiter",
+   "fr": "Glissespore vigilant"
+  }
+ },
+ "249412": {
+  "name": {
+   "en": "Surly Thornmaw",
+   "de": "Mürrisches Dornenmaul",
+   "fr": "Gueulépine revêche"
+  }
+ },
+ "249413": {
+  "name": {
+   "en": "Mire Stalker",
+   "de": "Sumpfpirscher",
+   "fr": "Traqueur des tourbières"
+  }
+ },
+ "249417": {
+  "name": {
+   "en": "Bloated Blistercreep",
+   "de": "Aufgeblähter Blasenkriecher",
+   "fr": "Ectocloque boursouflé"
+  }
+ },
+ "249421": {
+  "name": {
+   "en": "Venomous Mournbat",
+   "de": "Giftiger Trauersegler",
+   "fr": "Funéroptère venimeux"
+  }
+ },
+ "249427": {
+  "name": {
+   "en": "Chittering Kilivore",
+   "de": "Zischender Totfresser",
+   "fr": "Mortivore cliquetant"
+  }
+ },
+ "249433": {
+  "name": {
+   "en": "Predaxian Trigore",
+   "de": "Räubertrigore",
+   "fr": "Trigore prédaxien"
+  }
+ },
+ "249447": {
+  "name": {
+   "en": "Mysterious Mana Wyrm",
+   "de": "Mysteriöser Manawyrm",
+   "fr": "Wyrm de mana mystérieux"
+  }
+ },
+ "249464": {
+  "name": {
+   "en": "Vision of the Matriarch",
+   "de": "Vision der Matriarchin",
+   "fr": "Vision de la matriarche"
+  }
+ },
+ "249508": {
+  "name": {
+   "en": "Teething Saptor",
+   "de": "Zahnender Harzraptor",
+   "fr": "Cédraptor qui fait ses dents"
+  }
+ },
+ "249797": {
+  "name": {
+   "en": "Eager Thorntail",
+   "de": "Eifriger Dornschweif",
+   "fr": "Caudépine impatient"
+  }
+ },
+ "249798": {
+  "name": {
+   "en": "Unusual Thorntail",
+   "de": "Ungewöhnlicher Dornschweif",
+   "fr": "Caudépine inhabituel"
+  }
+ },
+ "249806": {
+  "name": {
+   "en": "Soaring K'arroc",
+   "de": "Segelnder K'arroc",
+   "fr": "K'arroc jaillissant"
+  }
+ },
+ "249849": {
+  "name": {
+   "en": "Ha'kalawe",
+   "de": "Ha'kalawe",
+   "fr": "Ha'kalawe"
+  }
+ },
+ "249959": {
+  "name": {
+   "en": "Arcane Wyrm",
+   "de": "Arkanwyrm",
+   "fr": "Wyrm des arcanes"
+  }
+ },
+ "249962": {
+  "name": {
+   "en": "Queen Lashtongue",
+   "de": "Königin Peitschenzunge",
+   "fr": "Reine Fouettelangue"
+  }
+ },
+ "250024": {
+  "name": {
+   "en": "Lightscale Nibbler",
+   "de": "Lichtschuppenknabberer",
+   "fr": "Grignoteur lumécaille"
+  }
+ },
+ "250025": {
+  "name": {
+   "en": "Gorged Lightscale",
+   "de": "Vollgefressene Lichtschuppe",
+   "fr": "Lumécaille gavé"
+  }
+ },
+ "250026": {
+  "name": {
+   "en": "Arcane Manathirster",
+   "de": "Arkaner Manadürster",
+   "fr": "Assoiffeur de mana des arcanes"
+  }
+ },
+ "250028": {
+  "name": {
+   "en": "Mana Thirster",
+   "de": "Manadürster",
+   "fr": "Assoiffeur de mana"
+  }
+ },
+ "250029": {
+  "name": {
+   "en": "Bloodfeather Dragonhawk",
+   "de": "Blutfederdrachenfalke",
+   "fr": "Faucon-dragon plumesang"
+  }
+ },
+ "250030": {
+  "name": {
+   "en": "Ghostfeather Dragonhawk",
+   "de": "Geisterfederdrachenfalke",
+   "fr": "Faucon-dragon plumefantôme"
+  }
+ },
+ "250031": {
+  "name": {
+   "en": "Crimson Bloodfeather",
+   "de": "Purpurblutfeder",
+   "fr": "Plumesang cramoisi"
+  }
+ },
+ "250032": {
+  "name": {
+   "en": "Ghostfeather Alpha",
+   "de": "Geisterfederalpha",
+   "fr": "Alpha plumefantôme"
+  }
+ },
+ "250033": {
+  "name": {
+   "en": "Springpaw Lynx",
+   "de": "Bachtatzenluchs",
+   "fr": "Lynx preste-patte"
+  }
+ },
+ "250037": {
+  "name": {
+   "en": "Springclaw Elder",
+   "de": "Alte Bachtatze",
+   "fr": "Ancien Preste-griffe"
+  }
+ },
+ "250038": {
+  "name": {
+   "en": "Ghostclaw Elder",
+   "de": "Alte Geisterklaue",
+   "fr": "Ancien Griffe-fantôme"
+  }
+ },
+ "250039": {
+  "name": {
+   "en": "Juvenile Springpaw",
+   "de": "Junge Bachtatze",
+   "fr": "Petit preste-patte"
+  }
+ },
+ "250040": {
+  "name": {
+   "en": "Juvenile Ghostclaw",
+   "de": "Junge Geisterklaue",
+   "fr": "Jeune griffe-fantôme"
+  }
+ },
+ "250043": {
+  "name": {
+   "en": "Eversong Mauler",
+   "de": "Immersangzermalmer",
+   "fr": "Marteleur des Chants éternels"
+  }
+ },
+ "250044": {
+  "name": {
+   "en": "Rageclaw Matriarch",
+   "de": "Zornklauenmatriarchin",
+   "fr": "Matriarche grifferage"
+  }
+ },
+ "250045": {
+  "name": {
+   "en": "Duskleg Lurker",
+   "de": "Dämmerbeinlauerer",
+   "fr": "Rôdeuse patte-brune"
+  }
+ },
+ "250046": {
+  "name": {
+   "en": "Duskling Skitterer",
+   "de": "Dämmerlinghuscher",
+   "fr": "Glisseuse du crépuscule"
+  }
+ },
+ "250047": {
+  "name": {
+   "en": "Ghostwing Bat",
+   "de": "Geisterschwingenfledermaus",
+   "fr": "Chauve-souris aile-fantôme"
+  }
+ },
+ "250048": {
+  "name": {
+   "en": "Ghostwing Screecher",
+   "de": "Geisterschwingenkreischer",
+   "fr": "Hurleuse aile-fantôme"
+  }
+ },
+ "250049": {
+  "name": {
+   "en": "Giant Duskwing",
+   "de": "Riesige Dämmerschwinge",
+   "fr": "Crépuscaile géante"
+  }
+ },
+ "250051": {
+  "name": {
+   "en": "River Hopper",
+   "de": "Flusshüpfer",
+   "fr": "Saute-rivière"
+  }
+ },
+ "250053": {
+  "name": {
+   "en": "Toxic Dartling",
+   "de": "Toxischer Krötling",
+   "fr": "Grenouillette empoisonnée"
+  }
+ },
+ "250055": {
+  "name": {
+   "en": "Mountain Rocktalon",
+   "de": "Bergfelsklaue",
+   "fr": "Serreroche des montagnes"
+  }
+ },
+ "250056": {
+  "name": {
+   "en": "Rocktalon Scavenger",
+   "de": "Felsklauenaasfresser",
+   "fr": "Charognard serreroche"
+  }
+ },
+ "250057": {
+  "name": {
+   "en": "Leafmuncher",
+   "de": "Blattmampfer",
+   "fr": "Croque-feuille"
+  }
+ },
+ "250061": {
+  "name": {
+   "en": "Tideshell Crab",
+   "de": "Tidenpanzerkrabbe",
+   "fr": "Crabe caravague"
+  }
+ },
+ "250086": {
+  "name": {
+   "en": "Stumpy",
+   "de": "Stubbe",
+   "fr": "Traposaure"
+  }
+ },
+ "250091": {
+  "name": {
+   "en": "Juvenile Swiftclaw",
+   "de": "Junge Flinkklaue",
+   "fr": "Jeune vivegriffe"
+  }
+ },
+ "250093": {
+  "name": {
+   "en": "Swiftclaw Elder",
+   "de": "Alte Flinkklaue",
+   "fr": "Sage vivegriffe"
+  }
+ },
+ "250094": {
+  "name": {
+   "en": "Amani Swiftclaw",
+   "de": "Flinkklaue der Amani",
+   "fr": "Vivegriffe amani"
+  }
+ },
+ "250098": {
+  "name": {
+   "en": "Veinripper Matriarch",
+   "de": "Aderfetzermatriarchin",
+   "fr": "Matriarche taille-veines"
+  }
+ },
+ "250099": {
+  "name": {
+   "en": "Amani Mauler",
+   "de": "Zerfleischer der Amani",
+   "fr": "Mutilateur amani"
+  }
+ },
+ "250100": {
+  "name": {
+   "en": "Kapara Pup",
+   "de": "Kaparajunges",
+   "fr": "Bébé kapara"
+  }
+ },
+ "250103": {
+  "name": {
+   "en": "Seaside Crab",
+   "de": "Küstenkrabbe",
+   "fr": "Crabe des côtes"
+  }
+ },
+ "250104": {
+  "name": {
+   "en": "Deepcrawler Crab",
+   "de": "Tiefenkriecherkrabbe",
+   "fr": "Crabe rampant des profondeurs"
+  }
+ },
+ "250105": {
+  "name": {
+   "en": "Nibbler Crab",
+   "de": "Knabberkrabbe",
+   "fr": "Crabe grignoteur"
+  }
+ },
+ "250107": {
+  "name": {
+   "en": "Ulcerated Rotclaw",
+   "de": "Vereiterte Moderklaue",
+   "fr": "Griffe-pourrie ulcéreuse"
+  }
+ },
+ "250108": {
+  "name": {
+   "en": "Rotclaw Mauler",
+   "de": "Moderklauenzerfleischer",
+   "fr": "Marteleur griffe-pourrie"
+  }
+ },
+ "250111": {
+  "name": {
+   "en": "Mistveil Dragonhawk",
+   "de": "Nebelschleierdrachenfalke",
+   "fr": "Faucon-dragon voile-de-brume"
+  }
+ },
+ "250112": {
+  "name": {
+   "en": "Mistveil Alpha",
+   "de": "Nebelschleieralpha",
+   "fr": "Alpha voile-de-brume"
+  }
+ },
+ "250116": {
+  "name": {
+   "en": "Mudwallow Boar",
+   "de": "Matschwälzeber",
+   "fr": "Sanglier mareboue"
+  }
+ },
+ "250117": {
+  "name": {
+   "en": "Tusksplitter Boar",
+   "de": "Hauersplittereber",
+   "fr": "Sanglier fend-défenses"
+  }
+ },
+ "250118": {
+  "name": {
+   "en": "Riptalon Eviscerator",
+   "de": "Reißkrallenausweider",
+   "fr": "Eviscérateur déchire-serre"
+  }
+ },
+ "250120": {
+  "name": {
+   "en": "Keen-Eye Riptalon",
+   "de": "Scharfäugige Reißkralle",
+   "fr": "Déchire-serre oeil-perçant"
+  }
+ },
+ "250123": {
+  "name": {
+   "en": "Chitterfang Scurrier",
+   "de": "Zischzahnhuscher",
+   "fr": "Crissecroc voleur"
+  }
+ },
+ "250124": {
+  "name": {
+   "en": "Plump Chitterfang",
+   "de": "Rundlicher Zischzahn",
+   "fr": "Crissecroc dodu"
+  }
+ },
+ "250125": {
+  "name": {
+   "en": "Scavenging Chitterfang",
+   "de": "Plündernder Zischzahn",
+   "fr": "Crissecroc charognard"
+  }
+ },
+ "250126": {
+  "name": {
+   "en": "Furious Mudcoat",
+   "de": "Wütendes Matschkleid",
+   "fr": "Livrefange furieuse"
+  }
+ },
+ "250127": {
+  "name": {
+   "en": "Mudcoat Borer",
+   "de": "Matschkleidbohrer",
+   "fr": "Perforeuse livrefange"
+  }
+ },
+ "250128": {
+  "name": {
+   "en": "Buzzing Mudcoat",
+   "de": "Summendes Matschkleid",
+   "fr": "Livrefange bourdonnante"
+  }
+ },
+ "250137": {
+  "name": {
+   "en": "Territorial Pango",
+   "de": "Territoriales Schuppentier",
+   "fr": "Pango territorial"
+  }
+ },
+ "250138": {
+  "name": {
+   "en": "Pango Behemoth",
+   "de": "Schuppentier",
+   "fr": "Béhémoth pango"
+  }
+ },
+ "250139": {
+  "name": {
+   "en": "Juvenile Pango",
+   "de": "Junges Schuppentier",
+   "fr": "Jeune pango"
+  }
+ },
+ "250140": {
+  "name": {
+   "en": "Foraging Pango",
+   "de": "Wühlendes Schuppentier",
+   "fr": "Pango fouisseur"
+  }
+ },
+ "250141": {
+  "name": {
+   "en": "Swamp Leaper",
+   "de": "Sumpfspringer",
+   "fr": "Bondisseuse des marais"
+  }
+ },
+ "250142": {
+  "name": {
+   "en": "Poisonous Hoplet",
+   "de": "Giftiges Hoppelchen",
+   "fr": "Sauteleuse venimeuse"
+  }
+ },
+ "250143": {
+  "name": {
+   "en": "Bog Hopper",
+   "de": "Sumpfhüpfer",
+   "fr": "Bondisseuse des tourbières"
+  }
+ },
+ "250150": {
+  "name": {
+   "en": "Terrorspine Amazard",
+   "de": "Schreckensstachelschildechse",
+   "fr": "Blindézard mortelombes"
+  }
+ },
+ "250151": {
+  "name": {
+   "en": "Amazard Chomper",
+   "de": "Schildechsenmampfer",
+   "fr": "Mâchouilleur blindézard"
+  }
+ },
+ "250152": {
+  "name": {
+   "en": "Dreadmaw Amazard",
+   "de": "Schreckensrachenschildechse",
+   "fr": "Blindézard gueule-d'effroi"
+  }
+ },
+ "250153": {
+  "name": {
+   "en": "Ravenous Mukleech",
+   "de": "Gefräßiger Mieswurm",
+   "fr": "Bourbansue vorace"
+  }
+ },
+ "250154": {
+  "name": {
+   "en": "Mukleech Bloodletter",
+   "de": "Mieswurmblutsauger",
+   "fr": "Saigneur bourbansue"
+  }
+ },
+ "250156": {
+  "name": {
+   "en": "Wriggling Boggorm",
+   "de": "Zuckender Sumpfgorm",
+   "fr": "Lombarais frétillant"
+  }
+ },
+ "250157": {
+  "name": {
+   "en": "Boggorm Corroder",
+   "de": "Sumpfgormzersetzer",
+   "fr": "Corrodant lombarais"
+  }
+ },
+ "250158": {
+  "name": {
+   "en": "Acrid Boggorm",
+   "de": "Ätzender Sumpfgorm",
+   "fr": "Lombarais âcre"
+  }
+ },
+ "250163": {
+  "name": {
+   "en": "Spikeshell Snapper",
+   "de": "Stachelpanzerschnapper",
+   "fr": "Mordeuse carapapointe"
+  }
+ },
+ "250164": {
+  "name": {
+   "en": "Meandering Spikeshell",
+   "de": "Wandernder Stachelpanzer",
+   "fr": "Carapapointe vagabonde"
+  }
+ },
+ "250165": {
+  "name": {
+   "en": "Tempered Spikeshell",
+   "de": "Gehärteter Stachelpanzer",
+   "fr": "Carapapointe endurcie"
+  }
+ },
+ "250166": {
+  "name": {
+   "en": "Sporewake Skimmer",
+   "de": "Sporensoggleiter",
+   "fr": "Anisoptère sillospore"
+  }
+ },
+ "250167": {
+  "name": {
+   "en": "Skimmer Nymet",
+   "de": "Gleiternymet",
+   "fr": "Anisoptère nymphette"
+  }
+ },
+ "250168": {
+  "name": {
+   "en": "Latticewing Sporeglider",
+   "de": "Geflechtflügelsporengleiter",
+   "fr": "Glissespore trame-ailée"
+  }
+ },
+ "250169": {
+  "name": {
+   "en": "Thornhook Saptor",
+   "de": "Dornenhakenharzraptor",
+   "fr": "Cédraptor crochecorne"
+  }
+ },
+ "250170": {
+  "name": {
+   "en": "Splintclaw Saptor",
+   "de": "Splintklauenharzraptor",
+   "fr": "Cédraptor scindegriffe"
+  }
+ },
+ "250175": {
+  "name": {
+   "en": "Thornhook Hunter",
+   "de": "Dornenhakenjäger",
+   "fr": "Chasseur crochecorne"
+  }
+ },
+ "250176": {
+  "name": {
+   "en": "Splintclaw Ravager",
+   "de": "Splintklauenverheerer",
+   "fr": "Ravageur scindegriffe"
+  }
+ },
+ "250185": {
+  "name": {
+   "en": "Bulb-eye Potatoad",
+   "de": "Glubschaugenkrötoffel",
+   "fr": "Terratracien bulboeil"
+  }
+ },
+ "250193": {
+  "name": {
+   "en": "Iridescent Petalwing",
+   "de": "Schillernde Blütenblattschwinge",
+   "fr": "Folibri iridescent"
+  }
+ },
+ "250195": {
+  "name": {
+   "en": "Tranquil Springrunner",
+   "de": "Ruhiger Quellläufer",
+   "fr": "Coursevif paisible"
+  }
+ },
+ "250226": {
+  "name": {
+   "en": "Mindrot",
+   "de": "Gedankenfäule",
+   "fr": "Pouresprit"
+  }
+ },
+ "250227": {
+  "name": {
+   "en": "Garden Lynx",
+   "de": "Gartenluchs",
+   "fr": "Lynx des jardins"
+  }
+ },
+ "250228": {
+  "name": {
+   "en": "Carefree Dragonhawk",
+   "de": "Sorgloser Drachenfalke",
+   "fr": "Faucon-dragon folâtre"
+  }
+ },
+ "250229": {
+  "name": {
+   "en": "Brightwing Hawkstrider",
+   "de": "Wolkenglanzfalkenschreiter",
+   "fr": "Faucon-pérégrin de Luisaile"
+  }
+ },
+ "250231": {
+  "name": {
+   "en": "Dracaena",
+   "de": "Dracaena",
+   "fr": "Dracaena"
+  }
+ },
+ "250273": {
+  "name": {
+   "en": "Cascade Potatoad",
+   "de": "Kaskadenkrötoffel",
+   "fr": "Terratracien des cascades"
+  }
+ },
+ "250317": {
+  "name": {
+   "en": "Oro'ohna",
+   "de": "Oro'ohna",
+   "fr": "Oro'ohna"
+  }
+ },
+ "250321": {
+  "name": {
+   "en": "Pterrock",
+   "de": "Petrosaurus",
+   "fr": "Pterroche"
+  }
+ },
+ "250324": {
+  "name": {
+   "en": "Rootcoil Hydra",
+   "de": "Wurzelwickelhydra",
+   "fr": "Hydre tordracine"
+  }
+ },
+ "250327": {
+  "name": {
+   "en": "Underbrush Grovecrawler",
+   "de": "Unterholzhainkrabbler",
+   "fr": "Rampant des bosquets broussailleux"
+  }
+ },
+ "250330": {
+  "name": {
+   "en": "Glimmering Darter",
+   "de": "Glimmerflitzer",
+   "fr": "Fléchetteuse scintillante"
+  }
+ },
+ "250332": {
+  "name": {
+   "en": "Bull Chloroceros",
+   "de": "Chlorozerosbulle",
+   "fr": "Chlorocéros buffle"
+  }
+ },
+ "250333": {
+  "name": {
+   "en": "Stream Skipper",
+   "de": "Flussspringer",
+   "fr": "Cavaleur des flots"
+  }
+ },
+ "250338": {
+  "name": {
+   "en": "Mycellian Stalker",
+   "de": "Myzelpirscher",
+   "fr": "Traqueur mycélium"
+  }
+ },
+ "250339": {
+  "name": {
+   "en": "Mosscoil Snail",
+   "de": "Mooswickelschnecke",
+   "fr": "Escargot tordmousse"
+  }
+ },
+ "250340": {
+  "name": {
+   "en": "Lightcursed Saptor",
+   "de": "Lichtverfluchter Harzraptor",
+   "fr": "Cédraptor maudit par la Lumière"
+  }
+ },
+ "250341": {
+  "name": {
+   "en": "Lightcursed Crawler",
+   "de": "Lichtverfluchter Krabbler",
+   "fr": "Rampant maudit par la Lumière"
+  }
+ },
+ "250343": {
+  "name": {
+   "en": "Lightblighted Thornmaw",
+   "de": "Lichtverseuchtes Dornenmaul",
+   "fr": "Gueulépine maudit par la Lumière"
+  }
+ },
+ "250344": {
+  "name": {
+   "en": "Juvenile Grovecrawler",
+   "de": "Jugendlicher Hainkrabbler",
+   "fr": "Petit rampant des bosquets"
+  }
+ },
+ "250366": {
+  "name": {
+   "en": "Burrowing Consumptor",
+   "de": "Eingrabender Vertilger",
+   "fr": "Gavodon fouisseur"
+  }
+ },
+ "250489": {
+  "name": {
+   "en": "Voltaic Trigore",
+   "de": "Voltaischer Trigore",
+   "fr": "Trigore voltaïque"
+  }
+ },
+ "250503": {
+  "name": {
+   "en": "Invasive Consumptor",
+   "de": "Invasiver Vertilger",
+   "fr": "Gavodon invasif"
+  }
+ },
+ "250509": {
+  "name": {
+   "en": "Smoldering Beetle",
+   "de": "Schwelender Käfer",
+   "fr": "Hanneton fumant"
+  }
+ },
+ "250540": {
+  "name": {
+   "en": "Seeking Stormray",
+   "de": "Suchender Sturmrochen",
+   "fr": "Raie-tempête en chasse"
+  }
+ },
+ "250544": {
+  "name": {
+   "en": "Spiteful Shredclaw",
+   "de": "Boshafte Schredderklaue",
+   "fr": "Griffentaille malveillant"
+  }
+ },
+ "250545": {
+  "name": {
+   "en": "Stalking Shredclaw",
+   "de": "Pirschende Schredderklaue",
+   "fr": "Griffentaille traqueur"
+  }
+ },
+ "250546": {
+  "name": {
+   "en": "Venomous Netherwaspling",
+   "de": "Giftiger Netherwespling",
+   "fr": "Petite guêpe du Néant venimeuse"
+  }
+ },
+ "250548": {
+  "name": {
+   "en": "Venomous Netherwasp",
+   "de": "Giftige Netherwespe",
+   "fr": "Guêpe du Néant venimeuse"
+  }
+ },
+ "250582": {
+  "name": {
+   "en": "Bloated Snapdragon",
+   "de": "Aufgeblähter Schnappdrache",
+   "fr": "Mordragon boursouflé"
+  }
+ },
+ "250684": {
+  "name": {
+   "en": "Delectable Dinner",
+   "de": "Köstliches Abendessen",
+   "fr": "Dîner succulent"
+  }
+ },
+ "250742": {
+  "name": {
+   "en": "Succulent Snack",
+   "de": "Saftiger Imbiss",
+   "fr": "En-cas succulent"
+  }
+ },
+ "250817": {
+  "name": {
+   "en": "Encroaching Lightsaptor",
+   "de": "Eindringender Lichtharzraptor",
+   "fr": "Lumicédraptor envahissant"
+  }
+ },
+ "250821": {
+  "name": {
+   "en": "Tresspassing Shinemaw",
+   "de": "Einfallendes Leuchtmaul",
+   "fr": "Gueuléclat intrusif"
+  }
+ },
+ "250822": {
+  "name": {
+   "en": "Intruding Shinesipper",
+   "de": "Eindringender Scheinschlucker",
+   "fr": "Sirote-éclat intrusif"
+  }
+ },
+ "250824": {
+  "name": {
+   "en": "Lightfrenzied Devourer",
+   "de": "Lichtwütiger Verschlinger",
+   "fr": "Dévoreur lumenragé"
+  }
+ },
+ "250826": {
+  "name": {
+   "en": "Banuran",
+   "de": "Banuran",
+   "fr": "Banuran"
+  }
+ },
+ "250876": {
+  "name": {
+   "en": "Terrinor",
+   "de": "Terrinor",
+   "fr": "Terrinor"
+  }
+ },
+ "250882": {
+  "name": {
+   "en": "Amber Wyrm",
+   "de": "Bernwyrm",
+   "fr": "Wyrm d'ambre"
+  }
+ },
+ "250995": {
+  "name": {
+   "en": "Sunwing Dragonhawk",
+   "de": "Sonnenschwingendrachenfalke",
+   "fr": "Faucon-dragon vol-solaire"
+  }
+ },
+ "251066": {
+  "name": {
+   "en": "Oblivious Springrunner",
+   "de": "Argloser Quellläufer",
+   "fr": "Coursevif étourdi"
+  }
+ },
+ "251251": {
+  "name": {
+   "en": "Skittering Underroot Beetle",
+   "de": "Huschender Unterwurzelkäfer",
+   "fr": "Hanneton rampant scaracine"
+  }
+ },
+ "251339": {
+  "name": {
+   "en": "Ornery Winebat",
+   "de": "Widerspenstige Weinfledermaus",
+   "fr": "Chauve-souris vinicole teigneuse"
+  }
+ },
+ "251394": {
+  "name": {
+   "en": "Hungry Scalebiter",
+   "de": "Hungriger Schuppenbeißer",
+   "fr": "Morlécaille affamé"
+  }
+ },
+ "251455": {
+  "name": {
+   "en": "Ambershade Matriarch",
+   "de": "Bernschattenmatriarchin",
+   "fr": "Matriarche Ambrenoir"
+  }
+ },
+ "251457": {
+  "name": {
+   "en": "Ambershade Lynx",
+   "de": "Bernschattenluchs",
+   "fr": "Lynx ambrenoir"
+  }
+ },
+ "251459": {
+  "name": {
+   "en": "Ambershade Kitten",
+   "de": "Bernschattenkätzchen",
+   "fr": "Chaton ambrenoir"
+  }
+ },
+ "251460": {
+  "name": {
+   "en": "Lightscale Dragonhawk",
+   "de": "Lichtschuppendrachenfalke",
+   "fr": "Faucon-dragon lumécaille"
+  }
+ },
+ "251462": {
+  "name": {
+   "en": "Sunset Clacker",
+   "de": "Abendrotklacker",
+   "fr": "Claqueur du couchant"
+  }
+ },
+ "251464": {
+  "name": {
+   "en": "Meadowstep Hawkstrider",
+   "de": "Wiesentrittfalkenschreiter",
+   "fr": "Faucon-pérégrin trotteprairie"
+  }
+ },
+ "251467": {
+  "name": {
+   "en": "Split-Open Clacker",
+   "de": "Aufgebrochener Klacker",
+   "fr": "Claqueur fendeur"
+  }
+ },
+ "251468": {
+  "name": {
+   "en": "Listless Mana Wyrm",
+   "de": "Teilnahmsloser Manawyrm",
+   "fr": "Wyrm de mana impatient"
+  }
+ },
+ "251548": {
+  "name": {
+   "en": "Deeprock Snail",
+   "de": "Tiefsteinschnecke",
+   "fr": "Escargot fonderoc"
+  }
+ },
+ "251550": {
+  "name": {
+   "en": "Cavern Sporebat",
+   "de": "Höhlensporensegler",
+   "fr": "Sporoptère des cavernes"
+  }
+ },
+ "251552": {
+  "name": {
+   "en": "Cascade Chloroceros",
+   "de": "Kaskadenchlorozeros",
+   "fr": "Chlorocéros des cascades"
+  }
+ },
+ "251561": {
+  "name": {
+   "en": "Cascade Bull",
+   "de": "Kaskadenbulle",
+   "fr": "Buffle des cavernes"
+  }
+ },
+ "251562": {
+  "name": {
+   "en": "Groveherd Chloroceros",
+   "de": "Hainherdenchlorozeros",
+   "fr": "Chlorocéros bosquemeute"
+  }
+ },
+ "251563": {
+  "name": {
+   "en": "Groveherd Bull",
+   "de": "Hainherdenbulle",
+   "fr": "Buffle bosquemeute"
+  }
+ },
+ "251593": {
+  "name": {
+   "en": "Infected Beast",
+   "de": "Infiziertes Wildtier",
+   "fr": "Bête infectée"
+  }
+ },
+ "251724": {
+  "name": {
+   "en": "Sporegorger Chloroceros",
+   "de": "Sporenschlingerchlorozeros",
+   "fr": "Chlorocéros mangespores"
+  }
+ },
+ "251756": {
+  "name": {
+   "en": "Kipkip",
+   "de": "Kipkip",
+   "fr": "Kipkip"
+  }
+ },
+ "251758": {
+  "name": {
+   "en": "Vonto",
+   "de": "Vonto",
+   "fr": "Vonto"
+  }
+ },
+ "251825": {
+  "name": {
+   "en": "Shimmerspore Hatchling",
+   "de": "Glimmersporenjunges",
+   "fr": "Jeune scintispores"
+  }
+ },
+ "251885": {
+  "name": {
+   "en": "Gravid Potatoad",
+   "de": "Trächtige Krötoffel",
+   "fr": "Terratracien gravide"
+  }
+ },
+ "251914": {
+  "name": {
+   "en": "Voracious Thornmaw",
+   "de": "Gieriges Dornenmaul",
+   "fr": "Gueulépine vorace"
+  }
+ },
+ "251915": {
+  "name": {
+   "en": "Foraging Potatoad",
+   "de": "Stöbernde Krötoffel",
+   "fr": "Terratracien fourrageur"
+  }
+ },
+ "251916": {
+  "name": {
+   "en": "Insatiable Saptor",
+   "de": "Unersättlicher Harzraptor",
+   "fr": "Cédraptor insatiable"
+  }
+ },
+ "252034": {
+  "name": {
+   "en": "Primal Time Bear",
+   "de": "Urzeitlicher Bär",
+   "fr": "Ours du temps primordial"
+  }
+ },
+ "252107": {
+  "name": {
+   "en": "Encroaching Shredclaw",
+   "de": "Nahende Schredderklaue",
+   "fr": "Griffentaille envahissante"
+  }
+ },
+ "252108": {
+  "name": {
+   "en": "Encroaching Packleader",
+   "de": "Nahender Rudelführer",
+   "fr": "Chef de meute envahissant"
+  }
+ },
+ "252151": {
+  "name": {
+   "en": "Basincrawler Grub",
+   "de": "Beckenkriecherlarve",
+   "fr": "Larve rampebassin"
+  }
+ },
+ "252221": {
+  "name": {
+   "en": "King Crab",
+   "de": "Königskrabbe",
+   "fr": "Crabe royal"
+  }
+ },
+ "252222": {
+  "name": {
+   "en": "Carnivorous Crab",
+   "de": "Fleischfressende Krabbe",
+   "fr": "Crabe carnivore"
+  }
+ },
+ "252526": {
+  "name": {
+   "en": "Yoked Pangolin",
+   "de": "Angejochtes Schuppentier",
+   "fr": "Pangolin soumis"
+  }
+ },
+ "252682": {
+  "name": {
+   "en": "Hoarding Klaxid",
+   "de": "Hortender Klaxid",
+   "fr": "Klaxide accumulateur"
+  }
+ },
+ "252683": {
+  "name": {
+   "en": "Scavenging Netherwasp",
+   "de": "Plündernde Netherwespe",
+   "fr": "Guêpe du Néant charognarde"
+  }
+ },
+ "252684": {
+  "name": {
+   "en": "Marrowmaw Kilivore",
+   "de": "Markschlundtotfresser",
+   "fr": "Mortivore gueule-de-moelle"
+  }
+ },
+ "252693": {
+  "name": {
+   "en": "Agitated Springpaw",
+   "de": "Aufgebrachte Bachtatze",
+   "fr": "Preste-patte agité"
+  }
+ },
+ "252723": {
+  "name": {
+   "en": "Yerxis",
+   "de": "Yerxis",
+   "fr": "Yerxis"
+  }
+ },
+ "252773": {
+  "name": {
+   "en": "Binli",
+   "de": "Binli",
+   "fr": "Binli"
+  }
+ },
+ "252834": {
+  "name": {
+   "en": "Stag",
+   "de": "Hirsch",
+   "fr": "Cerf"
+  }
+ },
+ "252835": {
+  "name": {
+   "en": "Doe",
+   "de": "Hirschkuh",
+   "fr": "Biche"
+  }
+ },
+ "252836": {
+  "name": {
+   "en": "Sunset Stag",
+   "de": "Abendrothirsch",
+   "fr": "Cerf du brunant"
+  }
+ },
+ "252837": {
+  "name": {
+   "en": "Sunset Doe",
+   "de": "Abendrotricke",
+   "fr": "Biche du brunant"
+  }
+ },
+ "252847": {
+  "name": {
+   "en": "Drooling Thornbloom",
+   "de": "Sabbernde Dornflora",
+   "fr": "Ronceflore baveuse"
+  }
+ },
+ "252851": {
+  "name": {
+   "en": "Ancient Devilsaptor",
+   "de": "Uralter Teufelsharzraptor",
+   "fr": "Cédraptor diabolique antique"
+  }
+ },
+ "252894": {
+  "name": {
+   "en": "Razorshell Ravager",
+   "de": "Klingenpanzerverheerer",
+   "fr": "Ravageur coque-rasoir"
+  }
+ },
+ "252994": {
+  "name": {
+   "en": "Paint-Crazed Firefly",
+   "de": "Farbverrücktes Glühwürmchen",
+   "fr": "Luciole ivre de couleur"
+  }
+ },
+ "252997": {
+  "name": {
+   "en": "Paint-Crazed Potatoad",
+   "de": "Farbverrückte Krötoffel",
+   "fr": "Terratracien ivre de couleur"
+  }
+ },
+ "252998": {
+  "name": {
+   "en": "Paint-Crazed Skipper",
+   "de": "Farbverrückter Springer",
+   "fr": "Cavaleur ivre de couleur"
+  }
+ },
+ "253098": {
+  "name": {
+   "en": "Tamed Mammoth",
+   "de": "Gezähmtes Mammut",
+   "fr": "Mammouth apprivoisé"
+  }
+ },
+ "253128": {
+  "name": {
+   "en": "Sanguineous Blistercreep",
+   "de": "Blutiger Blasenkriecher",
+   "fr": "Ectocloque sanguine"
+  }
+ },
+ "253165": {
+  "name": {
+   "en": "Steeljaw Trigore",
+   "de": "Stahlkiefertrigore",
+   "fr": "Trigore mâchoire d'acier"
+  }
+ },
+ "253238": {
+  "name": {
+   "en": "Lightcursed Petalwing",
+   "de": "Lichtverfluchte Blütenblattschwinge",
+   "fr": "Folibri fléau-de-Lumière"
+  }
+ },
+ "253315": {
+  "name": {
+   "en": "Juvenile Chloroceros",
+   "de": "Junges Chlorozeros",
+   "fr": "Petit chlorocéros"
+  }
+ },
+ "253397": {
+  "name": {
+   "en": "Slithering Grovecrawler",
+   "de": "Schlüpfriger Hainkrabbler",
+   "fr": "Rampant des bosquets glissant"
+  }
+ },
+ "253499": {
+  "name": {
+   "en": "Bluffs Hornet",
+   "de": "Klippenhornisse",
+   "fr": "Frelon des pitons"
+  }
+ },
+ "253558": {
+  "name": {
+   "en": "Adzikel",
+   "de": "Adzikel",
+   "fr": "Adzikel"
+  }
+ },
+ "253620": {
+  "name": {
+   "en": "Netherwasp Drone",
+   "de": "Netherwespendrohne",
+   "fr": "Guêpe mâle du Néant"
+  }
+ },
+ "253705": {
+  "name": {
+   "en": "Captive Shredclaw",
+   "de": "Gefangene Schredderklaue",
+   "fr": "Griffentaille captif"
+  }
+ },
+ "253881": {
+  "name": {
+   "en": "Glimmering Petalwing",
+   "de": "Schimmernde Blütenblattschwinge",
+   "fr": "Folibri scintillant"
+  }
+ },
+ "253993": {
+  "name": {
+   "en": "Scaly Scratcher",
+   "de": "Schuppiger Kratzer",
+   "fr": "Griffeur écailleux"
+  }
+ },
+ "254132": {
+  "name": {
+   "en": "[DNT]"
+  }
+ },
+ "254198": {
+  "name": {
+   "en": "Kelp Crab",
+   "de": "Algenkrabbe",
+   "fr": "Crabe de varech"
+  }
+ },
+ "254203": {
+  "name": {
+   "en": "Scavenging Stalker",
+   "de": "Plündernder Pirscher",
+   "fr": "Traqueur charognard"
+  }
+ },
+ "254503": {
+  "name": {
+   "en": "Vile Cursed Toad",
+   "de": "Ekelhafte verfluchte Kröte",
+   "fr": "Crapaud maudit infâme"
+  }
+ },
+ "254543": {
+  "name": {
+   "en": "Tame Sporeglider",
+   "de": "Zahmer Sporengleiter",
+   "fr": "Glissespore apprivoisé"
+  }
+ },
+ "254581": {
+  "name": {
+   "en": "Mature Dunedweller",
+   "de": "Ausgewachsener Dünenbewohner",
+   "fr": "Rôdeur des dunes adulte"
+  }
+ },
+ "254582": {
+  "name": {
+   "en": "Dunedweller Consumptor",
+   "de": "Dünenbewohnervertilger",
+   "fr": "Gavodon rôdeur des dunes"
+  }
+ },
+ "254690": {
+  "name": {
+   "en": "Elder Mournbat",
+   "de": "Alter Trauersegler",
+   "fr": "Ancien funéroptère"
+  }
+ },
+ "254709": {
+  "name": {
+   "en": "Prowling Voidstalker",
+   "de": "Schleichender Leerenpirscher",
+   "fr": "Traqueur des ombres en maraude"
+  }
+ },
+ "254720": {
+  "name": {
+   "en": "Frenzied Klaxid",
+   "de": "Rasender Klaxid",
+   "fr": "Klaxide frénétique"
+  }
+ },
+ "254899": {
+  "name": {
+   "en": "Peha",
+   "de": "Peha",
+   "fr": "Peha"
+  }
+ },
+ "254969": {
+  "name": {
+   "en": "Prowl Crawler",
+   "de": "Pirschkrabbler",
+   "fr": "Clampant maraudeur"
+  }
+ },
+ "254970": {
+  "name": {
+   "en": "Bloodletter Kilivore",
+   "de": "Blutvergießertotfresser",
+   "fr": "Mortivore saigneur"
+  }
+ },
+ "254972": {
+  "name": {
+   "en": "Void-Bloated Wyrm",
+   "de": "Leerengeblähter Wyrm",
+   "fr": "Wyrm boursouflé de Vide"
+  }
+ },
+ "254974": {
+  "name": {
+   "en": "Ravenous Kilivore",
+   "de": "Gefräßiger Totfresser",
+   "fr": "Mortivore vorace"
+  }
+ },
+ "255055": {
+  "name": {
+   "en": "Wrathshell Consumptor",
+   "de": "Zornespanzervertilger",
+   "fr": "Gavodon carapace-de-courroux"
+  }
+ },
+ "255061": {
+  "name": {
+   "en": "Crusher Crab",
+   "de": "Zermalmerkrabbe",
+   "fr": "Crabe écraseur"
+  }
+ },
+ "255079": {
+  "name": {
+   "en": "Opportunistic Grovecrawler",
+   "de": "Opportunistischer Hainkrabbler",
+   "fr": "Rampant des bosquets opportuniste"
+  }
+ },
+ "255139": {
+  "name": {
+   "en": "Wallows Mukleech",
+   "de": "Suhlenmieswurm",
+   "fr": "Bourbansue des souilles"
+  }
+ },
+ "255141": {
+  "name": {
+   "en": "Spiny Leechling",
+   "de": "Stacheliger Egeling",
+   "fr": "Sangsunette épineuse"
+  }
+ },
+ "255142": {
+  "name": {
+   "en": "Mudcoat Stingling",
+   "de": "Matschkleidstechling",
+   "fr": "Aiguillonnet livrefange"
+  }
+ },
+ "255148": {
+  "name": {
+   "en": "Arcane Wyrmling",
+   "de": "Arkaner Wyrmling",
+   "fr": "Wyrmelin des arcanes"
+  }
+ },
+ "255154": {
+  "name": {
+   "en": "Boggorm Recluse",
+   "de": "Sumpfgormeremit",
+   "fr": "Reclus lombarais"
+  }
+ },
+ "255182": {
+  "name": {
+   "en": "Void-Crazed Crawler",
+   "de": "Leerenverrückter Krabbler",
+   "fr": "Rampant ivre du Vide"
+  }
+ },
+ "255188": {
+  "name": {
+   "en": "Stabled Pango",
+   "de": "Gezähmtes Schuppentier",
+   "fr": "Pango à l'écurie"
+  }
+ },
+ "255194": {
+  "name": {
+   "en": "Void-Singed Wyrmling",
+   "de": "Leerenversengter Wyrmling",
+   "fr": "Wyrmelin brûlé par le Vide"
+  }
+ },
+ "255244": {
+  "name": {
+   "en": "Weary Pango",
+   "de": "Müdes Schuppentier",
+   "fr": "Pango épuisé"
+  }
+ },
+ "255302": {
+  "name": {
+   "en": "Duskburn",
+   "de": "Dämmerbrand",
+   "fr": "Brûle-Aube"
+  }
+ },
+ "255348": {
+  "name": {
+   "en": "Dame Bloodshed",
+   "de": "Dame Blutfang",
+   "fr": "Madame Massacre"
+  }
+ },
+ "255354": {
+  "name": {
+   "en": "Starving Shredclaw",
+   "de": "Verhungernde Schredderklaue",
+   "fr": "Griffentaille affamé"
+  }
+ },
+ "255355": {
+  "name": {
+   "en": "Trigore Primarch",
+   "de": "Trigoreprimarch",
+   "fr": "Primarque trigore"
+  }
+ },
+ "255490": {
+  "name": {
+   "en": "Aman Eagle",
+   "de": "Adler der Amani",
+   "fr": "Aigle d'Aman"
+  }
+ },
+ "255496": {
+  "name": {
+   "en": "Shrine Lynx",
+   "de": "Schreinluchs",
+   "fr": "Lynx du sanctuaire"
+  }
+ },
+ "255497": {
+  "name": {
+   "en": "Shrine Matron",
+   "de": "Schreinmatrone",
+   "fr": "Matrone du sanctuaire"
+  }
+ },
+ "255511": {
+  "name": {
+   "en": "Voidcraven Consumptor",
+   "de": "Leerengieriger Vertilger",
+   "fr": "Gavodon couard du Vide"
+  }
+ },
+ "255514": {
+  "name": {
+   "en": "Shardstinger Klaxid",
+   "de": "Splitterstichklaxid",
+   "fr": "Klaxide dardéclat"
+  }
+ },
+ "255709": {
+  "name": {
+   "en": "Reinfused Felwyrm",
+   "de": "Neuerfüllter Teufelswyrm",
+   "fr": "Wyrm gangrené réimprégné"
+  }
+ },
+ "255747": {
+  "name": {
+   "en": "Catch-Stealing Crab",
+   "de": "Fangstehlende Krabbe",
+   "fr": "Crabe vole-prise"
+  }
+ },
+ "255748": {
+  "name": {
+   "en": "Bait-Stealing Crab",
+   "de": "Köderklauende Krabbe",
+   "fr": "Crabe vole-appât"
+  }
+ },
+ "255821": {
+  "name": {
+   "en": "Child of Jan'alai",
+   "de": "Kind von Jan'alai",
+   "fr": "Enfant de Jan'alai"
+  }
+ },
+ "255834": {
+  "name": {
+   "en": "Ros'mareh",
+   "de": "Ros'maren",
+   "fr": "Ros'mareh"
+  }
+ },
+ "255847": {
+  "name": {
+   "en": "Paint-Crazed Thornmaw",
+   "de": "Farbverrücktes Dornenmaul",
+   "fr": "Gueulépine ivre de peinture"
+  }
+ },
+ "255876": {
+  "name": {
+   "en": "Lightsick Sporeglider",
+   "de": "Lichtkranker Sporengleiter",
+   "fr": "Glissespore malade de lumière"
+  }
+ },
+ "255886": {
+  "name": {
+   "en": "Sand Swooper",
+   "de": "Sandsturzflieger",
+   "fr": "Piqueur des sables"
+  }
+ },
+ "255911": {
+  "name": {
+   "en": "Sawtail Thresher",
+   "de": "Sägeschwanzdrescher",
+   "fr": "Requin-renard à queue de scie"
+  }
+ },
+ "255913": {
+  "name": {
+   "en": "Swarming Frenzy",
+   "de": "Schwarmraser",
+   "fr": "Frénésie déferlante"
+  }
+ },
+ "255914": {
+  "name": {
+   "en": "Deep Eel",
+   "de": "Tiefenaal",
+   "fr": "Anguille des profondeurs"
+  }
+ },
+ "255915": {
+  "name": {
+   "en": "Coastal Eel",
+   "de": "Küstenaal",
+   "fr": "Anguille côtière"
+  }
+ },
+ "255917": {
+  "name": {
+   "en": "Tide Skimmer",
+   "de": "Gezeitengleiter",
+   "fr": "Squale des marées"
+  }
+ },
+ "255919": {
+  "name": {
+   "en": "Spike Fish",
+   "de": "Stachelfisch",
+   "fr": "Rascasse"
+  }
+ },
+ "255920": {
+  "name": {
+   "en": "Hardnosed Tideskipper",
+   "de": "Hartnasenwellenspringer",
+   "fr": "Saute-vagues ferme-museau"
+  }
+ },
+ "255924": {
+  "name": {
+   "en": "Tidal Minnow",
+   "de": "Gezeitenelritze",
+   "fr": "Vairon des marées"
+  }
+ },
+ "255957": {
+  "name": {
+   "en": "Corrupted Ray",
+   "de": "Verderbter Rochen",
+   "fr": "Raie corrompue"
+  }
+ },
+ "255971": {
+  "name": {
+   "en": "Lightmaddened Chloroceros",
+   "de": "Lichtwahnsinniges Chlorozeros",
+   "fr": "Chlorocéros dérangéclat"
+  }
+ },
+ "256056": {
+  "name": {
+   "en": "Luminescent Hatchling",
+   "de": "Lumineszentes Jungtier",
+   "fr": "Jeune luciole luminescente"
+  }
+ },
+ "256057": {
+  "name": {
+   "en": "Shimmering Darter",
+   "de": "Schimmerflitzer",
+   "fr": "Fléchetteuse chatoyante"
+  }
+ },
+ "256060": {
+  "name": {
+   "en": "Plodding Potatoad",
+   "de": "Langsame Krötoffel",
+   "fr": "Terratracien traînard"
+  }
+ },
+ "256061": {
+  "name": {
+   "en": "Scavenging Sporeglider",
+   "de": "Plündernder Sporengleiter",
+   "fr": "Glissespore charognard"
+  }
+ },
+ "256072": {
+  "name": {
+   "en": "Thornstomp",
+   "de": "Dornenstampfer",
+   "fr": "Foule-Epines"
+  }
+ },
+ "256075": {
+  "name": {
+   "en": "Roving Thornmaw",
+   "de": "Umherstreifendes Dornenmaul",
+   "fr": "Gueulépine en maraude"
+  }
+ },
+ "256193": {
+  "name": {
+   "en": "Grotto Firefly",
+   "de": "Grottenglühwürmchen",
+   "fr": "Luciole des grottes"
+  }
+ },
+ "256195": {
+  "name": {
+   "en": "Grotto Darter",
+   "de": "Grottenflitzer",
+   "fr": "Fléchetteuse des grottes"
+  }
+ },
+ "256204": {
+  "name": {
+   "en": "Glowing Firefly",
+   "de": "Leuchtendes Glühwürmchen",
+   "fr": "Luciole luminescente"
+  }
+ },
+ "256225": {
+  "name": {
+   "en": "Rootforage Beetle",
+   "de": "Wurzelwühlkäfer",
+   "fr": "Hanneton fouille-racines"
+  }
+ },
+ "256227": {
+  "name": {
+   "en": "Tiny Cavern Skipper",
+   "de": "Winziger Höhlenspringer",
+   "fr": "Minuscule cavaleur des cavernes"
+  }
+ },
+ "256230": {
+  "name": {
+   "en": "Barkborn Petalwing",
+   "de": "Borkengeborene Blütenblattschwinge",
+   "fr": "Folibri né de l'écorce"
+  }
+ },
+ "256234": {
+  "name": {
+   "en": "Ravaging Hydra",
+   "de": "Wütende Hydra",
+   "fr": "Hydre ravageuse"
+  }
+ },
+ "256246": {
+  "name": {
+   "en": "Fungal Sporewing",
+   "de": "Pilzsporenschwinge",
+   "fr": "Sporailée fongique"
+  }
+ },
+ "256268": {
+  "name": {
+   "en": "Cleftstalker Saptor",
+   "de": "Kluftpirscherharzraptor",
+   "fr": "Cédraptor traque-faille"
+  }
+ },
+ "256303": {
+  "name": {
+   "en": "Vivid Gladebeetle",
+   "de": "Lebhafter Lichtungskäfer",
+   "fr": "Hanneton des clairières vif"
+  }
+ },
+ "256324": {
+  "name": {
+   "en": "Riverbuzz Beetle",
+   "de": "Flussbrummkäfer",
+   "fr": "Hanneton vrombrivière"
+  }
+ },
+ "256344": {
+  "name": {
+   "en": "Mistskitter Beetle",
+   "de": "Nebelhuscherkäfer",
+   "fr": "Hanneton grouillebrume"
+  }
+ },
+ "256353": {
+  "name": {
+   "en": "Valesoar Petalwing",
+   "de": "Talsegelblütenblattschwinge",
+   "fr": "Folibri valenvol"
+  }
+ },
+ "256357": {
+  "name": {
+   "en": "Vale Sporeglider",
+   "de": "Talsporengleiter",
+   "fr": "Glissespore du val"
+  }
+ },
+ "256361": {
+  "name": {
+   "en": "Valeflutter Firefly",
+   "de": "Talflatterglühwürmchen",
+   "fr": "Luciole volteval"
+  }
+ },
+ "256364": {
+  "name": {
+   "en": "Misthop Potatoad",
+   "de": "Nebelsprungkrötoffel",
+   "fr": "Terratracien sautebrume"
+  }
+ },
+ "256365": {
+  "name": {
+   "en": "Valeflow Skipper",
+   "de": "Talstromspringer",
+   "fr": "Cavaleur couleval"
+  }
+ },
+ "256368": {
+  "name": {
+   "en": "Valeskimmer",
+   "de": "Talwasserläufer",
+   "fr": "Anisoptère du val"
+  }
+ },
+ "256380": {
+  "name": {
+   "en": "Vale Fogstalker",
+   "de": "Talnebelpirscher",
+   "fr": "Traque-brume du val"
+  }
+ },
+ "256408": {
+  "name": {
+   "en": "Spawn of Ix",
+   "de": "Spross von Ix",
+   "fr": "Rejeton d'Ix"
+  }
+ },
+ "256417": {
+  "name": {
+   "en": "Seekmist Hatchling",
+   "de": "Suchnebeljungtier",
+   "fr": "Jeune cherchebrume"
+  }
+ },
+ "256512": {
+  "name": {
+   "en": "Wagon Pango",
+   "de": "Wagenschuppentier",
+   "fr": "Pango de chariot"
+  }
+ },
+ "256516": {
+  "name": {
+   "en": "Shrine Kapara",
+   "de": "Schreinkapara",
+   "fr": "Kapara du sanctuaire"
+  }
+ },
+ "256525": {
+  "name": {
+   "en": "Spicy Jellyfish",
+   "de": "Pikante Qualle",
+   "fr": "Méduse piquante"
+  }
+ },
+ "256526": {
+  "name": {
+   "en": "Energetic Pufferfin",
+   "de": "Energetische Kugelflosse",
+   "fr": "Poisson-globe énergétique"
+  }
+ },
+ "256527": {
+  "name": {
+   "en": "Majestic Orca",
+   "de": "Majestätischer Orca",
+   "fr": "Epaulard majestueux"
+  }
+ },
+ "256565": {
+  "name": {
+   "en": "Chirpy Mandrake",
+   "de": "Lebhafte Alraune",
+   "fr": "Mandragore enjouée"
+  }
+ },
+ "256609": {
+  "name": {
+   "en": "Voracious Shredclaw",
+   "de": "Gierige Schredderklaue",
+   "fr": "Griffentaille vorace"
+  }
+ },
+ "256695": {
+  "name": {
+   "en": "Mature Rootcrawler",
+   "de": "Ausgewachsener Wurzelkrabbler",
+   "fr": "Rampe-racines adulte"
+  }
+ },
+ "256696": {
+  "name": {
+   "en": "Juvenile Rootcrawler",
+   "de": "Junger Wurzelkrabbler",
+   "fr": "Jeune rampe-racines"
+  }
+ },
+ "256700": {
+  "name": {
+   "en": "Rootcrawler",
+   "de": "Wurzelkrabbler",
+   "fr": "Rampe-racines"
+  }
+ },
+ "256715": {
+  "name": {
+   "en": "Bloomskitter Beetle",
+   "de": "Blütenhuscherkäfer",
+   "fr": "Hanneton fileflore"
+  }
+ },
+ "256770": {
+  "name": {
+   "en": "Bilemaw the Gluttonous",
+   "de": "Gallenschlund der Unersättliche",
+   "fr": "Bilegueule le Glouton"
+  }
+ },
+ "256787": {
+  "name": {
+   "en": "Deeplurk Snapdragon",
+   "de": "Schnappdrache der Tiefenlauerer",
+   "fr": "Mordragon rôde-abysse"
+  }
+ },
+ "256834": {
+  "name": {
+   "en": "Resplendent Hawkstrider",
+   "de": "Strahlender Falkenschreiter",
+   "fr": "Faucon-pérégrin resplendissant"
+  }
+ },
+ "256835": {
+  "name": {
+   "en": "Refulgent Hawkstrider",
+   "de": "Glänzender Falkenschreiter",
+   "fr": "Faucon-pérégrin éclatant"
+  }
+ },
+ "256836": {
+  "name": {
+   "en": "Glistening Hawkstrider",
+   "de": "Glitzernder Falkenschreiter",
+   "fr": "Faucon-pérégrin scintillant"
+  }
+ },
+ "256844": {
+  "name": {
+   "en": "Gleaming Hawkstrider",
+   "de": "Schimmernder Falkenschreiter",
+   "fr": "Faucon-pérégrin reluisant"
+  }
+ },
+ "256851": {
+  "name": {
+   "en": "Golden Hopper",
+   "de": "Goldener Hüpfer",
+   "fr": "Bondisseuse dorée"
+  }
+ },
+ "256853": {
+  "name": {
+   "en": "Radiant Dartling",
+   "de": "Strahlender Krötling",
+   "fr": "Grenouillette radieuse"
+  }
+ },
+ "256878": {
+  "name": {
+   "en": "Opportunistic Petalwing",
+   "de": "Opportunistische Blütenblattschwinge",
+   "fr": "Folibri opportuniste"
+  }
+ },
+ "256898": {
+  "name": {
+   "en": "Soaring Petalwing",
+   "de": "Segelnde Blütenblattschwinge",
+   "fr": "Folibri jaillissant"
+  }
+ },
+ "256923": {
+  "name": {
+   "en": "Bane of the Vilebloods",
+   "de": "Verderben des Ekelbluts",
+   "fr": "Fléau des vilesangs"
+  }
+ },
+ "257023": {
+  "name": {
+   "en": "Hyena",
+   "de": "Hyäne",
+   "fr": "Hyène"
+  }
+ },
+ "257032": {
+  "name": {
+   "en": "Stone Guardian",
+   "de": "Steinwächter",
+   "fr": "Garde de pierre"
+  }
+ },
+ "257038": {
+  "name": {
+   "en": "Young Devilsaur",
+   "de": "Junger Teufelssaurier",
+   "fr": "Jeune diablosaure"
+  }
+ },
+ "257044": {
+  "name": {
+   "en": "Kilivore Tribute",
+   "de": "Totfressertribut",
+   "fr": "Tribut mortivore"
+  }
+ },
+ "257045": {
+  "name": {
+   "en": "Shredclaw Tribute",
+   "de": "Schredderklauentribut",
+   "fr": "Tribut griffentaille"
+  }
+ },
+ "257110": {
+  "name": {
+   "en": "Crystalback Klaxid",
+   "de": "Kristallrückenklaxid",
+   "fr": "Klaxide dos-de-cristal"
+  }
+ },
+ "257120": {
+  "name": {
+   "en": "Juvenile Barbscale",
+   "de": "Junge Stachelschuppe",
+   "fr": "Jeune écailles-barbelées"
+  }
+ },
+ "257122": {
+  "name": {
+   "en": "Barbscale Voidcrawler",
+   "de": "Stachelschuppenleerenkriecher",
+   "fr": "Rampant du Vide écailles-barbelées"
+  }
+ },
+ "257127": {
+  "name": {
+   "en": "Barbtooth Bloodtracker",
+   "de": "Stachelzahnblutsucher",
+   "fr": "Traquesang dent-tranchante"
+  }
+ },
+ "257140": {
+  "name": {
+   "en": "Spitesting Netherwasp",
+   "de": "Fiesstachelnetherwespe",
+   "fr": "Guêpe du Néant vexepique"
+  }
+ },
+ "257145": {
+  "name": {
+   "en": "Spitesting Hatchling",
+   "de": "Fiesstacheljungtier",
+   "fr": "Jeune vexepique"
+  }
+ },
+ "257154": {
+  "name": {
+   "en": "Abasi Snapper",
+   "de": "Abasischnapper",
+   "fr": "Tortue serpentine d'Abasi"
+  }
+ },
+ "257155": {
+  "name": {
+   "en": "Abasi Croaker",
+   "de": "Abasiquaker",
+   "fr": "Coasseuse d'Abasi"
+  }
+ },
+ "257181": {
+  "name": {
+   "en": "Ridgecrawler Consumptor",
+   "de": "Gratkrabblervertilger",
+   "fr": "Gavodon rôde-crête"
+  }
+ },
+ "257182": {
+  "name": {
+   "en": "Mature Ridgecrawler",
+   "de": "Ausgewachsener Gratkrabbler",
+   "fr": "Rôde-crête adulte"
+  }
+ },
+ "257185": {
+  "name": {
+   "en": "Insatiable Consumptor",
+   "de": "Unersättlicher Vertilger",
+   "fr": "Gavodon insatiable"
+  }
+ },
+ "257201": {
+  "name": {
+   "en": "Ravenous Consumptor",
+   "de": "Gefräßiger Vertilger",
+   "fr": "Gavodon vorace"
+  }
+ },
+ "257218": {
+  "name": {
+   "en": "Hatesting Hatchling",
+   "de": "Hassstacheljungtier",
+   "fr": "Jeune hainepique"
+  }
+ },
+ "257220": {
+  "name": {
+   "en": "Hatesting Netherwasp",
+   "de": "Hassstachelnetherwespe",
+   "fr": "Guêpe du Néant hainepique"
+  }
+ },
+ "257240": {
+  "name": {
+   "en": "Ripfang Stalker",
+   "de": "Reißzahnpirscher",
+   "fr": "Traqueur arrache-crocs"
+  }
+ },
+ "257241": {
+  "name": {
+   "en": "Ripfang Shredclaw",
+   "de": "Reißzahnschredderklaue",
+   "fr": "Griffentaille arrache-crocs"
+  }
+ },
+ "257244": {
+  "name": {
+   "en": "Vicious Shredclaw",
+   "de": "Wilde Schredderklaue",
+   "fr": "Griffentaille vicieux"
+  }
+ },
+ "257246": {
+  "name": {
+   "en": "Roaming Shredclaw",
+   "de": "Streunende Schredderklaue",
+   "fr": "Griffentaille errant"
+  }
+ },
+ "257253": {
+  "name": {
+   "en": "Slumbering Bear",
+   "de": "Schlummernder Bär",
+   "fr": "Ours endormi"
+  }
+ },
+ "257271": {
+  "name": {
+   "en": "Gorging Consumptor",
+   "de": "Fressgieriger Vertilger",
+   "fr": "Gavodon glouton"
+  }
+ },
+ "257275": {
+  "name": {
+   "en": "Crawler Corpse",
+   "de": "Krabblerleiche",
+   "fr": "Cadavre de rampant"
+  }
+ },
+ "257371": {
+  "name": {
+   "en": "Primal Trigore",
+   "de": "Urtümlicher Trigore",
+   "fr": "Trigore primordial"
+  }
+ },
+ "257435": {
+  "name": {
+   "en": "Swamp Darter",
+   "de": "Sumpfflitzer",
+   "fr": "Fléchetteuse des marais"
+  }
+ },
+ "257442": {
+  "name": {
+   "en": "Mangled Crawler",
+   "de": "Geschundener Krabbler",
+   "fr": "Clampant déchiqueté"
+  }
+ },
+ "257445": {
+  "name": {
+   "en": "Agitated Voidcrawler",
+   "de": "Aufgebrachter Leerenkriecher",
+   "fr": "Rampant du Vide agité"
+  }
+ },
+ "257519": {
+  "name": {
+   "en": "Mirebeak Dragonhawk",
+   "de": "Sumpfschnabeldrachenfalke",
+   "fr": "Faucon-dragon bourbe-bec"
+  }
+ },
+ "257520": {
+  "name": {
+   "en": "Mirebeak Alpha",
+   "de": "Sumpfschnabelalpha",
+   "fr": "Alpha bourbe-bec"
+  }
+ },
+ "257523": {
+  "name": {
+   "en": "Stonemaw Amazard",
+   "de": "Steinschlundschildechse",
+   "fr": "Blindézard gueule de pierre"
+  }
+ },
+ "257524": {
+  "name": {
+   "en": "Razorspine Amazard",
+   "de": "Klingenstachelschildechse",
+   "fr": "Blindézard tranchéchine"
+  }
+ },
+ "257525": {
+  "name": {
+   "en": "Amazard Gnasher",
+   "de": "Verblüffter Knirscher",
+   "fr": "Mâcheur blindézard"
+  }
+ },
+ "257526": {
+  "name": {
+   "en": "Amazard Gnawer",
+   "de": "Verblüffter Nager",
+   "fr": "Rongueur blindézard"
+  }
+ },
+ "257527": {
+  "name": {
+   "en": "Cragspine Amazard",
+   "de": "Felsstachelschildechse",
+   "fr": "Blindézard combéchine"
+  }
+ },
+ "257528": {
+  "name": {
+   "en": "Whiptail Amazard",
+   "de": "Peitschflossenschildechse",
+   "fr": "Blindézard tégus"
+  }
+ },
+ "257575": {
+  "name": {
+   "en": "Hungering Stormray",
+   "de": "Hungernder Sturmrochen",
+   "fr": "Raie-tempête affamée"
+  }
+ },
+ "257664": {
+  "name": {
+   "en": "Crystalback Matriarch",
+   "de": "Kristallrückenmatriarchin",
+   "fr": "Matriarche dos-de-cristal"
+  }
+ },
+ "257740": {
+  "name": {
+   "en": "Infested Shredclaw",
+   "de": "Infizierte Schredderklaue",
+   "fr": "Griffentaille contaminé"
+  }
+ },
+ "257898": {
+  "name": {
+   "en": "Siphoning Blistercreep",
+   "de": "Entziehender Blasenkriecher",
+   "fr": "Ectocloque siphonneur"
+  }
+ },
+ "257902": {
+  "name": {
+   "en": "Bloodthirst Blistercreep",
+   "de": "Blutdurstblasenkriecher",
+   "fr": "Ectocloque assoiffé de sang"
+  }
+ },
+ "257933": {
+  "name": {
+   "en": "Den Sporeglider",
+   "de": "Höhlensporengleiter",
+   "fr": "Glissespore de la Tanière"
+  }
+ },
+ "257942": {
+  "name": {
+   "en": "Carefree Pango",
+   "de": "Sorgloses Schuppentier",
+   "fr": "Pango insouciant"
+  }
+ },
+ "257945": {
+  "name": {
+   "en": "Stinger Matriarch",
+   "de": "Stachelmatriarchin",
+   "fr": "Matriarche des aiguillonneurs"
+  }
+ },
+ "257946": {
+  "name": {
+   "en": "Stinger Hatchling",
+   "de": "Stacheljungtier",
+   "fr": "Jeune aiguillonneur"
+  }
+ },
+ "257954": {
+  "name": {
+   "en": "Irritated Supply Strider",
+   "de": "Gereizter Versorgungsschreiter",
+   "fr": "Trotteur de ravitaillement agacé"
+  }
+ },
+ "258206": {
+  "name": {
+   "en": "Pilgrim Kapara",
+   "de": "Pilgerkapara",
+   "fr": "Kapara pèlerin"
+  }
+ },
+ "258269": {
+  "name": {
+   "en": "Voidsated Consumptor",
+   "de": "Leerengesättigter Vertilger",
+   "fr": "Gavodon rassasié de Vide"
+  }
+ },
+ "258510": {
+  "name": {
+   "en": "Hateleech Blistercreep",
+   "de": "Hasssaugender Blasenkriecher",
+   "fr": "Ectocloque hainesang"
+  }
+ },
+ "258648": {
+  "name": {
+   "en": "Old Nay'kune",
+   "de": "Nay'kune Sr.",
+   "fr": "Vieux Nay'kune"
+  }
+ },
+ "258656": {
+  "name": {
+   "en": "Cinderscale Patriarch",
+   "de": "Glutschuppenpatriarch",
+   "fr": "Patriarche cendrécaille"
+  }
+ },
+ "259045": {
+  "name": {
+   "en": "Acolyte Kapara",
+   "de": "Akolyth-Kapara",
+   "fr": "Acolyte kapara"
+  }
+ },
+ "259106": {
+  "name": {
+   "en": "Hal'hadar Leystalker",
+   "de": "Leypirscher der Hal'hadar",
+   "fr": "Traqueur tellurique hal'hadar"
+  }
+ },
+ "259914": {
+  "name": {
+   "en": "Tortured Dragonhawk",
+   "de": "Gequälter Drachenfalke",
+   "fr": "Faucon-dragon torturé"
+  }
+ },
+ "259955": {
+  "name": {
+   "en": "Murderous Mudcoat",
+   "de": "Mordlustiges Matschkleid",
+   "fr": "Livrefange meurtrière"
+  }
+ },
+ "259960": {
+  "name": {
+   "en": "Perturbed Pango",
+   "de": "Scheues Schuppentier",
+   "fr": "Pango perturbé"
+  }
+ },
+ "260954": {
+  "name": {
+   "en": "Vicious Trigore",
+   "de": "Bösartiger Trigore",
+   "fr": "Trigore vicieux"
+  }
+ },
+ "261047": {
+  "name": {
+   "en": "Meandering Gorger",
+   "de": "Wandernder Verschlinger",
+   "fr": "Ripail errant"
+  }
+ },
+ "261337": {
+  "name": {
+   "en": "Voidsinged Hawkstrider",
+   "de": "Leerenversengter Falkenschreiter",
+   "fr": "Faucon-pérégrin brûlé par le Vide"
+  }
+ },
+ "262321": {
+  "name": {
+   "en": "Depthstalker Snapdragon",
+   "de": "Schnappdrache der Tiefenpirscher",
+   "fr": "Mordragon traqueur des profondeurs"
+  }
+ },
+ "263617": {
+  "name": {
+   "en": "Void-Touched Snapdragon",
+   "de": "Leerenberührter Schnappdrache",
+   "fr": "Mordragon touché par le Vide"
+  }
+ }
+}

@@ -1,0 +1,136 @@
+Accord of Critical Strike  |  Згода Критичного удару
+Accord of Haste  |  Згода Поспіху
+Accord of Mastery  |  Згода Майстерності
+Accord of Versatility  |  Згода Універсальності
+Accuracy  |  Влучність
+Agility  |  Спритність
+Assault  |  Натиск
+Binding of Agility  |  Зв'язування Спритності
+Binding of Critical Strike  |  Зв'язування Критичного удару
+Binding of Haste  |  Зв'язування Поспіху
+Binding of Intellect  |  Зв'язування Інтелекту
+Binding of Mastery  |  Зв'язування Майстерності
+Binding of Strength  |  Зв'язування Сили
+Binding of Versatility  |  Зв'язування Універсальності
+Breath of Critical Strike  |  Подих Критичного удару
+Breath of Haste  |  Подих Поспіху
+Breath of Mastery  |  Подих Майстерності
+Breath of Versatility  |  Подих Універсальності
+Carve Meat  |  Розбирання м'яса
+Coastal Surge  |  Прибережна хвиля
+Concentration  |  Зосередження
+Deadly Navigation  |  Смертоносна навігація
+Deftness  |  Вправність
+Dodge  |  Ухилення
+Exceptional Spellpower  |  Виняткова Сила заклять
+Exceptional Strength  |  Виняткова Сила
+Exceptional Versatility  |  Виняткова Універсальність
+Finesse  |  Витонченість
+Force Multiplier  |  Множник сили
+Gale-Force Striking  |  Удар штормової сили
+Gift of Critical Strike  |  Дар Критичного удару
+Gift of Haste  |  Дар Поспіху
+Gift of Mastery  |  Дар Майстерності
+Gift of Versatility  |  Дар Універсальності
+Greater Agility  |  Велика Спритність
+Greater Assault  |  Великий Натиск
+Greater Critical Strike  |  Великий Критичний удар
+Greater Dodge  |  Велике Ухилення
+Greater Haste  |  Великий Поспіх
+Greater Intellect  |  Великий Інтелект
+Greater Speed  |  Велика Швидкість
+Greater Spellpower  |  Велика Сила заклять
+Greater Stamina  |  Велика Витривалість
+Greater Stats  |  Великі характеристики
+Greater Strength  |  Велика Сила
+Greater Versatility  |  Велика Універсальність
+Heart in a Bottle  |  Серце в пляшці
+Ingenuity  |  Винахідливість
+Intellect  |  Інтелект
+Knowledge  |  Знання
+Lesser Agility  |  Менша Спритність
+Lesser Dodge  |  Менше Ухилення
+Lesser Intellect  |  Менший Інтелект
+Lesser Protection  |  Менший Захист
+Lesser Stamina  |  Менша Витривалість
+Lesser Versatility  |  Менша Універсальність
+Machinist's Brilliance  |  Блиск механіка
+Major Agility  |  Значна Спритність
+Major Armor  |  Значна Броня
+Major Healing  |  Значне Зцілення
+Major Intellect  |  Значний Інтелект
+Major Spellpower  |  Значна Сила заклять
+Major Stamina  |  Значна Витривалість
+Major Strength  |  Значна Сила
+Major Versatility  |  Значна Універсальність
+Mark of the Ancient Priestess  |  Знак Прадавньої жриці
+Mark of the Claw  |  Знак Кігтя
+Mark of the Deadly  |  Знак Смертоносного
+Mark of the Distant Army  |  Знак Далекої армії
+Mark of the Heavy Hide  |  Знак Товстої шкури
+Mark of the Hidden Satyr  |  Знак Прихованого сатира
+Mark of the Master  |  Знак Майстра
+Mark of the Quick  |  Знак Спритного
+Mark of the Trained Soldier  |  Знак Вишколеного солдата
+Mark of the Versatile  |  Знак Універсального
+Masterful Navigation  |  Майстерна навігація
+Mighty Intellect  |  Могутній Інтелект
+Mighty Versatility  |  Могутня Універсальність
+Minor Agility  |  Незначна Спритність
+Minor Health  |  Незначне Здоров'я
+Minor Stamina  |  Незначна Витривалість
+Multicraft  |  Множинне виготовлення
+Naga Hide  |  Шкура наги
+Oceanic Restoration  |  Океанічне відновлення
+Osmenite Deposit  |  Поклад осменіту
+Osmenite Seam  |  Жила осменіту
+Pact of Critical Strike  |  Пакт Критичного удару
+Pact of Haste  |  Пакт Поспіху
+Pact of Mastery  |  Пакт Майстерності
+Pact of Versatility  |  Пакт Універсальності
+Perception  |  Сприйняття
+Precision  |  Точність
+Protection  |  Захист
+Quality  |  Якість
+Quick Navigation  |  Швидка навігація
+Recraft Equipment  |  Переробка спорядження
+Refine Herbs - |A:Professions-ChatIcon-Quality-Tier2:20:20|a  |  Обробка трав - |A:Professions-ChatIcon-Quality-Tier2:20:20|a
+Refine Herbs - |A:Professions-ChatIcon-Quality-Tier3:20:20|a  |  Обробка трав - |A:Professions-ChatIcon-Quality-Tier3:20:20|a
+Refine Hides - |A:Professions-ChatIcon-Quality-Tier2:20:20|a  |  Обробка шкур - |A:Professions-ChatIcon-Quality-Tier2:20:20|a
+Refine Hides - |A:Professions-ChatIcon-Quality-Tier3:20:20|a  |  Обробка шкур - |A:Professions-ChatIcon-Quality-Tier3:20:20|a
+Refine Leather - |A:Professions-ChatIcon-Quality-Tier2:20:20|a  |  Обробка шкіри - |A:Professions-ChatIcon-Quality-Tier2:20:20|a
+Refine Leather - |A:Professions-ChatIcon-Quality-Tier3:20:20|a  |  Обробка шкіри - |A:Professions-ChatIcon-Quality-Tier3:20:20|a
+Resourcefulness  |  Ощадливість
+Seal of Critical Strike  |  Печатка Критичного удару
+Seal of Haste  |  Печатка Поспіху
+Seal of Mastery  |  Печатка Майстерності
+Seal of Versatility  |  Печатка Універсальності
+Siphoning  |  Поглинання
+Skill  |  Навичка
+Sparks  |  Іскри
+Spellpower  |  Сила заклять
+Stalwart Navigation  |  Незламна навігація
+Stamina  |  Витривалість
+Stats  |  Характеристики
+Strength  |  Сила
+Superior Agility  |  Вища Спритність
+Superior Dodge  |  Вище Ухилення
+Superior Intellect  |  Вищий Інтелект
+Superior Stamina  |  Вища Витривалість
+Swift Hearthing  |  Прискорене повернення
+Torrent of Elements  |  Потік стихій
+Transmute: Cloth to Skins  |  Трансмутація: Тканина в шкури
+Transmute: Fish to Gems  |  Трансмутація: Риба в самоцвіти
+Transmute: Meat to Pet  |  Трансмутація: М'ясо в улюбленця
+Versatile Navigation  |  Універсальна навігація
+Versatility Prime  |  Найкраща Універсальність
+Word of Agility  |  Слово Спритності
+Word of Critical Strike  |  Слово Критичного удару
+Word of Haste  |  Слово Поспіху
+Word of Intellect  |  Слово Інтелекту
+Word of Mastery  |  Слово Майстерності
+Word of Strength  |  Слово Сили
+Word of Versatility  |  Слово Універсальності
+Writ of Avoidance  |  Грамота Уникнення
+Writ of Leech  |  Грамота Висмоктування
+Writ of Speed  |  Грамота Швидкості

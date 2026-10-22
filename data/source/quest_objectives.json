@@ -1,0 +1,2119 @@
+{
+ "86874": [
+  {
+   "id": 457503,
+   "order": 0,
+   "en": "Lightbloom curbed"
+  }
+ ],
+ "86996": [
+  {
+   "id": 457685,
+   "order": 0,
+   "en": "Unraveling Captive Rescued"
+  }
+ ],
+ "87759": [
+  {
+   "id": 458721,
+   "order": 0,
+   "en": "Subdue Void Creatures or Kill Players"
+  },
+  {
+   "id": 458723,
+   "order": 2,
+   "en": "Subdue Void Creatures"
+  }
+ ],
+ "88679": [
+  {
+   "id": 458783,
+   "order": 0,
+   "en": "Subdue Creatures or Kill Players"
+  },
+  {
+   "id": 458785,
+   "order": 2,
+   "en": "Subdue Creatures"
+  },
+  {
+   "id": 461059,
+   "order": 3,
+   "en": "Subdue Creatures"
+  }
+ ],
+ "88992": [
+  {
+   "id": 459428,
+   "order": 0,
+   "en": "Kill Shadowguards or Kill Players"
+  },
+  {
+   "id": 459430,
+   "order": 2,
+   "en": "Kill Shadowguard"
+  },
+  {
+   "id": 459555,
+   "order": 3,
+   "en": "Kill Shadowguard"
+  }
+ ],
+ "89267": [
+  {
+   "id": 459912,
+   "order": 0,
+   "en": "Kill Ethereal or Kill Players"
+  },
+  {
+   "id": 459914,
+   "order": 2,
+   "en": "Kill Shadowguard"
+  },
+  {
+   "id": 459915,
+   "order": 3,
+   "en": "Kill Ethereal"
+  },
+  {
+   "id": 460933,
+   "order": 4,
+   "en": "Kill Ethereal"
+  }
+ ],
+ "89347": [
+  {
+   "id": 460119,
+   "order": 0,
+   "en": "Kill the Rage-Riddled Drifter"
+  }
+ ],
+ "89377": [
+  {
+   "id": 460164,
+   "order": 0,
+   "en": "Kill Behemoths or Kill Players"
+  },
+  {
+   "id": 460169,
+   "order": 2,
+   "en": "Kill Behemoths"
+  },
+  {
+   "id": 461058,
+   "order": 3,
+   "en": "Kill Kaiju"
+  }
+ ],
+ "89441": [
+  {
+   "id": 460950,
+   "order": 2,
+   "en": "Instruct Salandria to fall back"
+  }
+ ],
+ "90536": [
+  {
+   "id": 460999,
+   "order": 0,
+   "en": "Zaratti forces slain"
+  },
+  {
+   "id": 461004,
+   "order": 1,
+   "en": "Follow Wey'nan's trail"
+  },
+  {
+   "id": 461051,
+   "order": 2,
+   "en": "tall grass"
+  },
+  {
+   "id": 461515,
+   "order": 4,
+   "en": "Wey'nan calmed"
+  },
+  {
+   "id": 461005,
+   "order": 6,
+   "en": "Wey'nan's Ward crafted"
+  }
+ ],
+ "90849": [
+  {
+   "id": 461669,
+   "order": 1,
+   "en": "Luminescent Wards activated"
+  }
+ ],
+ "90889": [
+  {
+   "id": 462155,
+   "order": 0,
+   "en": "Collect pigment ingredients"
+  },
+  {
+   "id": 461744,
+   "order": 4,
+   "en": "Paintings created"
+  },
+  {
+   "id": 462082,
+   "order": 5,
+   "en": "Animated Paint squished"
+  },
+  {
+   "id": 462083,
+   "order": 6,
+   "en": "Paint splotches collected"
+  }
+ ],
+ "90962": [
+  {
+   "id": 461935,
+   "order": 0,
+   "en": "Complete the entire Stormarion Assault Event"
+  },
+  {
+   "id": 461936,
+   "order": 1,
+   "en": "Wave 1 Complete"
+  },
+  {
+   "id": 463368,
+   "order": 2,
+   "en": "Wave 2 Complete"
+  },
+  {
+   "id": 463369,
+   "order": 3,
+   "en": "Wave 3 Complete"
+  },
+  {
+   "id": 463363,
+   "order": 5,
+   "en": "Defense Position activated"
+  }
+ ],
+ "91040": [
+  {
+   "id": 462072,
+   "order": 0,
+   "en": "Vilebranch forces slain"
+  }
+ ],
+ "91207": [
+  {
+   "id": 462389,
+   "order": 0,
+   "en": "Defeat enemies to lure out your Prey target"
+  },
+  {
+   "id": 462390,
+   "order": 1,
+   "en": "Creatures slain"
+  },
+  {
+   "id": 464161,
+   "order": 2,
+   "en": "Ambush defeated"
+  }
+ ],
+ "91390": [
+  {
+   "id": 462609,
+   "order": 0,
+   "en": "Daily quests completed in Broken Throne"
+  }
+ ],
+ "91419": [
+  {
+   "id": 462764,
+   "order": 0,
+   "en": "Shoot Void Missile at Elementals or Kill Players"
+  },
+  {
+   "id": 462766,
+   "order": 2,
+   "en": "Shoot Void Missile at Elemental"
+  }
+ ],
+ "91458": [
+  {
+   "id": 462855,
+   "order": 0,
+   "en": "Chase your Prey"
+  },
+  {
+   "id": 462856,
+   "order": 1,
+   "en": "Chase"
+  }
+ ],
+ "91490": [
+  {
+   "id": 462905,
+   "order": 0,
+   "en": "Smoldering Fires doused"
+  }
+ ],
+ "91523": [
+  {
+   "id": 462926,
+   "order": 0,
+   "en": "Empowering Voidsphere destroyed"
+  }
+ ],
+ "91555": [
+  {
+   "id": 462966,
+   "order": 0,
+   "en": "Weary Defenders reinvigorated"
+  }
+ ],
+ "91582": [
+  {
+   "id": 463010,
+   "order": 0,
+   "en": "Blooming Lattice pruned"
+  }
+ ],
+ "91590": [
+  {
+   "id": 463069,
+   "order": 0,
+   "en": "Empowering Focus destroyed"
+  }
+ ],
+ "91591": [
+  {
+   "id": 463070,
+   "order": 0,
+   "en": "Empowering Urn destroyed"
+  }
+ ],
+ "91592": [
+  {
+   "id": 463071,
+   "order": 0,
+   "en": "Empowering Bloom destroyed"
+  }
+ ],
+ "91594": [
+  {
+   "id": 463076,
+   "order": 0,
+   "en": "Chase your Prey"
+  },
+  {
+   "id": 463077,
+   "order": 1,
+   "en": "Chase"
+  }
+ ],
+ "91595": [
+  {
+   "id": 463080,
+   "order": 0,
+   "en": "Chase your Prey"
+  },
+  {
+   "id": 463081,
+   "order": 1,
+   "en": "Chase"
+  }
+ ],
+ "91596": [
+  {
+   "id": 463084,
+   "order": 0,
+   "en": "Chase your Prey"
+  },
+  {
+   "id": 463085,
+   "order": 1,
+   "en": "Chase"
+  }
+ ],
+ "91601": [
+  {
+   "id": 463088,
+   "order": 0,
+   "en": "Defeat enemies to lure out your Prey target"
+  },
+  {
+   "id": 463089,
+   "order": 1,
+   "en": "Creatures slain"
+  },
+  {
+   "id": 464163,
+   "order": 2,
+   "en": "Ambush defeated"
+  }
+ ],
+ "91602": [
+  {
+   "id": 463092,
+   "order": 0,
+   "en": "Defeat enemies to lure out your Prey target"
+  },
+  {
+   "id": 463645,
+   "order": 1,
+   "en": "Creatures slain"
+  },
+  {
+   "id": 464162,
+   "order": 2,
+   "en": "Ambush defeated"
+  }
+ ],
+ "91604": [
+  {
+   "id": 463096,
+   "order": 0,
+   "en": "Defeat enemies to lure out your Prey target"
+  },
+  {
+   "id": 463097,
+   "order": 1,
+   "en": "Creatures slain"
+  },
+  {
+   "id": 464159,
+   "order": 2,
+   "en": "Ambush defeated"
+  }
+ ],
+ "91644": [
+  {
+   "id": 463170,
+   "order": 0,
+   "en": "Air elementals defeated"
+  }
+ ],
+ "91492": [
+  {
+   "id": 463248,
+   "order": 0,
+   "en": "Strange wildlife observed"
+  },
+  {
+   "id": 463249,
+   "order": 5,
+   "en": "Resonance Stone attuned"
+  },
+  {
+   "id": 463250,
+   "order": 6,
+   "en": "Seeker Visions uncovered"
+  },
+  {
+   "id": 463251,
+   "order": 10,
+   "en": "Aln'hara's Bloom collected"
+  }
+ ],
+ "91506": [
+  {
+   "id": 463256,
+   "order": 0,
+   "en": "The Echoless Flame located"
+  },
+  {
+   "id": 463257,
+   "order": 1,
+   "en": "Attune to the Echoless Flame"
+  },
+  {
+   "id": 463403,
+   "order": 2,
+   "en": "The Echoless Flame used to slay Rift manifestations"
+  },
+  {
+   "id": 463404,
+   "order": 3,
+   "en": "<Rift Manifestations>"
+  },
+  {
+   "id": 463442,
+   "order": 4,
+   "en": "Containment Wards placed"
+  },
+  {
+   "id": 463444,
+   "order": 5,
+   "en": "Morta'ka contained"
+  }
+ ],
+ "91785": [
+  {
+   "id": 463489,
+   "order": 0,
+   "en": "Lightbloom Spores slain"
+  }
+ ],
+ "91508": [
+  {
+   "id": 463546,
+   "order": 0,
+   "en": "Dying Root inspected"
+  },
+  {
+   "id": 463547,
+   "order": 1,
+   "en": "Bend Roots to Ruilla's Will"
+  },
+  {
+   "id": 463549,
+   "order": 2,
+   "en": "Harandar protected and healed"
+  },
+  {
+   "id": 463550,
+   "order": 3,
+   "en": "<Harandar healed>"
+  },
+  {
+   "id": 463554,
+   "order": 4,
+   "en": "Rootway to Azeroth revealed"
+  },
+  {
+   "id": 463557,
+   "order": 5,
+   "en": "Guardianship to become the First Rootwarden accepted"
+  }
+ ],
+ "91927": [
+  {
+   "id": 463705,
+   "order": 0,
+   "en": "Escaping Oozes booted"
+  }
+ ],
+ "91937": [
+  {
+   "id": 463750,
+   "order": 0,
+   "en": "Ride Bo'ke"
+  },
+  {
+   "id": 463751,
+   "order": 1,
+   "en": "Local Wildlife chronicled"
+  },
+  {
+   "id": 463752,
+   "order": 2,
+   "en": "Common"
+  },
+  {
+   "id": 463753,
+   "order": 3,
+   "en": "Rare"
+  },
+  {
+   "id": 463754,
+   "order": 4,
+   "en": "Epic"
+  },
+  {
+   "id": 463755,
+   "order": 5,
+   "en": "Legendary"
+  }
+ ],
+ "91966": [
+  {
+   "id": 463891,
+   "order": 0,
+   "en": "Tend to the Soiree's cleaning and entertainment"
+  },
+  {
+   "id": 464095,
+   "order": 2,
+   "en": "Song chosen"
+  }
+ ],
+ "91509": [
+  {
+   "id": 463896,
+   "order": 0,
+   "en": "Frenzied creatures slain"
+  },
+  {
+   "id": 464169,
+   "order": 1,
+   "en": "Speak with Tarati & Thornhat"
+  },
+  {
+   "id": 463906,
+   "order": 2,
+   "en": "<Speak with Tarati>"
+  },
+  {
+   "id": 463907,
+   "order": 3,
+   "en": "<Speak with Thornhat>"
+  },
+  {
+   "id": 464035,
+   "order": 4,
+   "en": "Commune with Awe'ohna"
+  },
+  {
+   "id": 464126,
+   "order": 5,
+   "en": "Fly along Awe'ohna's path and try to reach the Cradle"
+  },
+  {
+   "id": 464124,
+   "order": 6,
+   "en": "<Rings>"
+  },
+  {
+   "id": 464040,
+   "order": 7,
+   "en": "Blessing ceremony begun"
+  },
+  {
+   "id": 464041,
+   "order": 8,
+   "en": "Blessing ceremony witnessed"
+  }
+ ],
+ "91799": [
+  {
+   "id": 463973,
+   "order": 0,
+   "en": "Eagles inspired"
+  },
+  {
+   "id": 464045,
+   "order": 2,
+   "en": "Eagle Kill Credit"
+  },
+  {
+   "id": 465085,
+   "order": 3,
+   "en": "Fledgling Kill Credit"
+  }
+ ],
+ "91801": [
+  {
+   "id": 464055,
+   "order": 0,
+   "en": "Twilight's Blade slain"
+  },
+  {
+   "id": 464935,
+   "order": 1,
+   "en": "Ritual Component destroyed"
+  },
+  {
+   "id": 464940,
+   "order": 2,
+   "en": "Interactable 01"
+  },
+  {
+   "id": 464941,
+   "order": 3,
+   "en": "Interactable 02"
+  },
+  {
+   "id": 464942,
+   "order": 4,
+   "en": "Interactable 03"
+  }
+ ],
+ "92105": [
+  {
+   "id": 464170,
+   "order": 0,
+   "en": "Ride the Cataloger's Carpet"
+  },
+  {
+   "id": 464171,
+   "order": 1,
+   "en": "Take Pictures of Visitors"
+  },
+  {
+   "id": 464172,
+   "order": 2,
+   "en": "Common"
+  },
+  {
+   "id": 464173,
+   "order": 3,
+   "en": "Rare"
+  },
+  {
+   "id": 464174,
+   "order": 4,
+   "en": "Epic"
+  },
+  {
+   "id": 464175,
+   "order": 5,
+   "en": "Legendary"
+  }
+ ],
+ "91507": [
+  {
+   "id": 464209,
+   "order": 0,
+   "en": "Combatants slain"
+  },
+  {
+   "id": 464508,
+   "order": 5,
+   "en": "Speak with Roonek and Pustulehelm"
+  },
+  {
+   "id": 464509,
+   "order": 6,
+   "en": "Speak with Roonek"
+  },
+  {
+   "id": 464510,
+   "order": 7,
+   "en": "Speak with Pustulehelm"
+  },
+  {
+   "id": 464514,
+   "order": 8,
+   "en": "Speak with Russula"
+  },
+  {
+   "id": 464515,
+   "order": 9,
+   "en": "Consume Rich Soil"
+  },
+  {
+   "id": 464588,
+   "order": 10,
+   "en": "Warbound combatants subdued"
+  }
+ ],
+ "92119": [
+  {
+   "id": 464238,
+   "order": 0,
+   "en": "Bitterbloom burned"
+  }
+ ],
+ "92122": [
+  {
+   "id": 464243,
+   "order": 0,
+   "en": "Mount Emberstrike"
+  },
+  {
+   "id": 464290,
+   "order": 1,
+   "en": "Disrupt smuggling operations"
+  }
+ ],
+ "92140": [
+  {
+   "id": 464293,
+   "order": 0,
+   "en": "Lightbloom creatures slain"
+  },
+  {
+   "id": 464295,
+   "order": 1,
+   "en": "Encroaching Roots destroyed"
+  }
+ ],
+ "92141": [
+  {
+   "id": 464298,
+   "order": 0,
+   "en": "Lynx Collars collected"
+  },
+  {
+   "id": 464299,
+   "order": 1,
+   "en": "Arcane Wyrm slain"
+  }
+ ],
+ "92139": [
+  {
+   "id": 464304,
+   "order": 0,
+   "en": "Vilebranch Altars destroyed"
+  }
+ ],
+ "92149": [
+  {
+   "id": 464317,
+   "order": 0,
+   "en": "Cultists slain"
+  },
+  {
+   "id": 464312,
+   "order": 1,
+   "en": "Camp destroyed"
+  }
+ ],
+ "92162": [
+  {
+   "id": 464318,
+   "order": 0,
+   "en": "Mural activated"
+  },
+  {
+   "id": 464547,
+   "order": 1,
+   "en": "Hunger sated"
+  },
+  {
+   "id": 464521,
+   "order": 2,
+   "en": "Dinners Devoured"
+  },
+  {
+   "id": 464538,
+   "order": 3,
+   "en": "Snacks Savored"
+  }
+ ],
+ "92184": [
+  {
+   "id": 464354,
+   "order": 0,
+   "en": "Potadpole captured"
+  },
+  {
+   "id": 464377,
+   "order": 1,
+   "en": "Release the potatoads"
+  }
+ ],
+ "92138": [
+  {
+   "id": 468681,
+   "order": 0,
+   "en": "Pick Up Flyers"
+  },
+  {
+   "id": 464368,
+   "order": 1,
+   "en": "People recruited"
+  }
+ ],
+ "92152": [
+  {
+   "id": 464378,
+   "order": 0,
+   "en": "Lightbloom creatures slain"
+  }
+ ],
+ "92195": [
+  {
+   "id": 464395,
+   "order": 0,
+   "en": "Ring the dinner bell for Brightwing Butterflies"
+  }
+ ],
+ "92364": [
+  {
+   "id": 464450,
+   "order": 0,
+   "en": "Invading Wildlife slain"
+  },
+  {
+   "id": 464451,
+   "order": 1,
+   "en": "Empower Wandering Leaftender"
+  }
+ ],
+ "92143": [
+  {
+   "id": 464479,
+   "order": 0,
+   "en": "Arcana gathered"
+  },
+  {
+   "id": 464480,
+   "order": 1,
+   "en": "Arcane cannister"
+  },
+  {
+   "id": 464481,
+   "order": 2,
+   "en": "Arcane cannister vfx aura"
+  },
+  {
+   "id": 464482,
+   "order": 3,
+   "en": "Mana wyrm"
+  },
+  {
+   "id": 464483,
+   "order": 4,
+   "en": "Naga caster"
+  }
+ ],
+ "92144": [
+  {
+   "id": 464516,
+   "order": 0,
+   "en": "Amani defectors slain"
+  },
+  {
+   "id": 464517,
+   "order": 1,
+   "en": "Supplies and armaments destroyed"
+  }
+ ],
+ "92150": [
+  {
+   "id": 464681,
+   "order": 0,
+   "en": "Help Fairbreeze"
+  },
+  {
+   "id": 464682,
+   "order": 1,
+   "en": "light wyrm"
+  },
+  {
+   "id": 464693,
+   "order": 2,
+   "en": "trapped lynx"
+  },
+  {
+   "id": 464695,
+   "order": 3,
+   "en": "shoo hawkstrider"
+  }
+ ],
+ "92062": [
+  {
+   "id": 464698,
+   "order": 0,
+   "en": "Withered Plant removed"
+  },
+  {
+   "id": 464699,
+   "order": 1,
+   "en": "Invasive Fungi removed"
+  }
+ ],
+ "92160": [
+  {
+   "id": 464719,
+   "order": 0,
+   "en": "Unruly hatchling captured"
+  }
+ ],
+ "92063": [
+  {
+   "id": 464721,
+   "order": 0,
+   "en": "Talk to Nu'lan"
+  },
+  {
+   "id": 464801,
+   "order": 1,
+   "en": "Dri'hara Slain"
+  },
+  {
+   "id": 464722,
+   "order": 2,
+   "en": "Toa'mara Slain"
+  },
+  {
+   "id": 464807,
+   "order": 3,
+   "en": "Kham'dur slain"
+  }
+ ],
+ "92145": [
+  {
+   "id": 464758,
+   "order": 1,
+   "en": "Wine sampled"
+  },
+  {
+   "id": 465254,
+   "order": 2,
+   "en": "1 Heron Skygaze"
+  },
+  {
+   "id": 465265,
+   "order": 3,
+   "en": "2 Innkeeper Areyn"
+  },
+  {
+   "id": 465259,
+   "order": 4,
+   "en": "3 Kryenna"
+  },
+  {
+   "id": 465255,
+   "order": 5,
+   "en": "4 Lady Marilin"
+  },
+  {
+   "id": 465261,
+   "order": 6,
+   "en": "5 Landraelanis"
+  },
+  {
+   "id": 465256,
+   "order": 7,
+   "en": "6 Limien Bountcask"
+  },
+  {
+   "id": 465263,
+   "order": 8,
+   "en": "7 Magister Duskwither"
+  },
+  {
+   "id": 465258,
+   "order": 9,
+   "en": "8 Nara Fadebranch"
+  },
+  {
+   "id": 465260,
+   "order": 10,
+   "en": "9 Quarelestra"
+  },
+  {
+   "id": 465262,
+   "order": 11,
+   "en": "10 Sheri"
+  },
+  {
+   "id": 465257,
+   "order": 12,
+   "en": "11 Vehn Sorrelstride"
+  },
+  {
+   "id": 465264,
+   "order": 13,
+   "en": "12 Zalene Firstlight"
+  },
+  {
+   "id": 464759,
+   "order": 14,
+   "en": "Wine selected"
+  }
+ ],
+ "92085": [
+  {
+   "id": 464825,
+   "order": 0,
+   "en": "Swift Grymlinx mounted"
+  }
+ ],
+ "92146": [
+  {
+   "id": 464849,
+   "order": 0,
+   "en": "Lightbloom suppressed"
+  },
+  {
+   "id": 466487,
+   "order": 1,
+   "en": "Lightbloom corpses and flowers burned"
+  }
+ ],
+ "92546": [
+  {
+   "id": 465018,
+   "order": 0,
+   "en": "Encroaching Shredclaw slain"
+  }
+ ],
+ "92549": [
+  {
+   "id": 465044,
+   "order": 0,
+   "en": "Void Anomalies Dispersed"
+  }
+ ],
+ "92566": [
+  {
+   "id": 465107,
+   "order": 0,
+   "en": "Complacent Voidwalker trained"
+  }
+ ],
+ "92571": [
+  {
+   "id": 465115,
+   "order": 0,
+   "en": "Complacent Voidwalker trained"
+  }
+ ],
+ "92576": [
+  {
+   "id": 465120,
+   "order": 0,
+   "en": "Banners Placed"
+  },
+  {
+   "id": 465122,
+   "order": 1,
+   "en": "Domanaar Forces Disrupted"
+  },
+  {
+   "id": 467274,
+   "order": 4,
+   "en": "Void Ward Destroyed"
+  }
+ ],
+ "92582": [
+  {
+   "id": 465126,
+   "order": 1,
+   "en": "Roots tended"
+  }
+ ],
+ "92583": [
+  {
+   "id": 466586,
+   "order": 0,
+   "en": "Run through the Entryway"
+  },
+  {
+   "id": 465143,
+   "order": 1,
+   "en": "Fight in the Grudge Pit"
+  }
+ ],
+ "92121": [
+  {
+   "id": 465170,
+   "order": 0,
+   "en": "Pests Cleared Out"
+  },
+  {
+   "id": 465171,
+   "order": 1,
+   "en": "Nests"
+  },
+  {
+   "id": 465172,
+   "order": 2,
+   "en": "Webs"
+  }
+ ],
+ "92641": [
+  {
+   "id": 465277,
+   "order": 0,
+   "en": "Slay creatures in the Bloodplains"
+  }
+ ],
+ "92731": [
+  {
+   "id": 465514,
+   "order": 0,
+   "en": "Speak with Decimus to begin"
+  },
+  {
+   "id": 465515,
+   "order": 1,
+   "en": "Blade forged"
+  }
+ ],
+ "92746": [
+  {
+   "id": 465542,
+   "order": 0,
+   "en": "Stellar Vortex entered"
+  },
+  {
+   "id": 465543,
+   "order": 1,
+   "en": "Anomalous Residue collected"
+  }
+ ],
+ "93013": [
+  {
+   "id": 465942,
+   "order": 0,
+   "en": "Ride the Haranir Petalwing"
+  },
+  {
+   "id": 465943,
+   "order": 1,
+   "en": "Lightbloom rutaani defeated"
+  }
+ ],
+ "92120": [
+  {
+   "id": 465967,
+   "order": 0,
+   "en": "Training Rod of Polymorph borrowed"
+  },
+  {
+   "id": 465966,
+   "order": 1,
+   "en": "Students polymorphed or dispelled"
+  },
+  {
+   "id": 466695,
+   "order": 2,
+   "en": "Tomes of Polymorph collected"
+  }
+ ],
+ "93053": [
+  {
+   "id": 466002,
+   "order": 0,
+   "en": "Dried Acorn removed"
+  }
+ ],
+ "93046": [
+  {
+   "id": 466010,
+   "order": 0,
+   "en": "Orweyna's Belongings found"
+  }
+ ],
+ "91804": [
+  {
+   "id": 466276,
+   "order": 0,
+   "en": "Lumpy Fish Guts"
+  },
+  {
+   "id": 466299,
+   "order": 1,
+   "en": "Regain Breath from Underwater Airflow"
+  }
+ ],
+ "91809": [
+  {
+   "id": 466318,
+   "order": 0,
+   "en": "Witherbark boat entered"
+  },
+  {
+   "id": 466316,
+   "order": 1,
+   "en": "Witherbark Rings sped through"
+  }
+ ],
+ "93397": [
+  {
+   "id": 466485,
+   "order": 0,
+   "en": "Gather carrion to weaken Slavering Ultradons"
+  }
+ ],
+ "93507": [
+  {
+   "id": 466681,
+   "order": 0,
+   "en": "Shadowguard operation disrupted"
+  },
+  {
+   "id": 466686,
+   "order": 4,
+   "en": "Obtuse Joint 0.9"
+  },
+  {
+   "id": 466687,
+   "order": 5,
+   "en": "Obtuse Joint 1.1"
+  },
+  {
+   "id": 466690,
+   "order": 6,
+   "en": "Straight 0.6"
+  }
+ ],
+ "93524": [
+  {
+   "id": 466712,
+   "order": 0,
+   "en": "Knock down Voracious Harrower"
+  }
+ ],
+ "93573": [
+  {
+   "id": 466779,
+   "order": 0,
+   "en": "Dark Vessel deciphered"
+  }
+ ],
+ "93569": [
+  {
+   "id": 466785,
+   "order": 1,
+   "en": "[dnt] Exaliburn pulled"
+  }
+ ],
+ "93577": [
+  {
+   "id": 466856,
+   "order": 0,
+   "en": "Ride the Cataloger's Disc"
+  },
+  {
+   "id": 466857,
+   "order": 1,
+   "en": "Take Pictures of Wildlife"
+  },
+  {
+   "id": 466858,
+   "order": 2,
+   "en": "Common"
+  },
+  {
+   "id": 466859,
+   "order": 3,
+   "en": "Rare"
+  },
+  {
+   "id": 466860,
+   "order": 4,
+   "en": "Epic"
+  },
+  {
+   "id": 466861,
+   "order": 5,
+   "en": "Legendary"
+  }
+ ],
+ "93578": [
+  {
+   "id": 466935,
+   "order": 0,
+   "en": "Disrupt the battlefield combatants"
+  },
+  {
+   "id": 466936,
+   "order": 1,
+   "en": "T0 Kill"
+  },
+  {
+   "id": 466937,
+   "order": 2,
+   "en": "T1 Kill"
+  },
+  {
+   "id": 466938,
+   "order": 3,
+   "en": "T2 Kill"
+  },
+  {
+   "id": 467349,
+   "order": 4,
+   "en": "Shatter Spear"
+  },
+  {
+   "id": 467353,
+   "order": 5,
+   "en": "Shatter Sword"
+  },
+  {
+   "id": 467361,
+   "order": 6,
+   "en": "Void Gate"
+  }
+ ],
+ "93579": [
+  {
+   "id": 467005,
+   "order": 0,
+   "en": "Slay enemies to gather Void Essence"
+  },
+  {
+   "id": 466959,
+   "order": 1,
+   "en": "Fallow Altars empowered with Void Essence"
+  },
+  {
+   "id": 466970,
+   "order": 2,
+   "en": "Altar 01"
+  },
+  {
+   "id": 466971,
+   "order": 3,
+   "en": "Altar 02"
+  },
+  {
+   "id": 466972,
+   "order": 4,
+   "en": "Altar 03"
+  },
+  {
+   "id": 466973,
+   "order": 5,
+   "en": "Altar 04"
+  }
+ ],
+ "93438": [
+  {
+   "id": 467090,
+   "order": 0,
+   "en": "Ride the War-Wyrm"
+  },
+  {
+   "id": 467388,
+   "order": 1,
+   "en": "Forces slain in lower courtyard"
+  },
+  {
+   "id": 467039,
+   "order": 2,
+   "en": "Forces slain in lower courtyard HIDDEN"
+  },
+  {
+   "id": 467389,
+   "order": 3,
+   "en": "Forces slain in upper courtyard"
+  },
+  {
+   "id": 467040,
+   "order": 4,
+   "en": "Forces slain in upper courtyard HIDDEN"
+  },
+  {
+   "id": 467042,
+   "order": 5,
+   "en": "High value targets eliminated"
+  },
+  {
+   "id": 467390,
+   "order": 6,
+   "en": "Forces slain in Stormarion Watch"
+  },
+  {
+   "id": 467066,
+   "order": 7,
+   "en": "Forces slain in Stormarion Watch HIDDEN"
+  },
+  {
+   "id": 467076,
+   "order": 8,
+   "en": "Stormarion Supplies destroyed"
+  }
+ ],
+ "91810": [
+  {
+   "id": 467135,
+   "order": 0,
+   "en": "Prepared Zapgut Eel squeezed"
+  },
+  {
+   "id": 467136,
+   "order": 1,
+   "en": "Prepared Saltleaf Boar carved"
+  },
+  {
+   "id": 467137,
+   "order": 2,
+   "en": "Jump on the Blisterskin Kelp"
+  },
+  {
+   "id": 467262,
+   "order": 4,
+   "en": "Blistereel Boar cooked"
+  },
+  {
+   "id": 467264,
+   "order": 5,
+   "en": "Blistereel Boar tasted"
+  }
+ ],
+ "91811": [
+  {
+   "id": 467284,
+   "order": 0,
+   "en": "Coalesced Fire touched"
+  }
+ ],
+ "93904": [
+  {
+   "id": 467783,
+   "order": 0,
+   "en": "Void Power Collected"
+  },
+  {
+   "id": 467787,
+   "order": 4,
+   "en": "Activate the Gravity Anomaly to travel up"
+  }
+ ],
+ "93905": [
+  {
+   "id": 467806,
+   "order": 0,
+   "en": "Manaforge Disrupted"
+  },
+  {
+   "id": 467807,
+   "order": 1,
+   "en": "Manaturret Destroyed"
+  }
+ ],
+ "93244": [
+  {
+   "id": 467988,
+   "order": 0,
+   "en": "Slay ethereals for an Overflow Diverter"
+  },
+  {
+   "id": 467923,
+   "order": 1,
+   "en": "Amalgam's power rerouted"
+  },
+  {
+   "id": 467924,
+   "order": 2,
+   "en": "Unbound's power rerouted"
+  },
+  {
+   "id": 467925,
+   "order": 3,
+   "en": "Dweller's power rerouted"
+  },
+  {
+   "id": 467926,
+   "order": 4,
+   "en": "Surge's power rerouted"
+  },
+  {
+   "id": 467933,
+   "order": 5,
+   "en": "[DNT] Completion"
+  }
+ ],
+ "94005": [
+  {
+   "id": 468050,
+   "order": 0,
+   "en": "pulled once"
+  },
+  {
+   "id": 468051,
+   "order": 1,
+   "en": "pulled twice"
+  },
+  {
+   "id": 468052,
+   "order": 2,
+   "en": "pulled thrice"
+  }
+ ],
+ "94425": [
+  {
+   "id": 468665,
+   "order": 0,
+   "en": "Speak to Scout Adaephus"
+  },
+  {
+   "id": 468571,
+   "order": 1,
+   "en": "Elite Voidspire forces slain"
+  },
+  {
+   "id": 468572,
+   "order": 2,
+   "en": "Summoning Pylons shattered"
+  },
+  {
+   "id": 468745,
+   "order": 3,
+   "en": "Front Pylons Completed"
+  },
+  {
+   "id": 468746,
+   "order": 4,
+   "en": "Rear Pylons Completed"
+  },
+  {
+   "id": 469124,
+   "order": 5,
+   "en": "Right Pylon"
+  },
+  {
+   "id": 469125,
+   "order": 6,
+   "en": "Left Pylon"
+  }
+ ],
+ "93571": [
+  {
+   "id": 468773,
+   "order": 0,
+   "en": "Void-Gorged monstrosities slain"
+  }
+ ],
+ "94581": [
+  {
+   "id": 468911,
+   "order": 0,
+   "en": "Complete the entire Stormarion Assault Event"
+  },
+  {
+   "id": 468912,
+   "order": 1,
+   "en": "Wave 1 Complete"
+  },
+  {
+   "id": 468913,
+   "order": 2,
+   "en": "Wave 2 Complete"
+  },
+  {
+   "id": 468914,
+   "order": 3,
+   "en": "Wave 3 Complete"
+  },
+  {
+   "id": 468916,
+   "order": 5,
+   "en": "Defense Position activated"
+  }
+ ],
+ "91807": [
+  {
+   "id": 468971,
+   "order": 0,
+   "en": "Vilebranch forces defeated"
+  }
+ ],
+ "91796": [
+  {
+   "id": 469118,
+   "order": 0,
+   "en": "Inhabit a Loa Avatar"
+  },
+  {
+   "id": 469119,
+   "order": 1,
+   "en": "Slay Echoes"
+  },
+  {
+   "id": 469120,
+   "order": 2,
+   "en": "Use Time Flies ability to travel"
+  },
+  {
+   "id": 469121,
+   "order": 3,
+   "en": "Raid Leader slain"
+  }
+ ],
+ "95392": [
+  {
+   "id": 470504,
+   "order": 0,
+   "en": "Snow Pile investigated"
+  },
+  {
+   "id": 470595,
+   "order": 1,
+   "en": "Enchanted frost amassed"
+  },
+  {
+   "id": 470596,
+   "order": 2,
+   "en": "Void forces defeated"
+  }
+ ],
+ "95393": [
+  {
+   "id": 470506,
+   "order": 0,
+   "en": "Cave safeguarded"
+  }
+ ],
+ "95394": [
+  {
+   "id": 470508,
+   "order": 0,
+   "en": "Shadowgrafted Devourers freed"
+  }
+ ],
+ "95395": [
+  {
+   "id": 470510,
+   "order": 0,
+   "en": "Ultradon Slayer released"
+  },
+  {
+   "id": 471192,
+   "order": 1,
+   "en": "Void forces defeated"
+  }
+ ],
+ "95396": [
+  {
+   "id": 470512,
+   "order": 0,
+   "en": "Ritual interrupted"
+  }
+ ],
+ "95398": [
+  {
+   "id": 470516,
+   "order": 0,
+   "en": "Disguise applied"
+  },
+  {
+   "id": 472721,
+   "order": 1,
+   "en": "Portal entered"
+  },
+  {
+   "id": 471274,
+   "order": 2,
+   "en": "Convince Domanaar to rebel"
+  }
+ ],
+ "95399": [
+  {
+   "id": 472703,
+   "order": 0,
+   "en": "Disguise applied"
+  },
+  {
+   "id": 472720,
+   "order": 1,
+   "en": "Portal entered"
+  },
+  {
+   "id": 470518,
+   "order": 2,
+   "en": "Battle Plans stolen"
+  }
+ ],
+ "95400": [
+  {
+   "id": 471138,
+   "order": 0,
+   "en": "Void Furnace destroyed"
+  },
+  {
+   "id": 470520,
+   "order": 1,
+   "en": "Frozen Solid creatures freed"
+  }
+ ],
+ "95401": [
+  {
+   "id": 470522,
+   "order": 0,
+   "en": "Portal Hub disrupted"
+  }
+ ],
+ "95402": [
+  {
+   "id": 470524,
+   "order": 0,
+   "en": "Gas Collector filled"
+  }
+ ],
+ "95403": [
+  {
+   "id": 470526,
+   "order": 1,
+   "en": "Void Echoes collected"
+  }
+ ],
+ "95404": [
+  {
+   "id": 470528,
+   "order": 0,
+   "en": "Spider Eggs destroyed"
+  }
+ ],
+ "95572": [
+  {
+   "id": 470960,
+   "order": 0,
+   "en": "Lightning strikes avoided"
+  }
+ ],
+ "95815": [
+  {
+   "id": 471438,
+   "order": 0,
+   "en": "Ride the Ice Block"
+  },
+  {
+   "id": 471437,
+   "order": 1,
+   "en": "Ice Block ridden to the goal"
+  }
+ ],
+ "95575": [
+  {
+   "id": 472655,
+   "order": 0,
+   "en": "Jump on a Bouncy Mushroom"
+  },
+  {
+   "id": 471793,
+   "order": 1,
+   "en": "Mana Spores Gathered"
+  }
+ ],
+ "96000": [
+  {
+   "id": 474921,
+   "order": 0,
+   "en": "Board a Skiff"
+  },
+  {
+   "id": 471796,
+   "order": 1,
+   "en": "Troops Defeated with Cannon"
+  },
+  {
+   "id": 472153,
+   "order": 2,
+   "en": "Guns Destroyed with Cannon"
+  }
+ ],
+ "95397": [
+  {
+   "id": 472374,
+   "order": 0,
+   "en": "Expedition forces assisted"
+  }
+ ],
+ "96210": [
+  {
+   "id": 472495,
+   "order": 0,
+   "en": "Infected Aberrations slain"
+  }
+ ],
+ "96217": [
+  {
+   "id": 472532,
+   "order": 0,
+   "en": "Hal'hadar Keeper Keycodes acquired"
+  },
+  {
+   "id": 472540,
+   "order": 1,
+   "en": "Spore Motes freed"
+  }
+ ],
+ "96268": [
+  {
+   "id": 474963,
+   "order": 0,
+   "en": "Jump on a Bouncy Mushroom"
+  },
+  {
+   "id": 472660,
+   "order": 1,
+   "en": "Mana Spores Gathered"
+  }
+ ],
+ "96269": [
+  {
+   "id": 472712,
+   "order": 0,
+   "en": "Access Mind Control Console"
+  },
+  {
+   "id": 472676,
+   "order": 1,
+   "en": "Control a Tamed Marauder"
+  },
+  {
+   "id": 472677,
+   "order": 2,
+   "en": "Devour Hal'Hadar Remains"
+  },
+  {
+   "id": 472678,
+   "order": 3,
+   "en": "Steal Devourer Research Notes"
+  },
+  {
+   "id": 472679,
+   "order": 4,
+   "en": "Return with the Research Notes"
+  }
+ ],
+ "96293": [
+  {
+   "id": 472736,
+   "order": 0,
+   "en": "Batteries thrown at volatile mushrooms"
+  }
+ ],
+ "96272": [
+  {
+   "id": 472981,
+   "order": 0,
+   "en": "Harvesting machines deactivated"
+  }
+ ],
+ "96400": [
+  {
+   "id": 473478,
+   "order": 0,
+   "en": "Portal entered"
+  },
+  {
+   "id": 473150,
+   "order": 1,
+   "en": "Unstable Void Energy investigated"
+  },
+  {
+   "id": 473151,
+   "order": 2,
+   "en": "Fel Corrupted enemies smashed"
+  }
+ ],
+ "96432": [
+  {
+   "id": 473183,
+   "order": 0,
+   "en": "Fungal Processors overloaded"
+  }
+ ],
+ "96433": [
+  {
+   "id": 473184,
+   "order": 0,
+   "en": "Assault defeated"
+  }
+ ],
+ "96463": [
+  {
+   "id": 473318,
+   "order": 0,
+   "en": "Activate Stasis Traps"
+  },
+  {
+   "id": 473319,
+   "order": 1,
+   "en": "Hal'Hadar Trapped"
+  }
+ ],
+ "96295": [
+  {
+   "id": 473486,
+   "order": 0,
+   "en": "Portal entered"
+  }
+ ],
+ "96547": [
+  {
+   "id": 473543,
+   "order": 0,
+   "en": "Forces Weakened"
+  }
+ ],
+ "96548": [
+  {
+   "id": 473550,
+   "order": 0,
+   "en": "Erratic Spore investigated"
+  },
+  {
+   "id": 473549,
+   "order": 1,
+   "en": "Overflowing Cap smashed"
+  }
+ ],
+ "96557": [
+  {
+   "id": 473561,
+   "order": 0,
+   "en": "Remote Detonators planted"
+  },
+  {
+   "id": 473567,
+   "order": 1,
+   "en": "Remote Detonators triggered"
+  }
+ ],
+ "96611": [
+  {
+   "id": 473719,
+   "order": 0,
+   "en": "Defeat Rampaging Elementals"
+  }
+ ],
+ "96617": [
+  {
+   "id": 473750,
+   "order": 0,
+   "en": "Defeat Rampaging Elementals"
+  }
+ ],
+ "96618": [
+  {
+   "id": 473753,
+   "order": 0,
+   "en": "Defeat Rampaging Elementals"
+  }
+ ],
+ "96623": [
+  {
+   "id": 473761,
+   "order": 0,
+   "en": "Salt Caps gathered"
+  }
+ ],
+ "96650": [
+  {
+   "id": 473825,
+   "order": 0,
+   "en": "Spore Spewing Shrooms Destroyed"
+  }
+ ],
+ "96651": [
+  {
+   "id": 473829,
+   "order": 0,
+   "en": "Spore Spewing Shrooms Destroyed"
+  }
+ ],
+ "96660": [
+  {
+   "id": 473848,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473849,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96668": [
+  {
+   "id": 473854,
+   "order": 0,
+   "en": "Spore Spewing Shrooms Destroyed"
+  }
+ ],
+ "96688": [
+  {
+   "id": 473866,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473867,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96689": [
+  {
+   "id": 473870,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473871,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96691": [
+  {
+   "id": 473878,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473879,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96693": [
+  {
+   "id": 473880,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473881,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96695": [
+  {
+   "id": 473885,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473886,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96696": [
+  {
+   "id": 473890,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473891,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96697": [
+  {
+   "id": 473894,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473895,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96698": [
+  {
+   "id": 473898,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473899,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96699": [
+  {
+   "id": 473904,
+   "order": 0,
+   "en": "Vine grabbed"
+  },
+  {
+   "id": 473905,
+   "order": 1,
+   "en": "Coalescing Leaf Storm dismantled"
+  }
+ ],
+ "96941": [
+  {
+   "id": 474584,
+   "order": 0,
+   "en": "Portal entered"
+  }
+ ]
+}

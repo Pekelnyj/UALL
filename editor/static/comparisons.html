@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Порівняння — temnozelena.com</title>
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("wowua-theme")||"dark"}catch(e){}</script>
+<link rel="stylesheet" href="/theme.css">
+<script src="/theme.js" defer></script>
+<style>
+  :root{
+    --bg:#16181d; --bg2:#1d2027; --bg3:#23272f; --line:#2e333d;
+    --fg:#e6e8ec; --muted:#8b919c; --muted2:#6b7180;
+    --gold:#f0c64a; --green:#3fb950; --red:#f0584f; --focus:#5a7fb5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Noto Sans",system-ui,-apple-system,Arial,sans-serif; font-size:15px; line-height:1.5}
+  a{color:var(--gold)}
+  header{position:sticky; top:0; z-index:10; background:var(--bg2); border-bottom:1px solid var(--line);
+    padding:12px 18px; display:flex; align-items:center; gap:14px; flex-wrap:wrap}
+  .brand{font-size:18px; font-weight:600; color:var(--green); margin:0}
+  .brand small{color:var(--muted); font-weight:400; font-size:13px; margin-left:8px}
+  .spacer{flex:1}
+  .who{color:var(--muted); font-size:13px} .who b{color:var(--fg)}
+  .userbtn{font-size:13px; color:var(--fg); background:var(--bg3); border:1px solid var(--line);
+    border-radius:7px; padding:7px 10px; text-decoration:none; cursor:pointer}
+  .userbtn:hover{background:#2b303a}
+  select,button{font-family:inherit; font-size:14px; color:var(--fg);
+    background:var(--bg3); border:1px solid var(--line); border-radius:7px; padding:7px 10px; outline:none; cursor:pointer}
+
+  .wrap{max-width:1720px; margin:0; padding:14px 18px; display:flex; gap:14px; align-items:flex-start}
+  /* ДЕРЕВО: доповнення -> гілка -> квести */
+  aside{width:330px; flex:0 0 auto; position:sticky; top:64px;
+    max-height:calc(100vh - 80px); overflow:auto;
+    background:var(--bg2); border:1px solid var(--line); border-radius:10px; padding:8px}
+  body.collapsed aside{display:none}
+  .exp-hdr{font-size:12px; font-weight:800; letter-spacing:.6px; text-transform:uppercase;
+    color:var(--gold); padding:8px 8px 4px; cursor:pointer; user-select:none}
+  .exp-hdr .tri{display:inline-block; width:14px; color:var(--muted)}
+  .line-hdr{display:flex; align-items:center; gap:6px; width:100%; text-align:left; background:none;
+    border:none; border-radius:8px; padding:7px 8px 7px 18px; cursor:pointer; color:var(--fg); font-size:14px}
+  .line-hdr:hover{background:var(--bg3)}
+  .line-hdr.active{background:var(--bg3); outline:1px solid var(--line)}
+  .line-hdr .tri{width:12px; color:var(--muted); font-size:11px}
+  .line-hdr .nm{flex:1; overflow:hidden; white-space:nowrap; text-overflow:ellipsis}
+  .line-hdr .cnt{color:var(--muted2); font-size:12px}
+  .qlist{margin:0 0 4px}
+  .qitem{display:block; width:100%; text-align:left; background:none; border:none; border-radius:7px;
+    padding:4px 8px 4px 40px; cursor:pointer; color:var(--muted); font-size:13px;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .qitem:hover{background:var(--bg3); color:var(--fg)}
+  .qitem.active{background:var(--bg3); color:var(--gold); outline:1px solid var(--gold)}
+  .qitem .qid{color:var(--gold); font-size:12px; margin-right:6px}
+
+  .content{flex:1; min-width:0}
+  .card{background:var(--bg2); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:14px}
+  .qhead{font-size:16px; font-weight:700; color:var(--gold)}
+  .qen{font-size:12px; color:var(--muted2); margin-bottom:8px}
+  .variant{border:1px solid var(--line); border-radius:8px; padding:10px 12px; margin-top:10px; background:var(--bg3)}
+  .variant.orig{border-style:dashed}
+  .vhead{display:flex; align-items:center; gap:10px; margin-bottom:6px; flex-wrap:wrap}
+  .vlabel{font-size:11px; font-weight:700; padding:2px 9px; border-radius:20px; background:#2b3a2e; color:var(--green)}
+  .vlabel.orig{background:#2a2f3a; color:var(--muted)}
+  .vtitle{font-weight:600}
+  .vbody{white-space:pre-wrap; font-size:14px}
+  .votes{margin-left:auto; display:flex; gap:6px}
+  .vbtn{font-size:13px; padding:4px 10px; border-radius:20px; border:1px solid var(--line); background:var(--bg2)}
+  .vbtn.on-up{border-color:var(--green); color:var(--green)}
+  .vbtn.on-down{border-color:var(--red); color:var(--red)}
+  .verdict{font-size:13px; color:var(--muted); border-left:3px solid var(--gold); padding-left:10px}
+  .note{padding:30px 10px; text-align:center; color:var(--muted)}
+  .navrow{display:flex; gap:8px; margin-top:10px}
+  .spinner{display:inline-block; width:14px; height:14px; vertical-align:-2px; border:2px solid var(--muted2);
+    border-top-color:transparent; border-radius:50%; animation:spin .7s linear infinite; margin-right:6px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media (max-width:760px){ .wrap{flex-direction:column} aside{position:static; width:100%; max-height:300px} }
+</style>
+</head>
+<body>
+<header>
+  <h1 class="brand"><a href="/" style="color:inherit;text-decoration:none" title="На головну">temnozelena.com</a> <small>порівняння</small></h1>
+  <button class="userbtn" id="toggleSide" title="Згорнути/розгорнути дерево">◀ Дерево</button>
+  <div class="spacer"></div>
+  <span class="who" id="who">&nbsp;</span>
+  <select id="themeSel" class="themesel" title="Тема">
+    <option value="dark">🌙 Темна</option>
+    <option value="light">☀️ Світла</option>
+    <option value="oled">⬛ OLED</option>
+    <option value="medoid">🌿 Медоїд</option>
+  </select>
+  <a href="/" class="userbtn">← до редактора</a>
+  <button class="userbtn" id="logout">Вийти</button>
+</header>
+<div class="wrap">
+  <aside id="side"><div class="note"><span class="spinner"></span></div></aside>
+  <div class="content">
+    <div id="verdict"></div>
+    <div id="view"><div class="note">Вибери квест у дереві ліворуч: доповнення → гілка → квест.</div></div>
+  </div>
+</div>
+<script>
+"use strict";
+(function(){
+  const $ = (id) => document.getElementById(id);
+  function esc(s){return String(s==null?"":s).replace(/\r/g,"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+  async function api(url, opts){
+    const r = await fetch(url, opts);
+    if(r.status === 401){ location.href="/login"; throw new Error("Потрібен вхід"); }
+    if(!r.ok) throw new Error((await r.json().catch(()=>({}))).detail || ("HTTP "+r.status));
+    return r.json();
+  }
+  $("logout").addEventListener("click", async () => { try{ await fetch("/api/logout",{method:"POST"}); }catch(e){} location.href="/login"; });
+  api("/api/me").then(u => { $("who").innerHTML = `Ви: <b>${esc(u.username)}</b> (${esc(u.role)})`; }).catch(()=>{});
+  $("toggleSide").addEventListener("click", () => {
+    document.body.classList.toggle("collapsed");
+    $("toggleSide").textContent = document.body.classList.contains("collapsed") ? "▶ Дерево" : "◀ Дерево";
+  });
+
+  let EXPS = [];                 // список експериментів (гілок)
+  const CACHE = {};              // exp_id -> detail (quests+variants)
+  const openExp = new Set();     // розгорнуті доповнення
+  const openLine = new Set();    // розгорнуті гілки (exp_id)
+  let SEL = {eid:null, qi:0};    // вибраний квест
+
+  function groups(){
+    const g = {};
+    for(const e of EXPS){ const k = e.expansion || "Інше"; (g[k] = g[k] || []).push(e); }
+    return g;
+  }
+  function lineName(e){
+    const nm = e.questline || e.title;
+    return nm.replace(/\s*\(\d+\)\s*$/, "");   // без "(6300)" — чистіше
+  }
+  async function detail(eid){
+    if(!CACHE[eid]) CACHE[eid] = await api("/api/comparisons/"+eid);
+    return CACHE[eid];
+  }
+  function renderSide(){
+    const g = groups();
+    let html = "";
+    for(const exp of Object.keys(g).sort()){
+      const open = openExp.has(exp);
+      html += `<div class="exp-hdr" data-exp="${esc(exp)}"><span class="tri">${open?"▾":"▸"}</span>${esc(exp)}</div>`;
+      if(!open) continue;
+      for(const e of g[exp]){
+        const lopen = openLine.has(e.id);
+        html += `<button class="line-hdr ${SEL.eid===e.id?"active":""}" data-line="${e.id}">
+          <span class="tri">${lopen?"▾":"▸"}</span><span class="nm">${esc(lineName(e))}</span>
+          <span class="cnt">${e.quests}</span></button>`;
+        if(lopen && CACHE[e.id]){
+          html += `<div class="qlist">` + CACHE[e.id].quests.map((q,i) =>
+            `<button class="qitem ${SEL.eid===e.id&&SEL.qi===i?"active":""}" data-line="${e.id}" data-qi="${i}">
+              <span class="qid">[${esc(q.quest_id)}]</span>${esc(q.title_en)}</button>`).join("") + `</div>`;
+        }
+      }
+    }
+    $("side").innerHTML = html || `<div class="note">Порожньо.</div>`;
+    $("side").querySelectorAll(".exp-hdr").forEach(h => h.addEventListener("click", () => {
+      const k = h.dataset.exp;
+      openExp.has(k) ? openExp.delete(k) : openExp.add(k);
+      renderSide();
+    }));
+    $("side").querySelectorAll(".line-hdr").forEach(h => h.addEventListener("click", async () => {
+      const eid = +h.dataset.line;
+      if(openLine.has(eid)){ openLine.delete(eid); renderSide(); return; }
+      openLine.add(eid);
+      try{ await detail(eid); }catch(e){ alert(e.message); return; }
+      // відкриття гілки одразу показує перший квест
+      SEL = {eid, qi:0};
+      renderSide(); renderQuest();
+    }));
+    $("side").querySelectorAll(".qitem").forEach(b => b.addEventListener("click", () => {
+      SEL = {eid:+b.dataset.line, qi:+b.dataset.qi};
+      renderSide(); renderQuest();
+    }));
+  }
+  function voteBtns(v){
+    const upOn = v.my_vote===1 ? "on-up" : "", dnOn = v.my_vote===-1 ? "on-down" : "";
+    return `<span class="votes">
+      <button class="vbtn ${upOn}" data-id="${v.id}" data-v="1">👍 <span>${v.up||0}</span></button>
+      <button class="vbtn ${dnOn}" data-id="${v.id}" data-v="-1">👎 <span>${v.down||0}</span></button></span>`;
+  }
+  function renderQuest(){
+    const D = CACHE[SEL.eid];
+    if(!D){ return; }
+    const e = EXPS.find(x => x.id === SEL.eid);
+    const q = D.quests[SEL.qi];
+    $("verdict").innerHTML = (D.experiment.verdict
+      ? `<div class="card verdict">Вердикт: ${esc(D.experiment.verdict)}</div>` : "");
+    $("view").innerHTML = `
+      <div class="card">
+        <div class="qhead">${esc(lineName(e))} · [${esc(q.quest_id)}]</div>
+        <div class="qen">${esc(q.title_en)} · квест ${SEL.qi+1} з ${D.quests.length}</div>
+        ${q.variants.map(v => {
+          const isOrig = v.label === "ОРИГІНАЛ";
+          return `
+          <div class="variant ${isOrig?"orig":""}">
+            <div class="vhead"><span class="vlabel ${isOrig?"orig":""}">${esc(v.label)}</span>
+              <span class="vtitle">${esc(v.title_ua||"")}</span>${isOrig?"":voteBtns(v)}</div>
+            <div class="vbody">${esc(v.body||"")}</div>
+          </div>`;}).join("")}
+        <div class="navrow">
+          <button class="userbtn" id="prevQ" ${SEL.qi===0?"disabled":""}>← Попередній</button>
+          <button class="userbtn" id="nextQ" ${SEL.qi===D.quests.length-1?"disabled":""}>Наступний →</button>
+        </div>
+      </div>`;
+    const pq=$("prevQ"), nq=$("nextQ");
+    if(pq) pq.addEventListener("click", ()=>{ if(SEL.qi>0){SEL.qi--; renderSide(); renderQuest(); window.scrollTo(0,0);} });
+    if(nq) nq.addEventListener("click", ()=>{ if(SEL.qi<D.quests.length-1){SEL.qi++; renderSide(); renderQuest(); window.scrollTo(0,0);} });
+    $("view").querySelectorAll(".vbtn").forEach(b => b.addEventListener("click", async () => {
+      try{
+        const r = await api(`/api/comp/${b.dataset.id}/vote`, {method:"POST",
+          headers:{"Content-Type":"application/json"}, body:JSON.stringify({value:+b.dataset.v})});
+        const v = q.variants.find(x => x.id == b.dataset.id);
+        if(v){ v.up=r.up; v.down=r.down; v.my_vote=r.my_vote; }
+        const wrap = b.closest(".vhead");
+        const [up, dn] = wrap.querySelectorAll(".vbtn");
+        up.querySelector("span").textContent = r.up; dn.querySelector("span").textContent = r.down;
+        up.classList.toggle("on-up", r.my_vote===1); dn.classList.toggle("on-down", r.my_vote===-1);
+      }catch(e){ alert(e.message); }
+    }));
+  }
+  (async function init(){
+    try{
+      EXPS = await api("/api/comparisons");
+      if(!EXPS.length){ $("side").innerHTML = `<div class="note">Ще немає порівнянь.</div>`; return; }
+      // перше доповнення розгорнуте одразу
+      const g = groups();
+      openExp.add(Object.keys(g).sort()[0]);
+      renderSide();
+    }catch(e){ $("side").innerHTML = `<div class="note">${esc(e.message)}</div>`; }
+  })();
+})();
+</script>
+</body>
+</html>

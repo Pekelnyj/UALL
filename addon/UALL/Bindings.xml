@@ -1,0 +1,19 @@
+<Bindings>
+    <!-- Перемикач «оригінал ⇄ переклад». Гравець сам призначає клавішу (можна акорд,
+         напр. Shift+T) у «Гра → Призначення клавіш → Аддони». Це ПЕРЕМИКАЧ, а не
+         утримання: натиснув раз — оригінал, ще раз — назад на переклад. Дія викликає
+         глобальну UALL_ToggleOriginalHotkey() (Core.lua). category="ADDONS" кладе дію
+         в секцію «Аддони» (САМЕ ЦЕ, а не лише header, робить BtWQuests). Підпис розділу/
+         дії — глобалі BINDING_HEADER_UALL / BINDING_NAME_UALL_TOGGLE_ORIGINAL. -->
+    <Binding name="UALL_TOGGLE_ORIGINAL" header="UALL" category="ADDONS">
+        UALL_ToggleOriginalHotkey()
+    </Binding>
+    <!-- УТРИМАННЯ оригіналу на ДОВІЛЬНІЙ клавіші (заміна модифікатора Shift). WoW не
+         дає addon-біндингу події key-up, тож саме утримання ловить кадр-спостерігач
+         клавіатури в Core.lua (порівнює з клавішею, призначеною ЦЬОМУ біндингу через
+         GetBindingKey). Дія on-down тут — запасний показ (кадр усе одно зробить hold). -->
+    <Binding name="UALL_SHOW_ORIGINAL_HOLD" category="ADDONS">
+        -- саме утримання/відпускання ловить кадр-спостерігач у Core.lua (key-up
+        -- недоступний addon-біндингу); тут дія-заглушка лише резервує клавішу.
+    </Binding>
+</Bindings>

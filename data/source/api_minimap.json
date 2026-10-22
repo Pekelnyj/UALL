@@ -1,0 +1,62 @@
+{
+ "1": {
+  "name": {
+   "en": "Mailbox"
+  }
+ },
+ "2": {
+  "name": {
+   "en": "Flight Master"
+  }
+ },
+ "3": {
+  "name": {
+   "en": "Innkeeper"
+  }
+ },
+ "4": {
+  "name": {
+   "en": "Auctioneer"
+  }
+ },
+ "5": {
+  "name": {
+   "en": "Banker"
+  }
+ },
+ "6": {
+  "name": {
+   "en": "Stable Master"
+  }
+ },
+ "7": {
+  "name": {
+   "en": "Battlemaster"
+  }
+ },
+ "8": {
+  "name": {
+   "en": "Barber"
+  }
+ },
+ "9": {
+  "name": {
+   "en": "Void Storage"
+  }
+ },
+ "10": {
+  "name": {
+   "en": "Transmogrifier"
+  }
+ },
+ "11": {
+  "name": {
+   "en": "Guild Master"
+  }
+ },
+ "12": {
+  "name": {
+   "en": "Repair"
+  }
+ }
+}

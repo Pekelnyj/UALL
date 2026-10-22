@@ -1,0 +1,6821 @@
+{
+ "757": {
+  "name": {
+   "en": "Iceborne Embrace",
+   "de": "Winterliche Umarmung",
+   "fr": "Étreinte cryostène"
+  }
+ },
+ "774": {
+  "name": {
+   "en": "Gladiator's Wildhide",
+   "de": "Wildfell des Gladiators",
+   "fr": "Peau de fauve de gladiateur"
+  }
+ },
+ "777": {
+  "name": {
+   "en": "Gladiator's Investiture",
+   "de": "Vereidigung des Gladiators",
+   "fr": "Investiture de gladiateur"
+  }
+ },
+ "778": {
+  "name": {
+   "en": "Gladiator's Raiment",
+   "de": "Gewandung des Gladiators",
+   "fr": "Grande tenue de gladiateur"
+  }
+ },
+ "780": {
+  "name": {
+   "en": "Gladiator's Felshroud",
+   "de": "Teufelsschleier des Gladiators",
+   "fr": "Suaire gangrené de gladiateur"
+  }
+ },
+ "631": {
+  "name": {
+   "en": "Cyclone Raiment",
+   "de": "Gewandung des Orkans",
+   "fr": "Grande tenue du cyclone"
+  }
+ },
+ "630": {
+  "name": {
+   "en": "Tidefury Raiment",
+   "de": "Gewandung des Gezeitensturms",
+   "fr": "Grande tenue du mascaret"
+  }
+ },
+ "681": {
+  "name": {
+   "en": "Lightbringer Raiment",
+   "de": "Gewandung des Lichtbringers",
+   "fr": "Grande tenue de porteur de Lumière"
+  }
+ },
+ "476": {
+  "name": {
+   "en": "Augur's Regalia",
+   "de": "Ornat des Weissagers",
+   "fr": "Tenue de parade d'augure"
+  }
+ },
+ "477": {
+  "name": {
+   "en": "Predator's Armor",
+   "de": "Rüstung des Raubtiers",
+   "fr": "Armure de prédateur"
+  }
+ },
+ "161": {
+  "name": {
+   "en": "Defias Leather",
+   "de": "Defiasleder",
+   "fr": "Cuir défias"
+  }
+ },
+ "241": {
+  "name": {
+   "en": "Shard of the Gods",
+   "de": "Scherbe der Götter",
+   "fr": "Éclat des dieux"
+  }
+ },
+ "536": {
+  "name": {
+   "en": "Regalia of Undead Cleansing",
+   "de": "Ornat der Untotenbekämpfung",
+   "fr": "Tenue de parade de tueur de mort-vivant"
+  }
+ },
+ "528": {
+  "name": {
+   "en": "Redemption Armor",
+   "de": "Rüstung der Erlösung",
+   "fr": "Armure de rédemption"
+  }
+ },
+ "619": {
+  "name": {
+   "en": "Primal Intent",
+   "de": "Urgewalt",
+   "fr": "Intention primordiale"
+  }
+ },
+ "565": {
+  "name": {
+   "en": "Khorium Ward",
+   "de": "Khoriumschutz",
+   "fr": "Gardien de khorium"
+  }
+ },
+ "391": {
+  "name": {
+   "en": "Warlord's Threads",
+   "de": "Roben des Kriegsfürsten",
+   "fr": "Effets de seigneur de guerre"
+  }
+ },
+ "576": {
+  "name": {
+   "en": "Fury of the Nether",
+   "de": "Netherzorn",
+   "fr": "Furie du Néant"
+  }
+ },
+ "465": {
+  "name": {
+   "en": "Prayer of the Primal",
+   "de": "Gebet der Uralten",
+   "fr": "Prière du Primordial"
+  }
+ },
+ "466": {
+  "name": {
+   "en": "Major Mojo Infusion",
+   "de": "Kraft des Mojo",
+   "fr": "Infusion de mojo majeure"
+  }
+ },
+ "478": {
+  "name": {
+   "en": "Madcap's Outfit",
+   "de": "Rüstzeug des Wildfangs",
+   "fr": "Tenue d'insensé"
+  }
+ },
+ "558": {
+  "name": {
+   "en": "Arcanoweave Vestments",
+   "de": "Arkanostoffgewänder",
+   "fr": "Habit en tisse-arcane"
+  }
+ },
+ "384": {
+  "name": {
+   "en": "Field Marshal's Battlegear",
+   "de": "Schlachtrüstung des Feldmarschalls",
+   "fr": "Tenue de combat de grand maréchal"
+  }
+ },
+ "65": {
+  "name": {
+   "en": "Spider's Kiss",
+   "de": "Kuss der Spinne",
+   "fr": "Baiser de l'araignée"
+  }
+ },
+ "341": {
+  "name": {
+   "en": "Champion's Regalia",
+   "de": "Ornat des Feldherren",
+   "fr": "Tenue de parade de champion"
+  }
+ },
+ "342": {
+  "name": {
+   "en": "Champion's Raiment",
+   "de": "Gewandung des Feldherren",
+   "fr": "Grande tenue de champion"
+  }
+ },
+ "609": {
+  "name": {
+   "en": "Grand Marshal's Wildhide",
+   "de": "Wildfell des Großmarschalls",
+   "fr": "Peau de fauve de connétable"
+  }
+ },
+ "346": {
+  "name": {
+   "en": "Lieutenant Commander's Threads",
+   "de": "Roben des Feldkommandanten",
+   "fr": "Effets de lieutenant-commandant"
+  }
+ },
+ "556": {
+  "name": {
+   "en": "Imbued Netherweave",
+   "de": "Magiererfüllte Netherstoffroben",
+   "fr": "Tisse-néant imprégné"
+  }
+ },
+ "639": {
+  "name": {
+   "en": "Malorne Regalia",
+   "de": "Malornes Ornat",
+   "fr": "Tenue de parade de Malorne"
+  }
+ },
+ "640": {
+  "name": {
+   "en": "Malorne Harness",
+   "de": "Malornes Harnisch",
+   "fr": "Harnais de Malorne"
+  }
+ },
+ "592": {
+  "name": {
+   "en": "High Warlord's Dreadgear",
+   "de": "Schreckensrüstung des Obersten Kriegsfürsten",
+   "fr": "Tenue horrifique de grand seigneur de guerre"
+  }
+ },
+ "593": {
+  "name": {
+   "en": "Grand Marshal's Earthshaker",
+   "de": "Erderschütterer des Großmarschalls",
+   "fr": "Trembleterre de connétable"
+  }
+ },
+ "475": {
+  "name": {
+   "en": "Freethinker's Armor",
+   "de": "Rüstung des Freidenkers",
+   "fr": "Armure de libre-penseur"
+  }
+ },
+ "557": {
+  "name": {
+   "en": "Soulcloth Embrace",
+   "de": "Seelenstoffumarmung",
+   "fr": "Étreinte d'âmétoffe"
+  }
+ },
+ "583": {
+  "name": {
+   "en": "Gladiator's Vindication",
+   "de": "Rechtschaffenheit des Gladiators",
+   "fr": "Justification de gladiateur"
+  }
+ },
+ "688": {
+  "name": {
+   "en": "Grand Marshal's Refuge",
+   "de": "Zuflucht des Großmarschalls",
+   "fr": "Refuge de connétable"
+  }
+ },
+ "685": {
+  "name": {
+   "en": "Gladiator's Refuge",
+   "de": "Zuflucht des Gladiators",
+   "fr": "Refuge de gladiateur"
+  }
+ },
+ "686": {
+  "name": {
+   "en": "Gladiator's Wartide",
+   "de": "Kriegsrausch des Gladiators",
+   "fr": "Vague guerrière de gladiateur"
+  }
+ },
+ "551": {
+  "name": {
+   "en": "Lieutenant Commander's Refuge",
+   "de": "Haingewand des Feldkommandanten",
+   "fr": "Refuge de lieutenant-commandant"
+  }
+ },
+ "495": {
+  "name": {
+   "en": "Battlegear of Unyielding Strength",
+   "de": "Schlachtrüstung der unnachgiebigen Stärke",
+   "fr": "Tenue de combat de force inflexible"
+  }
+ },
+ "472": {
+  "name": {
+   "en": "The Highlander's Will",
+   "de": "Feuriger Wille des Highlanders",
+   "fr": "Volonté des Hautes-terres"
+  }
+ },
+ "587": {
+  "name": {
+   "en": "High Warlord's Aegis",
+   "de": "Aegis des Obersten Kriegsfürsten",
+   "fr": "Egide de grand seigneur de guerre"
+  }
+ },
+ "613": {
+  "name": {
+   "en": "Thick Draenic Armor",
+   "de": "Dicke draenische Rüstung",
+   "fr": "Armure draenique épaisse"
+  }
+ },
+ "584": {
+  "name": {
+   "en": "Gladiator's Sanctuary",
+   "de": "Schutzgewandung des Gladiators",
+   "fr": "Sanctuaire de gladiateur"
+  }
+ },
+ "754": {
+  "name": {
+   "en": "Borean Embrace",
+   "de": "Boreanische Umarmung",
+   "fr": "Étreinte boréenne"
+  }
+ },
+ "756": {
+  "name": {
+   "en": "Frostscale Binding",
+   "de": "Frostschuppenbindung",
+   "fr": "Liens d'écailles de givre"
+  }
+ },
+ "781": {
+  "name": {
+   "en": "Blessed Regalia of Undead Cleansing",
+   "de": "Gesegneter Ornat der Untotenbekämpfung",
+   "fr": "Tenue de parade bénie de purificateur de mort-vivant"
+  }
+ },
+ "782": {
+  "name": {
+   "en": "Undead Slayer's Blessed Armor",
+   "de": "Gesegnete Rüstung des Untotenschlächters",
+   "fr": "Armure bénie de tueur de mort-vivant"
+  }
+ },
+ "784": {
+  "name": {
+   "en": "Blessed Battlegear of Undead Slaying",
+   "de": "Gesegnete Kampfrüstung des Untotenschlachtens",
+   "fr": "Tenue de combat bénie de tueur de mort-vivant"
+  }
+ },
+ "788": {
+  "name": {
+   "en": "Dreadnaught Battlegear",
+   "de": "Schreckenspanzerschlachtrüstung",
+   "fr": "Tenue de combat de cuirassier"
+  }
+ },
+ "787": {
+  "name": {
+   "en": "Dreadnaught Plate",
+   "de": "Schreckenspanzerplattenrüstung",
+   "fr": "Armure de cuirassier en plaques"
+  }
+ },
+ "635": {
+  "name": {
+   "en": "Cataclysm Regalia",
+   "de": "Ornat der Verheerung",
+   "fr": "Tenue de parade du cataclysme"
+  }
+ },
+ "678": {
+  "name": {
+   "en": "Thunderheart Raiment",
+   "de": "Gewandung des Donnerherzens",
+   "fr": "Grande tenue Cœur-de-tonnerre"
+  }
+ },
+ "549": {
+  "name": {
+   "en": "Lieutenant Commander's Investiture",
+   "de": "Würdengewand des Feldkommandanten",
+   "fr": "Investiture de lieutenant-commandant"
+  }
+ },
+ "485": {
+  "name": {
+   "en": "The Defiler's Intent",
+   "de": "Brennender Eifer der Entweihten",
+   "fr": "Intention de Profanateur"
+  }
+ },
+ "397": {
+  "name": {
+   "en": "Field Marshal's Sanctuary",
+   "de": "Zierrat des Feldmarschalls",
+   "fr": "Sanctuaire de grand maréchal"
+  }
+ },
+ "567": {
+  "name": {
+   "en": "Gladiator's Battlegear",
+   "de": "Schlachtrüstung des Gladiators",
+   "fr": "Tenue de combat de gladiateur"
+  }
+ },
+ "581": {
+  "name": {
+   "en": "Gladiator's Raiment",
+   "de": "Gewandung des Gladiators",
+   "fr": "Grande tenue de gladiateur"
+  }
+ },
+ "582": {
+  "name": {
+   "en": "Gladiator's Aegis",
+   "de": "Aegis des Gladiators",
+   "fr": "Egide de gladiateur"
+  }
+ },
+ "569": {
+  "name": {
+   "en": "Faith in Felsteel",
+   "de": "Teufelsstählerner Wille",
+   "fr": "Foi dans le gangracier"
+  }
+ },
+ "570": {
+  "name": {
+   "en": "The Unyielding",
+   "de": "Der Unerschütterliche",
+   "fr": "L'Inflexible"
+  }
+ },
+ "121": {
+  "name": {
+   "en": "Cadaverous Garb",
+   "de": "Leichenhaftes Gewand",
+   "fr": "Atours cadavériques"
+  }
+ },
+ "487": {
+  "name": {
+   "en": "The Defiler's Resolution",
+   "de": "Unbeugsamkeit der Entweihten",
+   "fr": "Résolution de Profanateur"
+  }
+ },
+ "203": {
+  "name": {
+   "en": "Felheart Raiment",
+   "de": "Teufelsherzroben",
+   "fr": "Grande tenue du Gangrecœur"
+  }
+ },
+ "205": {
+  "name": {
+   "en": "Cenarion Raiment",
+   "de": "Gewänder des Cenarius",
+   "fr": "Grande tenue cénarienne"
+  }
+ },
+ "207": {
+  "name": {
+   "en": "The Earthfury",
+   "de": "Die Wut der Erde",
+   "fr": "Rageterre"
+  }
+ },
+ "745": {
+  "name": {
+   "en": "Opportunist's Battlegear",
+   "de": "Schlachtrüstung des Heuchlers",
+   "fr": "Tenue de combat d'opportuniste"
+  }
+ },
+ "746": {
+  "name": {
+   "en": "Seer's Mail Battlegear",
+   "de": "Schwere Schlachtrüstung des Sehers",
+   "fr": "Tenue de combat de voyant en mailles"
+  }
+ },
+ "562": {
+  "name": {
+   "en": "Adamantite Battlegear",
+   "de": "Adamantitschlachtrüstung",
+   "fr": "Tenue de combat en adamantite"
+  }
+ },
+ "563": {
+  "name": {
+   "en": "Enchanted Adamantite Armor",
+   "de": "Verzauberte Adamantitrüstung",
+   "fr": "Armure d'adamantite enchantée"
+  }
+ },
+ "392": {
+  "name": {
+   "en": "Field Marshal's Threads",
+   "de": "Roben des Feldmarschalls",
+   "fr": "Effets de grand maréchal"
+  }
+ },
+ "480": {
+  "name": {
+   "en": "Confessor's Raiment",
+   "de": "Gewandung des Glaubenshüters",
+   "fr": "Grande tenue de confesseur"
+  }
+ },
+ "482": {
+  "name": {
+   "en": "Illusionist's Attire",
+   "de": "Roben des Illusionisten",
+   "fr": "Costume d'illusionniste"
+  }
+ },
+ "488": {
+  "name": {
+   "en": "The Defiler's Will",
+   "de": "Feuriger Wille der Entweihten",
+   "fr": "Volonté de Profanateur"
+  }
+ },
+ "474": {
+  "name": {
+   "en": "Vindicator's Battlegear",
+   "de": "Schlachtrüstung des Vollstreckers",
+   "fr": "Tenue de combat de redresseur de torts"
+  }
+ },
+ "687": {
+  "name": {
+   "en": "Gladiator's Investiture",
+   "de": "Vereidigung des Gladiators",
+   "fr": "Investiture de gladiateur"
+  }
+ },
+ "506": {
+  "name": {
+   "en": "Battlegear of Eternal Justice",
+   "de": "Schlachtrüstung der ewigen Gerechtigkeit",
+   "fr": "Tenue de combat de justice éternelle"
+  }
+ },
+ "572": {
+  "name": {
+   "en": "Battlecast Garb",
+   "de": "Gewand des Schlachtenzaubers",
+   "fr": "Atours d'escarmouche"
+  }
+ },
+ "586": {
+  "name": {
+   "en": "Gladiator's Pursuit",
+   "de": "Jagdtracht des Gladiators",
+   "fr": "Parure de gladiateur"
+  }
+ },
+ "546": {
+  "name": {
+   "en": "Lieutenant Commander's Arcanum",
+   "de": "Arkanum des Feldkommandanten",
+   "fr": "Arcanum de lieutenant-commandant"
+  }
+ },
+ "544": {
+  "name": {
+   "en": "Lieutenant Commander's Redoubt",
+   "de": "Zeremonienrüstung des Feldkommandanten",
+   "fr": "Redoute de lieutenant-commandant"
+  }
+ },
+ "540": {
+  "name": {
+   "en": "Champion's Investiture",
+   "de": "Würdengewand des Feldherren",
+   "fr": "Investiture de champion"
+  }
+ },
+ "552": {
+  "name": {
+   "en": "Wrath of Spellfire",
+   "de": "Zorn des Zauberfeuers",
+   "fr": "Habit du feu-sorcier"
+  }
+ },
+ "555": {
+  "name": {
+   "en": "Netherweave Vestments",
+   "de": "Netherstoffgewänder",
+   "fr": "Habit en tisse-néant"
+  }
+ },
+ "484": {
+  "name": {
+   "en": "The Defiler's Fortitude",
+   "de": "Seelenkraft der Entweihten",
+   "fr": "Force d'âme de Profanateur"
+  }
+ },
+ "548": {
+  "name": {
+   "en": "Lieutenant Commander's Guard",
+   "de": "Gewänder des Feldkommandanten",
+   "fr": "Garde de lieutenant-commandant"
+  }
+ },
+ "124": {
+  "name": {
+   "en": "Deathbone Guardian",
+   "de": "Wächter der Totengebeine",
+   "fr": "Gardien des ossements"
+  }
+ },
+ "566": {
+  "name": {
+   "en": "Burning Rage",
+   "de": "Brennender Zorn",
+   "fr": "Rage ardente"
+  }
+ },
+ "142": {
+  "name": {
+   "en": "Stormshroud Armor",
+   "de": "Sturmschleier",
+   "fr": "Armure tempétueuse"
+  }
+ },
+ "508": {
+  "name": {
+   "en": "Finery of Infinite Wisdom",
+   "de": "Pracht der unendlichen Weisheit",
+   "fr": "Vêture de sagesse infinie"
+  }
+ },
+ "529": {
+  "name": {
+   "en": "Plagueheart Raiment",
+   "de": "Roben des verseuchten Herzens",
+   "fr": "Grande tenue du Pestecœur"
+  }
+ },
+ "499": {
+  "name": {
+   "en": "Doomcaller's Attire",
+   "de": "Roben des Verdammnisrufers",
+   "fr": "Costume d'implorateur funeste"
+  }
+ },
+ "764": {
+  "name": {
+   "en": "Duskweaver",
+   "de": "Dämmerwirker",
+   "fr": "Tissebrune"
+  }
+ },
+ "766": {
+  "name": {
+   "en": "Gladiator's Vindication",
+   "de": "Rechtschaffenheit des Gladiators",
+   "fr": "Justification de gladiateur"
+  }
+ },
+ "768": {
+  "name": {
+   "en": "Gladiator's Desecration",
+   "de": "Entweihung des Gladiators",
+   "fr": "Violation de gladiateur"
+  }
+ },
+ "773": {
+  "name": {
+   "en": "Gladiator's Refuge",
+   "de": "Zuflucht des Gladiators",
+   "fr": "Refuge de gladiateur"
+  }
+ },
+ "776": {
+  "name": {
+   "en": "Gladiator's Vestments",
+   "de": "Gewänder des Gladiators",
+   "fr": "Habits de gladiateur"
+  }
+ },
+ "693": {
+  "name": {
+   "en": "Grand Marshal's Redemption",
+   "de": "Erlösung des Großmarschalls",
+   "fr": "Rédemption de connétable"
+  }
+ },
+ "738": {
+  "name": {
+   "en": "Dreadweave Battlegear",
+   "de": "Schlachtrüstung aus Schreckenszwirn",
+   "fr": "Tenue de combat en tisse-effroi"
+  }
+ },
+ "614": {
+  "name": {
+   "en": "Wild Draenish Armor",
+   "de": "Wilde draenische Rüstung",
+   "fr": "Armure draenique sauvage"
+  }
+ },
+ "462": {
+  "name": {
+   "en": "Zanzil's Concentration",
+   "de": "Zanzils Konzentration",
+   "fr": "Concentration de Zanzil"
+  }
+ },
+ "648": {
+  "name": {
+   "en": "Aldor Regalia",
+   "de": "Ornat der Aldor",
+   "fr": "Tenue de parade de l'Aldor"
+  }
+ },
+ "393": {
+  "name": {
+   "en": "Warlord's Vestments",
+   "de": "Gewänder des Kriegsfürsten",
+   "fr": "Habits de seigneur de guerre"
+  }
+ },
+ "750": {
+  "name": {
+   "en": "Savage Plate Battlegear",
+   "de": "Wilde Plattenschlachtrüstung",
+   "fr": "Tenue de combat sauvage en plaques"
+  }
+ },
+ "386": {
+  "name": {
+   "en": "Warlord's Earthshaker",
+   "de": "Erderschütterer des Kriegsfürsten",
+   "fr": "Trembleterre de seigneur de guerre"
+  }
+ },
+ "389": {
+  "name": {
+   "en": "Field Marshal's Raiment",
+   "de": "Gewandung des Feldmarschalls",
+   "fr": "Grande tenue de grand maréchal"
+  }
+ },
+ "204": {
+  "name": {
+   "en": "Nightslayer Armor",
+   "de": "Der Nachtmeuchler",
+   "fr": "Armure du tueur de la nuit"
+  }
+ },
+ "162": {
+  "name": {
+   "en": "Embrace of the Viper",
+   "de": "Umarmung der Viper",
+   "fr": "Étreinte de la vipère"
+  }
+ },
+ "571": {
+  "name": {
+   "en": "Whitemend Wisdom",
+   "de": "Weisheit des weißen Heilers",
+   "fr": "Sagesse de la blanche guérison"
+  }
+ },
+ "559": {
+  "name": {
+   "en": "Spellstrike Infusion",
+   "de": "Insignien des Zauberschlags",
+   "fr": "Infusion frappe-sort"
+  }
+ },
+ "761": {
+  "name": {
+   "en": "Winter Garb",
+   "de": "Wintergewandung",
+   "fr": "Atours d'hiver"
+  }
+ },
+ "560": {
+  "name": {
+   "en": "Fel Iron Plate",
+   "de": "Teufelseisenplattenrüstung",
+   "fr": "Harnois de gangrefer"
+  }
+ },
+ "578": {
+  "name": {
+   "en": "Gladiator's Earthshaker",
+   "de": "Erderschütterer des Gladiators",
+   "fr": "Trembleterre de gladiateur"
+  }
+ },
+ "763": {
+  "name": {
+   "en": "Frostwoven Power",
+   "de": "Frostgewirkte Macht",
+   "fr": "Puissance tissée de givre"
+  }
+ },
+ "568": {
+  "name": {
+   "en": "Gladiator's Dreadgear",
+   "de": "Schreckensrüstung des Gladiators",
+   "fr": "Tenue horrifique de gladiateur"
+  }
+ },
+ "517": {
+  "name": {
+   "en": "Sorcerer's Regalia",
+   "de": "Ornat der Zauberkünste",
+   "fr": "Tenue de parade de sorcier"
+  }
+ },
+ "718": {
+  "name": {
+   "en": "Lieutenant Commander's Earthshaker",
+   "de": "Erderschütterer des Feldkommandanten",
+   "fr": "Trembleterre de lieutenant-commandant"
+  }
+ },
+ "163": {
+  "name": {
+   "en": "Chain of the Scarlet Crusade",
+   "de": "Kettenrüstung des Scharlachroten Kreuzzugs",
+   "fr": "Cotte de mailles de la croisade écarlate"
+  }
+ },
+ "790": {
+  "name": {
+   "en": "Redemption Regalia",
+   "de": "Ornat der Erlösung",
+   "fr": "Tenue de parade de rédemption"
+  }
+ },
+ "143": {
+  "name": {
+   "en": "Devilsaur Armor",
+   "de": "Teufelsaurierrüstung",
+   "fr": "Armure de diablosaure"
+  }
+ },
+ "793": {
+  "name": {
+   "en": "Scourgeborne Plate",
+   "de": "Plattenrüstung des Geißelerben",
+   "fr": "Armure de fléauvenant en plaques"
+  }
+ },
+ "794": {
+  "name": {
+   "en": "Cryptstalker Battlegear",
+   "de": "Schlachtrüstung des Gruftpirschers",
+   "fr": "Tenue de combat de traqueur des cryptes"
+  }
+ },
+ "796": {
+  "name": {
+   "en": "Earthshatter Garb",
+   "de": "Erdspaltergewand",
+   "fr": "Atours de brise-terre"
+  }
+ },
+ "797": {
+  "name": {
+   "en": "Earthshatter Regalia",
+   "de": "Erdspalterornat",
+   "fr": "Tenue de parade de brise-terre"
+  }
+ },
+ "801": {
+  "name": {
+   "en": "Bonescythe Battlegear",
+   "de": "Schlachtrüstung der Knochensense",
+   "fr": "Tenue de combat de la faucheuse d'os"
+  }
+ },
+ "803": {
+  "name": {
+   "en": "Frostfire Garb",
+   "de": "Frostfeuergewand",
+   "fr": "Atours de givrefeu"
+  }
+ },
+ "804": {
+  "name": {
+   "en": "Regalia of Faith",
+   "de": "Ornat des Glaubens",
+   "fr": "Tenue de parade de foi"
+  }
+ },
+ "805": {
+  "name": {
+   "en": "Garb of Faith",
+   "de": "Gewand des Glaubens",
+   "fr": "Atours de foi"
+  }
+ },
+ "553": {
+  "name": {
+   "en": "Shadow's Embrace",
+   "de": "Umarmung der Schatten",
+   "fr": "Étreinte de l'ombre"
+  }
+ },
+ "791": {
+  "name": {
+   "en": "Redemption Plate",
+   "de": "Plattenrüstung der Erlösung",
+   "fr": "Armure de rédemption en plaques"
+  }
+ },
+ "739": {
+  "name": {
+   "en": "Mooncloth Battlegear",
+   "de": "Schlachtrüstung aus Mondstoff",
+   "fr": "Tenue de combat en étoffe lunaire"
+  }
+ },
+ "740": {
+  "name": {
+   "en": "Satin Battlegear",
+   "de": "Schlachtrüstung aus Satin",
+   "fr": "Tenue de combat en satin"
+  }
+ },
+ "741": {
+  "name": {
+   "en": "Evoker's Silk Battlegear",
+   "de": "Seidene Schlachtrüstung des Beschwörers",
+   "fr": "Tenue de combat d'évocateur en soie"
+  }
+ },
+ "666": {
+  "name": {
+   "en": "Avatar Regalia",
+   "de": "Ornat des Avatars",
+   "fr": "Tenue de parade de l'avatar"
+  }
+ },
+ "520": {
+  "name": {
+   "en": "Ironweave Battlesuit",
+   "de": "Eisengewebte Kampfrüstung",
+   "fr": "Tenue de bataille Tisse-fer"
+  }
+ },
+ "469": {
+  "name": {
+   "en": "The Highlander's Determination",
+   "de": "Inbrunst des Highlanders",
+   "fr": "Détermination des Hautes-terres"
+  }
+ },
+ "748": {
+  "name": {
+   "en": "Seer's Linked Battlegear",
+   "de": "Gekettelte Schlachtrüstung des Sehers",
+   "fr": "Tenue de combat de voyant rivetée"
+  }
+ },
+ "749": {
+  "name": {
+   "en": "Stalker's Chain Battlegear",
+   "de": "Kettenschlachtrüstung des Pirschers",
+   "fr": "Tenue de combat de traqueur en anneaux"
+  }
+ },
+ "594": {
+  "name": {
+   "en": "High Warlord's Earthshaker",
+   "de": "Erderschütterer des Obersten Kriegsfürsten",
+   "fr": "Trembleterre de grand seigneur de guerre"
+  }
+ },
+ "396": {
+  "name": {
+   "en": "Warlord's Pursuit",
+   "de": "Lohn des Kriegsfürsten",
+   "fr": "Parure de maréchal de seigneur de guerre"
+  }
+ },
+ "496": {
+  "name": {
+   "en": "Conqueror's Battlegear",
+   "de": "Schlachtrüstung des Eroberers",
+   "fr": "Tenue de combat de conquérant"
+  }
+ },
+ "498": {
+  "name": {
+   "en": "Emblems of Veiled Shadows",
+   "de": "Embleme der Schattenschleier",
+   "fr": "Emblèmes des ombres voilées"
+  }
+ },
+ "503": {
+  "name": {
+   "en": "Enigma Vestments",
+   "de": "Gewänder des Mysteriums",
+   "fr": "Habits de l'énigme"
+  }
+ },
+ "442": {
+  "name": {
+   "en": "Blood Tiger Harness",
+   "de": "Harnisch des Bluttigers",
+   "fr": "Harnais du tigre-sang"
+  }
+ },
+ "443": {
+  "name": {
+   "en": "Bloodsoul Embrace",
+   "de": "Umarmung der Blutseele",
+   "fr": "Étreinte d'âmesang"
+  }
+ },
+ "444": {
+  "name": {
+   "en": "The Darksoul",
+   "de": "Die dunkle Seele",
+   "fr": "La Ténébrâme"
+  }
+ },
+ "202": {
+  "name": {
+   "en": "Vestments of Prophecy",
+   "de": "Gewänder der Prophezeiung",
+   "fr": "Habits de prophétie"
+  }
+ },
+ "589": {
+  "name": {
+   "en": "Grand Marshal's Aegis",
+   "de": "Aegis des Großmarschalls",
+   "fr": "Egide de connétable"
+  }
+ },
+ "511": {
+  "name": {
+   "en": "Battlegear of Heroism",
+   "de": "Schlachtrüstung des Heldentums",
+   "fr": "Tenue de combat d'héroïsme"
+  }
+ },
+ "512": {
+  "name": {
+   "en": "Darkmantle Armor",
+   "de": "Rüstung der Finsternis",
+   "fr": "Armure Sombremante"
+  }
+ },
+ "514": {
+  "name": {
+   "en": "Vestments of the Virtuous",
+   "de": "Gewänder des Tugendhaften",
+   "fr": "Habits du Vertueux"
+  }
+ },
+ "507": {
+  "name": {
+   "en": "Garments of the Oracle",
+   "de": "Gewänder des Orakels",
+   "fr": "Vêtements de l'oracle"
+  }
+ },
+ "489": {
+  "name": {
+   "en": "Black Dragon Mail",
+   "de": "Schwarzer Drachenschuppenpanzer",
+   "fr": "Mailles de dragon noir"
+  }
+ },
+ "490": {
+  "name": {
+   "en": "Green Dragon Mail",
+   "de": "Grüner Drachenschuppenpanzer",
+   "fr": "Mailles de dragon vert"
+  }
+ },
+ "521": {
+  "name": {
+   "en": "Dreamwalker Raiment",
+   "de": "Gewandung des Traumwandlers",
+   "fr": "Grande tenue de marcherêve"
+  }
+ },
+ "542": {
+  "name": {
+   "en": "Champion's Arcanum",
+   "de": "Arkanum des Feldherren",
+   "fr": "Arcanum de champion"
+  }
+ },
+ "770": {
+  "name": {
+   "en": "Gladiator's Earthshaker",
+   "de": "Erderschütterer des Gladiators",
+   "fr": "Trembleterre de gladiateur"
+  }
+ },
+ "467": {
+  "name": {
+   "en": "The Highlander's Resolution",
+   "de": "Unbeugsamkeit des Highlanders",
+   "fr": "Résolution des Hautes-terres"
+  }
+ },
+ "468": {
+  "name": {
+   "en": "The Highlander's Resolve",
+   "de": "Entschlossenheit des Highlanders",
+   "fr": "Fermeté des Hautes-terres"
+  }
+ },
+ "473": {
+  "name": {
+   "en": "The Highlander's Intent",
+   "de": "Brennender Eifer des Highlanders",
+   "fr": "Intention des Hautes-terres"
+  }
+ },
+ "611": {
+  "name": {
+   "en": "Felscale Armor",
+   "de": "Teufelsschuppenrüstung",
+   "fr": "Armure en gangrécaille"
+  }
+ },
+ "421": {
+  "name": {
+   "en": "Bloodvine Garb",
+   "de": "Blutrebengewand",
+   "fr": "Atours de vignesang"
+  }
+ },
+ "441": {
+  "name": {
+   "en": "Primal Batskin",
+   "de": "Urzeitliche Fledermaushaut",
+   "fr": "Peau de chauve-souris primordiale"
+  }
+ },
+ "595": {
+  "name": {
+   "en": "Grand Marshal's Pursuit",
+   "de": "Jagdtracht des Großmarschalls",
+   "fr": "Parure de connétable"
+  }
+ },
+ "81": {
+  "name": {
+   "en": "The Postmaster",
+   "de": "Der Postmeister",
+   "fr": "Le Maître de poste"
+  }
+ },
+ "665": {
+  "name": {
+   "en": "Avatar Raiment",
+   "de": "Gewandung des Avatars",
+   "fr": "Grande tenue de l'avatar"
+  }
+ },
+ "585": {
+  "name": {
+   "en": "Gladiator's Wildhide",
+   "de": "Wildfell des Gladiators",
+   "fr": "Peau de fauve de gladiateur"
+  }
+ },
+ "588": {
+  "name": {
+   "en": "High Warlord's Battlegear",
+   "de": "Schlachtrüstung des Obersten Kriegsfürsten",
+   "fr": "Tenue de combat de grand seigneur de guerre"
+  }
+ },
+ "771": {
+  "name": {
+   "en": "Gladiator's Wartide",
+   "de": "Kriegsrausch des Gladiators",
+   "fr": "Vague guerrière de gladiateur"
+  }
+ },
+ "213": {
+  "name": {
+   "en": "Bloodfang Armor",
+   "de": "Blutfangrüstung",
+   "fr": "Armure Croc-de-sang"
+  }
+ },
+ "470": {
+  "name": {
+   "en": "The Highlander's Fortitude",
+   "de": "Seelenkraft des Highlanders",
+   "fr": "Force d'âme des Hautes-terres"
+  }
+ },
+ "654": {
+  "name": {
+   "en": "Warbringer Armor",
+   "de": "Rüstung des Kriegshetzers",
+   "fr": "Armure de porteguerre"
+  }
+ },
+ "530": {
+  "name": {
+   "en": "Cryptstalker Armor",
+   "de": "Rüstung des Gruftpirschers",
+   "fr": "Armure de traqueur des cryptes"
+  }
+ },
+ "674": {
+  "name": {
+   "en": "Absolution Regalia",
+   "de": "Ornat der Absolution",
+   "fr": "Tenue de parade d'absolution"
+  }
+ },
+ "612": {
+  "name": {
+   "en": "Scaled Draenic Armor",
+   "de": "Geschuppte draenische Rüstung",
+   "fr": "Armure draenique en écailles"
+  }
+ },
+ "669": {
+  "name": {
+   "en": "Gronnstalker's Armor",
+   "de": "Rüstung des Gronnjägers",
+   "fr": "Armure de traqueur de gronn"
+  }
+ },
+ "210": {
+  "name": {
+   "en": "Netherwind Regalia",
+   "de": "Ornat des Netherwinds",
+   "fr": "Tenue de parade de Vent du néant"
+  }
+ },
+ "211": {
+  "name": {
+   "en": "Vestments of Transcendence",
+   "de": "Gewänder der Erhabenheit",
+   "fr": "Habits de transcendance"
+  }
+ },
+ "217": {
+  "name": {
+   "en": "Judgment Armor",
+   "de": "Rüstung des Richturteils",
+   "fr": "Armure du jugement"
+  }
+ },
+ "617": {
+  "name": {
+   "en": "Netherstrike Armor",
+   "de": "Rüstung des Netherstoßes",
+   "fr": "Armure Coup-de-Néant"
+  }
+ },
+ "618": {
+  "name": {
+   "en": "Windhawk Armor",
+   "de": "Rüstung des Windfalken",
+   "fr": "Armure Faucon-du-vent"
+  }
+ },
+ "641": {
+  "name": {
+   "en": "Nordrassil Harness",
+   "de": "Harnisch von Nordrassil",
+   "fr": "Harnais de Nordrassil"
+  }
+ },
+ "642": {
+  "name": {
+   "en": "Nordrassil Raiment",
+   "de": "Gewandung von Nordrassil",
+   "fr": "Grande tenue de Nordrassil"
+  }
+ },
+ "643": {
+  "name": {
+   "en": "Nordrassil Regalia",
+   "de": "Ornat von Nordrassil",
+   "fr": "Tenue de parade de Nordrassil"
+  }
+ },
+ "41": {
+  "name": {
+   "en": "Dal'Rend's Arms",
+   "de": "Dal'Rends Waffen",
+   "fr": "Armes de Dal'Rend"
+  }
+ },
+ "600": {
+  "name": {
+   "en": "High Warlord's Regalia",
+   "de": "Ornat des Obersten Kriegsfürsten",
+   "fr": "Tenue de parade de grand seigneur de guerre"
+  }
+ },
+ "216": {
+  "name": {
+   "en": "The Ten Storms",
+   "de": "Die zehn Stürme",
+   "fr": "Les Dix tempêtes"
+  }
+ },
+ "519": {
+  "name": {
+   "en": "The Five Thunders",
+   "de": "Die fünf Donner",
+   "fr": "Les Cinq tonnerres"
+  }
+ },
+ "545": {
+  "name": {
+   "en": "Lieutenant Commander's Battlearmor",
+   "de": "Sturmrüstung des Feldkommandanten",
+   "fr": "Armure de bataille de lieutenant-commandant"
+  }
+ },
+ "547": {
+  "name": {
+   "en": "Lieutenant Commander's Dreadgear",
+   "de": "Schreckensrüstung des Feldkommandanten",
+   "fr": "Tenue horrifique de lieutenant-commandant"
+  }
+ },
+ "620": {
+  "name": {
+   "en": "Assassination Armor",
+   "de": "Rüstung des Meuchelmords",
+   "fr": "Armure d'assassinat"
+  }
+ },
+ "622": {
+  "name": {
+   "en": "Deathmantle",
+   "de": "Todeshauch",
+   "fr": "Mantemort"
+  }
+ },
+ "623": {
+  "name": {
+   "en": "Righteous Armor",
+   "de": "Rüstung des Rechtschaffenen",
+   "fr": "Armure pieuse"
+  }
+ },
+ "624": {
+  "name": {
+   "en": "Justicar Raiment",
+   "de": "Gewandung des Rechtsprechers",
+   "fr": "Grande tenue de justicier"
+  }
+ },
+ "743": {
+  "name": {
+   "en": "Wyrmhide Battlegear",
+   "de": "Schlachtrüstung aus Wyrmbalg",
+   "fr": "Tenue de combat en peau de wyrm"
+  }
+ },
+ "479": {
+  "name": {
+   "en": "Haruspex's Garb",
+   "de": "Gewand des Haruspex",
+   "fr": "Atours d'haruspice"
+  }
+ },
+ "632": {
+  "name": {
+   "en": "Cyclone Regalia",
+   "de": "Ornat des Orkans",
+   "fr": "Tenue de parade du cyclone"
+  }
+ },
+ "633": {
+  "name": {
+   "en": "Cyclone Harness",
+   "de": "Harnisch des Orkans",
+   "fr": "Harnais du cyclone"
+  }
+ },
+ "789": {
+  "name": {
+   "en": "Redemption Battlegear",
+   "de": "Schlachtrüstung der Erlösung",
+   "fr": "Tenue de combat de rédemption"
+  }
+ },
+ "798": {
+  "name": {
+   "en": "Dreamwalker Battlegear",
+   "de": "Schlachtrüstung des Traumwandlers",
+   "fr": "Tenue de combat de marcherêve"
+  }
+ },
+ "684": {
+  "name": {
+   "en": "Skyshatter Regalia",
+   "de": "Ornat des Himmelsdonners",
+   "fr": "Tenue de parade Brise-ciel"
+  }
+ },
+ "691": {
+  "name": {
+   "en": "Grand Marshal's Investiture",
+   "de": "Vereidigung des Großmarschalls",
+   "fr": "Investiture de connétable"
+  }
+ },
+ "692": {
+  "name": {
+   "en": "High Warlord's Investiture",
+   "de": "Vereidigung des Obersten Kriegsfürsten",
+   "fr": "Investiture de grand seigneur de guerre"
+  }
+ },
+ "362": {
+  "name": {
+   "en": "Lieutenant Commander's Pursuit",
+   "de": "Lohn des Feldkommandanten",
+   "fr": "Parure de lieutenant-commandant"
+  }
+ },
+ "486": {
+  "name": {
+   "en": "The Defiler's Purpose",
+   "de": "Schicksalsmacht der Entweihten",
+   "fr": "Dessein de Profanateur"
+  }
+ },
+ "625": {
+  "name": {
+   "en": "Justicar Armor",
+   "de": "Rüstung des Rechtsprechers",
+   "fr": "Armure de justicier"
+  }
+ },
+ "182": {
+  "name": {
+   "en": "Vestments of the Devout",
+   "de": "Gewänder des Gläubigen",
+   "fr": "Habits du dévot"
+  }
+ },
+ "650": {
+  "name": {
+   "en": "Beast Lord Armor",
+   "de": "Rüstung des Wildtierfürsten",
+   "fr": "Armure de seigneur des bêtes"
+  }
+ },
+ "209": {
+  "name": {
+   "en": "Battlegear of Might",
+   "de": "Schlachtrüstung der Macht",
+   "fr": "Tenue de combat de puissance"
+  }
+ },
+ "561": {
+  "name": {
+   "en": "Fel Iron Chain",
+   "de": "Teufelseisenkettenrüstung",
+   "fr": "Anneaux de gangrefer"
+  }
+ },
+ "575": {
+  "name": {
+   "en": "Felstalker Armor",
+   "de": "Rüstung des Teufelspirschers",
+   "fr": "Armure de traqueur gangrené"
+  }
+ },
+ "261": {
+  "name": {
+   "en": "Spirit of Eskhandar",
+   "de": "Seele des Eskhandar",
+   "fr": "Esprit d'Eskhandar"
+  }
+ },
+ "394": {
+  "name": {
+   "en": "Field Marshal's Vestments",
+   "de": "Gewänder des Feldmarschalls",
+   "fr": "Habits de grand maréchal"
+  }
+ },
+ "395": {
+  "name": {
+   "en": "Field Marshal's Pursuit",
+   "de": "Lohn des Feldmarschalls",
+   "fr": "Parure de grand maréchal"
+  }
+ },
+ "554": {
+  "name": {
+   "en": "Primal Mooncloth",
+   "de": "Urmondroben",
+   "fr": "Étoffe lunaire primordiale"
+  }
+ },
+ "590": {
+  "name": {
+   "en": "Grand Marshal's Battlegear",
+   "de": "Schlachtrüstung des Großmarschalls",
+   "fr": "Tenue de combat de connétable"
+  }
+ },
+ "344": {
+  "name": {
+   "en": "Lieutenant Commander's Raiment",
+   "de": "Gewandung des Feldkommandanten",
+   "fr": "Grande tenue de lieutenant-commandant"
+  }
+ },
+ "343": {
+  "name": {
+   "en": "Lieutenant Commander's Regalia",
+   "de": "Ornat des Feldkommandanten",
+   "fr": "Tenue de parade de lieutenant-commandant"
+  }
+ },
+ "345": {
+  "name": {
+   "en": "Champion's Threads",
+   "de": "Roben des Feldherren",
+   "fr": "Effets de champion"
+  }
+ },
+ "683": {
+  "name": {
+   "en": "Skyshatter Raiment",
+   "de": "Gewandung des Himmelsdonners",
+   "fr": "Grande tenue Brise-ciel"
+  }
+ },
+ "535": {
+  "name": {
+   "en": "Garb of the Undead Slayer",
+   "de": "Gewand des Untotenschlächters",
+   "fr": "Atours de tueur de mort-vivant"
+  }
+ },
+ "543": {
+  "name": {
+   "en": "Champion's Pursuance",
+   "de": "Jagdrüstung des Feldherren",
+   "fr": "Accomplissement de champion"
+  }
+ },
+ "510": {
+  "name": {
+   "en": "Trappings of the Unseen Path",
+   "de": "Zierrat des unsichtbaren Pfads",
+   "fr": "Ornements du Sentier invisible"
+  }
+ },
+ "792": {
+  "name": {
+   "en": "Scourgeborne Battlegear",
+   "de": "Schlachtrüstung des Geißelerben",
+   "fr": "Tenue de combat de fléauvenant"
+  }
+ },
+ "802": {
+  "name": {
+   "en": "Plagueheart Garb",
+   "de": "Gewand des verseuchten Herzens",
+   "fr": "Atours de Pestecœur"
+  }
+ },
+ "634": {
+  "name": {
+   "en": "Cataclysm Raiment",
+   "de": "Gewandung der Verheerung",
+   "fr": "Grande tenue du cataclysme"
+  }
+ },
+ "636": {
+  "name": {
+   "en": "Cataclysm Harness",
+   "de": "Harnisch der Verheerung",
+   "fr": "Harnais du cataclysme"
+  }
+ },
+ "672": {
+  "name": {
+   "en": "Onslaught Battlegear",
+   "de": "Schlachtrüstung des Ansturms",
+   "fr": "Tenue de combat d'assaut"
+  }
+ },
+ "461": {
+  "name": {
+   "en": "The Twin Blades of Hakkari",
+   "de": "Die Zwillingsklingen von Hakkari",
+   "fr": "Les Lames jumelles des Hakkari"
+  }
+ },
+ "662": {
+  "name": {
+   "en": "Hallowed Raiment",
+   "de": "Geheiligte Roben",
+   "fr": "Grande tenue bénie"
+  }
+ },
+ "651": {
+  "name": {
+   "en": "Demon Stalker Armor",
+   "de": "Rüstung des Dämonenwandlers",
+   "fr": "Armure de traqueur de démon"
+  }
+ },
+ "767": {
+  "name": {
+   "en": "Gladiator's Redemption",
+   "de": "Erlösung des Gladiators",
+   "fr": "Rédemption de gladiateur"
+  }
+ },
+ "638": {
+  "name": {
+   "en": "Malorne Raiment",
+   "de": "Malornes Gewandung",
+   "fr": "Grande tenue de Malorne"
+  }
+ },
+ "550": {
+  "name": {
+   "en": "Lieutenant Commander's Pursuance",
+   "de": "Jagdrüstung des Feldkommandanten",
+   "fr": "Accomplissement de lieutenant-commandant"
+  }
+ },
+ "647": {
+  "name": {
+   "en": "Incanter's Regalia",
+   "de": "Ornat des Beschwörens",
+   "fr": "Tenue de parade d'incantateur"
+  }
+ },
+ "649": {
+  "name": {
+   "en": "Tirisfal Regalia",
+   "de": "Ornat von Tirisfal",
+   "fr": "Tenue de parade de Tirisfal"
+  }
+ },
+ "652": {
+  "name": {
+   "en": "Rift Stalker Armor",
+   "de": "Rüstung des Dimensionswandlers",
+   "fr": "Armure de traqueur des failles"
+  }
+ },
+ "668": {
+  "name": {
+   "en": "Slayer's Armor",
+   "de": "Rüstung des Schlächters",
+   "fr": "Armure de tueur"
+  }
+ },
+ "653": {
+  "name": {
+   "en": "Bold Armor",
+   "de": "Rüstung des Wagemutigen",
+   "fr": "Armure audacieuse"
+  }
+ },
+ "655": {
+  "name": {
+   "en": "Warbringer Battlegear",
+   "de": "Schlachtrüstung des Kriegshetzers",
+   "fr": "Tenue de combat de porteguerre"
+  }
+ },
+ "656": {
+  "name": {
+   "en": "Destroyer Armor",
+   "de": "Rüstung des Zerstörers",
+   "fr": "Armure de destructeur"
+  }
+ },
+ "603": {
+  "name": {
+   "en": "Grand Marshal's Thunderfist",
+   "de": "Donnerfaust des Großmarschalls",
+   "fr": "Tonnepoing de connétable"
+  }
+ },
+ "597": {
+  "name": {
+   "en": "Grand Marshal's Raiment",
+   "de": "Gewandung des Großmarschalls",
+   "fr": "Grande tenue de connétable"
+  }
+ },
+ "1": {
+  "name": {
+   "en": "The Gladiator",
+   "de": "Der Gladiator",
+   "fr": "Le Gladiateur"
+  }
+ },
+ "181": {
+  "name": {
+   "en": "Magister's Regalia",
+   "de": "Ornat des Magisters",
+   "fr": "Tenue de parade de magistère"
+  }
+ },
+ "606": {
+  "name": {
+   "en": "High Warlord's Vestments",
+   "de": "Gewänder des Obersten Kriegsfürsten",
+   "fr": "Habits de grand seigneur de guerre"
+  }
+ },
+ "607": {
+  "name": {
+   "en": "Grand Marshal's Vindication",
+   "de": "Rechtschaffenheit des Großmarschalls",
+   "fr": "Justification de connétable"
+  }
+ },
+ "646": {
+  "name": {
+   "en": "Corruptor Raiment",
+   "de": "Gewandung des Verderbers",
+   "fr": "Grande tenue de corrupteur"
+  }
+ },
+ "483": {
+  "name": {
+   "en": "The Defiler's Determination",
+   "de": "Inbrunst der Entweihten",
+   "fr": "Détermination de Profanateur"
+  }
+ },
+ "779": {
+  "name": {
+   "en": "Gladiator's Regalia",
+   "de": "Ornat des Gladiators",
+   "fr": "Tenue de parade de gladiateur"
+  }
+ },
+ "799": {
+  "name": {
+   "en": "Dreamwalker Regalia",
+   "de": "Ornat des Traumwandlers",
+   "fr": "Tenue de parade de marcherêve"
+  }
+ },
+ "591": {
+  "name": {
+   "en": "Grand Marshal's Dreadgear",
+   "de": "Schreckensrüstung des Großmarschalls",
+   "fr": "Tenue horrifique de connétable"
+  }
+ },
+ "602": {
+  "name": {
+   "en": "High Warlord's Sanctuary",
+   "de": "Schutzgewandung des Obersten Kriegsfürsten",
+   "fr": "Sanctuaire de grand seigneur de guerre"
+  }
+ },
+ "494": {
+  "name": {
+   "en": "Symbols of Unending Life",
+   "de": "Symbole des endlosen Lebens",
+   "fr": "Symboles de vie interminable"
+  }
+ },
+ "282": {
+  "name": {
+   "en": "Lieutenant Commander's Battlegear",
+   "de": "Schlachtrüstung des Feldkommandanten",
+   "fr": "Tenue de combat de lieutenant-commandant"
+  }
+ },
+ "321": {
+  "name": {
+   "en": "Imperial Plate",
+   "de": "Stolz des Imperiums",
+   "fr": "Armure impériale en plaques"
+  }
+ },
+ "690": {
+  "name": {
+   "en": "Gladiator's Redemption",
+   "de": "Erlösung des Gladiators",
+   "fr": "Rédemption de gladiateur"
+  }
+ },
+ "398": {
+  "name": {
+   "en": "Warlord's Sanctuary",
+   "de": "Zierrat des Kriegsfürsten",
+   "fr": "Sanctuaire de seigneur de guerre"
+  }
+ },
+ "186": {
+  "name": {
+   "en": "Beaststalker Armor",
+   "de": "Rüstung des Bestienjägers",
+   "fr": "Armure de bestiaire"
+  }
+ },
+ "637": {
+  "name": {
+   "en": "Moonglade Raiment",
+   "de": "Gewandung der Mondlichtung",
+   "fr": "Grande tenue de Reflet-de-lune"
+  }
+ },
+ "812": {
+  "name": {
+   "en": "Spring Tuxedo",
+   "de": "Frühlingsfrack",
+   "fr": "Smoking du printemps"
+  }
+ },
+ "598": {
+  "name": {
+   "en": "High Warlord's Raiment",
+   "de": "Gewandung des Obersten Kriegsfürsten",
+   "fr": "Grande tenue de grand seigneur de guerre"
+  }
+ },
+ "599": {
+  "name": {
+   "en": "Grand Marshal's Regalia",
+   "de": "Ornat des Großmarschalls",
+   "fr": "Tenue de parade de connétable"
+  }
+ },
+ "522": {
+  "name": {
+   "en": "Champion's Guard",
+   "de": "Gewänder des Feldherren",
+   "fr": "Habits de champion"
+  }
+ },
+ "523": {
+  "name": {
+   "en": "Dreadnaught's Battlegear",
+   "de": "Schlachtrüstung des Schreckenspanzers",
+   "fr": "Tenue de combat du cuirassier"
+  }
+ },
+ "524": {
+  "name": {
+   "en": "Bonescythe Armor",
+   "de": "Rüstung der Knochensense",
+   "fr": "Armure de la faucheuse d'os"
+  }
+ },
+ "525": {
+  "name": {
+   "en": "Vestments of Faith",
+   "de": "Gewänder des Glaubens",
+   "fr": "Habits de foi"
+  }
+ },
+ "526": {
+  "name": {
+   "en": "Frostfire Regalia",
+   "de": "Frostfeuerornat",
+   "fr": "Tenue de parade de givrefeu"
+  }
+ },
+ "673": {
+  "name": {
+   "en": "Onslaught Armor",
+   "de": "Rüstung des Ansturms",
+   "fr": "Armure d'assaut"
+  }
+ },
+ "676": {
+  "name": {
+   "en": "Thunderheart Harness",
+   "de": "Harnisch des Donnerherzens",
+   "fr": "Harnais Cœur-de-tonnerre"
+  }
+ },
+ "677": {
+  "name": {
+   "en": "Thunderheart Regalia",
+   "de": "Ornat des Donnerherzens",
+   "fr": "Tenue de parade Cœur-de-tonnerre"
+  }
+ },
+ "679": {
+  "name": {
+   "en": "Lightbringer Armor",
+   "de": "Rüstung des Lichtbringers",
+   "fr": "Armure de porteur de Lumière"
+  }
+ },
+ "680": {
+  "name": {
+   "en": "Lightbringer Battlegear",
+   "de": "Schlachtrüstung des Lichtbringers",
+   "fr": "Tenue de combat de porteur de Lumière"
+  }
+ },
+ "601": {
+  "name": {
+   "en": "Grand Marshal's Sanctuary",
+   "de": "Schutzgewandung des Großmarschalls",
+   "fr": "Sanctuaire de connétable"
+  }
+ },
+ "141": {
+  "name": {
+   "en": "Volcanic Armor",
+   "de": "Vulkanrüstung",
+   "fr": "Armure volcanique"
+  }
+ },
+ "657": {
+  "name": {
+   "en": "Destroyer Battlegear",
+   "de": "Schlachtrüstung des Zerstörers",
+   "fr": "Tenue de combat de destructeur"
+  }
+ },
+ "660": {
+  "name": {
+   "en": "Desolation Battlegear",
+   "de": "Schlachtrüstung der Verwüstung",
+   "fr": "Tenue de combat de la désolation"
+  }
+ },
+ "387": {
+  "name": {
+   "en": "Warlord's Regalia",
+   "de": "Ornat des Kriegsfürsten",
+   "fr": "Tenue de parade de seigneur de guerre"
+  }
+ },
+ "493": {
+  "name": {
+   "en": "Genesis Raiment",
+   "de": "Gewandung der Genesis",
+   "fr": "Grande tenue de la genèse"
+  }
+ },
+ "785": {
+  "name": {
+   "en": "Midsummer Reveler",
+   "de": "Sonnenwendfeiernder",
+   "fr": "Tenue de fête du solstice"
+  }
+ },
+ "762": {
+  "name": {
+   "en": "Brewfest Garb",
+   "de": "Braufesttracht",
+   "fr": "Atours de la fête des Brasseurs"
+  }
+ },
+ "775": {
+  "name": {
+   "en": "Gladiator's Sanctuary",
+   "de": "Schutzgewandung des Gladiators",
+   "fr": "Sanctuaire de gladiateur"
+  }
+ },
+ "755": {
+  "name": {
+   "en": "Nerubian Hive",
+   "de": "Nerubischer Schwarm",
+   "fr": "Ruche nérubienne"
+  }
+ },
+ "361": {
+  "name": {
+   "en": "Champion's Pursuit",
+   "de": "Lohn des Feldherren",
+   "fr": "Parure de champion"
+  }
+ },
+ "664": {
+  "name": {
+   "en": "Incarnate Regalia",
+   "de": "Ornat des Leibhaftigen",
+   "fr": "Tenue de parade des incarnés"
+  }
+ },
+ "481": {
+  "name": {
+   "en": "Demoniac's Threads",
+   "de": "Roben des Besessenen",
+   "fr": "Effets de démoniaque"
+  }
+ },
+ "527": {
+  "name": {
+   "en": "The Earthshatterer",
+   "de": "Der Erdspalter",
+   "fr": "Le Briseur de terre"
+  }
+ },
+ "381": {
+  "name": {
+   "en": "Lieutenant Commander's Sanctuary",
+   "de": "Zierrat des Feldkommandanten",
+   "fr": "Sanctuaire de lieutenant-commandant"
+  }
+ },
+ "382": {
+  "name": {
+   "en": "Champion's Sanctuary",
+   "de": "Zierrat des Feldherren",
+   "fr": "Sanctuaire de champion"
+  }
+ },
+ "401": {
+  "name": {
+   "en": "Lieutenant Commander's Aegis",
+   "de": "Aegis des Feldkommandanten",
+   "fr": "Egide de lieutenant-commandant"
+  }
+ },
+ "577": {
+  "name": {
+   "en": "Gladiator's Vestments",
+   "de": "Gewänder des Gladiators",
+   "fr": "Habits de gladiateur"
+  }
+ },
+ "564": {
+  "name": {
+   "en": "Flame Guard",
+   "de": "Flammenwächter",
+   "fr": "Garde des flammes"
+  }
+ },
+ "694": {
+  "name": {
+   "en": "High Warlord's Redemption",
+   "de": "Erlösung des Obersten Kriegsfürsten",
+   "fr": "Rédemption de grand seigneur de guerre"
+  }
+ },
+ "402": {
+  "name": {
+   "en": "Field Marshal's Aegis",
+   "de": "Aegis des Feldmarschalls",
+   "fr": "Egide de grand maréchal"
+  }
+ },
+ "388": {
+  "name": {
+   "en": "Field Marshal's Regalia",
+   "de": "Ornat des Feldmarschalls",
+   "fr": "Tenue de parade de grand maréchal"
+  }
+ },
+ "516": {
+  "name": {
+   "en": "Soulforge Armor",
+   "de": "Rüstung der Seelenschmiede",
+   "fr": "Armure d'Âmeforge"
+  }
+ },
+ "719": {
+  "name": {
+   "en": "The Fists of Fury",
+   "de": "Fäuste des Rächers",
+   "fr": "La fureur de vaincre"
+  }
+ },
+ "667": {
+  "name": {
+   "en": "The Twin Stars",
+   "de": "Die Zwillingssterne",
+   "fr": "Les Etoiles jumelles"
+  }
+ },
+ "831": {
+  "name": {
+   "en": "Siegebreaker Plate",
+   "de": "Plattenrüstung des Blockadenbrechers",
+   "fr": "Armure brise-siège en plaques"
+  }
+ },
+ "876": {
+  "name": {
+   "en": "Liadrin's Garb",
+   "de": "Liadrins Gewand",
+   "fr": "Atours de Liadrin"
+  }
+ },
+ "737": {
+  "name": {
+   "en": "Latro's Flurry",
+   "de": "Latros Schlaghagel",
+   "fr": "Rafale de Latro"
+  }
+ },
+ "742": {
+  "name": {
+   "en": "Dragonhide Battlegear",
+   "de": "Schlachtrüstung aus Drachenleder",
+   "fr": "Tenue de combat en peau de dragon"
+  }
+ },
+ "610": {
+  "name": {
+   "en": "High Warlord's Wildhide",
+   "de": "Wildfell des Obersten Kriegsfürsten",
+   "fr": "Peau de fauve de grand seigneur de guerre"
+  }
+ },
+ "189": {
+  "name": {
+   "en": "Battlegear of Valor",
+   "de": "Schlachtrüstung der Ehre",
+   "fr": "Tenue de combat de vaillance"
+  }
+ },
+ "201": {
+  "name": {
+   "en": "Arcanist Regalia",
+   "de": "Ornat des Arkanisten",
+   "fr": "Tenue de parade d'arcaniste"
+  }
+ },
+ "658": {
+  "name": {
+   "en": "Mana-Etched Regalia",
+   "de": "Managetränktes Ornat",
+   "fr": "Tenue de parade gravée au mana"
+  }
+ },
+ "659": {
+  "name": {
+   "en": "Wastewalker Armor",
+   "de": "Ödniswandlerrüstung",
+   "fr": "Armure de marchefriche"
+  }
+ },
+ "463": {
+  "name": {
+   "en": "Primal Blessing",
+   "de": "Ursegen",
+   "fr": "Bénédiction primordiale"
+  }
+ },
+ "579": {
+  "name": {
+   "en": "Gladiator's Regalia",
+   "de": "Ornat des Gladiators",
+   "fr": "Tenue de parade de gladiateur"
+  }
+ },
+ "573": {
+  "name": {
+   "en": "Fel Skin",
+   "de": "Teufelshaut",
+   "fr": "Gangrepeau"
+  }
+ },
+ "574": {
+  "name": {
+   "en": "Strength of the Clefthoof",
+   "de": "Macht der Grollhufe",
+   "fr": "Force du sabot-fourchu"
+  }
+ },
+ "604": {
+  "name": {
+   "en": "High Warlord's Thunderfist",
+   "de": "Donnerfaust des Obersten Kriegsfürsten",
+   "fr": "Tonnepoing de grand seigneur de guerre"
+  }
+ },
+ "515": {
+  "name": {
+   "en": "Beastmaster Armor",
+   "de": "Rüstung der Tierherrschaft",
+   "fr": "Armure de belluaire"
+  }
+ },
+ "215": {
+  "name": {
+   "en": "Dragonstalker Armor",
+   "de": "Rüstung des Drachenjägers",
+   "fr": "Armure de traqueur de dragon"
+  }
+ },
+ "218": {
+  "name": {
+   "en": "Battlegear of Wrath",
+   "de": "Schlachtrüstung des Zorns",
+   "fr": "Tenue de combat de courroux"
+  }
+ },
+ "661": {
+  "name": {
+   "en": "Doomplate Battlegear",
+   "de": "Verdammnisplattenrüstung",
+   "fr": "Tenue de combat de plaques funestes"
+  }
+ },
+ "671": {
+  "name": {
+   "en": "Tempest Regalia",
+   "de": "Ornat des Gewittersturms",
+   "fr": "Tenue de parade de la tempête"
+  }
+ },
+ "699": {
+  "name": {
+   "en": "The Twin Blades of Azzinoth",
+   "de": "Die Zwillingsklingen von Azzinoth",
+   "fr": "Les Lames jumelles d'Azzinoth"
+  }
+ },
+ "580": {
+  "name": {
+   "en": "Gladiator's Thunderfist",
+   "de": "Donnerfaust des Gladiators",
+   "fr": "Tonnepoing de gladiateur"
+  }
+ },
+ "183": {
+  "name": {
+   "en": "Dreadmist Raiment",
+   "de": "Nebel der Furcht",
+   "fr": "Grande tenue de Brume-funeste"
+  }
+ },
+ "383": {
+  "name": {
+   "en": "Warlord's Battlegear",
+   "de": "Schlachtrüstung des Kriegsfürsten",
+   "fr": "Tenue de combat de seigneur de guerre"
+  }
+ },
+ "500": {
+  "name": {
+   "en": "Implements of Unspoken Names",
+   "de": "Ritualroben der ungesagten Namen",
+   "fr": "Ensemble des noms inexprimés"
+  }
+ },
+ "501": {
+  "name": {
+   "en": "Stormcaller's Garb",
+   "de": "Gewand des Sturmrufers",
+   "fr": "Atours d'implorateur de tempête"
+  }
+ },
+ "534": {
+  "name": {
+   "en": "Undead Slayer's Armor",
+   "de": "Rüstung des Untotenschlächters",
+   "fr": "Armure de tueur de mort-vivant"
+  }
+ },
+ "537": {
+  "name": {
+   "en": "Champion's Battlearmor",
+   "de": "Sturmrüstung des Feldherren",
+   "fr": "Armure de bataille de champion"
+  }
+ },
+ "538": {
+  "name": {
+   "en": "Champion's Stormcaller",
+   "de": "Sturmornat des Feldherren",
+   "fr": "Tornade de champion"
+  }
+ },
+ "541": {
+  "name": {
+   "en": "Champion's Dreadgear",
+   "de": "Schreckensrüstung des Feldherren",
+   "fr": "Tenue horrifique de champion"
+  }
+ },
+ "760": {
+  "name": {
+   "en": "Gladiator's Dreadplate",
+   "de": "Schreckensplatte des Gladiators",
+   "fr": "Armure de gladiateur en plaques d'effroi"
+  }
+ },
+ "759": {
+  "name": {
+   "en": "Raine's Revenge",
+   "de": "Raines Rache",
+   "fr": "Vengeance de Raine"
+  }
+ },
+ "772": {
+  "name": {
+   "en": "Gladiator's Pursuit",
+   "de": "Jagdtracht des Gladiators",
+   "fr": "Parure de gladiateur"
+  }
+ },
+ "629": {
+  "name": {
+   "en": "Crystalforge Battlegear",
+   "de": "Kristallgeschmiedete Schlachtrüstung",
+   "fr": "Tenue de combat de Cristalforge"
+  }
+ },
+ "644": {
+  "name": {
+   "en": "Oblivion Raiment",
+   "de": "Gewandung des Vergessens",
+   "fr": "Grande tenue de l'oubli"
+  }
+ },
+ "645": {
+  "name": {
+   "en": "Voidheart Raiment",
+   "de": "Gewandung des Herzens der Leere",
+   "fr": "Grande tenue du Cœur-du-vide"
+  }
+ },
+ "670": {
+  "name": {
+   "en": "Malefic Raiment",
+   "de": "Gewandung der Boshaftigkeit",
+   "fr": "Grande tenue du maléfice"
+  }
+ },
+ "698": {
+  "name": {
+   "en": "Warlord's Aegis",
+   "de": "Aegis des Kriegsfürsten",
+   "fr": "Egide de seigneur de guerre"
+  }
+ },
+ "502": {
+  "name": {
+   "en": "Gift of the Gathering Storm",
+   "de": "Gabe der aufziehenden Stürme",
+   "fr": "Don de la tempête imminente"
+  }
+ },
+ "509": {
+  "name": {
+   "en": "Striker's Garb",
+   "de": "Gewand des Hetzers",
+   "fr": "Atours du Frappeur"
+  }
+ },
+ "491": {
+  "name": {
+   "en": "Blue Dragon Mail",
+   "de": "Blauer Drachenschuppenpanzer",
+   "fr": "Mailles de dragon bleu"
+  }
+ },
+ "348": {
+  "name": {
+   "en": "Lieutenant Commander's Vestments",
+   "de": "Gewänder des Feldkommandanten",
+   "fr": "Habits de lieutenant-commandant"
+  }
+ },
+ "144": {
+  "name": {
+   "en": "Ironfeather Armor",
+   "de": "Eisenfederrüstung",
+   "fr": "Armure de plumacier"
+  }
+ },
+ "281": {
+  "name": {
+   "en": "Champion's Battlegear",
+   "de": "Schlachtrüstung des Feldherren",
+   "fr": "Tenue de combat de champion"
+  }
+ },
+ "301": {
+  "name": {
+   "en": "Champion's Earthshaker",
+   "de": "Erderschütterer des Feldherren",
+   "fr": "Trembleterre de champion"
+  }
+ },
+ "122": {
+  "name": {
+   "en": "Necropile Raiment",
+   "de": "Roben des Totenbeschwörers",
+   "fr": "Grande tenue nécropile"
+  }
+ },
+ "123": {
+  "name": {
+   "en": "Bloodmail Regalia",
+   "de": "Ornat des Blutpanzers",
+   "fr": "Tenue de parade en mailles sanglantes"
+  }
+ },
+ "184": {
+  "name": {
+   "en": "Shadowcraft Armor",
+   "de": "Rüstung der Schattenkunst",
+   "fr": "Armure Sombreruse"
+  }
+ },
+ "185": {
+  "name": {
+   "en": "Wildheart Raiment",
+   "de": "Herz der Wildnis",
+   "fr": "Grande tenue du Cœur-sauvage"
+  }
+ },
+ "822": {
+  "name": {
+   "en": "Aegis Regalia",
+   "de": "Ornat der Aegis",
+   "fr": "Tenue de parade de l'égide"
+  }
+ },
+ "824": {
+  "name": {
+   "en": "Worldbreaker Garb",
+   "de": "Gewandung des Weltenbrechers",
+   "fr": "Atours brise-monde"
+  }
+ },
+ "826": {
+  "name": {
+   "en": "Terrorblade Battlegear",
+   "de": "Schlachtrüstung der Schreckensklinge",
+   "fr": "Tenue de combat terrolame"
+  }
+ },
+ "829": {
+  "name": {
+   "en": "Nightsong Regalia",
+   "de": "Ornat des Nachtweisen",
+   "fr": "Tenue de parade chantenuit"
+  }
+ },
+ "832": {
+  "name": {
+   "en": "Sanctification Garb",
+   "de": "Gewandung der Weihe",
+   "fr": "Atours de sanctification"
+  }
+ },
+ "833": {
+  "name": {
+   "en": "Sanctification Regalia",
+   "de": "Ornat der Weihe",
+   "fr": "Tenue de parade de sanctification"
+  }
+ },
+ "615": {
+  "name": {
+   "en": "Gladiator's Felshroud",
+   "de": "Teufelsschleier des Gladiators",
+   "fr": "Suaire gangrené de gladiateur"
+  }
+ },
+ "212": {
+  "name": {
+   "en": "Nemesis Raiment",
+   "de": "Roben der Nemesis",
+   "fr": "Grande tenue de Némésis"
+  }
+ },
+ "187": {
+  "name": {
+   "en": "The Elements",
+   "de": "Die Elemente",
+   "fr": "Les Eléments"
+  }
+ },
+ "188": {
+  "name": {
+   "en": "Lightforge Armor",
+   "de": "Esse der Lichtschmiede",
+   "fr": "Armure de Sancteforge"
+  }
+ },
+ "504": {
+  "name": {
+   "en": "Trappings of Vaulted Secrets",
+   "de": "Zierrat der behüteten Geheimnisse",
+   "fr": "Ornements des secrets scellés"
+  }
+ },
+ "505": {
+  "name": {
+   "en": "Avenger's Battlegear",
+   "de": "Schlachtrüstung des Rächers",
+   "fr": "Tenue de combat de vengeur"
+  }
+ },
+ "813": {
+  "name": {
+   "en": "Eviscerator's Battlegear",
+   "de": "Schlachtrüstung des Ausweiders",
+   "fr": "Tenue de combat d'éviscérateur"
+  }
+ },
+ "605": {
+  "name": {
+   "en": "Grand Marshal's Vestments",
+   "de": "Gewänder des Großmarschalls",
+   "fr": "Habits de connétable"
+  }
+ },
+ "898": {
+  "name": {
+   "en": "Scourgelord's Plate",
+   "de": "Plattenrüstung des Geißelfürsten",
+   "fr": "Armure de seigneur du Fléau en plaques"
+  }
+ },
+ "901": {
+  "name": {
+   "en": "Lightsworn Plate",
+   "de": "Plattenrüstung des Lichts",
+   "fr": "Armure ligelumière en plaques"
+  }
+ },
+ "828": {
+  "name": {
+   "en": "Nightsong Garb",
+   "de": "Gewand des Nachtweisen",
+   "fr": "Atours chantenuit"
+  }
+ },
+ "820": {
+  "name": {
+   "en": "Aegis Battlegear",
+   "de": "Schlachtrüstung der Aegis",
+   "fr": "Tenue de combat de l'égide"
+  }
+ },
+ "910": {
+  "name": {
+   "en": "Gladiator's Felshroud",
+   "de": "Teufelsschleier des Gladiators",
+   "fr": "Suaire gangrené de gladiateur"
+  }
+ },
+ "912": {
+  "name": {
+   "en": "Gladiator's Earthshaker",
+   "de": "Erderschütterer des Gladiators",
+   "fr": "Trembleterre de gladiateur"
+  }
+ },
+ "879": {
+  "name": {
+   "en": "Turalyon's Plate",
+   "de": "Turalyons Plattenrüstung",
+   "fr": "Armure de Turalyon en plaques"
+  }
+ },
+ "880": {
+  "name": {
+   "en": "Liadrin's Plate",
+   "de": "Liadrins Plattenrüstung",
+   "fr": "Armure de Liadrin en plaques"
+  }
+ },
+ "844": {
+  "name": {
+   "en": "Sunstrider's Regalia",
+   "de": "Sonnenwanderers Ornat",
+   "fr": "Tenue de parade de Haut-Soleil"
+  }
+ },
+ "663": {
+  "name": {
+   "en": "Incarnate Raiment",
+   "de": "Gewandung des Leibhaftigen",
+   "fr": "Grande tenue des incarnés"
+  }
+ },
+ "865": {
+  "name": {
+   "en": "Nobundo's Battlegear",
+   "de": "Nobundos Schlachtrüstung",
+   "fr": "Tenue de combat de Nobundo"
+  }
+ },
+ "848": {
+  "name": {
+   "en": "Zabra's Raiment",
+   "de": "Zabras Gewandung",
+   "fr": "Grande tenue de Zabra"
+  }
+ },
+ "856": {
+  "name": {
+   "en": "Runetotem's Battlegear",
+   "de": "Runentotems Schlachtrüstung",
+   "fr": "Tenue de combat du totem runique"
+  }
+ },
+ "872": {
+  "name": {
+   "en": "Koltira's Battlegear",
+   "de": "Koltiras Schlachtrüstung",
+   "fr": "Tenue de combat de Koltira"
+  }
+ },
+ "858": {
+  "name": {
+   "en": "Garona's Battlegear",
+   "de": "Garonas Schlachtrüstung",
+   "fr": "Tenue de combat de Garona"
+  }
+ },
+ "860": {
+  "name": {
+   "en": "Windrunner's Pursuit",
+   "de": "Windläufers Jagdtracht",
+   "fr": "Parure de Coursevent"
+  }
+ },
+ "862": {
+  "name": {
+   "en": "Thrall's Garb",
+   "de": "Thralls Gewand",
+   "fr": "Atours de Thrall"
+  }
+ },
+ "863": {
+  "name": {
+   "en": "Thrall's Regalia",
+   "de": "Thralls Ornat",
+   "fr": "Tenue de parade de Thrall"
+  }
+ },
+ "866": {
+  "name": {
+   "en": "Thrall's Battlegear",
+   "de": "Thralls Schlachtrüstung",
+   "fr": "Tenue de combat de Thrall"
+  }
+ },
+ "870": {
+  "name": {
+   "en": "Hellscream's Plate",
+   "de": "Höllschreis Plattenrüstung",
+   "fr": "Armure de Hurlenfer en plaques"
+  }
+ },
+ "814": {
+  "name": {
+   "en": "Ornate Saronite Battlegear",
+   "de": "Verzierte Saronitschlachtrüstung",
+   "fr": "Tenue de combat ornée en saronite"
+  }
+ },
+ "819": {
+  "name": {
+   "en": "Frostsavage Battlegear",
+   "de": "Frostgrimmschlachtrüstung",
+   "fr": "Tenue de combat du givre sauvage"
+  }
+ },
+ "818": {
+  "name": {
+   "en": "Swiftarrow Battlegear",
+   "de": "Flinkpfeilschlachtrüstung",
+   "fr": "Tenue de combat viveflèche"
+  }
+ },
+ "815": {
+  "name": {
+   "en": "Overcaster Battlegear",
+   "de": "Unwetterschlachtrüstung",
+   "fr": "Tenue de combat d'acromancien"
+  }
+ },
+ "821": {
+  "name": {
+   "en": "Aegis Plate",
+   "de": "Plattenrüstung der Aegis",
+   "fr": "Armure de l'égide en plaques"
+  }
+ },
+ "627": {
+  "name": {
+   "en": "Crystalforge Raiment",
+   "de": "Kristallgeschmiedete Gewandung",
+   "fr": "Grande tenue de Cristalforge"
+  }
+ },
+ "628": {
+  "name": {
+   "en": "Crystalforge Armor",
+   "de": "Kristallgeschmiedete Rüstung",
+   "fr": "Armure de Cristalforge"
+  }
+ },
+ "695": {
+  "name": {
+   "en": "Grand Marshal's Wartide",
+   "de": "Kriegsrausch des Großmarschalls",
+   "fr": "Vague guerrière de connétable"
+  }
+ },
+ "696": {
+  "name": {
+   "en": "High Warlord's Wartide",
+   "de": "Kriegsrausch des Obersten Kriegsfürsten",
+   "fr": "Vague guerrière de grand seigneur de guerre"
+  }
+ },
+ "682": {
+  "name": {
+   "en": "Skyshatter Harness",
+   "de": "Harnisch des Himmelsdonners",
+   "fr": "Harnais Brise-ciel"
+  }
+ },
+ "751": {
+  "name": {
+   "en": "Crusader's Ornamented Battlegear",
+   "de": "Zierratschlachtrüstung des Kreuzfahrers",
+   "fr": "Tenue de combat ornementée de croisé"
+  }
+ },
+ "596": {
+  "name": {
+   "en": "High Warlord's Pursuit",
+   "de": "Jagdtracht des Obersten Kriegsfürsten",
+   "fr": "Parure de grand seigneur de guerre"
+  }
+ },
+ "823": {
+  "name": {
+   "en": "Worldbreaker Battlegear",
+   "de": "Schlachtrüstung des Weltenbrechers",
+   "fr": "Tenue de combat brise-monde"
+  }
+ },
+ "816": {
+  "name": {
+   "en": "Savage Saronite Battlegear",
+   "de": "Wilde Saronitschlachtrüstung",
+   "fr": "Tenue de combat sauvage en saronite"
+  }
+ },
+ "838": {
+  "name": {
+   "en": "Scourgestalker Battlegear",
+   "de": "Schlachtrüstung des Geißeljägers",
+   "fr": "Tenue de combat de traqueur du Fléau"
+  }
+ },
+ "883": {
+  "name": {
+   "en": "Bloodmage's Regalia",
+   "de": "Ornat des Blutmagiers",
+   "fr": "Tenue de parade de mage de sang"
+  }
+ },
+ "887": {
+  "name": {
+   "en": "Lasherweave Garb",
+   "de": "Peitschergewirktes Gewand",
+   "fr": "Atours en tisse-flagellant"
+  }
+ },
+ "892": {
+  "name": {
+   "en": "Frost Witch's Garb",
+   "de": "Gewand der Frosthexe",
+   "fr": "Atours de sorcière du givre"
+  }
+ },
+ "900": {
+  "name": {
+   "en": "Lightsworn Battlegear",
+   "de": "Schlachtrüstung des Lichts",
+   "fr": "Tenue de combat ligelumière"
+  }
+ },
+ "894": {
+  "name": {
+   "en": "Frost Witch's Battlegear",
+   "de": "Schlachtrüstung der Frosthexe",
+   "fr": "Tenue de combat de sorcière du givre"
+  }
+ },
+ "899": {
+  "name": {
+   "en": "Lightsworn Garb",
+   "de": "Gewand des Lichts",
+   "fr": "Atours ligelumières"
+  }
+ },
+ "825": {
+  "name": {
+   "en": "Worldbreaker Regalia",
+   "de": "Ornat des Weltenbrechers",
+   "fr": "Tenue de parade brise-monde"
+  }
+ },
+ "868": {
+  "name": {
+   "en": "Hellscream's Battlegear",
+   "de": "Höllschreis Schlachtrüstung",
+   "fr": "Tenue de combat de Hurlenfer"
+  }
+ },
+ "845": {
+  "name": {
+   "en": "Gul'dan's Regalia",
+   "de": "Gul'dans Ornat",
+   "fr": "Tenue de parade de Gul’dan"
+  }
+ },
+ "869": {
+  "name": {
+   "en": "Wrynn's Plate",
+   "de": "Wrynns Plattenrüstung",
+   "fr": "Armure de Wrynn en plaques"
+  }
+ },
+ "884": {
+  "name": {
+   "en": "Dark Coven's Regalia",
+   "de": "Ornat des dunklen Zirkels",
+   "fr": "Tenue de parade du convent noir"
+  }
+ },
+ "885": {
+  "name": {
+   "en": "Crimson Acolyte's Raiment",
+   "de": "Roben des purpurroten Akolythen",
+   "fr": "Grande tenue d'acolyte cramoisi"
+  }
+ },
+ "886": {
+  "name": {
+   "en": "Crimson Acolyte's Regalia",
+   "de": "Ornat des purpurroten Akolythen",
+   "fr": "Tenue de parade d'acolyte cramoisi"
+  }
+ },
+ "889": {
+  "name": {
+   "en": "Lasherweave Battlegear",
+   "de": "Peitschergewirkte Schlachtrüstung",
+   "fr": "Tenue de combat en tisse-flagellant"
+  }
+ },
+ "893": {
+  "name": {
+   "en": "Frost Witch's Regalia",
+   "de": "Ornat der Frosthexe",
+   "fr": "Tenue de parade de sorcière du givre"
+  }
+ },
+ "827": {
+  "name": {
+   "en": "Nightsong Battlegear",
+   "de": "Schlachtrüstung des Nachtweisen",
+   "fr": "Tenue de combat chantenuit"
+  }
+ },
+ "877": {
+  "name": {
+   "en": "Turalyon's Battlegear",
+   "de": "Turalyons Schlachtrüstung",
+   "fr": "Tenue de combat de Turalyon"
+  }
+ },
+ "859": {
+  "name": {
+   "en": "Windrunner's Battlegear",
+   "de": "Windläufers Schlachtrüstung",
+   "fr": "Tenue de combat de Coursevent"
+  }
+ },
+ "817": {
+  "name": {
+   "en": "Stormhide Battlegear",
+   "de": "Sturmbalgschlachtrüstung",
+   "fr": "Tenue de combat de l'orageux"
+  }
+ },
+ "843": {
+  "name": {
+   "en": "Khadgar's Regalia",
+   "de": "Khadgars Ornat",
+   "fr": "Tenue de parade de Khadgar"
+  }
+ },
+ "846": {
+  "name": {
+   "en": "Kel'Thuzad's Regalia",
+   "de": "Kel'Thuzads Ornat",
+   "fr": "Tenue de parade de Kel'Thuzad"
+  }
+ },
+ "849": {
+  "name": {
+   "en": "Velen's Regalia",
+   "de": "Velens Ornat",
+   "fr": "Tenue de parade de Velen"
+  }
+ },
+ "852": {
+  "name": {
+   "en": "Runetotem's Garb",
+   "de": "Runentotems Gewand",
+   "fr": "Grande tenue du totem runique"
+  }
+ },
+ "853": {
+  "name": {
+   "en": "Malfurion's Regalia",
+   "de": "Malfurions Ornat",
+   "fr": "Tenue de parade de Malfurion"
+  }
+ },
+ "854": {
+  "name": {
+   "en": "Runetotem's Regalia",
+   "de": "Runentotems Ornat",
+   "fr": "Tenue de parade du totem runique"
+  }
+ },
+ "857": {
+  "name": {
+   "en": "VanCleef's Battlegear",
+   "de": "Van Cleefs Schlachtrüstung",
+   "fr": "Tenue de combat de VanCleef"
+  }
+ },
+ "875": {
+  "name": {
+   "en": "Turalyon's Garb",
+   "de": "Turalyons Gewand",
+   "fr": "Atours de Turalyon"
+  }
+ },
+ "850": {
+  "name": {
+   "en": "Zabra's Regalia",
+   "de": "Zabras Ornat",
+   "fr": "Tenue de parade de Zabra"
+  }
+ },
+ "861": {
+  "name": {
+   "en": "Nobundo's Garb",
+   "de": "Nobundos Gewand",
+   "fr": "Atours de Nobundo"
+  }
+ },
+ "873": {
+  "name": {
+   "en": "Thassarian's Plate",
+   "de": "Thassarians Plattenrüstung",
+   "fr": "Armure de Thassarian en plaques"
+  }
+ },
+ "929": {
+  "name": {
+   "en": "Stormrider's Regalia",
+   "de": "Ornat des Sturmreiters",
+   "fr": "Tenue de parade de chevaucheur de tempête"
+  }
+ },
+ "941": {
+  "name": {
+   "en": "Shadowflame Regalia",
+   "de": "Schattenflammenornat",
+   "fr": "Tenue de parade ombreflamme"
+  }
+ },
+ "931": {
+  "name": {
+   "en": "Firelord's Vestments",
+   "de": "Gewänder des Feuerlords",
+   "fr": "Habits du seigneur du Feu"
+  }
+ },
+ "939": {
+  "name": {
+   "en": "Battlegear of the Raging Elements",
+   "de": "Schlachtrüstung der wütenden Elemente",
+   "fr": "Tenue de combat des éléments déchaînés"
+  }
+ },
+ "689": {
+  "name": {
+   "en": "High Warlord's Refuge",
+   "de": "Zuflucht des Obersten Kriegsfürsten",
+   "fr": "Refuge de grand seigneur de guerre"
+  }
+ },
+ "539": {
+  "name": {
+   "en": "Champion's Refuge",
+   "de": "Haingewand des Feldherren",
+   "fr": "Refuge de champion"
+  }
+ },
+ "390": {
+  "name": {
+   "en": "Warlord's Raiment",
+   "de": "Gewandung des Kriegsfürsten",
+   "fr": "Grande tenue de seigneur de guerre"
+  }
+ },
+ "874": {
+  "name": {
+   "en": "Koltira's Plate",
+   "de": "Koltiras Plattenrüstung",
+   "fr": "Armure de Koltira en plaques"
+  }
+ },
+ "944": {
+  "name": {
+   "en": "Spiritmender",
+   "de": "Geistheiler",
+   "fr": "Soignesprit"
+  }
+ },
+ "936": {
+  "name": {
+   "en": "Mercurial Regalia",
+   "de": "Quecksilbriges Ornat",
+   "fr": "Tenue de parade mercurienne"
+  }
+ },
+ "938": {
+  "name": {
+   "en": "Vestments of the Raging Elements",
+   "de": "Gewänder der wütenden Elemente",
+   "fr": "Habits des éléments déchaînés"
+  }
+ },
+ "940": {
+  "name": {
+   "en": "Regalia of the Raging Elements",
+   "de": "Ornat der wütenden Elemente",
+   "fr": "Tenue de parade des éléments déchaînés"
+  }
+ },
+ "471": {
+  "name": {
+   "en": "The Highlander's Purpose",
+   "de": "Schicksalsmacht des Highlanders",
+   "fr": "Dessein des Hautes-terres"
+  }
+ },
+ "747": {
+  "name": {
+   "en": "Seer's Ringmail Battlegear",
+   "de": "Ringpanzerschlachtrüstung des Sehers",
+   "fr": "Tenue de combat de voyant en mailles annelées"
+  }
+ },
+ "945": {
+  "name": {
+   "en": "Deathspeaker",
+   "de": "Todessprecher",
+   "fr": "Nécrorateur"
+  }
+ },
+ "951": {
+  "name": {
+   "en": "Agony and Torment",
+   "de": "Agonie und Qualen",
+   "fr": "Agonie et tourment"
+  }
+ },
+ "891": {
+  "name": {
+   "en": "Ahn'Kahar Blood Hunter's Battlegear",
+   "de": "Blutjägerschlachtrüstung der Ahn'Kahar",
+   "fr": "Tenue de combat de chasseur de sang ahn'kahar"
+  }
+ },
+ "937": {
+  "name": {
+   "en": "Wind Dancer's Regalia",
+   "de": "Ornat des Windtänzers",
+   "fr": "Tenue de parade de danseur du vent"
+  }
+ },
+ "744": {
+  "name": {
+   "en": "Kodohide Battlegear",
+   "de": "Schlachtrüstung aus Kodobalg",
+   "fr": "Tenue de combat en cuir de kodo"
+  }
+ },
+ "765": {
+  "name": {
+   "en": "Gladiator's Battlegear",
+   "de": "Schlachtrüstung des Gladiators",
+   "fr": "Tenue de combat de gladiateur"
+  }
+ },
+ "800": {
+  "name": {
+   "en": "Dreamwalker Garb",
+   "de": "Gewand des Traumwandlers",
+   "fr": "Atours de marcherêve"
+  }
+ },
+ "795": {
+  "name": {
+   "en": "Earthshatter Battlegear",
+   "de": "Erdspalterschlachtrüstung",
+   "fr": "Tenue de combat de brise-terre"
+  }
+ },
+ "888": {
+  "name": {
+   "en": "Lasherweave Regalia",
+   "de": "Peitschergewirktes Ornat",
+   "fr": "Tenue de parade en tisse-flagellant"
+  }
+ },
+ "895": {
+  "name": {
+   "en": "Ymirjar Lord's Battlegear",
+   "de": "Schlachtrüstung des Ymirjarfürsten",
+   "fr": "Tenue de combat de seigneur ymirjar"
+  }
+ },
+ "890": {
+  "name": {
+   "en": "Shadowblade's Battlegear",
+   "de": "Schlachtrüstung der Schattenklinge",
+   "fr": "Tenue de combat de lame de l'ombre"
+  }
+ },
+ "897": {
+  "name": {
+   "en": "Scourgelord's Battlegear",
+   "de": "Schlachtrüstung des Geißelfürsten",
+   "fr": "Tenue de combat de seigneur du Fléau"
+  }
+ },
+ "834": {
+  "name": {
+   "en": "Darkruned Battlegear",
+   "de": "Dunkle Runenschlachtrüstung",
+   "fr": "Tenue de combat sombrerunique"
+  }
+ },
+ "835": {
+  "name": {
+   "en": "Darkruned Plate",
+   "de": "Dunkle Runenplattenrüstung",
+   "fr": "Armure sombrerunique en plaques"
+  }
+ },
+ "717": {
+  "name": {
+   "en": "Field Marshal's Earthshaker",
+   "de": "Erderschütterer des Feldmarschalls",
+   "fr": "Trembleterre de grand maréchal"
+  }
+ },
+ "913": {
+  "name": {
+   "en": "Gladiator's Wartide",
+   "de": "Kriegsrausch des Gladiators",
+   "fr": "Vague guerrière de gladiateur"
+  }
+ },
+ "915": {
+  "name": {
+   "en": "Gladiator's Raiment",
+   "de": "Gewandung des Gladiators",
+   "fr": "Grande tenue de gladiateur"
+  }
+ },
+ "916": {
+  "name": {
+   "en": "Gladiator's Investiture",
+   "de": "Vereidigung des Gladiators",
+   "fr": "Investiture de gladiateur"
+  }
+ },
+ "917": {
+  "name": {
+   "en": "Gladiator's Vindication",
+   "de": "Rechtschaffenheit des Gladiators",
+   "fr": "Justification de gladiateur"
+  }
+ },
+ "918": {
+  "name": {
+   "en": "Gladiator's Redemption",
+   "de": "Erlösung des Gladiators",
+   "fr": "Rédemption de gladiateur"
+  }
+ },
+ "919": {
+  "name": {
+   "en": "Gladiator's Regalia",
+   "de": "Ornat des Gladiators",
+   "fr": "Tenue de parade de gladiateur"
+  }
+ },
+ "920": {
+  "name": {
+   "en": "Gladiator's Pursuit",
+   "de": "Jagdtracht des Gladiators",
+   "fr": "Parure de gladiateur"
+  }
+ },
+ "923": {
+  "name": {
+   "en": "Gladiator's Refuge",
+   "de": "Zuflucht des Gladiators",
+   "fr": "Refuge de gladiateur"
+  }
+ },
+ "924": {
+  "name": {
+   "en": "Gladiator's Desecration",
+   "de": "Entweihung des Gladiators",
+   "fr": "Violation de gladiateur"
+  }
+ },
+ "911": {
+  "name": {
+   "en": "Gladiator's Thunderfist",
+   "de": "Donnerfaust des Gladiators",
+   "fr": "Tonnepoing de gladiateur"
+  }
+ },
+ "930": {
+  "name": {
+   "en": "Lightning-Charged Battlegear",
+   "de": "Blitzgeladene Schlachtrüstung",
+   "fr": "Tenue de combat chargée de foudre"
+  }
+ },
+ "943": {
+  "name": {
+   "en": "Earthen Battleplate",
+   "de": "Irdene Kampfplatte",
+   "fr": "Harnois de bataille de terrestre"
+  }
+ },
+ "914": {
+  "name": {
+   "en": "Gladiator's Vestments",
+   "de": "Gewänder des Gladiators",
+   "fr": "Habits de gladiateur"
+  }
+ },
+ "933": {
+  "name": {
+   "en": "Reinforced Sapphirium Regalia",
+   "de": "Verstärktes Sapphiriumornat",
+   "fr": "Tenue de parade en saphirium renforcé"
+  }
+ },
+ "925": {
+  "name": {
+   "en": "Magma Plated Battlegear",
+   "de": "Magmabeschlagene Schlachtrüstung",
+   "fr": "Tenue de combat cuirassée de magma"
+  }
+ },
+ "926": {
+  "name": {
+   "en": "Magma Plated Battlearmor",
+   "de": "Magmabeschlagene Sturmrüstung",
+   "fr": "Armure de bataille cuirassée de magma"
+  }
+ },
+ "928": {
+  "name": {
+   "en": "Stormrider's Vestments",
+   "de": "Gewänder des Sturmreiters",
+   "fr": "Habits de chevaucheur de tempête"
+  }
+ },
+ "932": {
+  "name": {
+   "en": "Reinforced Sapphirium Battleplate",
+   "de": "Verstärkte Saphiriumkampfplatte",
+   "fr": "Harnois de bataille en saphirium renforcé"
+  }
+ },
+ "934": {
+  "name": {
+   "en": "Reinforced Sapphirium Battlearmor",
+   "de": "Verstärkte Sapphiriumsturmrüstung",
+   "fr": "Armure de bataille en saphirium renforcé"
+  }
+ },
+ "935": {
+  "name": {
+   "en": "Mercurial Vestments",
+   "de": "Quecksilbrige Gewänder",
+   "fr": "Habits mercuriens"
+  }
+ },
+ "881": {
+  "name": {
+   "en": "Purified Shard of the Gods",
+   "de": "Geläuterte Scherbe der Götter",
+   "fr": "Éclat des dieux purifié"
+  }
+ },
+ "882": {
+  "name": {
+   "en": "Shiny Shard of the Gods",
+   "de": "Glänzende Scherbe der Götter",
+   "fr": "Éclat des dieux rutilant"
+  }
+ },
+ "871": {
+  "name": {
+   "en": "Thassarian's Battlegear",
+   "de": "Thassarians Schlachtrüstung",
+   "fr": "Tenue de combat de Thassarian"
+  }
+ },
+ "908": {
+  "name": {
+   "en": "The Defiler's Resolve",
+   "de": "Entschlossenheit des Entweihten",
+   "fr": "Résolution du profanateur"
+  }
+ },
+ "855": {
+  "name": {
+   "en": "Malfurion's Battlegear",
+   "de": "Malfurions Schlachtrüstung",
+   "fr": "Tenue de combat de Malfurion"
+  }
+ },
+ "864": {
+  "name": {
+   "en": "Nobundo's Regalia",
+   "de": "Nobundos Ornat",
+   "fr": "Tenue de parade de Nobundo"
+  }
+ },
+ "836": {
+  "name": {
+   "en": "Kirin Tor Garb",
+   "de": "Gewand der Kirin Tor",
+   "fr": "Atours du Kirin Tor"
+  }
+ },
+ "837": {
+  "name": {
+   "en": "Deathbringer Garb",
+   "de": "Gewandung des Todesbringers",
+   "fr": "Atours porte-mort"
+  }
+ },
+ "909": {
+  "name": {
+   "en": "Gladiator's Battlegear",
+   "de": "Schlachtrüstung des Gladiators",
+   "fr": "Tenue de combat de gladiateur"
+  }
+ },
+ "927": {
+  "name": {
+   "en": "Stormrider's Battlegarb",
+   "de": "Schlachtgewand des Sturmreiters",
+   "fr": "Atours de bataille du chevaucheur de tempête"
+  }
+ },
+ "942": {
+  "name": {
+   "en": "Earthen Warplate",
+   "de": "Irdene Kriegsplatte",
+   "fr": "Harnois de guerre de terrestre"
+  }
+ },
+ "1008": {
+  "name": {
+   "en": "Balespider's Burning Vestments",
+   "de": "Brennende Gewänder der Spinnenbedrohung",
+   "fr": "Habits ardents de l’araignée torve"
+  }
+ },
+ "1009": {
+  "name": {
+   "en": "Vestments of the Cleansing Flame",
+   "de": "Gewänder der reinigenden Flamme",
+   "fr": "Habits de la flamme purificatrice"
+  }
+ },
+ "896": {
+  "name": {
+   "en": "Ymirjar Lord's Plate",
+   "de": "Plattenrüstung des Ymirjarfürsten",
+   "fr": "Armure de seigneur ymirjar en plaques"
+  }
+ },
+ "842": {
+  "name": {
+   "en": "Awesome Party Ensemble",
+   "de": "Großartiges Partyensemble",
+   "fr": "Tenue de fête sensationnelle"
+  }
+ },
+ "847": {
+  "name": {
+   "en": "Velen's Raiment",
+   "de": "Velens Gewandung",
+   "fr": "Grande tenue de Velen"
+  }
+ },
+ "921": {
+  "name": {
+   "en": "Gladiator's Wildhide",
+   "de": "Wildfell des Gladiators",
+   "fr": "Peau de fauve de gladiateur"
+  }
+ },
+ "1015": {
+  "name": {
+   "en": "Volcanic Battlegear",
+   "de": "Vulkanische Schlachtrüstung",
+   "fr": "Tenue de combat volcanique"
+  }
+ },
+ "1016": {
+  "name": {
+   "en": "Volcanic Regalia",
+   "de": "Vulkanisches Ornat",
+   "fr": "Tenue de parade volcanique"
+  }
+ },
+ "1017": {
+  "name": {
+   "en": "Molten Giant Warplate",
+   "de": "Kriegsplatte des geschmolzenen Riesen",
+   "fr": "Harnois de guerre du géant de lave"
+  }
+ },
+ "1006": {
+  "name": {
+   "en": "Vestments of the Dark Phoenix",
+   "de": "Gewänder des dunklen Phönix",
+   "fr": "Habits du phénix sombre"
+  }
+ },
+ "1004": {
+  "name": {
+   "en": "Obsidian Arborweave Vestments",
+   "de": "Obsidianholzgewebegewänder",
+   "fr": "Habits tisse-feuillage en obsidienne"
+  }
+ },
+ "1018": {
+  "name": {
+   "en": "Molten Giant Battleplate",
+   "de": "Kampfplatte des geschmolzenen Riesen",
+   "fr": "Harnois de bataille du géant de lave"
+  }
+ },
+ "626": {
+  "name": {
+   "en": "Justicar Battlegear",
+   "de": "Schlachtrüstung des Rechtsprechers",
+   "fr": "Tenue de combat de justicier"
+  }
+ },
+ "1005": {
+  "name": {
+   "en": "Flamewaker's Battlegear",
+   "de": "Schlachtrüstung des Flammenschürers",
+   "fr": "Tenue de combat d’attise-flammes"
+  }
+ },
+ "851": {
+  "name": {
+   "en": "Malfurion's Garb",
+   "de": "Malfurions Gewand",
+   "fr": "Grande tenue de Malfurion"
+  }
+ },
+ "616": {
+  "name": {
+   "en": "Netherscale Armor",
+   "de": "Netherschuppenrüstung",
+   "fr": "Armure en écailles du Néant"
+  }
+ },
+ "208": {
+  "name": {
+   "en": "Lawbringer Armor",
+   "de": "Rüstung der Gerechtigkeit",
+   "fr": "Armure judiciaire"
+  }
+ },
+ "1057": {
+  "name": {
+   "en": "Necrotic Boneplate Battlegear",
+   "de": "Nekrotische Knochenplattenschlachtrüstung",
+   "fr": "Tenue de combat nécrotique en plaques d’os"
+  }
+ },
+ "1062": {
+  "name": {
+   "en": "Time Lord's Regalia",
+   "de": "Ornat des Zeitfürsten",
+   "fr": "Tenue de parade du seigneur du temps"
+  }
+ },
+ "1065": {
+  "name": {
+   "en": "Armor of Radiant Glory",
+   "de": "Rüstung des strahlenden Ruhms",
+   "fr": "Armure de la gloire radieuse"
+  }
+ },
+ "1067": {
+  "name": {
+   "en": "Regalia of Dying Light",
+   "de": "Ornat des sterbenden Lichts",
+   "fr": "Tenue de parade de la lumière mourante"
+  }
+ },
+ "1069": {
+  "name": {
+   "en": "Spiritwalker's Vestments",
+   "de": "Gewänder des Geistwandlers",
+   "fr": "Habits de marcheur des esprits"
+  }
+ },
+ "949": {
+  "name": {
+   "en": "The Dark Brand",
+   "de": "Das finstere Zeichen",
+   "fr": "La marque sombre"
+  }
+ },
+ "950": {
+  "name": {
+   "en": "The Big Wave",
+   "de": "Die große Welle",
+   "fr": "La grande vague"
+  }
+ },
+ "922": {
+  "name": {
+   "en": "Gladiator's Sanctuary",
+   "de": "Schutzgewandung des Gladiators",
+   "fr": "Sanctuaire de gladiateur"
+  }
+ },
+ "752": {
+  "name": {
+   "en": "Crusader's Scaled Battlegear",
+   "de": "Schuppenschlachtrüstung des Kreuzfahrers",
+   "fr": "Tenue de combat de croisé en écailles"
+  }
+ },
+ "621": {
+  "name": {
+   "en": "Netherblade",
+   "de": "Netherklinge",
+   "fr": "Lame-Néant"
+  }
+ },
+ "492": {
+  "name": {
+   "en": "Twilight Trappings",
+   "de": "Schattenhammerzierrat",
+   "fr": "Ornements du Crépuscule"
+  }
+ },
+ "675": {
+  "name": {
+   "en": "Vestments of Absolution",
+   "de": "Gewänder der Absolution",
+   "fr": "Habits d'absolution"
+  }
+ },
+ "214": {
+  "name": {
+   "en": "Stormrage Raiment",
+   "de": "Sturmgrimms Gewänder",
+   "fr": "Grande tenue de Hurlorage"
+  }
+ },
+ "206": {
+  "name": {
+   "en": "Giantstalker Armor",
+   "de": "Rüstung des Riesenjägers",
+   "fr": "Armure de traqueur de géant"
+  }
+ },
+ "518": {
+  "name": {
+   "en": "Deathmist Raiment",
+   "de": "Roben des Todesnebels",
+   "fr": "Grande tenue Mortebrume"
+  }
+ },
+ "464": {
+  "name": {
+   "en": "Overlord's Resolution",
+   "de": "Erlass des Oberherren",
+   "fr": "Résolution du suzerain"
+  }
+ },
+ "697": {
+  "name": {
+   "en": "Champion's Redoubt",
+   "de": "Zeremonierüstung des Feldherren",
+   "fr": "Redoute de champion"
+  }
+ },
+ "1000": {
+  "name": {
+   "en": "Elementium Deathplate Battlegear",
+   "de": "Elementiumtodesplattenschlachtrüstung",
+   "fr": "Tenue de combat de plates mortelles en élémentium"
+  }
+ },
+ "1010": {
+  "name": {
+   "en": "Regalia of the Cleansing Flame",
+   "de": "Ornat der reinigenden Flamme",
+   "fr": "Tenue de la flamme purificatrice"
+  }
+ },
+ "1072": {
+  "name": {
+   "en": "Vestments of the Faceless Shroud",
+   "de": "Gewänder des verhüllten Gesichtslosen",
+   "fr": "Habits du voile sans visage"
+  }
+ },
+ "1066": {
+  "name": {
+   "en": "Vestments of Dying Light",
+   "de": "Gewänder des sterbenden Lichts",
+   "fr": "Habits de la lumière mourante"
+  }
+ },
+ "1073": {
+  "name": {
+   "en": "Colossal Dragonplate Battlegear",
+   "de": "Kolossale Drachenplattenschlachtrüstung",
+   "fr": "Tenue de combat colossale en plaques de dragon"
+  }
+ },
+ "1063": {
+  "name": {
+   "en": "Regalia of Radiant Glory",
+   "de": "Ornat des strahlenden Ruhms",
+   "fr": "Tenue de parade de la gloire radieuse"
+  }
+ },
+ "1059": {
+  "name": {
+   "en": "Deep Earth Regalia",
+   "de": "Ornat der tiefen Erde",
+   "fr": "Tenue de parade de la terre profonde"
+  }
+ },
+ "1060": {
+  "name": {
+   "en": "Deep Earth Vestments",
+   "de": "Gewänder der tiefen Erde",
+   "fr": "Habits de la terre profonde"
+  }
+ },
+ "1087": {
+  "name": {
+   "en": "Fangs of the Father",
+   "de": "Fänge des Urvaters",
+   "fr": "Crocs du père"
+  }
+ },
+ "1088": {
+  "name": {
+   "en": "Maw of Oblivion",
+   "de": "Maul der Vergessenheit",
+   "fr": "Gueule de l’oubli"
+  }
+ },
+ "608": {
+  "name": {
+   "en": "High Warlord's Vindication",
+   "de": "Rechtschaffenheit des Obersten Kriegsfürsten",
+   "fr": "Justification de grand seigneur de guerre"
+  }
+ },
+ "769": {
+  "name": {
+   "en": "Gladiator's Thunderfist",
+   "de": "Donnerfaust des Gladiators",
+   "fr": "Tonnepoing de gladiateur"
+  }
+ },
+ "783": {
+  "name": {
+   "en": "Blessed Garb of the Undead Slayer",
+   "de": "Gesegnetes Gewand des Untotenschlächters",
+   "fr": "Atours bénis de tueur de mort-vivant"
+  }
+ },
+ "513": {
+  "name": {
+   "en": "Feralheart Raiment",
+   "de": "Ungezähmtes Herz",
+   "fr": "Grande tenue du Cœur-Farouche"
+  }
+ },
+ "497": {
+  "name": {
+   "en": "Deathdealer's Embrace",
+   "de": "Umarmung des Todesboten",
+   "fr": "Étreinte de dispensateur de mort"
+  }
+ },
+ "347": {
+  "name": {
+   "en": "Champion's Vestments",
+   "de": "Gewänder des Feldherren",
+   "fr": "Habits de champion"
+  }
+ },
+ "830": {
+  "name": {
+   "en": "Siegebreaker Battlegear",
+   "de": "Schlachtrüstung des Blockadenbrechers",
+   "fr": "Tenue de combat brise-siège"
+  }
+ },
+ "533": {
+  "name": {
+   "en": "Battlegear of Undead Slaying",
+   "de": "Kampfrüstung des Untotenschlachtens",
+   "fr": "Tenue de combat de tueur de mort-vivant"
+  }
+ },
+ "1001": {
+  "name": {
+   "en": "Elementium Deathplate Battlearmor",
+   "de": "Elementiumtodesplattensturmrüstung",
+   "fr": "Armure de bataille de plates mortelles en élémentium"
+  }
+ },
+ "1007": {
+  "name": {
+   "en": "Firehawk Robes of Conflagration",
+   "de": "Feuerfalkenroben der Feuersbrunst",
+   "fr": "Robe faucon-de-feu de la déflagration"
+  }
+ },
+ "1002": {
+  "name": {
+   "en": "Obsidian Arborweave Battlegarb",
+   "de": "Obsidianholzgewebeschlachtgewand",
+   "fr": "Atours de bataille tisse-feuillage en obsidienne"
+  }
+ },
+ "1003": {
+  "name": {
+   "en": "Obsidian Arborweave Regalia",
+   "de": "Obsidianholzgewebeornat",
+   "fr": "Tenue de parade tisse-feuillage en obsidienne"
+  }
+ },
+ "1011": {
+  "name": {
+   "en": "Regalia of Immolation",
+   "de": "Ornat des Feuerbrandes",
+   "fr": "Tenue d’immolation"
+  }
+ },
+ "1012": {
+  "name": {
+   "en": "Battleplate of Immolation",
+   "de": "Kampfplatte des Feuerbrandes",
+   "fr": "Harnois de bataille d’immolation"
+  }
+ },
+ "1013": {
+  "name": {
+   "en": "Battlearmor of Immolation",
+   "de": "Sturmrüstung des Feuerbrandes",
+   "fr": "Armure de bataille d’immolation"
+  }
+ },
+ "1014": {
+  "name": {
+   "en": "Volcanic Vestments",
+   "de": "Vulkanische Gewänder",
+   "fr": "Habits volcaniques"
+  }
+ },
+ "1127": {
+  "name": {
+   "en": "Battlegear of the Eternal Blossom",
+   "de": "Schlachtrüstung der ewigen Blüte",
+   "fr": "Tenue de combat de l’Éternel printemps"
+  }
+ },
+ "1136": {
+  "name": {
+   "en": "White Tiger Plate",
+   "de": "Kampfplatte des Weißen Tigers",
+   "fr": "Cuirasse du Tigre blanc"
+  }
+ },
+ "1131": {
+  "name": {
+   "en": "Vestments of the Red Crane",
+   "de": "Tracht des Roten Kranichs",
+   "fr": "Habits de la Grue rouge"
+  }
+ },
+ "1124": {
+  "name": {
+   "en": "Plate of the Lost Catacomb",
+   "de": "Kampfplatte der verlorenen Katakomben",
+   "fr": "Cuirasse de la catacombe perdue"
+  }
+ },
+ "1134": {
+  "name": {
+   "en": "White Tiger Vestments",
+   "de": "Tracht des Weißen Tigers",
+   "fr": "Habits du Tigre blanc"
+  }
+ },
+ "1104": {
+  "name": {
+   "en": "Gladiator's Desecration",
+   "de": "Entweihung des Gladiators",
+   "fr": "Violation de gladiateur"
+  }
+ },
+ "1105": {
+  "name": {
+   "en": "Gladiator's Refuge",
+   "de": "Zuflucht des Gladiators",
+   "fr": "Refuge de gladiateur"
+  }
+ },
+ "1106": {
+  "name": {
+   "en": "Gladiator's Sanctuary",
+   "de": "Schutzgewandung des Gladiators",
+   "fr": "Sanctuaire de gladiateur"
+  }
+ },
+ "1163": {
+  "name": {
+   "en": "Vestments of the Lightning Emperor",
+   "de": "Gewänder des Kaisers der Blitze",
+   "fr": "Habits de l’empereur de la foudre"
+  }
+ },
+ "1164": {
+  "name": {
+   "en": "Plate of the Lightning Emperor",
+   "de": "Plattenrüstung des Kaisers der Blitze",
+   "fr": "Cuirasse de l’empereur de la foudre"
+  }
+ },
+ "1165": {
+  "name": {
+   "en": "Vestments of the Exorcist",
+   "de": "Gewänder des Exorzisten",
+   "fr": "Habits de l’exorciste"
+  }
+ },
+ "1166": {
+  "name": {
+   "en": "Regalia of the Exorcist",
+   "de": "Ornat des Exorzisten",
+   "fr": "Tenue de parade de l’exorciste"
+  }
+ },
+ "1167": {
+  "name": {
+   "en": "Nine-Tail Battlegear",
+   "de": "Neunschwänzige Schlachtrüstung",
+   "fr": "Tenue de combat à neuf queues"
+  }
+ },
+ "1168": {
+  "name": {
+   "en": "Vestments of the Witch Doctor",
+   "de": "Gewänder des Hexendoktors",
+   "fr": "Habits du féticheur"
+  }
+ },
+ "1169": {
+  "name": {
+   "en": "Battlegear of the Witch Doctor",
+   "de": "Schlachtrüstung des Hexendoktors",
+   "fr": "Tenue de combat du féticheur"
+  }
+ },
+ "1170": {
+  "name": {
+   "en": "Regalia of the Witch Doctor",
+   "de": "Ornat des Hexendoktors",
+   "fr": "Tenue de parade du féticheur"
+  }
+ },
+ "1171": {
+  "name": {
+   "en": "Regalia of the Thousandfold Hells",
+   "de": "Ornat der tausend Höllen",
+   "fr": "Tenue de parade des mille enfers"
+  }
+ },
+ "1172": {
+  "name": {
+   "en": "Battleplate of the Last Mogu",
+   "de": "Kampfplatte des letzten Mogu",
+   "fr": "Harnois de bataille du dernier Mogu"
+  }
+ },
+ "1173": {
+  "name": {
+   "en": "Plate of the Last Mogu",
+   "de": "Plattenrüstung des letzten Mogu",
+   "fr": "Cuirasse du dernier Mogu"
+  }
+ },
+ "1107": {
+  "name": {
+   "en": "Gladiator's Wildhide",
+   "de": "Wildfell des Gladiators",
+   "fr": "Peau de fauve de gladiateur"
+  }
+ },
+ "1108": {
+  "name": {
+   "en": "Gladiator's Pursuit",
+   "de": "Jagdtracht des Gladiators",
+   "fr": "Parure de gladiateur"
+  }
+ },
+ "1109": {
+  "name": {
+   "en": "Gladiator's Regalia",
+   "de": "Ornat des Gladiators",
+   "fr": "Tenue de parade de gladiateur"
+  }
+ },
+ "1110": {
+  "name": {
+   "en": "Gladiator's Redemption",
+   "de": "Erlösung des Gladiators",
+   "fr": "Rédemption de gladiateur"
+  }
+ },
+ "1111": {
+  "name": {
+   "en": "Gladiator's Vindication",
+   "de": "Rechtschaffenheit des Gladiators",
+   "fr": "Justification de gladiateur"
+  }
+ },
+ "1113": {
+  "name": {
+   "en": "Gladiator's Vestments",
+   "de": "Gewänder des Gladiators",
+   "fr": "Habits de gladiateur"
+  }
+ },
+ "1114": {
+  "name": {
+   "en": "Gladiator's Wartide",
+   "de": "Kriegsrausch des Gladiators",
+   "fr": "Vague guerrière de gladiateur"
+  }
+ },
+ "1115": {
+  "name": {
+   "en": "Gladiator's Earthshaker",
+   "de": "Erderschütterer des Gladiators",
+   "fr": "Trembleterre de gladiateur"
+  }
+ },
+ "1116": {
+  "name": {
+   "en": "Gladiator's Thunderfist",
+   "de": "Donnerfaust des Gladiators",
+   "fr": "Tonnepoing de gladiateur"
+  }
+ },
+ "1117": {
+  "name": {
+   "en": "Gladiator's Felshroud",
+   "de": "Teufelsschleier des Gladiators",
+   "fr": "Suaire gangrené de gladiateur"
+  }
+ },
+ "1118": {
+  "name": {
+   "en": "Gladiator's Battlegear",
+   "de": "Schlachtrüstung des Gladiators",
+   "fr": "Tenue de combat de gladiateur"
+  }
+ },
+ "1119": {
+  "name": {
+   "en": "Gladiator's Copperskin",
+   "de": "Kupferhaut des Gladiators",
+   "fr": "Cuivrepeau de gladiateur"
+  }
+ },
+ "1120": {
+  "name": {
+   "en": "Gladiator's Ironskin",
+   "de": "Eisenhaut des Gladiators",
+   "fr": "Peau-de-fer de gladiateur"
+  }
+ },
+ "1128": {
+  "name": {
+   "en": "Armor of the Eternal Blossom",
+   "de": "Rüstung der ewigen Blüte",
+   "fr": "Armure de l’Éternel printemps"
+  }
+ },
+ "1145": {
+  "name": {
+   "en": "Plate of Resounding Rings",
+   "de": "Kampfplatte der hallenden Ringe",
+   "fr": "Cuirasse des anneaux résonnants"
+  }
+ },
+ "1138": {
+  "name": {
+   "en": "Regalia of the Guardian Serpent",
+   "de": "Ornat der Wächterschlange",
+   "fr": "Tenue de parade du Serpent gardien"
+  }
+ },
+ "1130": {
+  "name": {
+   "en": "Regalia of the Burning Scroll",
+   "de": "Ornat der brennenden Schriftrolle",
+   "fr": "Tenue de parade du parchemin en flammes"
+  }
+ },
+ "1143": {
+  "name": {
+   "en": "Sha-Skin Regalia",
+   "de": "Ornat aus Sha-Haut",
+   "fr": "Tenue de parade en peau de sha"
+  }
+ },
+ "1137": {
+  "name": {
+   "en": "Vestments of the Guardian Serpent",
+   "de": "Tracht der Wächterschlange",
+   "fr": "Habits du Serpent gardien"
+  }
+ },
+ "1139": {
+  "name": {
+   "en": "Battlegear of the Thousandfold Blades",
+   "de": "Schlachtrüstung der tausendfachen Klingen",
+   "fr": "Tenue de combat des mille lames"
+  }
+ },
+ "1147": {
+  "name": {
+   "en": "Tradition of Cooking",
+   "de": "Kochtradition",
+   "fr": "Cuisine et tradition"
+  }
+ },
+ "1123": {
+  "name": {
+   "en": "Battlegear of the Lost Catacomb",
+   "de": "Schlachtrüstung der verlorenen Katakomben",
+   "fr": "Tenue de combat de la catacombe perdue"
+  }
+ },
+ "1125": {
+  "name": {
+   "en": "Vestments of the Eternal Blossom",
+   "de": "Tracht der ewigen Blüte",
+   "fr": "Habits de l’Éternel printemps"
+  }
+ },
+ "1129": {
+  "name": {
+   "en": "Yaungol Slayer Battlegear",
+   "de": "Schlachtrüstung des Yaungolschlächters",
+   "fr": "Tenue de combat de tueur de yaungols"
+  }
+ },
+ "1132": {
+  "name": {
+   "en": "Battlegear of the Red Crane",
+   "de": "Schlachtrüstung des Roten Kranichs",
+   "fr": "Tenue de combat de la Grue rouge"
+  }
+ },
+ "1135": {
+  "name": {
+   "en": "White Tiger Battlegear",
+   "de": "Schlachtrüstung des Weißen Tigers",
+   "fr": "Tenue de combat du Tigre blanc"
+  }
+ },
+ "1141": {
+  "name": {
+   "en": "Regalia of the Firebird",
+   "de": "Ornat des Feuervogels",
+   "fr": "Tenue de parade de l’Oiseau de feu"
+  }
+ },
+ "1142": {
+  "name": {
+   "en": "Battlegear of the Firebird",
+   "de": "Schlachtrüstung des Feuervogels",
+   "fr": "Tenue de combat de l’Oiseau de feu"
+  }
+ },
+ "1144": {
+  "name": {
+   "en": "Battleplate of Resounding Rings",
+   "de": "Schlachtrüstung der hallenden Ringe",
+   "fr": "Harnois de bataille des anneaux résonnants"
+  }
+ },
+ "1151": {
+  "name": {
+   "en": "Plate of the All-Consuming Maw",
+   "de": "Plattenrüstung des allesverschlingenden Schlundes",
+   "fr": "Cuirasse de la gueule insatiable"
+  }
+ },
+ "1152": {
+  "name": {
+   "en": "Battleplate of the All-Consuming Maw",
+   "de": "Kampfplatte des allesverschlingenden Schlundes",
+   "fr": "Harnois de bataille de la gueule insatiable"
+  }
+ },
+ "1153": {
+  "name": {
+   "en": "Battlegear of the Haunted Forest",
+   "de": "Schlachtrüstung des verwunschenen Waldes",
+   "fr": "Tenue de combat de la forêt hantée"
+  }
+ },
+ "1154": {
+  "name": {
+   "en": "Vestments of the Haunted Forest",
+   "de": "Gewänder des verwunschenen Waldes",
+   "fr": "Habits de la forêt hantée"
+  }
+ },
+ "1155": {
+  "name": {
+   "en": "Regalia of the Haunted Forest",
+   "de": "Ornat des verwunschenen Waldes",
+   "fr": "Tenue de parade de la forêt hantée"
+  }
+ },
+ "1156": {
+  "name": {
+   "en": "Armor of the Haunted Forest",
+   "de": "Rüstung des verwunschenen Waldes",
+   "fr": "Armure de la forêt hantée"
+  }
+ },
+ "1157": {
+  "name": {
+   "en": "Battlegear of the Saurok Stalker",
+   "de": "Schlachtrüstung des Saurokjägers",
+   "fr": "Tenue de combat du traqueur saurok"
+  }
+ },
+ "1158": {
+  "name": {
+   "en": "Regalia of the Chromatic Hydra",
+   "de": "Ornat der chromatischen Hydra",
+   "fr": "Tenue de parade de l’hydre chromatique"
+  }
+ },
+ "1159": {
+  "name": {
+   "en": "Fire-Charm Battlegear",
+   "de": "Feuerzauberschlachtrüstung",
+   "fr": "Tenue de combat charme-feu"
+  }
+ },
+ "1160": {
+  "name": {
+   "en": "Fire-Charm Vestments",
+   "de": "Feuerzaubergewänder",
+   "fr": "Habits charme-feu"
+  }
+ },
+ "1161": {
+  "name": {
+   "en": "Fire-Charm Armor",
+   "de": "Feuerzauberrüstung",
+   "fr": "Armure charme-feu"
+  }
+ },
+ "1162": {
+  "name": {
+   "en": "Battlegear of the Lightning Emperor",
+   "de": "Schlachtrüstung des Kaisers der Blitze",
+   "fr": "Tenue de combat de l’empereur de la foudre"
+  }
+ },
+ "878": {
+  "name": {
+   "en": "Liadrin's Battlegear",
+   "de": "Liadrins Schlachtrüstung",
+   "fr": "Tenue de combat de Liadrin"
+  }
+ },
+ "867": {
+  "name": {
+   "en": "Wrynn's Battlegear",
+   "de": "Wrynns Schlachtrüstung",
+   "fr": "Tenue de combat de Wrynn"
+  }
+ },
+ "1070": {
+  "name": {
+   "en": "Spiritwalker's Regalia",
+   "de": "Ornat des Geistwandlers",
+   "fr": "Tenue de parade de marcheur des esprits"
+  }
+ },
+ "1071": {
+  "name": {
+   "en": "Spiritwalker's Battlegear",
+   "de": "Schlachtrüstung des Geistwandlers",
+   "fr": "Tenue de combat de marcheur des esprits"
+  }
+ },
+ "1074": {
+  "name": {
+   "en": "Colossal Dragonplate Armor",
+   "de": "Kolossale Drachenplattenrüstung",
+   "fr": "Armure colossale en plaques de dragon"
+  }
+ },
+ "1058": {
+  "name": {
+   "en": "Deep Earth Battlegarb",
+   "de": "Schlachtrüstung der tiefen Erde",
+   "fr": "Atours de bataille de la terre profonde"
+  }
+ },
+ "1061": {
+  "name": {
+   "en": "Wyrmstalker Battlegear",
+   "de": "Schlachtrüstung des Wyrmjägers",
+   "fr": "Tenue de combat de traqueur de wyrm"
+  }
+ },
+ "1089": {
+  "name": {
+   "en": "Jaws of Retribution",
+   "de": "Biss der Vergeltung",
+   "fr": "Mâchoires de vindicte"
+  }
+ },
+ "1068": {
+  "name": {
+   "en": "Blackfang Battleweave",
+   "de": "Netzrüstung des Schwarzfangs",
+   "fr": "Tenue de Croc-Noir en tisse-meurtre"
+  }
+ },
+ "1112": {
+  "name": {
+   "en": "Gladiator's Investiture",
+   "de": "Vereidigung des Gladiators",
+   "fr": "Investiture de gladiateur"
+  }
+ },
+ "1146": {
+  "name": {
+   "en": "Gladiator's Raiment",
+   "de": "Gewandung des Gladiators",
+   "fr": "Grande tenue de gladiateur"
+  }
+ },
+ "1126": {
+  "name": {
+   "en": "Regalia of the Eternal Blossom",
+   "de": "Ornat der ewigen Blüte",
+   "fr": "Tenue de parade de l’Éternel printemps"
+  }
+ },
+ "1133": {
+  "name": {
+   "en": "Armor of the Red Crane",
+   "de": "Rüstung des Roten Kranichs",
+   "fr": "Armure de la Grue rouge"
+  }
+ },
+ "1140": {
+  "name": {
+   "en": "Vestments of the Firebird",
+   "de": "Tracht des Feuervogels",
+   "fr": "Habits de l’Oiseau de feu"
+  }
+ },
+ "1056": {
+  "name": {
+   "en": "Necrotic Boneplate Armor",
+   "de": "Nekrotische Knochenplattenrüstung",
+   "fr": "Armure nécrotique en plaques d’os"
+  }
+ },
+ "1064": {
+  "name": {
+   "en": "Battleplate of Radiant Glory",
+   "de": "Kampfplatte des strahlenden Ruhms",
+   "fr": "Harnois de bataille de la gloire radieuse"
+  }
+ },
+ "1179": {
+  "name": {
+   "en": "Plate of the Prehistoric Marauder",
+   "de": "Platte des prähistorischen Marodeurs",
+   "fr": "Cuirasse du maraudeur préhistorique"
+  }
+ },
+ "1180": {
+  "name": {
+   "en": "Battleplate of the Prehistoric Marauder",
+   "de": "Kampfplatte des prähistorischen Marodeurs",
+   "fr": "Harnois de bataille du maraudeur préhistorique"
+  }
+ },
+ "1181": {
+  "name": {
+   "en": "Regalia of the Horned Nightmare",
+   "de": "Ornat des gehörnten Alptraums",
+   "fr": "Grande tenue du cauchemar cornu"
+  }
+ },
+ "1182": {
+  "name": {
+   "en": "Celestial Harmony Regalia",
+   "de": "Ornat der himmlischen Harmonie",
+   "fr": "Tenue de parade d’harmonie céleste"
+  }
+ },
+ "1183": {
+  "name": {
+   "en": "Celestial Harmony Battlegear",
+   "de": "Schlachtrüstung der himmlischen Harmonie",
+   "fr": "Tenue de combat d’harmonie céleste"
+  }
+ },
+ "1184": {
+  "name": {
+   "en": "Celestial Harmony Vestment",
+   "de": "Gewänder der himmlischen Harmonie",
+   "fr": "Habits d’harmonie céleste"
+  }
+ },
+ "1193": {
+  "name": {
+   "en": "Battlegear of Seven Sacred Seals",
+   "de": "Schlachtrüstung der heiligen sieben Siegel",
+   "fr": "Tenue de combat des sept sceaux sacrés"
+  }
+ },
+ "1194": {
+  "name": {
+   "en": "Chronomancer Regalia",
+   "de": "Ornat des Chronomanten",
+   "fr": "Tenue de parade du chronomancien"
+  }
+ },
+ "1195": {
+  "name": {
+   "en": "Battlegear of the Unblinking Vigil",
+   "de": "Schlachtrüstung der unablässigen Wacht",
+   "fr": "Tenue de combat de la veille continuelle"
+  }
+ },
+ "1196": {
+  "name": {
+   "en": "Armor of the Shattered Vale",
+   "de": "Rüstung des gezeichneten Tals",
+   "fr": "Armure du val brisé"
+  }
+ },
+ "1197": {
+  "name": {
+   "en": "Regalia of the Shattered Vale",
+   "de": "Ornat des gezeichneten Tals",
+   "fr": "Tenue de parade du val brisé"
+  }
+ },
+ "1198": {
+  "name": {
+   "en": "Vestments of the Shattered Vale",
+   "de": "Gewänder des gezeichneten Tals",
+   "fr": "Habits du val brisé"
+  }
+ },
+ "1199": {
+  "name": {
+   "en": "Battlegear of the Shattered Vale",
+   "de": "Schlachtrüstung des gezeichneten Tals",
+   "fr": "Tenue de combat du val brisé"
+  }
+ },
+ "1200": {
+  "name": {
+   "en": "Battleplate of Cyclopean Dread",
+   "de": "Kampfplatte des zyklopischen Schreckens",
+   "fr": "Harnois de bataille de l’effroi insatiable"
+  }
+ },
+ "1201": {
+  "name": {
+   "en": "Plate of Cyclopean Dread",
+   "de": "Platte des zyklopischen Schreckens",
+   "fr": "Cuirasse de l’effroi cyclopéen"
+  }
+ },
+ "1203": {
+  "name": {
+   "en": "Gladiator's Distinction",
+   "de": "Auszeichnung des Gladiators",
+   "fr": "Distinction de gladiateur"
+  }
+ },
+ "1185": {
+  "name": {
+   "en": "Barbed Assassin Battlegear",
+   "de": "Schlachtrüstung des Stachelassassinen",
+   "fr": "Tenue de combat de l’assassin barbelé"
+  }
+ },
+ "1186": {
+  "name": {
+   "en": "Regalia of Ternion Glory",
+   "de": "Ornat des überlieferten Ruhms",
+   "fr": "Tenue de parade de la gloire trinaire"
+  }
+ },
+ "1187": {
+  "name": {
+   "en": "Vestments of Ternion Glory",
+   "de": "Gewänder des überlieferten Ruhms",
+   "fr": "Habits de la gloire trinaire"
+  }
+ },
+ "1188": {
+  "name": {
+   "en": "Plate of Winged Triumph",
+   "de": "Platte des beflügelten Triumphes",
+   "fr": "Plaques de triomphe ailé"
+  }
+ },
+ "1189": {
+  "name": {
+   "en": "Vestments of Winged Triumph",
+   "de": "Gewänder des beflügelten Triumphes",
+   "fr": "Habits de triomphe ailé"
+  }
+ },
+ "1190": {
+  "name": {
+   "en": "Battlegear of Winged Triumph",
+   "de": "Schlachtrüstung des beflügelten Triumphes",
+   "fr": "Tenue de combat de triomphe ailé"
+  }
+ },
+ "1191": {
+  "name": {
+   "en": "Armor of Seven Sacred Seals",
+   "de": "Rüstung der heiligen sieben Siegel",
+   "fr": "Armure des sept sceaux sacrés"
+  }
+ },
+ "1192": {
+  "name": {
+   "en": "Vestments of Seven Sacred Seals",
+   "de": "Gewänder der heiligen sieben Siegel",
+   "fr": "Habits des sept sceaux sacrés"
+  }
+ },
+ "1228": {
+  "name": {
+   "en": "Gladiator's Wartide",
+   "de": "Kriegsrausch des Gladiators",
+   "fr": "Vague guerrière de gladiateur"
+  }
+ },
+ "1229": {
+  "name": {
+   "en": "Gladiator's Felshroud",
+   "de": "Teufelsschleier des Gladiators",
+   "fr": "Suaire gangrené de gladiateur"
+  }
+ },
+ "1230": {
+  "name": {
+   "en": "Gladiator's Battlegear",
+   "de": "Schlachtrüstung des Gladiators",
+   "fr": "Tenue de combat de gladiateur"
+  }
+ },
+ "1231": {
+  "name": {
+   "en": "Gladiator's Distinction",
+   "de": "Auszeichnung des Gladiators",
+   "fr": "Distinction de gladiateur"
+  }
+ },
+ "1233": {
+  "name": {
+   "en": "Living Wood Battlegear",
+   "de": "Schlachtrüstung des lebendigen Holzes",
+   "fr": "Tenue de combat du bois Vivant"
+  }
+ },
+ "1234": {
+  "name": {
+   "en": "Ogreskull Boneplate Battlegear",
+   "de": "Ogerschädelverstärkte Schlachtrüstung",
+   "fr": "Tenue de combat en plaques d’os crânien d’Ogre"
+  }
+ },
+ "1235": {
+  "name": {
+   "en": "Arcanoshatter Regalia",
+   "de": "Arkansplitterornat",
+   "fr": "Tenue de parade d’arcanobroyeur"
+  }
+ },
+ "1236": {
+  "name": {
+   "en": "Rylakstalker's Battlegear",
+   "de": "Schlachtrüstung des Rylakjägers",
+   "fr": "Tenue de combat de traqueur de rylak"
+  }
+ },
+ "1237": {
+  "name": {
+   "en": "Battlegear of the Somber Gaze",
+   "de": "Schlachtrüstung des stoischen Blicks",
+   "fr": "Tenue de combat du regard sombre"
+  }
+ },
+ "1238": {
+  "name": {
+   "en": "Battlegear of Guiding Light",
+   "de": "Schlachtrüstung des leitenden Lichts",
+   "fr": "Tenue de combat de guide de lumière"
+  }
+ },
+ "1239": {
+  "name": {
+   "en": "Soul Priest's Raiment",
+   "de": "Gewandung des Seelenpriesters",
+   "fr": "Grande tenue de prêtre de l’âme"
+  }
+ },
+ "1240": {
+  "name": {
+   "en": "Poisoner's Battlegear",
+   "de": "Schlachtrüstung des Giftmörders",
+   "fr": "Tenue de combat de l’empoisonneur"
+  }
+ },
+ "1241": {
+  "name": {
+   "en": "Windspeaker's Regalia",
+   "de": "Ornat des Windsprechers",
+   "fr": "Tenue de parade de parlevent"
+  }
+ },
+ "1242": {
+  "name": {
+   "en": "Blackhand's Battlegear",
+   "de": "Schwarzfausts Schlachtrüstung",
+   "fr": "Tenue de combat de Main-Noire"
+  }
+ },
+ "1243": {
+  "name": {
+   "en": "Shadow Council's Garb",
+   "de": "Gewandung des Schattenrats",
+   "fr": "Atours du Conseil des ombres"
+  }
+ },
+ "1220": {
+  "name": {
+   "en": "Gladiator's Desecration",
+   "de": "Entweihung des Gladiators",
+   "fr": "Violation de gladiateur"
+  }
+ },
+ "1221": {
+  "name": {
+   "en": "Gladiator's Sanctuary",
+   "de": "Schutzgewandung des Gladiators",
+   "fr": "Sanctuaire de gladiateur"
+  }
+ },
+ "1222": {
+  "name": {
+   "en": "Gladiator's Pursuit",
+   "de": "Jagdtracht des Gladiators",
+   "fr": "Parure de gladiateur"
+  }
+ },
+ "1223": {
+  "name": {
+   "en": "Gladiator's Regalia",
+   "de": "Ornat des Gladiators",
+   "fr": "Tenue de parade de gladiateur"
+  }
+ },
+ "1224": {
+  "name": {
+   "en": "Gladiator's Ironskin",
+   "de": "Eisenhaut des Gladiators",
+   "fr": "Peau-de-fer de gladiateur"
+  }
+ },
+ "1225": {
+  "name": {
+   "en": "Gladiator's Vindication",
+   "de": "Rechtschaffenheit des Gladiators",
+   "fr": "Justification de gladiateur"
+  }
+ },
+ "1226": {
+  "name": {
+   "en": "Gladiator's Investiture",
+   "de": "Vereidigung des Gladiators",
+   "fr": "Investiture de gladiateur"
+  }
+ },
+ "1227": {
+  "name": {
+   "en": "Gladiator's Vestments",
+   "de": "Gewänder des Gladiators",
+   "fr": "Habits de gladiateur"
+  }
+ },
+ "1266": {
+  "name": {
+   "en": "Illidari Slayer",
+   "de": "Rächer der Illidari",
+   "fr": "Pourfendeur illidari"
+  }
+ },
+ "1267": {
+  "name": {
+   "en": "Fel Infusion",
+   "de": "Teufelsinfusion",
+   "fr": "Infusion gangrenée"
+  }
+ },
+ "1245": {
+  "name": {
+   "en": "Blacksteel Battleplate",
+   "de": "Schwarzstahlkampfplatte",
+   "fr": "Harnois de bataille en noiracier"
+  }
+ },
+ "1246": {
+  "name": {
+   "en": "Ashlink Armor",
+   "de": "Staubkettenrüstung",
+   "fr": "Armure en cendremailles"
+  }
+ },
+ "1247": {
+  "name": {
+   "en": "Sootfur Garb",
+   "de": "Rußpelzgewand",
+   "fr": "Atours fourre-suie"
+  }
+ },
+ "1248": {
+  "name": {
+   "en": "Ebonflame Raiment",
+   "de": "Schwarzflammengewandung",
+   "fr": "Grande tenue flamme d'ébène"
+  }
+ },
+ "1249": {
+  "name": {
+   "en": "Demongaze Armor",
+   "de": "Rüstung des Dämonenblicks",
+   "fr": "Armure du regard démoniaque"
+  }
+ },
+ "1250": {
+  "name": {
+   "en": "Oathclaw Wargarb",
+   "de": "Kriegsgewand des Klauenschwurs",
+   "fr": "Atours de guerre des serres du serment"
+  }
+ },
+ "1251": {
+  "name": {
+   "en": "Raiment of the Arcanic Conclave",
+   "de": "Gewandung des Arkanrats",
+   "fr": "Grande tenue du conclave arcanique"
+  }
+ },
+ "1252": {
+  "name": {
+   "en": "Battlewrap of the Hurricane's Eye",
+   "de": "Schlachttücher des Taifunauges",
+   "fr": "Ensemble de combat de l’œil du cyclone"
+  }
+ },
+ "1253": {
+  "name": {
+   "en": "Battlegear of the Savage Hunt",
+   "de": "Schlachtrüstung der wilden Jagd",
+   "fr": "Tenue de combat de la chasse sauvage"
+  }
+ },
+ "1254": {
+  "name": {
+   "en": "Watch of the Ceaseless Vigil",
+   "de": "Hüterplatte der endlosen Wacht",
+   "fr": "Guet de la veille incessante"
+  }
+ },
+ "1255": {
+  "name": {
+   "en": "Attire of Piety",
+   "de": "Gewandung der Frömmigkeit",
+   "fr": "Costume de piété"
+  }
+ },
+ "1256": {
+  "name": {
+   "en": "Felblade Armor",
+   "de": "Rüstung der Dämonenklinge",
+   "fr": "Armure de gangrelame"
+  }
+ },
+ "1257": {
+  "name": {
+   "en": "Embrace of the Living Mountain",
+   "de": "Umarmung des lebendigen Berges",
+   "fr": "Étreinte de la montagne vivante"
+  }
+ },
+ "1258": {
+  "name": {
+   "en": "Battlegear of Iron Wrath",
+   "de": "Schlachtrüstung des Eisernen Zorns",
+   "fr": "Tenue de combat de courroux de Fer"
+  }
+ },
+ "1259": {
+  "name": {
+   "en": "Deathrattle Regalia",
+   "de": "Ornat des Todesröchlers",
+   "fr": "Tenue de parade du râle d’agonie"
+  }
+ },
+ "1268": {
+  "name": {
+   "en": "The Scale's Embrace",
+   "de": "Die Umarmung der Schuppe",
+   "fr": "L’étreinte des écailles"
+  }
+ },
+ "1244": {
+  "name": {
+   "en": "Might of the Warsong",
+   "de": "Macht des Kriegshymnenklans",
+   "fr": "Puissance des Chanteguerres"
+  }
+ },
+ "1260": {
+  "name": {
+   "en": "Felfume Raiment",
+   "de": "Teufelsdunstgewandung",
+   "fr": "Grande tenue de vapeurs gangrenées"
+  }
+ },
+ "1261": {
+  "name": {
+   "en": "Ironpelt Armor",
+   "de": "Eisenpelzrüstung",
+   "fr": "Armure en fourrure-de-fer"
+  }
+ },
+ "1262": {
+  "name": {
+   "en": "Rancorbite Battlegear",
+   "de": "Schlachtrüstung des zornigen Bisses",
+   "fr": "Tenue de combat de rancune mordante"
+  }
+ },
+ "1263": {
+  "name": {
+   "en": "Demonbreaker Wargear",
+   "de": "Kriegsrüstung des Dämonenbrechers",
+   "fr": "Tenue de combat brise-démon"
+  }
+ },
+ "1269": {
+  "name": {
+   "en": "Deathlord's Battleplate",
+   "de": "Kampfplatte des Todesgebieters",
+   "fr": "Harnois de bataille du seigneur de la mort"
+  }
+ },
+ "1270": {
+  "name": {
+   "en": "Battlegear of the Shattered Abyss",
+   "de": "Schlachtrüstung des Zerrütteten Abgrunds",
+   "fr": "Tenue de combat des abysses Brisées"
+  }
+ },
+ "1271": {
+  "name": {
+   "en": "Dreamgrove Raiment",
+   "de": "Gewandung des Hains der Träume",
+   "fr": "Grande tenue de la Sylverêve"
+  }
+ },
+ "1272": {
+  "name": {
+   "en": "Guise of the Unseen Path",
+   "de": "Gewand des Unsichtbaren Pfads",
+   "fr": "Semblance du Sentier invisible"
+  }
+ },
+ "1273": {
+  "name": {
+   "en": "Vesture of Tirisgarde",
+   "de": "Gewand der Tirisgarde",
+   "fr": "Vêture de la Tirisgarde"
+  }
+ },
+ "1274": {
+  "name": {
+   "en": "Grandmaster's Finery",
+   "de": "Festgarderobe des Großmeisters",
+   "fr": "Parure de grand maître"
+  }
+ },
+ "1275": {
+  "name": {
+   "en": "Battleplate of the Silver Hand",
+   "de": "Kampfplatte der Silbernen Hand",
+   "fr": "Harnois de bataille de la Main d’argent"
+  }
+ },
+ "1276": {
+  "name": {
+   "en": "Regalia of the High Priest",
+   "de": "Ornat des Hohepriesters",
+   "fr": "Tenue de parade du grand prêtre"
+  }
+ },
+ "1277": {
+  "name": {
+   "en": "Battlegear of the Uncrowned",
+   "de": "Schlachtrüstung der Ungekrönten",
+   "fr": "Tenue de combat des Sans-Couronne"
+  }
+ },
+ "1278": {
+  "name": {
+   "en": "Raiment of the Farseer",
+   "de": "Gewandung des Scharfsehers",
+   "fr": "Grande tenue du long-voyant"
+  }
+ },
+ "1279": {
+  "name": {
+   "en": "Vestments of the Black Harvest",
+   "de": "Gewänder der Schwarzen Ernte",
+   "fr": "Habits de la Moisson noire"
+  }
+ },
+ "1280": {
+  "name": {
+   "en": "Battlelord's Plate",
+   "de": "Schlachtenfürstkampfplatte",
+   "fr": "Harnois de seigneur de bataille"
+  }
+ },
+ "1281": {
+  "name": {
+   "en": "Dreadwyrm Battleplate",
+   "de": "Schreckenswyrmkampfplatte",
+   "fr": "Harnois de bataille de wyrm de l’effroi"
+  }
+ },
+ "1282": {
+  "name": {
+   "en": "Vestment of Second Sight",
+   "de": "Gewänder des zweiten Gesichts",
+   "fr": "Habits de seconde vue"
+  }
+ },
+ "1283": {
+  "name": {
+   "en": "Garb of the Astral Warden",
+   "de": "Tracht des Astralhüters",
+   "fr": "Atours du gardien astral"
+  }
+ },
+ "1284": {
+  "name": {
+   "en": "Eagletalon Battlegear",
+   "de": "Adlerkrallenschlachtrüstung",
+   "fr": "Tenue de combat de Serre-d’Aigle"
+  }
+ },
+ "1285": {
+  "name": {
+   "en": "Regalia of Everburning Knowledge",
+   "de": "Ornat des Immerflammenwissens",
+   "fr": "Tenue de parade de savoir semperardent"
+  }
+ },
+ "1286": {
+  "name": {
+   "en": "Vestments of Enveloped Dissonance",
+   "de": "Gewänder der umhüllten Dissonanz",
+   "fr": "Habits de dissonance enveloppée"
+  }
+ },
+ "1287": {
+  "name": {
+   "en": "Battleplate of the Highlord",
+   "de": "Kampfplatte des Hochlords",
+   "fr": "Harnois de bataille du généralissime"
+  }
+ },
+ "1288": {
+  "name": {
+   "en": "Vestments of the Purifier",
+   "de": "Gewänder des Läuterers",
+   "fr": "Habits du purificateur"
+  }
+ },
+ "1299": {
+  "name": {
+   "en": "Burden of Power",
+   "de": "Bürde der Macht",
+   "fr": "Fardeau du pouvoir"
+  }
+ },
+ "1301": {
+  "name": {
+   "en": "Gravewarden Armaments",
+   "de": "Rüstung des Grabwärters",
+   "fr": "Armes du gardien de la tombe"
+  }
+ },
+ "1302": {
+  "name": {
+   "en": "Demonbane Armor",
+   "de": "Rüstung des Dämonenbanns",
+   "fr": "Armure du fléau des démons"
+  }
+ },
+ "1303": {
+  "name": {
+   "en": "Stormheart Raiment",
+   "de": "Sturmherzgewandung",
+   "fr": "Grande tenue cœur-de-tempête"
+  }
+ },
+ "1304": {
+  "name": {
+   "en": "Wildstalker Armor",
+   "de": "Rüstung des Wildpirschers",
+   "fr": "Armure de traqueur sauvage"
+  }
+ },
+ "1305": {
+  "name": {
+   "en": "Regalia of the Arcane Tempest",
+   "de": "Ornat des arkanen Gewitters",
+   "fr": "Tenue de parade de la tempête arcanique"
+  }
+ },
+ "1306": {
+  "name": {
+   "en": "Xuen's Battlegear",
+   "de": "Xuens Schlachtrüstung",
+   "fr": "Tenue de combat de Xuen"
+  }
+ },
+ "1293": {
+  "name": {
+   "en": "March of the Legion",
+   "de": "Marsch der Legion",
+   "fr": "Marche de la Légion"
+  }
+ },
+ "1294": {
+  "name": {
+   "en": "Journey Through Time",
+   "de": "Reise durch die Zeit",
+   "fr": "Voyage dans le temps"
+  }
+ },
+ "1295": {
+  "name": {
+   "en": "Nightwell Arcanum",
+   "de": "Nachtbrunnenarkanum",
+   "fr": "Arcanum du Puits de la nuit"
+  }
+ },
+ "1296": {
+  "name": {
+   "en": "Jacin's Ruse",
+   "de": "Jacins List",
+   "fr": "Stratagème de Jacin"
+  }
+ },
+ "1297": {
+  "name": {
+   "en": "Traitor's Oath",
+   "de": "Schwur des Verräters",
+   "fr": "Serment du traître"
+  }
+ },
+ "1298": {
+  "name": {
+   "en": "Fortitude of the Nightborne",
+   "de": "Kraft der Nachtgeborenen",
+   "fr": "Robustesse des Sacrenuit"
+  }
+ },
+ "1307": {
+  "name": {
+   "en": "Radiant Lightbringer Armor",
+   "de": "Rüstung des strahlenden Lichtbringers",
+   "fr": "Armure radieuse du porteur de Lumière"
+  }
+ },
+ "1308": {
+  "name": {
+   "en": "Vestments of Blind Absolution",
+   "de": "Gewänder der blinden Absolution",
+   "fr": "Habits d’absolution totale"
+  }
+ },
+ "1309": {
+  "name": {
+   "en": "Fanged Slayer's Armor",
+   "de": "Rüstung des beißenden Schlächters",
+   "fr": "Armure de tueur carnassier"
+  }
+ },
+ "1310": {
+  "name": {
+   "en": "Regalia of the Skybreaker",
+   "de": "Ornat des Himmelsbrechers",
+   "fr": "Tenue de parade du Brise-ciel"
+  }
+ },
+ "1311": {
+  "name": {
+   "en": "Diabolic Raiment",
+   "de": "Diabolische Gewandung",
+   "fr": "Grande tenue diabolique"
+  }
+ },
+ "1289": {
+  "name": {
+   "en": "Doomblade Battlegear",
+   "de": "Schlachtrüstung der Verdammnisklinge",
+   "fr": "Tenue de combat lame-du-destin"
+  }
+ },
+ "1290": {
+  "name": {
+   "en": "Regalia of Shackled Elements",
+   "de": "Ornat der gefesselten Elemente",
+   "fr": "Tenue de parade des éléments enchaînés"
+  }
+ },
+ "1291": {
+  "name": {
+   "en": "Legacy of Azj'Aqir",
+   "de": "Vermächtnis von Azj'Aqir",
+   "fr": "Héritage d’Azj’Aqir"
+  }
+ },
+ "1292": {
+  "name": {
+   "en": "Warplate of the Obsidian Aspect",
+   "de": "Kriegsplatte des Obsidianaspekts",
+   "fr": "Harnois de guerre de l’aspect d’obsidienne"
+  }
+ },
+ "1312": {
+  "name": {
+   "en": "Titanic Onslaught Armor",
+   "de": "Rüstung des Titanenansturms",
+   "fr": "Armure d’assaut titanesque"
+  }
+ },
+ "1319": {
+  "name": {
+   "en": "Juggernaut Battlegear",
+   "de": "Schlachtrüstung des Kolosses",
+   "fr": "Tenue de combat du mastodonte"
+  }
+ },
+ "1320": {
+  "name": {
+   "en": "Grim Inquisitor's Regalia",
+   "de": "Ornat des grimmigen Inquisitors",
+   "fr": "Tenue de parade de l’inquisiteur sinistre"
+  }
+ },
+ "1321": {
+  "name": {
+   "en": "Garb of Venerated Spirits",
+   "de": "Gewand der ehrwürdigen Geister",
+   "fr": "Atours des esprits vénérés"
+  }
+ },
+ "1331": {
+  "name": {
+   "en": "Velen's Lament",
+   "de": "Velens Kummer",
+   "fr": "Lamentation de Velen"
+  }
+ },
+ "1332": {
+  "name": {
+   "en": "Umbra-Weaver's Portent",
+   "de": "Omen des Umbralwebers",
+   "fr": "Augure de tisse-umbre"
+  }
+ },
+ "1322": {
+  "name": {
+   "en": "Regalia of the Dashing Scoundrel",
+   "de": "Tracht des schneidigen Strolchs",
+   "fr": "Tenue de parade du brigand audacieux"
+  }
+ },
+ "1323": {
+  "name": {
+   "en": "Gilded Seraph's Raiment",
+   "de": "Gewandung des güldenen Seraphs",
+   "fr": "Grande tenue du séraphin doré"
+  }
+ },
+ "1324": {
+  "name": {
+   "en": "Light's Vanguard Battleplate",
+   "de": "Kampfplatte der Lichtspeerspitze",
+   "fr": "Harnois de bataille de l’avant-garde de la Lumière"
+  }
+ },
+ "1325": {
+  "name": {
+   "en": "Chi-Ji's Battlegear",
+   "de": "Chi-Jis Schlachtrüstung",
+   "fr": "Tenue de combat de Chi Ji"
+  }
+ },
+ "1326": {
+  "name": {
+   "en": "Runebound Regalia",
+   "de": "Runengebundenes Ornat",
+   "fr": "Tenue de parade runeliée"
+  }
+ },
+ "1327": {
+  "name": {
+   "en": "Serpentstalker Guise",
+   "de": "Tarnung des Schlangenpirschers",
+   "fr": "Semblance du traqueur de serpent"
+  }
+ },
+ "1328": {
+  "name": {
+   "en": "Bearmantle Battlegear",
+   "de": "Bärenfellschlachtrüstung",
+   "fr": "Tenue de combat de Mantelours"
+  }
+ },
+ "1329": {
+  "name": {
+   "en": "Felreaper Vestments",
+   "de": "Gewänder des Teufelstöters",
+   "fr": "Habit du faucheur gangrené"
+  }
+ },
+ "1330": {
+  "name": {
+   "en": "Dreadwake Armor",
+   "de": "Rüstung des Schreckensritus",
+   "fr": "Armure de Noirsillage"
+  }
+ },
+ "1333": {
+  "name": {
+   "en": "Tailwind Regalia",
+   "de": "Ornat des Rückenwinds",
+   "fr": "Tenue de parade du vent arrière"
+  }
+ },
+ "1334": {
+  "name": {
+   "en": "Sea Sisters' Cunning",
+   "de": "Tücke der Seeschwestern",
+   "fr": "Ruse des sœurs de la mer"
+  }
+ },
+ "1335": {
+  "name": {
+   "en": "Venombite Garb",
+   "de": "Gewand des Giftbisses",
+   "fr": "Atours de Venimord"
+  }
+ },
+ "1336": {
+  "name": {
+   "en": "Thundercrash Armor",
+   "de": "Rüstung des Donnergrollens",
+   "fr": "Armure de grondement du tonnerre"
+  }
+ },
+ "1337": {
+  "name": {
+   "en": "Sandstorm Plate",
+   "de": "Sandsturmplatte",
+   "fr": "Plaque de tempête de sable"
+  }
+ },
+ "1338": {
+  "name": {
+   "en": "Frenzied Battleplate",
+   "de": "Rasende Kampfplatte",
+   "fr": "Harnois de bataille frénétique"
+  }
+ },
+ "1439": {
+  "name": {
+   "en": "Waycrest Legacy",
+   "de": "Kronsteigs Vermächtnis",
+   "fr": "Héritage Malvoie"
+  }
+ },
+ "1440": {
+  "name": {
+   "en": "Brain Trust",
+   "de": "Macht der Gedanken",
+   "fr": "Cartel des cerveaux"
+  }
+ },
+ "1442": {
+  "name": {
+   "en": "Gift of the Loa",
+   "de": "Gabe der Loa",
+   "fr": "Don des Loas"
+  }
+ },
+ "1443": {
+  "name": {
+   "en": "Keepsakes of the Resolute Commandant",
+   "de": "Andenken des entschlossenen Kommandanten",
+   "fr": "Souvenirs du commandant résolu"
+  }
+ },
+ "1452": {
+  "name": {
+   "en": "Titanic Empowerment",
+   "de": "Titanische Ermächtigung",
+   "fr": "Renforcement titanesque"
+  }
+ },
+ "1456": {
+  "name": {
+   "en": "The Mail Courier",
+   "de": "Der Briefträger",
+   "fr": "Le coursier"
+  }
+ },
+ "1459": {
+  "name": {
+   "en": "Vestments of the Selfless",
+   "de": "Gewänder der Selbstlosen",
+   "fr": "Habits de l’altruisme"
+  }
+ },
+ "1460": {
+  "name": {
+   "en": "Rationale of Maldraxxus",
+   "de": "Leitsatz von Maldraxxus",
+   "fr": "Logique de Maldraxxus"
+  }
+ },
+ "1461": {
+  "name": {
+   "en": "Faewoven Regalia",
+   "de": "Faegewobenes Ornat",
+   "fr": "Tenue de parade tissée par les Faë"
+  }
+ },
+ "1454": {
+  "name": {
+   "en": "Hack and Gore",
+   "de": "Hack und Fleisch",
+   "fr": "Découpeuse et Étripeuse"
+  }
+ },
+ "1455": {
+  "name": {
+   "en": "Regalia of Fabled Adventurers",
+   "de": "Ornat der sagenhaften Abenteurer",
+   "fr": "Tenue de parade des aventuriers légendaires"
+  }
+ },
+ "1466": {
+  "name": {
+   "en": "Garb of the Selfless",
+   "de": "Kluft der Selbstlosen",
+   "fr": "Atours de l’altruisme"
+  }
+ },
+ "1467": {
+  "name": {
+   "en": "Chain of the Selfless",
+   "de": "Kette der Selbstlosen",
+   "fr": "Cotte de mailles de l’altruisme"
+  }
+ },
+ "1468": {
+  "name": {
+   "en": "Vestments of the Selfless",
+   "de": "Gewänder der Selbstlosen",
+   "fr": "Habits de l’altruisme"
+  }
+ },
+ "1475": {
+  "name": {
+   "en": "Guile of Maldraxxus",
+   "de": "List von Maldraxxus",
+   "fr": "Fourberie de Maldraxxus"
+  }
+ },
+ "1476": {
+  "name": {
+   "en": "Alacrity of Maldraxxus",
+   "de": "Inbrunst von Maldraxxus",
+   "fr": "Empressement de Maldraxxus"
+  }
+ },
+ "1477": {
+  "name": {
+   "en": "Authority of Maldraxxus",
+   "de": "Autorität von Maldraxxus",
+   "fr": "Autorité de Maldraxxus"
+  }
+ },
+ "1478": {
+  "name": {
+   "en": "Oakheart Raiment",
+   "de": "Eichenherzroben",
+   "fr": "Grande tenue cœur-de-chêne"
+  }
+ },
+ "1479": {
+  "name": {
+   "en": "Runewarden's Guise",
+   "de": "Verkleidung des Runenwächters",
+   "fr": "Semblance de garderune"
+  }
+ },
+ "1480": {
+  "name": {
+   "en": "Queensguard Warbark",
+   "de": "Kriegsborke der Königinnenwache",
+   "fr": "Écorce de guerre de garde de la reine"
+  }
+ },
+ "1481": {
+  "name": {
+   "en": "Ebony Death Shroud Armor",
+   "de": "Tiefschwarze Todesschleierrüstung",
+   "fr": "Armure en linceul ébène"
+  }
+ },
+ "1482": {
+  "name": {
+   "en": "Fearstalker's Ebony Battlegear",
+   "de": "Tiefschwarze Furchthetzerschlachtrüstung",
+   "fr": "Tenue de combat ébène de traquepeur"
+  }
+ },
+ "1483": {
+  "name": {
+   "en": "Dread Sentinel's Ebony Battleplate",
+   "de": "Tiefschwarze Schreckenswachenkampfplatte",
+   "fr": "Harnois de bataille ébène de sentinelle de l’effroi"
+  }
+ },
+ "1457": {
+  "name": {
+   "en": "Hack and Gore",
+   "de": "Hack und Fleisch",
+   "fr": "Découpeuse et Étripeuse"
+  }
+ },
+ "1458": {
+  "name": {
+   "en": "Gladiator's Distinction",
+   "de": "Auszeichnung des Gladiators",
+   "fr": "Distinction de gladiateur"
+  }
+ },
+ "1463": {
+  "name": {
+   "en": "Inscrutable Exile's Garb",
+   "de": "Gewand des unergründlichen Exilanten",
+   "fr": "Atours de l’exil insondable"
+  }
+ },
+ "1462": {
+  "name": {
+   "en": "Soulbreaker's Ebony Vestments",
+   "de": "Tiefschwarze Seelenbrechergewänder",
+   "fr": "Habits ébène de broyeur d’âmes"
+  }
+ },
+ "1497": {
+  "name": {
+   "en": "Godstalker's Battlegear",
+   "de": "Schlachtrüstung des Götterpirschers",
+   "fr": "Tenue de combat du Miredieu"
+  }
+ },
+ "1498": {
+  "name": {
+   "en": "Luminous Chevalier's Gallantry",
+   "de": "Edelmut des strahlenden Reiters",
+   "fr": "Galanterie du chevalier de lumière"
+  }
+ },
+ "1499": {
+  "name": {
+   "en": "Theurgic Starspeaker's Regalia",
+   "de": "Ornat des theurgischen Sternensprechers",
+   "fr": "Tenue de parade du Parlétoile théurgique"
+  }
+ },
+ "1500": {
+  "name": {
+   "en": "The First Eidolon's Soulsteel",
+   "de": "Seelenstahl des ersten Eidolons",
+   "fr": "Acier d’âme du premier Eidolon"
+  }
+ },
+ "1501": {
+  "name": {
+   "en": "Mercurial Punisher's Painweave",
+   "de": "Schmerzensgewebe des launenhaften Bestrafers",
+   "fr": "Tisse-douleur du punisseur mercurien"
+  }
+ },
+ "1502": {
+  "name": {
+   "en": "Tapestry of the Fixed Stars",
+   "de": "Wandteppich der Fixsterne",
+   "fr": "Tapisserie des étoiles immuables"
+  }
+ },
+ "1503": {
+  "name": {
+   "en": "Erudite Occultist's Vestments",
+   "de": "Gewänder des gebildeten Okkultisten",
+   "fr": "Habits de l’occultiste érudit"
+  }
+ },
+ "1504": {
+  "name": {
+   "en": "Garb of the Grand Upwelling",
+   "de": "Gewänder des großen Auftriebs",
+   "fr": "Atours de la Grande remontée"
+  }
+ },
+ "1505": {
+  "name": {
+   "en": "Habiliments of the Empyrean",
+   "de": "Kleidung der Himmlischen",
+   "fr": "Habits empyréens"
+  }
+ },
+ "1506": {
+  "name": {
+   "en": "Armaments of the Infinite Infantry",
+   "de": "Waffen der unendlichen Infanterie",
+   "fr": "Armes de l’infanterie infinie"
+  }
+ },
+ "1507": {
+  "name": {
+   "en": "Shroud of the Demon Star",
+   "de": "Schleier des Dämonensterns",
+   "fr": "Voile de l’étoile démoniaque"
+  }
+ },
+ "1510": {
+  "name": {
+   "en": "Horizon Strider's Garments",
+   "de": "Gewänder des Horizontschreiters",
+   "fr": "Vêtements de l’arpente-horizon"
+  }
+ },
+ "1511": {
+  "name": {
+   "en": "Drakebreaker's Garb",
+   "de": "Kleidung des Drachenverwüsters",
+   "fr": "Atours de brise-drake"
+  }
+ },
+ "1512": {
+  "name": {
+   "en": "Drakebreaker's Battlegear",
+   "de": "Schlachtrüstung des Drachenverwüsters",
+   "fr": "Tenue de combat de brise-drake"
+  }
+ },
+ "1513": {
+  "name": {
+   "en": "Drakebreaker's Vestments",
+   "de": "Gewänder des Drachenverwüsters",
+   "fr": "Habits de brise-drake"
+  }
+ },
+ "1514": {
+  "name": {
+   "en": "Drakebreaker's Armor",
+   "de": "Rüstung des Drachenverwüsters",
+   "fr": "Armure de brise-drake"
+  }
+ },
+ "1496": {
+  "name": {
+   "en": "Soulblade Shadowhide",
+   "de": "Seelenklingenschattenfell",
+   "fr": "Lame de l’âme sombrepoil"
+  }
+ },
+ "1508": {
+  "name": {
+   "en": "Ripped Secrets",
+   "de": "Entrissene Geheimnisse",
+   "fr": "Secrets arrachés"
+  }
+ },
+ "1515": {
+  "name": {
+   "en": "Woven Chronocloth",
+   "de": "Gewebter Chronostoff",
+   "fr": "Étoffe-du-temps tissée"
+  }
+ },
+ "1521": {
+  "name": {
+   "en": "Drape of Raging Tempests",
+   "de": "Tuch der wütenden Gewitterstürme",
+   "fr": "Drapé des tempêtes déchaînées"
+  }
+ },
+ "1516": {
+  "name": {
+   "en": "Azureweave Vestments",
+   "de": "Azurgewobene Gewänder",
+   "fr": "Habit en trame-d’azur"
+  }
+ },
+ "1520": {
+  "name": {
+   "en": "Dragon Rider's Gear",
+   "de": "Drachenreiterausrüstung",
+   "fr": "Équipement de monte de dragon"
+  }
+ },
+ "1523": {
+  "name": {
+   "en": "Shroud of Raging Tempests",
+   "de": "Schleier der wütenden Gewitterstürme",
+   "fr": "Voile de tempêtes déchaînées"
+  }
+ },
+ "1524": {
+  "name": {
+   "en": "Scales of Raging Tempests",
+   "de": "Schuppen der wütenden Gewitterstürme",
+   "fr": "Écailles de tempêtes déchaînées"
+  }
+ },
+ "1525": {
+  "name": {
+   "en": "Armor of Raging Tempests",
+   "de": "Rüstung der wütenden Gewitterstürme",
+   "fr": "Armure de tempêtes déchaînées"
+  }
+ },
+ "1526": {
+  "name": {
+   "en": "Haunted Frostbrood Remains",
+   "de": "Verwunschene Frostbrutüberreste",
+   "fr": "Dépouille couvegivre hantée"
+  }
+ },
+ "1527": {
+  "name": {
+   "en": "Skybound Avenger's Flightwear",
+   "de": "Himmelsgebundene Flugkleidung des Rächers",
+   "fr": "Tenue de combat de la vengeance céleste"
+  }
+ },
+ "1528": {
+  "name": {
+   "en": "Lost Landcaller's Vesture",
+   "de": "Gewand des verschollenen Landrufers",
+   "fr": "Vêtements perdus de l’appel de la terre"
+  }
+ },
+ "1529": {
+  "name": {
+   "en": "Stormwing Harrier's Camouflage",
+   "de": "Tarnung des Sturmschwingenhetzers",
+   "fr": "Camouflage de limier aile-tempête"
+  }
+ },
+ "1530": {
+  "name": {
+   "en": "Scales of the Awakened",
+   "de": "Schuppen der Erweckten",
+   "fr": "Écailles des Éveillés"
+  }
+ },
+ "1531": {
+  "name": {
+   "en": "Bindings of the Crystal Scholar",
+   "de": "Bindungen des Kristallgelehrten",
+   "fr": "Toilette d’érudition de cristal"
+  }
+ },
+ "1532": {
+  "name": {
+   "en": "Wrappings of the Waking Fist",
+   "de": "Wickel der erwachenden Faust",
+   "fr": "Étoffes du poing en éveil"
+  }
+ },
+ "1509": {
+  "name": {
+   "en": "Playful Spirit's Fur",
+   "de": "Fell des verspielten Geistes",
+   "fr": "Fourrure d’esprit espiègle"
+  }
+ },
+ "1533": {
+  "name": {
+   "en": "Virtuous Silver Cataphract",
+   "de": "Tugendhafter Silberkataphrakt",
+   "fr": "Cataphracte d’argent vertueuse"
+  }
+ },
+ "1534": {
+  "name": {
+   "en": "Draconic Hierophant's Finery",
+   "de": "Drakonische Garderobe des Hierophanten",
+   "fr": "Atours d’hiérophante draconique"
+  }
+ },
+ "1535": {
+  "name": {
+   "en": "Vault Delver's Toolkit",
+   "de": "Werkzeuge des Schatzkammergräbers",
+   "fr": "Outils d’exploration de caveau"
+  }
+ },
+ "1536": {
+  "name": {
+   "en": "Elements of Infused Earth",
+   "de": "Elemente der energieerfüllten Erde",
+   "fr": "Éléments de terre imprégnée"
+  }
+ },
+ "1537": {
+  "name": {
+   "en": "Scalesworn Cultist's Habit",
+   "de": "Kultistengewand der Eidschuppen",
+   "fr": "Habits de la secte ligécaille"
+  }
+ },
+ "1538": {
+  "name": {
+   "en": "Stones of the Walking Mountain",
+   "de": "Steine des wandelnden Berges",
+   "fr": "Pierres de la montagne ambulante"
+  }
+ },
+ "1539": {
+  "name": {
+   "en": "Might of the Drogbar",
+   "de": "Macht der Drogbar",
+   "fr": "Puissance des Drogbars"
+  }
+ },
+ "1540": {
+  "name": {
+   "en": "Lingering Phantom's Encasement",
+   "de": "Hülle des verweilenden Phantoms",
+   "fr": "Carcan du fantôme rémanent"
+  }
+ },
+ "1541": {
+  "name": {
+   "en": "Kinslayer's Burdens",
+   "de": "Bürden des Geschwistermörders",
+   "fr": "Fardeau du fratricide"
+  }
+ },
+ "1542": {
+  "name": {
+   "en": "Strands of the Autumn Blaze",
+   "de": "Stränge der Herbstlohen",
+   "fr": "Fils du feu d’automne"
+  }
+ },
+ "1543": {
+  "name": {
+   "en": "Legacy of Obsidian Secrets",
+   "de": "Vermächtnis der Obsidiangeheimnisse",
+   "fr": "Héritage des secrets d’obsidienne"
+  }
+ },
+ "1544": {
+  "name": {
+   "en": "Ashen Predator's Scaleform",
+   "de": "Schuppenform des aschenen Raubtiers",
+   "fr": "Écailles du prédateur des cendres"
+  }
+ },
+ "1545": {
+  "name": {
+   "en": "Underlight Conjurer's Brilliance",
+   "de": "Brillanz des Tiefenlichtbeschwörers",
+   "fr": "Éclat de conjuration de Terradiance"
+  }
+ },
+ "1546": {
+  "name": {
+   "en": "Fangs of the Vermillion Forge",
+   "de": "Reißzähne der Zinnoberschmiede",
+   "fr": "Crocs de la forge Vermillon"
+  }
+ },
+ "1547": {
+  "name": {
+   "en": "Heartfire Sentinel's Authority",
+   "de": "Autorität des Herzensfeuerwächters",
+   "fr": "Autorité de la sentinelle cœur de feu"
+  }
+ },
+ "1548": {
+  "name": {
+   "en": "The Furnace Seraph's Verdict",
+   "de": "Urteil des Schmelzofenseraphs",
+   "fr": "Verdict du séraphin de la fournaise"
+  }
+ },
+ "1549": {
+  "name": {
+   "en": "Lurking Specter's Shadeweave",
+   "de": "Schattenzwirn des lauernden Gespensts",
+   "fr": "Tissombre du spectre rôdeur"
+  }
+ },
+ "1550": {
+  "name": {
+   "en": "Runes of the Cinderwolf",
+   "de": "Runen des Glutwolfs",
+   "fr": "Runes du loup de braise"
+  }
+ },
+ "1551": {
+  "name": {
+   "en": "Sinister Savant's Cursethreads",
+   "de": "Fluchfäden des finsteren Gelehrten",
+   "fr": "Ornements du savant sinistre"
+  }
+ },
+ "1552": {
+  "name": {
+   "en": "Irons of the Onyx Crucible",
+   "de": "Eisen des Onyxtiegels",
+   "fr": "Fers du creuset d’onyx"
+  }
+ },
+ "1557": {
+  "name": {
+   "en": "Risen Nightmare's Gravemantle",
+   "de": "Grabmantel des auferstandenen Alptraums",
+   "fr": "Mantelet funeste du cauchemar ressuscité"
+  }
+ },
+ "1558": {
+  "name": {
+   "en": "Screaming Torchfiend's Brutality",
+   "de": "Brutalität des schreienden Fackelteufels",
+   "fr": "Brutalité de l’incendiaire hurlante"
+  }
+ },
+ "1559": {
+  "name": {
+   "en": "Benevolent Embersage's Guidance",
+   "de": "Führung des wohlwollenden Glutweisen",
+   "fr": "Conseil de sagebraise bienveillante"
+  }
+ },
+ "1560": {
+  "name": {
+   "en": "Werynkeeper's Timeless Vigil",
+   "de": "Zeitlose Wacht des Weyrnhüters",
+   "fr": "Veille intemporelle de gardienne de Weryn"
+  }
+ },
+ "1561": {
+  "name": {
+   "en": "Blazing Dreamstalker's Trophies",
+   "de": "Trophäen des lodernden Traumpirschers",
+   "fr": "Trophées de traquerêve flamboyant"
+  }
+ },
+ "1562": {
+  "name": {
+   "en": "Wayward Chronomancer's Clockwork",
+   "de": "Uhrwerk des abtrünnigen Chronomanten",
+   "fr": "Mécanisme de chronomancienne égarée"
+  }
+ },
+ "1563": {
+  "name": {
+   "en": "Mystic Heron's Discipline",
+   "de": "Disziplin des mystischen Reihers",
+   "fr": "Discipline du héron mystique"
+  }
+ },
+ "1564": {
+  "name": {
+   "en": "Zealous Pyreknight's Ardor",
+   "de": "Eifer des geschäftigen Feuerritters",
+   "fr": "Ardeur de chevalier du bûcher zélé"
+  }
+ },
+ "1565": {
+  "name": {
+   "en": "Blessings of Lunar Communion",
+   "de": "Segen der Mondweihe",
+   "fr": "Bénédictions de la communion lunaire"
+  }
+ },
+ "1566": {
+  "name": {
+   "en": "Lucid Shadewalker's Silence",
+   "de": "Stille des wachen Schattenwandlers",
+   "fr": "Silence de l’arpente-ombres lucide"
+  }
+ },
+ "1567": {
+  "name": {
+   "en": "Vision of the Greatwolf Outcast",
+   "de": "Vision des ausgestoßenen Großwolfs",
+   "fr": "Vision du grand loup exilé"
+  }
+ },
+ "1568": {
+  "name": {
+   "en": "Devout Ashdevil's Pactweave",
+   "de": "Bundgewebe des ergebenen Aschenteufels",
+   "fr": "Tisse-pacte du démon de cendres dévoué"
+  }
+ },
+ "1569": {
+  "name": {
+   "en": "Molten Vanguard's Mortarplate",
+   "de": "Mörserplatte der geschmolzenen Vorhut",
+   "fr": "Mortier de l’avant-garde en fusion"
+  }
+ },
+ "1605": {
+  "name": {
+   "en": "Wayward Chronomancer's Clockwork",
+   "de": "Uhrwerk des abtrünnigen Chronomanten",
+   "fr": "Mécanisme de chronomancienne égarée"
+  }
+ },
+ "1606": {
+  "name": {
+   "en": "Vision of the Greatwolf Outcast",
+   "de": "Vision des ausgestoßenen Großwolfs",
+   "fr": "Vision du grand loup exilé"
+  }
+ },
+ "1614": {
+  "name": {
+   "en": "Draconic Warmonger's Armor",
+   "de": "Rüstung des drakonischen Kriegstreibers",
+   "fr": "Armure de belliciste draconique"
+  }
+ },
+ "1615": {
+  "name": {
+   "en": "Draconic Warmonger's Chainmail",
+   "de": "Kettenpanzer des drakonischen Kriegstreibers",
+   "fr": "Cotte de mailles de belliciste draconique"
+  }
+ },
+ "1616": {
+  "name": {
+   "en": "Draconic Warmonger's Vestments",
+   "de": "Gewänder des drakonischen Kriegstreibers",
+   "fr": "Habits de belliciste draconique"
+  }
+ },
+ "1683": {
+  "name": {
+   "en": "Woven Dawn",
+   "de": "Gewobene Morgendämmerung",
+   "fr": "Aube tressée"
+  }
+ },
+ "1684": {
+  "name": {
+   "en": "Warsculptor's Masterwork",
+   "de": "Meisterwerk des Kriegsbildhauers",
+   "fr": "Chef-d’œuvre de sculpteguerre"
+  }
+ },
+ "1685": {
+  "name": {
+   "en": "Rites of the Hexflame Coven",
+   "de": "Riten des Hexenflammenzirkels",
+   "fr": "Rites du sabbat du malfeu"
+  }
+ },
+ "1686": {
+  "name": {
+   "en": "Waves of the Forgotten Reservoir",
+   "de": "Wellen des vergessenen Reservoirs",
+   "fr": "Vagues du réservoir Oublié"
+  }
+ },
+ "1687": {
+  "name": {
+   "en": "K'areshi Phantom's Bindings",
+   "de": "Bindungen des K'areshiphantoms",
+   "fr": "Manchettes du fantôme k’areshi"
+  }
+ },
+ "1688": {
+  "name": {
+   "en": "Shards of Living Luster",
+   "de": "Splitter lebenden Ruhms",
+   "fr": "Éclats du lustre vivant"
+  }
+ },
+ "1689": {
+  "name": {
+   "en": "Entombed Seraph's Radiance",
+   "de": "Strahlen des begrabenen Seraphen",
+   "fr": "Radiance du séraphin inhumé"
+  }
+ },
+ "1690": {
+  "name": {
+   "en": "Gatecrasher's Fortitude",
+   "de": "Seelenstärke des Torbrechers",
+   "fr": "Robustesse de l’enfonceur de porte"
+  }
+ },
+ "1691": {
+  "name": {
+   "en": "Sparks of Violet Rebirth",
+   "de": "Funken der violetten Wiedergeburt",
+   "fr": "Étincelle de renaissance violette"
+  }
+ },
+ "1692": {
+  "name": {
+   "en": "Lightless Scavenger's Necessities",
+   "de": "Ausrüstung des lichtlosen Plünderers",
+   "fr": "Premières nécessités du charognard de l’obscurité"
+  }
+ },
+ "1693": {
+  "name": {
+   "en": "Destroyer's Scarred Wards",
+   "de": "Vernarbter Schutz des Zerstörers",
+   "fr": "Protections endommagées de destructeur"
+  }
+ },
+ "1694": {
+  "name": {
+   "en": "Mane of the Greatlynx",
+   "de": "Mähne des Großluchses",
+   "fr": "Crinière du grand lynx"
+  }
+ },
+ "1697": {
+  "name": {
+   "en": "Woven Dusk",
+   "de": "Gewobene Abenddämmerung",
+   "fr": "Crépuscule tressé"
+  }
+ },
+ "1553": {
+  "name": {
+   "en": "Scalewarden's Garments",
+   "de": "Bekleidung des Schuppenwächters",
+   "fr": "Vêtements de garde-écaille"
+  }
+ },
+ "1554": {
+  "name": {
+   "en": "Scalewarden's Chainmail",
+   "de": "Kettenpanzer des Schuppenwächters",
+   "fr": "Cotte de mailles de garde-écaille"
+  }
+ },
+ "1555": {
+  "name": {
+   "en": "Scalewarden's Battlegear",
+   "de": "Schlachtrüstung des Schuppenwächters",
+   "fr": "Tenue de combat de garde-écaille"
+  }
+ },
+ "1556": {
+  "name": {
+   "en": "Scalewarden's Armaments",
+   "de": "Plattenrüstung des Schuppenwächters",
+   "fr": "Armes de garde-écaille"
+  }
+ },
+ "1695": {
+  "name": {
+   "en": "Husk of the Hypogeal Nemesis",
+   "de": "Hülle der unterirdischen Nemesis",
+   "fr": "Carcasse de Némésis hypogée"
+  }
+ },
+ "1696": {
+  "name": {
+   "en": "Exhumed Centurion's Relics",
+   "de": "Relikte des exhumierten Zenturios",
+   "fr": "Reliques de centurion exhumées"
+  }
+ },
+ "1834": {
+  "name": {
+   "en": "Lingering Dark Iron Grace",
+   "de": "Verweilende Dunkeleisenanmut",
+   "fr": "Grâce persistante des Sombrefer"
+  }
+ },
+ "1867": {
+  "name": {
+   "en": "Cauldron Champion's Encore",
+   "de": "Zugabe des Kesselchampions",
+   "fr": "Rappel du champion du Chaudron"
+  }
+ },
+ "1868": {
+  "name": {
+   "en": "Fel-Dealer's Contraband",
+   "de": "Schmuggelware des Teufelsdealers",
+   "fr": "Contrebande de gangreceleur"
+  }
+ },
+ "1869": {
+  "name": {
+   "en": "Roots of Reclaiming Blight",
+   "de": "Wurzeln der zurückgewinnenden Seuche",
+   "fr": "Racines de reconquête du chancre"
+  }
+ },
+ "1870": {
+  "name": {
+   "en": "Opulent Treasurescale's Hoard",
+   "de": "Hort der opulenten Schatzschuppe",
+   "fr": "Amas opulent de trésorécaille"
+  }
+ },
+ "1871": {
+  "name": {
+   "en": "Tireless Collector's Bounties",
+   "de": "Gaben des unermüdlichen Sammlers",
+   "fr": "Primes du collectionneur inépuisable"
+  }
+ },
+ "1872": {
+  "name": {
+   "en": "Jewels of the Aspectral Emissary",
+   "de": "Juwelen des Aspektbotschafters",
+   "fr": "Joyaux de l’émissaire des aspects"
+  }
+ },
+ "1873": {
+  "name": {
+   "en": "Ageless Serpent's Foresight",
+   "de": "Voraussicht der zeitlosen Schlange",
+   "fr": "Prévoyance du serpent sans âge"
+  }
+ },
+ "1874": {
+  "name": {
+   "en": "Oath of the Aureate Sentry",
+   "de": "Eid des goldenen Wächters",
+   "fr": "Serment de la sentinelle aurique"
+  }
+ },
+ "1875": {
+  "name": {
+   "en": "Confessor's Unshakable Virtue",
+   "de": "Unerschütterliche Tugend des Bekenners",
+   "fr": "Vertu inébranlable du confesseur"
+  }
+ },
+ "1876": {
+  "name": {
+   "en": "Spectral Gambler's Last Call",
+   "de": "Letzter Einsatz des spektralen Glücksspielers",
+   "fr": "Dernier appel du parieur spectral"
+  }
+ },
+ "1572": {
+  "name": {
+   "en": "Hellbloom Armaments",
+   "de": "Höllenblütenplattenpanzer",
+   "fr": "Armes de damniflore"
+  }
+ },
+ "1573": {
+  "name": {
+   "en": "Hellbloom Chainmail",
+   "de": "Höllenblütenkettenpanzer",
+   "fr": "Cotte de mailles de damniflore"
+  }
+ },
+ "1574": {
+  "name": {
+   "en": "Hellbloom Battlegear",
+   "de": "Höllenblütenschlachtrüstung",
+   "fr": "Tenue de combat de damniflore"
+  }
+ },
+ "1575": {
+  "name": {
+   "en": "Hellbloom Garments",
+   "de": "Höllenblütengewänder",
+   "fr": "Vêtements de damniflore"
+  }
+ },
+ "1611": {
+  "name": {
+   "en": "Embrace of the Cinderbee",
+   "de": "Umarmung der Glutbiene",
+   "fr": "Étreinte de la cendrabeille"
+  }
+ },
+ "1612": {
+  "name": {
+   "en": "Fury of the Stormrook",
+   "de": "Zorn der Sturmkrähe",
+   "fr": "Fureur des freux de la tempête"
+  }
+ },
+ "1878": {
+  "name": {
+   "en": "Spliced Fiendtrader's Influence",
+   "de": "Einfluss des gesplissenen Teufelshändlers",
+   "fr": "Influence fendue du marchand de monstres"
+  }
+ },
+ "1877": {
+  "name": {
+   "en": "Currents of the Gale Sovereign",
+   "de": "Strömung des Windherrschers",
+   "fr": "Courants du souverain des trombes"
+  }
+ },
+ "1879": {
+  "name": {
+   "en": "Underpin Strongarm's Muscle",
+   "de": "Muskeln des Lorenbossschlägers",
+   "fr": "Muscle de gros-bras du Père Foreur"
+  }
+ },
+ "1957": {
+  "name": {
+   "en": "Sunfire Silk Trappings",
+   "de": "Sonnenfeuerseidener Zierrat",
+   "fr": "Ornements en soie du feu solaire"
+  }
+ },
+ "1958": {
+  "name": {
+   "en": "Arcanoweave Trappings",
+   "de": "Arkanostoffzierrat",
+   "fr": "Ornements en tisse-arcane"
+  }
+ },
+ "1960": {
+  "name": {
+   "en": "Shards of the Void",
+   "de": "Scherben der Leere",
+   "fr": "Éclats du Vide"
+  }
+ },
+ "1966": {
+  "name": {
+   "en": "Murder Row Materials",
+   "de": "Mördergassematerialien",
+   "fr": "Matériaux de l’Allée du meurtre"
+  }
+ },
+ "1967": {
+  "name": {
+   "en": "Root Warden's Regalia",
+   "de": "Wurzelwächterornat",
+   "fr": "Tenue de parade de garde-racines"
+  }
+ },
+ "1919": {
+  "name": {
+   "en": "Hollow Sentinel's Wake",
+   "de": "Sog der Hohlwache",
+   "fr": "Veillée de la sentinelle creuse"
+  }
+ },
+ "1920": {
+  "name": {
+   "en": "Charhound's Vicious Hunt",
+   "de": "Boshafte Jagd des Aschenhunds",
+   "fr": "Chasse cruelle du molosse embrasé"
+  }
+ },
+ "1921": {
+  "name": {
+   "en": "Ornaments of the Mother Eagle",
+   "de": "Ornamente der Adlermutter",
+   "fr": "Ornements de la mère aigle"
+  }
+ },
+ "1922": {
+  "name": {
+   "en": "Spellweaver's Immaculate Design",
+   "de": "Makelloser Entwurf des Zauberwebers",
+   "fr": "Conception irréprochable du tisse-sort"
+  }
+ },
+ "1923": {
+  "name": {
+   "en": "Midnight Herald's Pledge",
+   "de": "Eid des mitternächtlichen Herolds",
+   "fr": "Serment du héraut de minuit"
+  }
+ },
+ "1924": {
+  "name": {
+   "en": "Augur's Ephemeral Plumage",
+   "de": "Vergängliches Federkleid des Weissagers",
+   "fr": "Plumage éphémère d’augure"
+  }
+ },
+ "1925": {
+  "name": {
+   "en": "Crash of Fallen Storms",
+   "de": "Sturz des gefallenen Sturms",
+   "fr": "Fracas des tempêtes abattues"
+  }
+ },
+ "1926": {
+  "name": {
+   "en": "Vows of the Lucent Battalion",
+   "de": "Schwüre des schillernden Bataillons",
+   "fr": "Vœux du bataillon lumineux"
+  }
+ },
+ "1927": {
+  "name": {
+   "en": "Eulogy to a Dying Star",
+   "de": "Grabrede für einen sterbenden Stern",
+   "fr": "Oraison d’une étoile mourante"
+  }
+ },
+ "1928": {
+  "name": {
+   "en": "Shroud of the Sudden Eclipse",
+   "de": "Schleier der plötzlichen Finsternis",
+   "fr": "Linceul de l’éclipse soudaine"
+  }
+ },
+ "1929": {
+  "name": {
+   "en": "Howls of Channeled Fury",
+   "de": "Heulen des kanalisierten Zorns",
+   "fr": "Hurlements de la fureur canalisée"
+  }
+ },
+ "1930": {
+  "name": {
+   "en": "Inquisitor's Feast of Madness",
+   "de": "Wahnschmaus des Inquisitors",
+   "fr": "Festin de folie de l’inquisitrice"
+  }
+ },
+ "1931": {
+  "name": {
+   "en": "Chains of the Living Weapon",
+   "de": "Ketten der lebendigen Waffe",
+   "fr": "Chaînes de l’arme vivante"
+  }
+ },
+ "1613": {
+  "name": {
+   "en": "Ky'veza's Cruel Implements",
+   "de": "Ky'vezas grausame Werkzeuge",
+   "fr": "Instruments de cruauté de Ky’veza"
+  }
+ },
+ "1617": {
+  "name": {
+   "en": "Draconic Warmonger's Garb",
+   "de": "Tracht des drakonischen Kriegstreibers",
+   "fr": "Atours de belliciste draconique"
+  }
+ },
+ "1594": {
+  "name": {
+   "en": "Scales of the Awakened",
+   "de": "Schuppen der Erweckten",
+   "fr": "Écailles des Éveillés"
+  }
+ },
+ "1595": {
+  "name": {
+   "en": "Stormwing Harrier's Camouflage",
+   "de": "Tarnung des Sturmschwingenhetzers",
+   "fr": "Camouflage de limier aile-tempête"
+  }
+ },
+ "1596": {
+  "name": {
+   "en": "Wrappings of the Waking Fist",
+   "de": "Wickel der erwachenden Faust",
+   "fr": "Étoffes du poing en éveil"
+  }
+ },
+ "1597": {
+  "name": {
+   "en": "Strands of the Autumn Blaze",
+   "de": "Stränge der Herbstlohen",
+   "fr": "Fils du feu d’automne"
+  }
+ },
+ "1598": {
+  "name": {
+   "en": "Heartfire Sentinel's Authority",
+   "de": "Autorität des Herzensfeuerwächters",
+   "fr": "Autorité de la sentinelle cœur de feu"
+  }
+ },
+ "1599": {
+  "name": {
+   "en": "The Furnace Seraph's Verdict",
+   "de": "Urteil des Schmelzofenseraphs",
+   "fr": "Verdict du séraphin de la fournaise"
+  }
+ },
+ "1600": {
+  "name": {
+   "en": "Lurking Specter's Shadeweave",
+   "de": "Schattenzwirn des lauernden Gespensts",
+   "fr": "Tissombre du spectre rôdeur"
+  }
+ },
+ "1601": {
+  "name": {
+   "en": "Sinister Savant's Cursethreads",
+   "de": "Fluchfäden des finsteren Gelehrten",
+   "fr": "Ornements du savant sinistre"
+  }
+ },
+ "1602": {
+  "name": {
+   "en": "Irons of the Onyx Crucible",
+   "de": "Eisen des Onyxtiegels",
+   "fr": "Fers du creuset d’onyx"
+  }
+ },
+ "1603": {
+  "name": {
+   "en": "Risen Nightmare's Gravemantle",
+   "de": "Grabmantel des auferstandenen Alptraums",
+   "fr": "Mantelet funeste du cauchemar ressuscité"
+  }
+ },
+ "1604": {
+  "name": {
+   "en": "Screaming Torchfiend's Brutality",
+   "de": "Brutalität des schreienden Fackelteufels",
+   "fr": "Brutalité de l’incendiaire hurlante"
+  }
+ },
+ "1974": {
+  "name": {
+   "en": "Warmonger's Vestments",
+   "de": "Kriegstreibergewand",
+   "fr": "Habits de belliciste"
+  }
+ },
+ "1975": {
+  "name": {
+   "en": "Warmonger's Armor",
+   "de": "Kriegstreiberrüstung",
+   "fr": "Armure de belliciste"
+  }
+ },
+ "1976": {
+  "name": {
+   "en": "Warmonger's Chainmail",
+   "de": "Kriegstreiberkettenpanzer",
+   "fr": "Cotte de mailles de belliciste"
+  }
+ },
+ "1977": {
+  "name": {
+   "en": "Warmonger's Plate",
+   "de": "Kriegstreiberplatte",
+   "fr": "Armure de belliciste en plaques"
+  }
+ },
+ "1970": {
+  "name": {
+   "en": "Torment's Duality",
+   "de": "Dualität der Qual",
+   "fr": "Dualité du tourment"
+  }
+ },
+ "1971": {
+  "name": {
+   "en": "Voidlight Bindings",
+   "de": "Leerenlichtbindungen",
+   "fr": "Liens de Lumière du Vide"
+  }
+ },
+ "1978": {
+  "name": {
+   "en": "Relentless Rider's Lament",
+   "de": "Wehklagen des erbarmungslosen Reiters",
+   "fr": "Complainte de la chevauchée implacable"
+  }
+ },
+ "1979": {
+  "name": {
+   "en": "Devouring Reaver's Sheathe",
+   "de": "Ummantelung des verschlingenden Häschers",
+   "fr": "Fourreau de saccage dévorant"
+  }
+ },
+ "1980": {
+  "name": {
+   "en": "Sprouts of the Luminous Bloom",
+   "de": "Sprossen der leuchtenden Blüte",
+   "fr": "Pousses de la floraison lumineuse"
+  }
+ },
+ "1981": {
+  "name": {
+   "en": "Livery of the Black Talon",
+   "de": "Tracht der Schwarzkrallen",
+   "fr": "Uniforme de la Serre noire"
+  }
+ },
+ "1982": {
+  "name": {
+   "en": "Primal Sentry's Camouflage",
+   "de": "Tarnung des urzeitlichen Wächters",
+   "fr": "Camouflage de surveillance primordiale"
+  }
+ },
+ "1983": {
+  "name": {
+   "en": "Voidbreaker's Accordance",
+   "de": "Übereinkunft des Leerenbrechers",
+   "fr": "Accord de brisevide"
+  }
+ },
+ "1984": {
+  "name": {
+   "en": "Way of Ra-den's Chosen",
+   "de": "Pfad des Auserwählten von Ra-den",
+   "fr": "Voie de l’élite de Ra Den"
+  }
+ },
+ "1985": {
+  "name": {
+   "en": "Luminant Verdict's Vestments",
+   "de": "Gewänder des strahlenden Urteils",
+   "fr": "Habits du verdict effulgent"
+  }
+ },
+ "1986": {
+  "name": {
+   "en": "Blind Oath's Burden",
+   "de": "Bürde des blinden Schwurs",
+   "fr": "Fardeau du serment aveugle"
+  }
+ },
+ "1987": {
+  "name": {
+   "en": "Motley of the Grim Jest",
+   "de": "Kostüm der grauenvollen Narretei",
+   "fr": "Costume de la farce sinistre"
+  }
+ },
+ "1988": {
+  "name": {
+   "en": "Mantle of the Primal Core",
+   "de": "Mantel des Urkerns",
+   "fr": "Mantelet du noyau primordial"
+  }
+ },
+ "1989": {
+  "name": {
+   "en": "Reign of the Abyssal Immolator",
+   "de": "Herrschaft des abyssischen Verbrenners",
+   "fr": "Règne de l’immolation abyssale"
+  }
+ },
+ "1990": {
+  "name": {
+   "en": "Rage of the Night Ender",
+   "de": "Zorn des Beenders der Nacht",
+   "fr": "Rage de nocticide"
+  }
+ },
+ "221": {
+  "name": {
+   "en": "Garb of Thero-shan"
+  }
+ },
+ "700": {
+  "name": {
+   "en": "Merciless Gladiator's Aegis"
+  }
+ },
+ "701": {
+  "name": {
+   "en": "Merciless Gladiator's Battlegear"
+  }
+ },
+ "702": {
+  "name": {
+   "en": "Merciless Gladiator's Dreadgear"
+  }
+ },
+ "703": {
+  "name": {
+   "en": "Merciless Gladiator's Earthshaker"
+  }
+ },
+ "704": {
+  "name": {
+   "en": "Merciless Gladiator's Felshroud"
+  }
+ },
+ "705": {
+  "name": {
+   "en": "Merciless Gladiator's Investiture"
+  }
+ },
+ "706": {
+  "name": {
+   "en": "Merciless Gladiator's Pursuit"
+  }
+ },
+ "707": {
+  "name": {
+   "en": "Merciless Gladiator's Raiment"
+  }
+ },
+ "708": {
+  "name": {
+   "en": "Merciless Gladiator's Redemption"
+  }
+ },
+ "709": {
+  "name": {
+   "en": "Merciless Gladiator's Refuge"
+  }
+ },
+ "710": {
+  "name": {
+   "en": "Merciless Gladiator's Regalia"
+  }
+ },
+ "711": {
+  "name": {
+   "en": "Merciless Gladiator's Sanctuary"
+  }
+ },
+ "712": {
+  "name": {
+   "en": "Merciless Gladiator's Thunderfist"
+  }
+ },
+ "713": {
+  "name": {
+   "en": "Merciless Gladiator's Vestments"
+  }
+ },
+ "714": {
+  "name": {
+   "en": "Merciless Gladiator's Vindication"
+  }
+ },
+ "715": {
+  "name": {
+   "en": "Merciless Gladiator's Wartide"
+  }
+ },
+ "716": {
+  "name": {
+   "en": "Merciless Gladiator's Wildhide"
+  }
+ },
+ "720": {
+  "name": {
+   "en": "Vengeful Gladiator's Refuge"
+  }
+ },
+ "721": {
+  "name": {
+   "en": "Vengeful Gladiator's Sanctuary"
+  }
+ },
+ "722": {
+  "name": {
+   "en": "Vengeful Gladiator's Wildhide"
+  }
+ },
+ "723": {
+  "name": {
+   "en": "Vengeful Gladiator's Pursuit"
+  }
+ },
+ "724": {
+  "name": {
+   "en": "Vengeful Gladiator's Regalia"
+  }
+ },
+ "725": {
+  "name": {
+   "en": "Vengeful Gladiator's Redemption"
+  }
+ },
+ "726": {
+  "name": {
+   "en": "Vengeful Gladiator's Vindication"
+  }
+ },
+ "727": {
+  "name": {
+   "en": "Vengeful Gladiator's Aegis"
+  }
+ },
+ "728": {
+  "name": {
+   "en": "Vengeful Gladiator's Investiture"
+  }
+ },
+ "729": {
+  "name": {
+   "en": "Vengeful Gladiator's Raiment"
+  }
+ },
+ "730": {
+  "name": {
+   "en": "Vengeful Gladiator's Vestments"
+  }
+ },
+ "731": {
+  "name": {
+   "en": "Vengeful Gladiator's Wartide"
+  }
+ },
+ "732": {
+  "name": {
+   "en": "Vengeful Gladiator's Earthshaker"
+  }
+ },
+ "733": {
+  "name": {
+   "en": "Vengeful Gladiator's Thunderfist"
+  }
+ },
+ "734": {
+  "name": {
+   "en": "Vengeful Gladiator's Dreadgear"
+  }
+ },
+ "735": {
+  "name": {
+   "en": "Vengeful Gladiator's Felshroud"
+  }
+ },
+ "736": {
+  "name": {
+   "en": "Vengeful Gladiator's Battlegear"
+  }
+ },
+ "963": {
+  "name": {
+   "en": "Bloodthirsty Pyrium"
+  }
+ },
+ "964": {
+  "name": {
+   "en": "Bloodthirsty Ornate Pyrium"
+  }
+ },
+ "965": {
+  "name": {
+   "en": "Bloodthirsty Leather"
+  }
+ },
+ "966": {
+  "name": {
+   "en": "Bloodthirsty Wyrmhide"
+  }
+ },
+ "967": {
+  "name": {
+   "en": "Bloodthirsty Dragonscale"
+  }
+ },
+ "968": {
+  "name": {
+   "en": "Bloodthirsty Charscale"
+  }
+ },
+ "969": {
+  "name": {
+   "en": "Bloodthirsty Embersilk"
+  }
+ },
+ "970": {
+  "name": {
+   "en": "Bloodthirsty Fireweave"
+  }
+ },
+ "1121": {
+  "name": {
+   "en": "Contender's Defense"
+  }
+ },
+ "1449": {
+  "name": {
+   "en": "Azshara's Garments"
+  }
+ }
+}

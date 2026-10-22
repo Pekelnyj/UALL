@@ -1,0 +1,27 @@
+[Unit]
+Description=WoWUkraine translation editor (FastAPI/uvicorn)
+After=network.target
+
+[Service]
+Type=simple
+User=wowua
+Group=wowua
+WorkingDirectory=/opt/wowukraine
+# Секрети й налаштування — у /etc/wowukraine.env (chmod 600). Приклад вмісту:
+#   WOWUA_SECURE_COOKIE=1
+#   WOWUA_ADMIN_PW=<надійний-пароль>     # використовується лише якщо в БД ще немає користувачів
+EnvironmentFile=/etc/wowukraine.env
+ExecStart=/opt/wowukraine/.venv/bin/uvicorn editor.app:app --host 127.0.0.1 --port 8011
+Restart=on-failure
+RestartSec=3
+
+# гартування
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ProtectControlGroups=true
+ProtectKernelTunables=true
+
+[Install]
+WantedBy=multi-user.target

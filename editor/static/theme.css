@@ -1,0 +1,64 @@
+/* Теми редактора «Темнозелена». Стандарт (темна) лишається в :root кожної сторінки;
+   тут — перевизначення для світлої та OLED (специфічність html[data-theme] > :root). */
+
+/* ☀️ Світла */
+html[data-theme="light"]{
+  --bg:#f5f6f8; --bg2:#ffffff; --bg3:#eef0f3; --line:#d9dde2;
+  --fg:#1b1e23; --muted:#5b626c; --muted2:#878e98;
+  --gold:#b07d12; --gold-dim:#946811;
+  --green:#1a7f37; --green-bg:#e7f5ec;
+  --yellow:#8a6a12; --yellow-bg:#fbf1d3;
+  --red:#c5302a; --red-bg:#fbe7e5;
+  --en:#2a2f37; --aux:#5b626c; --focus:#3b82c4;
+}
+/* світла: чипи-пігулки мають світлі тла (бо їх кольори вшиті в сторінках) */
+html[data-theme="light"] .pill.admin{background:#f6e9c4; color:#7a5a0a}
+html[data-theme="light"] .pill.editor{background:#d8f0e1; color:#1a7f37}
+html[data-theme="light"] .pill.contributor{background:#e6e8ec; color:#5b626c}
+html[data-theme="light"] .pill.off,
+html[data-theme="light"] .pill.rej{background:#fbe7e5; color:#c5302a}
+
+/* ⬛ OLED (чисто чорний фон; решта кольорів — як у темній) */
+html[data-theme="oled"]{
+  --bg:#000000; --bg2:#0b0c0e; --bg3:#141619; --line:#23262b;
+  --green-bg:#0b1f12; --yellow-bg:#1d1808; --red-bg:#250f0d;
+}
+
+/* 🌿 Медоїд (темнозелена: глибокий ліс + медовий акцент) */
+html[data-theme="medoid"]{
+  --bg:#0e1a12; --bg2:#13261a; --bg3:#1a3324; --line:#274a33;
+  --fg:#e4efe6; --muted:#8ba893; --muted2:#6a8a74;
+  --gold:#f2c94c; --gold-dim:#caa53b;
+  --green:#52c46a; --green-bg:#10301e;
+  --yellow:#e3b341; --yellow-bg:#2a2710;
+  --red:#f0584f; --red-bg:#301817;
+  --en:#cdd9cf; --aux:#97b09e; --focus:#56a06f;
+}
+html[data-theme="medoid"] .pill.editor{background:#10301e; color:#52c46a}
+
+/* перемикач теми (однаковий вигляд на всіх сторінках) */
+.themesel{
+  font:inherit; font-size:12px; color:var(--fg);
+  background:var(--bg3); border:1px solid var(--line);
+  border-radius:7px; padding:5px 8px; cursor:pointer; outline:none;
+}
+.themesel:focus{border-color:var(--focus)}
+
+/* кнопка-посилання в шапці (як запасний стиль для сторінок, де класу нема локально) */
+.userbtn{
+  font-size:13px; color:var(--fg); background:var(--bg3); border:1px solid var(--line);
+  border-radius:7px; padding:7px 10px; text-decoration:none; white-space:nowrap;
+}
+.userbtn:hover{background:var(--bg2)}
+
+/* --- Мобільні екрани (спільне для всіх сторінок; !important бо page-стилі йдуть після) --- */
+@media (max-width: 600px){
+  header{ padding:10px 12px !important; gap:8px !important; }
+  main{ padding:12px !important; }
+  .brand{ font-size:16px !important; }
+  .brand small{ display:none !important; }            /* підзаголовок ховаємо на вузьких */
+  select, #q, input[type=text]{ min-width:0 !important; }
+  .themesel{ font-size:11px; padding:4px 6px; }
+  .card{ padding:12px !important; }
+  table{ display:block; overflow-x:auto; -webkit-overflow-scrolling:touch; }  /* таблиці гортаються вбік */
+}

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Глосарій — temnozelena.com</title>
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("wowua-theme")||"dark"}catch(e){}</script>
+<link rel="stylesheet" href="/theme.css">
+<script src="/theme.js" defer></script>
+<style>
+  :root{
+    --bg:#16181d; --bg2:#1d2027; --bg3:#23272f; --line:#2e333d;
+    --fg:#e6e8ec; --muted:#8b919c; --muted2:#6b7180;
+    --gold:#f0c64a; --gold-dim:#c9a23a;
+    --green:#3fb950; --red:#f0584f; --red-bg:#341816;
+    --en:#cfd3da; --aux:#9aa0ab; --focus:#5a7fb5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Noto Sans",system-ui,-apple-system,Arial,sans-serif; font-size:15px; line-height:1.45}
+  a{color:var(--gold)}
+  header{position:sticky; top:0; z-index:10; background:var(--bg2); border-bottom:1px solid var(--line);
+    padding:12px 18px; display:flex; align-items:center; gap:14px; flex-wrap:wrap}
+  .brand{font-size:18px; font-weight:600; color:var(--green); margin:0}
+  .brand small{color:var(--muted); font-weight:400; font-size:13px; margin-left:8px}
+  .spacer{flex:1}
+  .who{color:var(--muted); font-size:13px}
+  .who b{color:var(--fg)}
+  .userbtn{font-size:13px; color:var(--fg); background:var(--bg3); border:1px solid var(--line);
+    border-radius:7px; padding:7px 10px; text-decoration:none}
+  .userbtn:hover{background:#2b303a}
+  main{max-width:1000px; margin:0 auto; padding:18px}
+  select,input[type=text],textarea,button{font-family:inherit; font-size:14px; color:var(--fg);
+    background:var(--bg3); border:1px solid var(--line); border-radius:7px; padding:8px 10px; outline:none}
+  input:focus,textarea:focus{border-color:var(--focus)}
+  textarea{width:100%; resize:vertical; min-height:46px; line-height:1.45}
+  button{background:var(--gold); color:#221d05; border:1px solid var(--gold-dim); font-weight:600; cursor:pointer; white-space:nowrap}
+  button:hover{background:var(--gold-dim)}
+  button.ghost{background:var(--bg3); color:var(--fg); border:1px solid var(--line); font-weight:500}
+  button.ghost:hover{background:#2b303a}
+  button.danger{background:var(--red-bg); color:var(--red); border-color:#5a2420}
+  .card{background:var(--bg2); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:12px}
+  .card h3{margin:0 0 12px; font-size:14px; color:var(--gold); font-weight:600}
+  .grid{display:grid; grid-template-columns:1fr 1fr; gap:10px}
+  .grid .full{grid-column:1 / -1}
+  label{display:block; font-size:11px; font-weight:700; color:var(--muted); margin:0 0 4px; letter-spacing:.3px}
+  .term{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap}
+  .term .en{color:var(--en); font-size:16px}
+  .term .arrow{color:var(--muted2)}
+  .term .ua{color:var(--gold); font-weight:600; font-size:16px}
+  .pill{display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:20px}
+  .pill.canon{background:#3a2f10; color:var(--gold)}
+  .pill.prop{background:#23272f; color:var(--muted)}
+  .rationale{margin:8px 0 0; white-space:pre-wrap; word-break:break-word}
+  .src{margin-top:6px; font-size:13px}
+  .by{font-size:12px; color:var(--muted2); margin-top:6px}
+  .rowact{display:flex; gap:8px; margin-top:10px; flex-wrap:wrap; align-items:center}
+  .rowact button{padding:5px 12px; font-size:13px}
+  .toast{font-size:13px} .toast.ok{color:var(--green)} .toast.err{color:var(--red)}
+  .note{padding:30px 10px; text-align:center; color:var(--muted)}
+  .spinner{display:inline-block; width:14px; height:14px; vertical-align:-2px; border:2px solid var(--muted2);
+    border-top-color:transparent; border-radius:50%; animation:spin .7s linear infinite; margin-right:6px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  #q{width:100%}
+</style>
+</head>
+<body>
+<header>
+  <h1 class="brand"><a href="/" style="color:inherit;text-decoration:none" title="На головну">temnozelena.com</a> <small>глосарій</small></h1>
+  <div class="spacer"></div>
+  <span class="who" id="who">&nbsp;</span>
+  <select id="themeSel" class="themesel" title="Тема">
+    <option value="dark">🌙 Темна</option>
+    <option value="light">☀️ Світла</option>
+    <option value="oled">⬛ OLED</option>
+    <option value="medoid">🌿 Медоїд</option>
+  </select>
+  <a href="https://discord.com/invite/je7ruJVay6" target="_blank" rel="noopener noreferrer" class="userbtn" style="color:#5865f2">Discord</a>
+  <a href="/" class="userbtn">← до редактора</a>
+  <button class="ghost" id="logout">Вийти</button>
+</header>
+<main>
+  <div class="card" style="color:var(--muted);font-size:13px">
+    Спільний глосарій термінів. Додавай <b style="color:var(--fg)">як перекладаємо і ЧОМУ</b>
+    (з посиланням-аргументом). Адмін позначає узгоджені терміни як
+    <span class="pill canon">канон</span>. Редагувати/видаляти можна свої записи (адмін — будь-які).
+  </div>
+
+  <div class="card">
+    <h3>Додати термін</h3>
+    <div class="grid">
+      <div><label>Термін (англ.)</label><input type="text" id="nEn" placeholder="напр. Khadgar"></div>
+      <div><label>Переклад (укр.)</label><input type="text" id="nUa" placeholder="напр. Хадґар"></div>
+      <div class="full"><label>Аргументація (чому саме так)</label>
+        <textarea id="nWhy" placeholder="kh → х, h → г; дворфійська аспірація…"></textarea></div>
+      <div class="full"><label>Посилання-джерело (необов'язкове)</label>
+        <input type="text" id="nUrl" placeholder="https://…"></div>
+    </div>
+    <div class="rowact">
+      <button id="addBtn">Додати</button>
+      <span class="toast" id="addMsg"></span>
+    </div>
+  </div>
+
+  <div class="card"><input type="text" id="q" placeholder="пошук за терміном (EN/UA) або аргументацією"></div>
+
+  <div id="list"><div class="note"><span class="spinner"></span>Завантаження…</div></div>
+</main>
+
+<script>
+"use strict";
+(function(){
+  const $ = (id) => document.getElementById(id);
+  function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+  function fdate(t){ const n=parseFloat(t); if(!n) return ""; return new Date(n*1000).toLocaleDateString("uk-UA"); }
+  function safeUrl(u){ return (typeof u==="string" && /^https?:\/\//i.test(u)) ? u : null; }
+  async function api(url, opts){
+    const r = await fetch(url, opts);
+    if(r.status === 401){ location.href="/login"; throw new Error("Потрібен вхід"); }
+    let b=null; try{ b=await r.json(); }catch(e){}
+    if(!r.ok){ throw new Error((b&&b.detail&&typeof b.detail==="string")?b.detail:("HTTP "+r.status)); }
+    return b;
+  }
+
+  const ME = { name:"", role:"" };
+  (async function(){
+    try{ const m=await api("/api/me"); ME.name=m.name; ME.role=m.role; $("who").innerHTML=`<b>${esc(m.name)}</b> · ${esc(m.role)}`; }catch(e){}
+  })();
+  $("logout").addEventListener("click", async () => {
+    try{ await fetch("/api/logout",{method:"POST"}); }catch(e){}
+    location.href="/login";
+  });
+
+  // ---- список ----
+  let timer = null;
+  async function load(){
+    const q = $("q").value.trim();
+    $("list").innerHTML = `<div class="note"><span class="spinner"></span>Завантаження…</div>`;
+    try{
+      const rows = await api("/api/glossary?q=" + encodeURIComponent(q));
+      if(!rows.length){ $("list").innerHTML = `<div class="note">${q?"Нічого не знайдено.":"Глосарій порожній — додай перший термін."}</div>`; return; }
+      $("list").innerHTML = "";
+      for(const g of rows) $("list").appendChild(viewCard(g));
+    }catch(e){ $("list").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+  $("q").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(load, 250); });
+
+  function viewCard(g){
+    const card = document.createElement("div");
+    card.className = "card";
+    const mine = g.author === ME.name, admin = ME.role === "admin";
+    const url = safeUrl(g.source_url);
+    card.innerHTML = `
+      <div class="term">
+        <span class="en">${esc(g.term_en)}</span><span class="arrow">→</span><span class="ua">${esc(g.term_ua)}</span>
+        ${g.approved ? '<span class="pill canon">канон</span>' : '<span class="pill prop">пропозиція</span>'}
+      </div>
+      ${g.rationale ? `<div class="rationale">${esc(g.rationale)}</div>` : ""}
+      ${url ? `<div class="src">🔗 <a href="${esc(url)}" target="_blank" rel="noopener noreferrer nofollow">${esc(g.source_url)}</a></div>` : ""}
+      <div class="by">додав: ${esc(g.author||"?")}${g.created_at?(" · "+fdate(g.created_at)):""}</div>
+      <div class="rowact"></div>`;
+    const act = card.querySelector(".rowact");
+    const toast = document.createElement("span"); toast.className = "toast";
+    if(admin){
+      const ap = document.createElement("button"); ap.className = "ghost";
+      ap.textContent = g.approved ? "Зняти канон" : "✓ Зробити каноном";
+      ap.addEventListener("click", async () => {
+        try{ const r = await api(`/api/glossary/${g.id}/approve`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({approved: !g.approved})});
+          g.approved = r.approved; load();
+        }catch(ex){ toast.className="toast err"; toast.textContent=ex.message; }
+      });
+      act.appendChild(ap);
+    }
+    if(mine || admin){
+      const ed = document.createElement("button"); ed.className = "ghost"; ed.textContent = "Редагувати";
+      ed.addEventListener("click", () => card.replaceWith(editCard(g)));
+      const del = document.createElement("button"); del.className = "danger"; del.textContent = "Видалити";
+      del.addEventListener("click", async () => {
+        if(!confirm(`Видалити термін «${g.term_en} → ${g.term_ua}»?`)) return;
+        try{ await api(`/api/glossary/${g.id}`,{method:"DELETE"}); card.remove(); }
+        catch(ex){ toast.className="toast err"; toast.textContent=ex.message; }
+      });
+      act.appendChild(ed); act.appendChild(del);
+    }
+    act.appendChild(toast);
+    return card;
+  }
+
+  function editCard(g){
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="grid">
+        <div><label>Термін (англ.)</label><input type="text" class="eEn"></div>
+        <div><label>Переклад (укр.)</label><input type="text" class="eUa"></div>
+        <div class="full"><label>Аргументація</label><textarea class="eWhy"></textarea></div>
+        <div class="full"><label>Посилання-джерело</label><input type="text" class="eUrl"></div>
+      </div>
+      <div class="rowact">
+        <button class="save">Зберегти</button>
+        <button class="ghost cancel">Скасувати</button>
+        <span class="toast"></span>
+      </div>`;
+    card.querySelector(".eEn").value = g.term_en;
+    card.querySelector(".eUa").value = g.term_ua;
+    card.querySelector(".eWhy").value = g.rationale || "";
+    card.querySelector(".eUrl").value = g.source_url || "";
+    const toast = card.querySelector(".toast");
+    card.querySelector(".cancel").addEventListener("click", () => card.replaceWith(viewCard(g)));
+    card.querySelector(".save").addEventListener("click", async () => {
+      const upd = {
+        term_en: card.querySelector(".eEn").value,
+        term_ua: card.querySelector(".eUa").value,
+        rationale: card.querySelector(".eWhy").value,
+        source_url: card.querySelector(".eUrl").value,
+      };
+      try{
+        await api(`/api/glossary/${g.id}`,{method:"PUT",headers:{"Content-Type":"application/json"},body:JSON.stringify(upd)});
+        card.replaceWith(viewCard(Object.assign(g, upd)));
+      }catch(ex){ toast.className="toast err"; toast.textContent=ex.message; }
+    });
+    return card;
+  }
+
+  // ---- додати ----
+  $("addBtn").addEventListener("click", async () => {
+    const msg = $("addMsg");
+    const body = {
+      term_en: $("nEn").value, term_ua: $("nUa").value,
+      rationale: $("nWhy").value, source_url: $("nUrl").value,
+    };
+    if(!body.term_en.trim() || !body.term_ua.trim()){ msg.className="toast err"; msg.textContent="потрібні EN і UA"; return; }
+    try{
+      const r = await api("/api/glossary",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+      msg.className="toast ok"; msg.textContent = r.approved ? "✓ додано (канон)" : "✓ додано (пропозиція)";
+      $("nEn").value=""; $("nUa").value=""; $("nWhy").value=""; $("nUrl").value="";
+      load();
+    }catch(ex){ msg.className="toast err"; msg.textContent=ex.message; }
+  });
+
+  load();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+## Interface: 120100
+## Title: UALL |cff808080(Путівник пригод)|r
+## Notes: Путівник пригод (LoadOnDemand — вантажиться за потреби)
+## Author: UALL
+## Version: 0.63.0
+## LoadOnDemand: 1
+## Dependencies: UALL
+
+Journal.lua
+JournalInstances.lua

@@ -1,0 +1,22 @@
+## Interface: 120100
+## Title: UALL |cff808080(Предмети)|r
+## Notes: Предмети (LoadOnDemand — вантажиться за потреби)
+## Author: UALL
+## Version: 0.63.0
+## LoadOnDemand: 1
+## Dependencies: UALL
+
+Items_Classic.lua
+Items_TBC.lua
+Items_Wrath.lua
+Items_Cataclysm.lua
+Items_MoP.lua
+Items_WoD.lua
+Items_Legion.lua
+Items_BfA.lua
+Items_Shadowlands.lua
+Items_Dragonflight.lua
+Items_WarWithin.lua
+Items_Midnight.lua
+Items_Special.lua
+Items_Other.lua

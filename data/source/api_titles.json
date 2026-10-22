@@ -1,0 +1,4636 @@
+{
+ "140": {
+  "name": {
+   "en": "the Kingslayer",
+   "de": "der Königsmörder",
+   "fr": "le régicide"
+  }
+ },
+ "141": {
+  "name": {
+   "en": "of the Ashen Verdict",
+   "de": "vom Äschernen Verdikt",
+   "fr": "du Verdict des cendres"
+  }
+ },
+ "129": {
+  "name": {
+   "en": "Starcaller",
+   "de": "Sternenrufer",
+   "fr": "Mande-étoiles"
+  }
+ },
+ "130": {
+  "name": {
+   "en": "the Astral Walker",
+   "de": "Astralwandler",
+   "fr": "le marcheur astral"
+  }
+ },
+ "209": {
+  "name": {
+   "en": "Brawler",
+   "de": "Grubenkämpfer",
+   "fr": "le bastonneur"
+  }
+ },
+ "204": {
+  "name": {
+   "en": "Delver of the Vaults",
+   "de": "der Gewölbeforscher",
+   "fr": "l’archéologue des caveaux"
+  }
+ },
+ "131": {
+  "name": {
+   "en": "Herald of the Titans",
+   "de": "Herold der Titanen",
+   "fr": "héraut des Titans"
+  }
+ },
+ "133": {
+  "name": {
+   "en": "the Pilgrim",
+   "de": "der Pilger",
+   "fr": "le pèlerin"
+  }
+ },
+ "122": {
+  "name": {
+   "en": "the Noble",
+   "de": "der Noble",
+   "fr": "Noble"
+  }
+ },
+ "134": {
+  "name": {
+   "en": "Relentless Gladiator",
+   "de": "Unerbittlicher Gladiator",
+   "fr": "Gladiateur implacable"
+  }
+ },
+ "132": {
+  "name": {
+   "en": "Furious Gladiator",
+   "de": "Wütender Gladiator",
+   "fr": "Gladiateur furieux"
+  }
+ },
+ "135": {
+  "name": {
+   "en": "Grand Crusader",
+   "de": "Oberster Kreuzfahrer",
+   "fr": "Grand croisé"
+  }
+ },
+ "136": {
+  "name": {
+   "en": "the Argent Defender",
+   "de": "der Argentumverteidiger",
+   "fr": "le défenseur d’argent"
+  }
+ },
+ "154": {
+  "name": {
+   "en": "Private",
+   "de": "Gefreiter",
+   "fr": "Soldat"
+  }
+ },
+ "155": {
+  "name": {
+   "en": "Corporal",
+   "de": "Fußknecht",
+   "fr": "Caporal"
+  }
+ },
+ "157": {
+  "name": {
+   "en": "Master Sergeant",
+   "de": "Feldwebel",
+   "fr": "Sergent-chef"
+  }
+ },
+ "223": {
+  "name": {
+   "en": "Malevolent Gladiator",
+   "de": "Bösartiger Gladiator",
+   "fr": "Gladiateur malveillant"
+  }
+ },
+ "227": {
+  "name": {
+   "en": "Trainer",
+   "de": "Trainer",
+   "fr": "Dresseur"
+  }
+ },
+ "158": {
+  "name": {
+   "en": "Sergeant Major",
+   "de": "Fähnrich",
+   "fr": "Sergent-major"
+  }
+ },
+ "159": {
+  "name": {
+   "en": "Knight",
+   "de": "Leutnant",
+   "fr": "Chevalier"
+  }
+ },
+ "163": {
+  "name": {
+   "en": "Lieutenant Commander",
+   "de": "Feldkommandant",
+   "fr": "Lieutenant-commandant"
+  }
+ },
+ "164": {
+  "name": {
+   "en": "Commander",
+   "de": "Rittmeister",
+   "fr": "Commandant"
+  }
+ },
+ "201": {
+  "name": {
+   "en": "the Undaunted",
+   "de": "der Unerschrockene",
+   "fr": "l’intrépide"
+  }
+ },
+ "208": {
+  "name": {
+   "en": "Seeker of Knowledge",
+   "de": "Sucher des Wissens",
+   "fr": "chercheur de la connaissance"
+  }
+ },
+ "205": {
+  "name": {
+   "en": "Shado-Master",
+   "de": "Shado-Meister",
+   "fr": "Maître-pandashan"
+  }
+ },
+ "206": {
+  "name": {
+   "en": "the Scenaturdist",
+   "de": "der Szenariodist",
+   "fr": "le Scénamediste"
+  }
+ },
+ "78": {
+  "name": {
+   "en": "Combatant",
+   "de": "Kämpfer",
+   "fr": "Combattant"
+  }
+ },
+ "79": {
+  "name": {
+   "en": "Dread Gladiator",
+   "de": "Gefürchteter Gladiator",
+   "fr": "Gladiateur menaçant"
+  }
+ },
+ "80": {
+  "name": {
+   "en": "Sinister Gladiator",
+   "de": "Düsterer Gladiator",
+   "fr": "Gladiateur sinistre"
+  }
+ },
+ "90": {
+  "name": {
+   "en": "Conqueror of Naxxramas",
+   "de": "Bezwinger von Naxxramas",
+   "fr": "conquérant de Naxxramas"
+  }
+ },
+ "104": {
+  "name": {
+   "en": "Matron",
+   "de": "Patron",
+   "fr": "Marraine"
+  }
+ },
+ "48": {
+  "name": {
+   "en": "the Diplomat",
+   "de": "Diplomat",
+   "fr": "le diplomate"
+  }
+ },
+ "55": {
+  "name": {
+   "en": "of the Emerald Dream",
+   "de": "vom Smaragdgrünen Traum",
+   "fr": "du Rêve d’émeraude"
+  }
+ },
+ "88": {
+  "name": {
+   "en": "the Magic Seeker",
+   "de": "der Magiesuchende",
+   "fr": "le cherche-magie"
+  }
+ },
+ "42": {
+  "name": {
+   "en": "the Seeker",
+   "de": "der Unermüdliche",
+   "fr": "Chercheur"
+  }
+ },
+ "207": {
+  "name": {
+   "en": "Tamer",
+   "de": "Zähmer",
+   "fr": "Dompteur"
+  }
+ },
+ "107": {
+  "name": {
+   "en": "of the Nightfall",
+   "de": "Nachtherr",
+   "fr": "le Tombe-nuit"
+  }
+ },
+ "108": {
+  "name": {
+   "en": "the Immortal",
+   "de": "der Unsterbliche",
+   "fr": "l’immortel"
+  }
+ },
+ "109": {
+  "name": {
+   "en": "the Undying",
+   "de": "der Unverwüstliche",
+   "fr": "l’increvable"
+  }
+ },
+ "110": {
+  "name": {
+   "en": "Jenkins",
+   "de": "Jenkins",
+   "fr": "Jenkins"
+  }
+ },
+ "92": {
+  "name": {
+   "en": "the Hallowed",
+   "de": "Nachtschrecken",
+   "fr": "le Sanssaint"
+  }
+ },
+ "89": {
+  "name": {
+   "en": "Twilight Vanquisher",
+   "de": "Zwielichtbezwinger",
+   "fr": "Vainqueur du Crépuscule"
+  }
+ },
+ "228": {
+  "name": {
+   "en": "Darkspear Revolutionary",
+   "de": "Dunkelspeerrevolutionär",
+   "fr": "Révolutionnaire sombrelance"
+  }
+ },
+ "222": {
+  "name": {
+   "en": "Storm's End",
+   "de": "Sturmjäger",
+   "fr": "l’accalmie"
+  }
+ },
+ "49": {
+  "name": {
+   "en": "Brutal Gladiator",
+   "de": "Brutaler Gladiator",
+   "fr": "Gladiateur brutal"
+  }
+ },
+ "37": {
+  "name": {
+   "en": "Merciless Gladiator",
+   "de": "Erbarmungsloser Gladiator",
+   "fr": "Gladiateur impitoyable"
+  }
+ },
+ "4": {
+  "name": {
+   "en": "Master Sergeant",
+   "de": "Feldwebel",
+   "fr": "Sergent-chef"
+  }
+ },
+ "25": {
+  "name": {
+   "en": "Lieutenant General",
+   "de": "Sturmreiter",
+   "fr": "Lieutenant-général"
+  }
+ },
+ "47": {
+  "name": {
+   "en": "the Explorer",
+   "de": "der Entdecker",
+   "fr": "l’explorateur"
+  }
+ },
+ "18": {
+  "name": {
+   "en": "Senior Sergeant",
+   "de": "Schlachtrufer",
+   "fr": "Sergent-chef"
+  }
+ },
+ "36": {
+  "name": {
+   "en": "Champion of the Naaru",
+   "de": "Champion der Naaru",
+   "fr": "champion des naaru"
+  }
+ },
+ "1": {
+  "name": {
+   "en": "Private",
+   "de": "Gefreiter",
+   "fr": "Soldat"
+  }
+ },
+ "13": {
+  "name": {
+   "en": "Field Marshal",
+   "de": "Feldmarschall",
+   "fr": "Grand maréchal"
+  }
+ },
+ "220": {
+  "name": {
+   "en": "Khan",
+   "de": "Khan",
+   "fr": "Khan"
+  }
+ },
+ "240": {
+  "name": {
+   "en": "the Crazy Cat Lady",
+   "de": "die verrückte Katzenlady",
+   "fr": "la Vieille dame aux chats"
+  }
+ },
+ "241": {
+  "name": {
+   "en": "Defender of the Wall",
+   "de": "Verteidiger der Mauer",
+   "fr": "défenseur de la muraille"
+  }
+ },
+ "242": {
+  "name": {
+   "en": "Mogu-Slayer",
+   "de": "Mogutöter",
+   "fr": "le tueur de Mogu"
+  }
+ },
+ "243": {
+  "name": {
+   "en": "Flameweaver",
+   "de": "Flammenwirker",
+   "fr": "Tisseur de flammes"
+  }
+ },
+ "244": {
+  "name": {
+   "en": "Scarlet Commander",
+   "de": "Scharlachroter Kommandant",
+   "fr": "Commandant écarlate"
+  }
+ },
+ "245": {
+  "name": {
+   "en": "Darkmaster",
+   "de": "Dunkelmeister",
+   "fr": "Sombre Maître"
+  }
+ },
+ "246": {
+  "name": {
+   "en": "Purified Defender",
+   "de": "Geläuterter Verteidiger",
+   "fr": "défenseur purifié"
+  }
+ },
+ "247": {
+  "name": {
+   "en": "Siegebreaker",
+   "de": "Belagerungsbrecher",
+   "fr": "le brise-siège"
+  }
+ },
+ "248": {
+  "name": {
+   "en": "Stormbrewer",
+   "de": "Sturmbrauer",
+   "fr": "le brasse-tempête"
+  }
+ },
+ "249": {
+  "name": {
+   "en": "Jade Protector",
+   "de": "Jadebeschützer",
+   "fr": "Protecteur de Jade"
+  }
+ },
+ "2": {
+  "name": {
+   "en": "Corporal",
+   "de": "Fußknecht",
+   "fr": "Caporal"
+  }
+ },
+ "6": {
+  "name": {
+   "en": "Knight",
+   "de": "Leutnant",
+   "fr": "Chevalier"
+  }
+ },
+ "7": {
+  "name": {
+   "en": "Knight-Lieutenant",
+   "de": "Hauptmann",
+   "fr": "Chevalier-lieutenant"
+  }
+ },
+ "8": {
+  "name": {
+   "en": "Knight-Captain",
+   "de": "Kürassier",
+   "fr": "Chevalier-capitaine"
+  }
+ },
+ "9": {
+  "name": {
+   "en": "Knight-Champion",
+   "de": "Ritter der Allianz",
+   "fr": "Chevalier-champion"
+  }
+ },
+ "11": {
+  "name": {
+   "en": "Commander",
+   "de": "Rittmeister",
+   "fr": "Commandant"
+  }
+ },
+ "14": {
+  "name": {
+   "en": "Grand Marshal",
+   "de": "Großmarschall",
+   "fr": "Connétable"
+  }
+ },
+ "16": {
+  "name": {
+   "en": "Grunt",
+   "de": "Grunzer",
+   "fr": "Grunt"
+  }
+ },
+ "17": {
+  "name": {
+   "en": "Sergeant",
+   "de": "Waffenträger",
+   "fr": "Sergent"
+  }
+ },
+ "19": {
+  "name": {
+   "en": "First Sergeant",
+   "de": "Rottenmeister",
+   "fr": "Adjudant"
+  }
+ },
+ "20": {
+  "name": {
+   "en": "Stone Guard",
+   "de": "Steingardist",
+   "fr": "Garde de pierre"
+  }
+ },
+ "23": {
+  "name": {
+   "en": "Centurion",
+   "de": "Klinge der Horde",
+   "fr": "Centurion"
+  }
+ },
+ "24": {
+  "name": {
+   "en": "Champion",
+   "de": "Feldherr",
+   "fr": "Champion"
+  }
+ },
+ "26": {
+  "name": {
+   "en": "General",
+   "de": "Kriegsherr",
+   "fr": "Général"
+  }
+ },
+ "27": {
+  "name": {
+   "en": "Warlord",
+   "de": "Kriegsfürst",
+   "fr": "Seigneur de guerre"
+  }
+ },
+ "28": {
+  "name": {
+   "en": "High Warlord",
+   "de": "Oberster Kriegsfürst",
+   "fr": "Grand seigneur de guerre"
+  }
+ },
+ "30": {
+  "name": {
+   "en": "Duelist",
+   "de": "Duellant",
+   "fr": "Duelliste"
+  }
+ },
+ "35": {
+  "name": {
+   "en": "Justicar",
+   "de": "Vollstrecker",
+   "fr": "Justicier"
+  }
+ },
+ "229": {
+  "name": {
+   "en": "Gorgeous",
+   "de": "der Hinreißende",
+   "fr": "le coupe-gorge"
+  }
+ },
+ "231": {
+  "name": {
+   "en": "the Poisoned Mind",
+   "de": "der Vergiftete Geist",
+   "fr": "l’Esprit empoisonné"
+  }
+ },
+ "232": {
+  "name": {
+   "en": "the Bloodseeker",
+   "de": "der Blutsucher",
+   "fr": "le Cherche-sang"
+  }
+ },
+ "233": {
+  "name": {
+   "en": "the Locust",
+   "de": "die Heuschrecke",
+   "fr": "la Sauterelle"
+  }
+ },
+ "234": {
+  "name": {
+   "en": "the Swarmkeeper",
+   "de": "der Schwarmwächter",
+   "fr": "le Gardien de l’essaim"
+  }
+ },
+ "235": {
+  "name": {
+   "en": "the Prime",
+   "de": "der Erste",
+   "fr": "le Premier"
+  }
+ },
+ "236": {
+  "name": {
+   "en": "the Manipulator",
+   "de": "der Manipulator",
+   "fr": "le Manipulateur"
+  }
+ },
+ "237": {
+  "name": {
+   "en": "the Dissector",
+   "de": "der Sezierer",
+   "fr": "le Disséqueur"
+  }
+ },
+ "238": {
+  "name": {
+   "en": "the Lucid",
+   "de": "der Wache",
+   "fr": "le Lucide"
+  }
+ },
+ "239": {
+  "name": {
+   "en": "the Wind-Reaver",
+   "de": "der Windschnitter",
+   "fr": "le Saccageur des vents"
+  }
+ },
+ "40": {
+  "name": {
+   "en": "Vengeful Gladiator",
+   "de": "Rachsüchtiger Gladiator",
+   "fr": "Gladiateur vengeur"
+  }
+ },
+ "172": {
+  "name": {
+   "en": "First Sergeant",
+   "de": "Rottenmeister",
+   "fr": "Adjudant"
+  }
+ },
+ "5": {
+  "name": {
+   "en": "Sergeant Major",
+   "de": "Fähnrich",
+   "fr": "Sergent-major"
+  }
+ },
+ "29": {
+  "name": {
+   "en": "Gladiator",
+   "de": "Gladiator",
+   "fr": "Gladiateur"
+  }
+ },
+ "41": {
+  "name": {
+   "en": "Battlemaster",
+   "de": "Kampfmeister",
+   "fr": "Maître de guerre"
+  }
+ },
+ "12": {
+  "name": {
+   "en": "Marshal",
+   "de": "Marschall",
+   "fr": "Maréchal"
+  }
+ },
+ "21": {
+  "name": {
+   "en": "Blood Guard",
+   "de": "Blutgardist",
+   "fr": "Garde de sang"
+  }
+ },
+ "22": {
+  "name": {
+   "en": "Legionnaire",
+   "de": "Zornbringer",
+   "fr": "Légionnaire"
+  }
+ },
+ "31": {
+  "name": {
+   "en": "Rival",
+   "de": "Rivale",
+   "fr": "Rival"
+  }
+ },
+ "38": {
+  "name": {
+   "en": "of the Shattered Sun",
+   "de": "von der Zerschmetterten Sonne",
+   "fr": "du Soleil brisé"
+  }
+ },
+ "43": {
+  "name": {
+   "en": "Elder",
+   "de": "Ältester",
+   "fr": "Ancien"
+  }
+ },
+ "44": {
+  "name": {
+   "en": "Flame Warden",
+   "de": "Flammenwächter",
+   "fr": "Gardien des flammes"
+  }
+ },
+ "45": {
+  "name": {
+   "en": "Flame Keeper",
+   "de": "Flammenbewahrer",
+   "fr": "Garde-flammes"
+  }
+ },
+ "112": {
+  "name": {
+   "en": "the Insane",
+   "de": "der Wahnsinnige",
+   "fr": "le grand malade"
+  }
+ },
+ "251": {
+  "name": {
+   "en": "Fire-Watcher",
+   "de": "Feuerwächter",
+   "fr": "Guetteur de feu"
+  }
+ },
+ "200": {
+  "name": {
+   "en": "the Relic Hunter",
+   "de": "der Reliktjäger",
+   "fr": "le chasseur de reliques"
+  }
+ },
+ "199": {
+  "name": {
+   "en": "Zookeeper",
+   "de": "Zoodirektor",
+   "fr": "Gardien de zoo"
+  }
+ },
+ "91": {
+  "name": {
+   "en": "Hero of Northrend",
+   "de": "Held Nordends",
+   "fr": "héros du Norfendre"
+  }
+ },
+ "195": {
+  "name": {
+   "en": "Farmer",
+   "de": "Bauer",
+   "fr": "Fermier"
+  }
+ },
+ "111": {
+  "name": {
+   "en": "Bloodsail Admiral",
+   "de": "Blutsegeladmiral",
+   "fr": "Amiral de la Voile sanglante"
+  }
+ },
+ "46": {
+  "name": {
+   "en": "the Exalted",
+   "de": "der Ehrfurchtgebietende",
+   "fr": "l’exalté"
+  }
+ },
+ "51": {
+  "name": {
+   "en": "Salty",
+   "de": "Schrecken der Meere",
+   "fr": "Loup de mer"
+  }
+ },
+ "52": {
+  "name": {
+   "en": "Chef",
+   "de": "Chefkoch",
+   "fr": "Chef"
+  }
+ },
+ "53": {
+  "name": {
+   "en": "Crashin' Thrashin'",
+   "de": "Krachbumm-",
+   "fr": "le Cogn’Baff"
+  }
+ },
+ "59": {
+  "name": {
+   "en": "Predator",
+   "de": "Prädator",
+   "fr": "Prédateur"
+  }
+ },
+ "62": {
+  "name": {
+   "en": "Battlelord",
+   "de": "Schlachtenfürst",
+   "fr": "Seigneur de bataille"
+  }
+ },
+ "230": {
+  "name": {
+   "en": "the Hordebreaker",
+   "de": "der Hordenbrecher",
+   "fr": "le Brise-Horde"
+  }
+ },
+ "225": {
+  "name": {
+   "en": "Tyrannical Gladiator",
+   "de": "Tyrannischer Gladiator",
+   "fr": "Gladiateur tyrannique"
+  }
+ },
+ "50": {
+  "name": {
+   "en": "Arena Master",
+   "de": "Arenameister",
+   "fr": "Maître de l’arène"
+  }
+ },
+ "165": {
+  "name": {
+   "en": "Marshal",
+   "de": "Marschall",
+   "fr": "Maréchal"
+  }
+ },
+ "167": {
+  "name": {
+   "en": "Grand Marshal",
+   "de": "Großmarschall",
+   "fr": "Connétable"
+  }
+ },
+ "169": {
+  "name": {
+   "en": "Grunt",
+   "de": "Grunzer",
+   "fr": "Grunt"
+  }
+ },
+ "170": {
+  "name": {
+   "en": "Sergeant",
+   "de": "Waffenträger",
+   "fr": "Sergent"
+  }
+ },
+ "194": {
+  "name": {
+   "en": "Savior of Azeroth",
+   "de": "Retter von Azeroth",
+   "fr": "sauveur d’Azeroth"
+  }
+ },
+ "197": {
+  "name": {
+   "en": "the Beloved",
+   "de": "der Heißgeliebte",
+   "fr": "le bien-aimé"
+  }
+ },
+ "196": {
+  "name": {
+   "en": "Destroyer's End",
+   "de": "der Tod des Zerstörers",
+   "fr": "ruine du Destructeur"
+  }
+ },
+ "198": {
+  "name": {
+   "en": "the Fearless",
+   "de": "der Furchtlose",
+   "fr": "le Sans-peur"
+  }
+ },
+ "15": {
+  "name": {
+   "en": "Scout",
+   "de": "Späher",
+   "fr": "Eclaireur"
+  }
+ },
+ "32": {
+  "name": {
+   "en": "Challenger",
+   "de": "Herausforderer",
+   "fr": "Compétiteur"
+  }
+ },
+ "61": {
+  "name": {
+   "en": "Archmage",
+   "de": "Erzmagier",
+   "fr": "Archimage"
+  }
+ },
+ "102": {
+  "name": {
+   "en": "Merrymaker",
+   "de": "Winterhauchengel",
+   "fr": "le joyeux"
+  }
+ },
+ "127": {
+  "name": {
+   "en": "Champion of Ulduar",
+   "de": "Champion von Ulduar",
+   "fr": "champion d’Ulduar"
+  }
+ },
+ "142": {
+  "name": {
+   "en": "Wrathful Gladiator",
+   "de": "Zornerfüllter Gladiator",
+   "fr": "Gladiateur courroucé"
+  }
+ },
+ "179": {
+  "name": {
+   "en": "General",
+   "de": "Kriegsherr",
+   "fr": "Général"
+  }
+ },
+ "162": {
+  "name": {
+   "en": "Knight-Champion",
+   "de": "Ritter der Allianz",
+   "fr": "Chevalier-champion"
+  }
+ },
+ "189": {
+  "name": {
+   "en": "the Flamebreaker",
+   "de": "der Flammenbrecher",
+   "fr": "le brise-flammes"
+  }
+ },
+ "152": {
+  "name": {
+   "en": "Veteran of the Alliance",
+   "de": "Veteran der Allianz",
+   "fr": "Vétéran de l’Alliance"
+  }
+ },
+ "174": {
+  "name": {
+   "en": "Blood Guard",
+   "de": "Blutgardist",
+   "fr": "Garde de sang"
+  }
+ },
+ "175": {
+  "name": {
+   "en": "Legionnaire",
+   "de": "Zornbringer",
+   "fr": "Légionnaire"
+  }
+ },
+ "176": {
+  "name": {
+   "en": "Centurion",
+   "de": "Klinge der Horde",
+   "fr": "Centurion"
+  }
+ },
+ "177": {
+  "name": {
+   "en": "Champion",
+   "de": "Feldherr",
+   "fr": "Champion"
+  }
+ },
+ "178": {
+  "name": {
+   "en": "Lieutenant General",
+   "de": "Sturmreiter",
+   "fr": "Lieutenant-général"
+  }
+ },
+ "180": {
+  "name": {
+   "en": "Warlord",
+   "de": "Kriegsfürst",
+   "fr": "Seigneur de guerre"
+  }
+ },
+ "181": {
+  "name": {
+   "en": "High Warlord",
+   "de": "Oberster Kriegsfürst",
+   "fr": "Grand seigneur de guerre"
+  }
+ },
+ "183": {
+  "name": {
+   "en": "Hero of the Horde",
+   "de": "Held der Horde",
+   "fr": "héros de la Horde"
+  }
+ },
+ "160": {
+  "name": {
+   "en": "Knight-Lieutenant",
+   "de": "Hauptmann",
+   "fr": "Chevalier-lieutenant"
+  }
+ },
+ "185": {
+  "name": {
+   "en": "Defender of a Shattered World",
+   "de": "Verteidiger einer zerschmetterten Welt",
+   "fr": "défenseur d’un monde brisé"
+  }
+ },
+ "168": {
+  "name": {
+   "en": "Scout",
+   "de": "Späher",
+   "fr": "Eclaireur"
+  }
+ },
+ "182": {
+  "name": {
+   "en": "Hero of the Alliance",
+   "de": "Held der Allianz",
+   "fr": "héros de l’Alliance"
+  }
+ },
+ "150": {
+  "name": {
+   "en": "Professor",
+   "de": "Professor",
+   "fr": "Professeur"
+  }
+ },
+ "147": {
+  "name": {
+   "en": "Slayer of Stupid, Incompetent and Disappointing Minions",
+   "de": "Schlächter von dummen, inkompetenten und enttäuschenden Lakaien",
+   "fr": "tueur de serviteurs stupides, incompétents et décevants"
+  }
+ },
+ "166": {
+  "name": {
+   "en": "Field Marshal",
+   "de": "Feldmarschall",
+   "fr": "Grand maréchal"
+  }
+ },
+ "173": {
+  "name": {
+   "en": "Stone Guard",
+   "de": "Steingardist",
+   "fr": "Garde de pierre"
+  }
+ },
+ "10": {
+  "name": {
+   "en": "Lieutenant Commander",
+   "de": "Feldkommandant",
+   "fr": "Lieutenant-commandant"
+  }
+ },
+ "224": {
+  "name": {
+   "en": "Gob Squad Recruit",
+   "de": "Goblintrupprekrut",
+   "fr": "Recrue de la Brigade gob"
+  }
+ },
+ "33": {
+  "name": {
+   "en": "Scarab Lord",
+   "de": "Skarabäusfürst",
+   "fr": "Seigneur scarabée"
+  }
+ },
+ "34": {
+  "name": {
+   "en": "Conqueror",
+   "de": "Eroberer",
+   "fr": "Conquérant"
+  }
+ },
+ "39": {
+  "name": {
+   "en": "Hand of A'dal",
+   "de": "Hand von A'dal",
+   "fr": "Main d’A’dal"
+  }
+ },
+ "81": {
+  "name": {
+   "en": "of Gnomeregan",
+   "de": "von Gnomeregan",
+   "fr": "de Gnomeregan"
+  }
+ },
+ "121": {
+  "name": {
+   "en": "of the Undercity",
+   "de": "von Unterstadt",
+   "fr": "de Fossoyeuse"
+  }
+ },
+ "143": {
+  "name": {
+   "en": "the Camel-Hoarder",
+   "de": "der Kameltreiber",
+   "fr": "le Collectionneur de dromadaires"
+  }
+ },
+ "144": {
+  "name": {
+   "en": "Warbringer",
+   "de": "Kriegshetzer",
+   "fr": "Porteguerre"
+  }
+ },
+ "145": {
+  "name": {
+   "en": "Warbound",
+   "de": "Kriegstreiber",
+   "fr": "Ligeguerre"
+  }
+ },
+ "146": {
+  "name": {
+   "en": "Blessed Defender of Nordrassil",
+   "de": "gesegneter Verteidiger von Nordrassil",
+   "fr": "défenseur béni de Nordrassil"
+  }
+ },
+ "188": {
+  "name": {
+   "en": "Avenger of Hyjal",
+   "de": "Rächer des Hyjal",
+   "fr": "vengeur d’Hyjal"
+  }
+ },
+ "190": {
+  "name": {
+   "en": "Firelord",
+   "de": "Feuerfürst",
+   "fr": "Seigneur du Feu"
+  }
+ },
+ "191": {
+  "name": {
+   "en": "Vicious Gladiator",
+   "de": "Boshafter Gladiator",
+   "fr": "Gladiateur vicieux"
+  }
+ },
+ "218": {
+  "name": {
+   "en": "the Wakener",
+   "de": "der Erwecker",
+   "fr": "le Somnifuge"
+  }
+ },
+ "211": {
+  "name": {
+   "en": "Conqueror of Orgrimmar",
+   "de": "Eroberer Orgrimmars",
+   "fr": "conquérant d’Orgrimmar"
+  }
+ },
+ "212": {
+  "name": {
+   "en": "Liberator of Orgrimmar",
+   "de": "Befreier Orgrimmars",
+   "fr": "libérateur d’Orgrimmar"
+  }
+ },
+ "214": {
+  "name": {
+   "en": "Hellscream's Downfall",
+   "de": "Höllschreis Untergang",
+   "fr": "l’infortune de Hurlenfer"
+  }
+ },
+ "192": {
+  "name": {
+   "en": "Ruthless Gladiator",
+   "de": "Ruchloser Gladiator",
+   "fr": "Gladiateur sans pitié"
+  }
+ },
+ "193": {
+  "name": {
+   "en": "Cataclysmic Gladiator",
+   "de": "Kataklysmischer Gladiator",
+   "fr": "Gladiateur cataclysmique"
+  }
+ },
+ "3": {
+  "name": {
+   "en": "Sergeant",
+   "de": "Landsknecht",
+   "fr": "Sergent"
+  }
+ },
+ "149": {
+  "name": {
+   "en": "Associate Professor",
+   "de": "Juniorprofessor",
+   "fr": "Lecteur"
+  }
+ },
+ "156": {
+  "name": {
+   "en": "Sergeant",
+   "de": "Landsknecht",
+   "fr": "Sergent"
+  }
+ },
+ "161": {
+  "name": {
+   "en": "Knight-Captain",
+   "de": "Kürassier",
+   "fr": "Chevalier-capitaine"
+  }
+ },
+ "151": {
+  "name": {
+   "en": "of the Four Winds",
+   "de": "von den Vier Winden",
+   "fr": "des quatre vents"
+  }
+ },
+ "139": {
+  "name": {
+   "en": "Bane of the Fallen King",
+   "de": "Bezwinger des gefallenen Königs",
+   "fr": "tourment du roi déchu"
+  }
+ },
+ "171": {
+  "name": {
+   "en": "Senior Sergeant",
+   "de": "Schlachtrufer",
+   "fr": "Sergent-chef"
+  }
+ },
+ "186": {
+  "name": {
+   "en": "Dragonslayer",
+   "de": "Drachentöter",
+   "fr": "le tueur de dragons"
+  }
+ },
+ "153": {
+  "name": {
+   "en": "Veteran of the Horde",
+   "de": "Veteran der Horde",
+   "fr": "Vétéran de la Horde"
+  }
+ },
+ "184": {
+  "name": {
+   "en": "the Bloodthirsty",
+   "de": "der Blutrünstige",
+   "fr": "le Sanguinaire"
+  }
+ },
+ "187": {
+  "name": {
+   "en": "Blackwing's Bane",
+   "de": "Nemesis der Pechschwingen",
+   "fr": "tourment de l’Aile noire"
+  }
+ },
+ "148": {
+  "name": {
+   "en": "Assistant Professor",
+   "de": "Gastdozent",
+   "fr": "Bachelier"
+  }
+ },
+ "93": {
+  "name": {
+   "en": "Loremaster",
+   "de": "Meister der Lehren",
+   "fr": "Maître des traditions"
+  }
+ },
+ "94": {
+  "name": {
+   "en": "of the Alliance",
+   "de": "von der Allianz",
+   "fr": "de l’Alliance"
+  }
+ },
+ "95": {
+  "name": {
+   "en": "of the Horde",
+   "de": "von der Horde",
+   "fr": "de la Horde"
+  }
+ },
+ "97": {
+  "name": {
+   "en": "Champion of the Frozen Wastes",
+   "de": "Held der eisigen Weiten",
+   "fr": "champion des terres gelées"
+  }
+ },
+ "98": {
+  "name": {
+   "en": "Ambassador",
+   "de": "Botschafter",
+   "fr": "Ambassadeur"
+  }
+ },
+ "99": {
+  "name": {
+   "en": "the Argent Champion",
+   "de": "der Argentumchampion",
+   "fr": "champion d’argent"
+  }
+ },
+ "100": {
+  "name": {
+   "en": "Guardian of Cenarius",
+   "de": "Wächter des Cenarius",
+   "fr": "gardien de Cénarius"
+  }
+ },
+ "101": {
+  "name": {
+   "en": "Brewmaster",
+   "de": "Braumeister",
+   "fr": "Maître brasseur"
+  }
+ },
+ "103": {
+  "name": {
+   "en": "the Love Fool",
+   "de": "Liebesgott",
+   "fr": "au cœur d’artichaut"
+  }
+ },
+ "105": {
+  "name": {
+   "en": "Patron",
+   "de": "Patron",
+   "fr": "Parrain"
+  }
+ },
+ "106": {
+  "name": {
+   "en": "Obsidian Slayer",
+   "de": "Obsidianvernichter",
+   "fr": "tueur de l’obsidien"
+  }
+ },
+ "113": {
+  "name": {
+   "en": "of the Exodar",
+   "de": "von der Exodar",
+   "fr": "de l’Exodar"
+  }
+ },
+ "118": {
+  "name": {
+   "en": "of Sen'jin",
+   "de": "von Sen'jin",
+   "fr": "de Sen’jin"
+  }
+ },
+ "119": {
+  "name": {
+   "en": "of Silvermoon",
+   "de": "von Silbermond",
+   "fr": "de Lune-d’Argent"
+  }
+ },
+ "253": {
+  "name": {
+   "en": "Grievous Gladiator",
+   "de": "Erbitterter Gladiator",
+   "fr": "Gladiateur dramatique"
+  }
+ },
+ "254": {
+  "name": {
+   "en": "Prideful Gladiator",
+   "de": "Stolzer Gladiator",
+   "fr": "Gladiateur orgueilleux"
+  }
+ },
+ "252": {
+  "name": {
+   "en": "the Crazy Cat Man",
+   "de": "der verrückte Katzentyp",
+   "fr": "le Vieux aux chats"
+  }
+ },
+ "215": {
+  "name": {
+   "en": "the Proven Assailant",
+   "de": "der bewährte Angreifer",
+   "fr": "assaillant confirmé"
+  }
+ },
+ "216": {
+  "name": {
+   "en": "the Proven Defender",
+   "de": "der bewährte Verteidiger",
+   "fr": "protecteur confirmé"
+  }
+ },
+ "219": {
+  "name": {
+   "en": "the Proven Healer",
+   "de": "der bewährte Heiler",
+   "fr": "guérisseur confirmé"
+  }
+ },
+ "124": {
+  "name": {
+   "en": "Death's Demise",
+   "de": "Todesbote",
+   "fr": "faucheur de la Mort"
+  }
+ },
+ "125": {
+  "name": {
+   "en": "the Celestial Defender",
+   "de": "der Himmelsverteidiger",
+   "fr": "le défenseur céleste"
+  }
+ },
+ "203": {
+  "name": {
+   "en": "the Tranquil Master",
+   "de": "Meister der Gelassenheit",
+   "fr": "le maître serein"
+  }
+ },
+ "202": {
+  "name": {
+   "en": "Master of the Ways",
+   "de": "Meister der Wege",
+   "fr": "Maître des voies"
+  }
+ },
+ "126": {
+  "name": {
+   "en": "Conqueror of Ulduar",
+   "de": "Eroberer von Ulduar",
+   "fr": "conquérant d’Ulduar"
+  }
+ },
+ "128": {
+  "name": {
+   "en": "Vanquisher",
+   "de": "Bezwinger",
+   "fr": "Vainqueur"
+  }
+ },
+ "56": {
+  "name": {
+   "en": "Deadly Gladiator",
+   "de": "Tödlicher Gladiator",
+   "fr": "Gladiateur fatal"
+  }
+ },
+ "123": {
+  "name": {
+   "en": "Crusader",
+   "de": "Kreuzfahrer",
+   "fr": "Croisé"
+  }
+ },
+ "137": {
+  "name": {
+   "en": "the Patient",
+   "de": "der Geduldige",
+   "fr": "l’assidu"
+  }
+ },
+ "117": {
+  "name": {
+   "en": "of Orgrimmar",
+   "de": "von Orgrimmar",
+   "fr": "d’Orgrimmar"
+  }
+ },
+ "115": {
+  "name": {
+   "en": "of Ironforge",
+   "de": "von Eisenschmiede",
+   "fr": "de Forgefer"
+  }
+ },
+ "120": {
+  "name": {
+   "en": "of Thunder Bluff",
+   "de": "von Donnerfels",
+   "fr": "des Pitons-du-Tonnerre"
+  }
+ },
+ "114": {
+  "name": {
+   "en": "of Darnassus",
+   "de": "von Darnassus",
+   "fr": "de Darnassus"
+  }
+ },
+ "116": {
+  "name": {
+   "en": "of Stormwind",
+   "de": "von Sturmwind",
+   "fr": "de Hurlevent"
+  }
+ },
+ "138": {
+  "name": {
+   "en": "the Light of Dawn",
+   "de": "das Licht des Morgens",
+   "fr": "lumière de l’aube"
+  }
+ },
+ "221": {
+  "name": {
+   "en": "the Stormbreaker",
+   "de": "der Sturmbrecher",
+   "fr": "le brise-tempête"
+  }
+ },
+ "226": {
+  "name": {
+   "en": "Gob Squad Commando",
+   "de": "Goblintruppkommando",
+   "fr": "Commando de la Brigade gob"
+  }
+ },
+ "317": {
+  "name": {
+   "en": "Captain",
+   "de": "Kapitän",
+   "fr": "Capitaine"
+  }
+ },
+ "290": {
+  "name": {
+   "en": "the Indomitable",
+   "de": "der Unbeugsame",
+   "fr": "l’Indomptable"
+  }
+ },
+ "291": {
+  "name": {
+   "en": "the Mine Master",
+   "de": "der Minenmeister",
+   "fr": "le maître de la mine"
+  }
+ },
+ "292": {
+  "name": {
+   "en": "Dockmaster",
+   "de": "Dockmeister",
+   "fr": "Maître des docks"
+  }
+ },
+ "293": {
+  "name": {
+   "en": "the Soul Preserver",
+   "de": "der Seelenretter",
+   "fr": "le protecteur d’âme"
+  }
+ },
+ "294": {
+  "name": {
+   "en": "Scion of Rukhmar",
+   "de": "Jünger von Rukhmar",
+   "fr": "scion de Rukhmar"
+  }
+ },
+ "295": {
+  "name": {
+   "en": "Spiritwalker",
+   "de": "Geistwandler",
+   "fr": "Marcheur des esprits"
+  }
+ },
+ "296": {
+  "name": {
+   "en": "Lord of Blackrock",
+   "de": "Herr des Schwarzfels",
+   "fr": "seigneur des Rochenoires"
+  }
+ },
+ "297": {
+  "name": {
+   "en": "Lady of Blackrock",
+   "de": "Herrin des Schwarzfels",
+   "fr": "dame des Rochenoires"
+  }
+ },
+ "298": {
+  "name": {
+   "en": "the Violet Guardian",
+   "de": "der violette Wächter",
+   "fr": "le gardien pourpre"
+  }
+ },
+ "299": {
+  "name": {
+   "en": "the Grimrail Suplexer",
+   "de": "der Grimmgleiswrestler",
+   "fr": "le dérailleur du Tristerail"
+  }
+ },
+ "300": {
+  "name": {
+   "en": "the Savage Hero",
+   "de": "Dungeonheld der Wildnis",
+   "fr": "le héros sauvage"
+  }
+ },
+ "301": {
+  "name": {
+   "en": "Ironbane",
+   "de": "Eisenfeind",
+   "fr": "Plaie-du-Fer,"
+  }
+ },
+ "289": {
+  "name": {
+   "en": "of the Iron Vanguard",
+   "de": "von der Eisernen Vorhut",
+   "fr": "de l’avant-garde de Fer"
+  }
+ },
+ "261": {
+  "name": {
+   "en": "Blood Champion",
+   "de": "Blutchampion",
+   "fr": "Champion sanglant"
+  }
+ },
+ "305": {
+  "name": {
+   "en": "Artisan",
+   "de": "Kunsthandwerker",
+   "fr": "Artisan"
+  }
+ },
+ "304": {
+  "name": {
+   "en": "Empire's Twilight",
+   "de": "das Ende des Imperiums",
+   "fr": "Crépuscule de l’empire"
+  }
+ },
+ "344": {
+  "name": {
+   "en": "Illidari",
+   "de": "Illidari",
+   "fr": "Illidari"
+  }
+ },
+ "308": {
+  "name": {
+   "en": "Primal Gladiator",
+   "de": "Wilder Gladiator",
+   "fr": "Gladiateur primordial"
+  }
+ },
+ "278": {
+  "name": {
+   "en": "Talon King",
+   "de": "Klauenkönig",
+   "fr": "Roi-serre"
+  }
+ },
+ "279": {
+  "name": {
+   "en": "Talon Queen",
+   "de": "Klauenkönigin",
+   "fr": "Reine-serre"
+  }
+ },
+ "277": {
+  "name": {
+   "en": "Stable Master",
+   "de": "Stallmeister",
+   "fr": "Maître des écuries"
+  }
+ },
+ "260": {
+  "name": {
+   "en": "Architect",
+   "de": "Architekt",
+   "fr": "Architecte"
+  }
+ },
+ "256": {
+  "name": {
+   "en": "of the Black Harvest",
+   "de": "von der Schwarzen Ernte",
+   "fr": "de la Moisson noire"
+  }
+ },
+ "257": {
+  "name": {
+   "en": "Lumberjack",
+   "de": "Holzfäller",
+   "fr": "Bûcheron"
+  }
+ },
+ "258": {
+  "name": {
+   "en": "Timber Lord",
+   "de": "Holzherr",
+   "fr": "Seigneur du bois"
+  }
+ },
+ "259": {
+  "name": {
+   "en": "the Commandojack",
+   "de": "der Kommandoholzfäller",
+   "fr": "l’abatteur"
+  }
+ },
+ "307": {
+  "name": {
+   "en": "Field Photographer",
+   "de": "Feldfotograf",
+   "fr": "Photographe de terrain"
+  }
+ },
+ "262": {
+  "name": {
+   "en": "the Manslayer",
+   "de": "der Menschentöter",
+   "fr": "le tueur d’Humains"
+  }
+ },
+ "263": {
+  "name": {
+   "en": "Gnomebane",
+   "de": "Gnomenschreck",
+   "fr": "le fléau des Gnomes"
+  }
+ },
+ "264": {
+  "name": {
+   "en": "the Dwarfstalker",
+   "de": "der Zwergenhenker",
+   "fr": "le traqueur de Nains"
+  }
+ },
+ "265": {
+  "name": {
+   "en": "Worgen Hunter",
+   "de": "Worgenjäger",
+   "fr": "le chasseur de Worgens"
+  }
+ },
+ "266": {
+  "name": {
+   "en": "Scourge of the Kaldorei",
+   "de": "Geißel der Kaldorei",
+   "fr": "plaie des Kaldorei"
+  }
+ },
+ "267": {
+  "name": {
+   "en": "Draenei Destroyer",
+   "de": "der Draeneivernichter",
+   "fr": "bourreau des Draeneï"
+  }
+ },
+ "268": {
+  "name": {
+   "en": "Terror of the Tushui",
+   "de": "Terror der Tushui",
+   "fr": "terreur des Tushui"
+  }
+ },
+ "255": {
+  "name": {
+   "en": "Mistwalker",
+   "de": "Nebelwandler",
+   "fr": "Marche-brume"
+  }
+ },
+ "282": {
+  "name": {
+   "en": "of the Frostwolves",
+   "de": "Frostwolf",
+   "fr": "des Loups-de-Givre"
+  }
+ },
+ "283": {
+  "name": {
+   "en": "Prelate",
+   "de": "Prälat",
+   "fr": "Dignitaire"
+  }
+ },
+ "284": {
+  "name": {
+   "en": "\"Conservationist\"",
+   "de": "\"Restaurator\"",
+   "fr": "« Écologiste »"
+  }
+ },
+ "285": {
+  "name": {
+   "en": "Spear of Vol'jin",
+   "de": "Speer von Vol'jin",
+   "fr": "lance de Vol’jin"
+  }
+ },
+ "286": {
+  "name": {
+   "en": "Sword of Wrynn",
+   "de": "Schwert von Wrynn",
+   "fr": "épée de Wrynn"
+  }
+ },
+ "287": {
+  "name": {
+   "en": "Masked Chuckler",
+   "de": "der maskierte Verrückte",
+   "fr": "au rire dément"
+  }
+ },
+ "288": {
+  "name": {
+   "en": "Peacekeeper",
+   "de": "Friedensbewahrer",
+   "fr": "Garde-paix"
+  }
+ },
+ "318": {
+  "name": {
+   "en": "of the Jungle",
+   "de": "aus dem Dschungel",
+   "fr": "de la jungle"
+  }
+ },
+ "319": {
+  "name": {
+   "en": "Defiler's End",
+   "de": "des Entweihers Ende",
+   "fr": "ruine du Profanateur"
+  }
+ },
+ "269": {
+  "name": {
+   "en": "Warlord of Draenor",
+   "de": "Kriegsherr von Draenor",
+   "fr": "seigneur de guerre de Draenor"
+  }
+ },
+ "270": {
+  "name": {
+   "en": "the Butcher",
+   "de": "der Fleischer",
+   "fr": "le boucher"
+  }
+ },
+ "271": {
+  "name": {
+   "en": "Orcslayer",
+   "de": "Orctöter",
+   "fr": "Tueur d’Orcs"
+  }
+ },
+ "272": {
+  "name": {
+   "en": "the Death Stalker",
+   "de": "der Totengräber",
+   "fr": "le traquemort"
+  }
+ },
+ "273": {
+  "name": {
+   "en": "Killer of Kezan",
+   "de": "Schlächter von Kezan",
+   "fr": "tueur de Kezan"
+  }
+ },
+ "274": {
+  "name": {
+   "en": "Troll Hunter",
+   "de": "Trolljäger",
+   "fr": "Chasseur de Trolls"
+  }
+ },
+ "275": {
+  "name": {
+   "en": "Slayer of Sin'dorei",
+   "de": "Verhängnis der Sin'dorei",
+   "fr": "tueur de Sin’dorei"
+  }
+ },
+ "276": {
+  "name": {
+   "en": "Huojin's Fall",
+   "de": "Huojins Untergang",
+   "fr": "fléau des Huojin"
+  }
+ },
+ "280": {
+  "name": {
+   "en": "Tarren Mill Terror",
+   "de": "Schrecken von Tarrens Mühle",
+   "fr": "terreur de Moulin-de-Tarren"
+  }
+ },
+ "281": {
+  "name": {
+   "en": "Southshore Slayer",
+   "de": "Schlächter von Süderstade",
+   "fr": "tueur d’Austrivage"
+  }
+ },
+ "302": {
+  "name": {
+   "en": "Lord of War",
+   "de": "Herr des Krieges",
+   "fr": "seigneur de guerre"
+  }
+ },
+ "303": {
+  "name": {
+   "en": "Lady of War",
+   "de": "Herrin des Krieges",
+   "fr": "dame de guerre"
+  }
+ },
+ "345": {
+  "name": {
+   "en": "Highlord",
+   "de": "Hochlord",
+   "fr": "Généralissime"
+  }
+ },
+ "306": {
+  "name": {
+   "en": "Legend of Pandaria",
+   "de": "Legende von Pandaria",
+   "fr": "légende de Pandarie"
+  }
+ },
+ "331": {
+  "name": {
+   "en": "Lord of the Reins",
+   "de": "Herr der Reittiere",
+   "fr": "seigneur des rênes"
+  }
+ },
+ "330": {
+  "name": {
+   "en": "Master Assassin",
+   "de": "Meisterassassine",
+   "fr": "Maître assassin"
+  }
+ },
+ "320": {
+  "name": {
+   "en": "Slayer",
+   "de": "Rächer",
+   "fr": "Vengeur"
+  }
+ },
+ "326": {
+  "name": {
+   "en": "Patron of War",
+   "de": "der Kriegspatron",
+   "fr": "prôneur de la guerre"
+  }
+ },
+ "332": {
+  "name": {
+   "en": "Guardian of G'Hanir",
+   "de": "Wächter von G'Hanir",
+   "fr": "gardien de G’Hanir"
+  }
+ },
+ "327": {
+  "name": {
+   "en": "Archdruid",
+   "de": "Erzdruide",
+   "fr": "Archidruide"
+  }
+ },
+ "328": {
+  "name": {
+   "en": "Deathlord",
+   "de": "Todesgebieter",
+   "fr": "Seigneur de la mort"
+  }
+ },
+ "329": {
+  "name": {
+   "en": "Grandmaster",
+   "de": "Großmeister",
+   "fr": "Grand maître"
+  }
+ },
+ "321": {
+  "name": {
+   "en": "The Honorable",
+   "de": "der Ehrenhafte",
+   "fr": "L’honorable"
+  }
+ },
+ "322": {
+  "name": {
+   "en": "The Prestigious",
+   "de": "der Prestigeträger",
+   "fr": "le prestigieux"
+  }
+ },
+ "323": {
+  "name": {
+   "en": "The Unrelenting",
+   "de": "der Unerbittliche",
+   "fr": "l’implacable"
+  }
+ },
+ "325": {
+  "name": {
+   "en": "Bound by Honor",
+   "de": "durch Ehre gebunden",
+   "fr": "lié par l’honneur"
+  }
+ },
+ "333": {
+  "name": {
+   "en": "the Groundbreaker",
+   "de": "der Ausgräber",
+   "fr": "l’excavateur"
+  }
+ },
+ "334": {
+  "name": {
+   "en": "the Fabulous",
+   "de": "der Todschicke",
+   "fr": "le fabuleux"
+  }
+ },
+ "335": {
+  "name": {
+   "en": "Huntmaster",
+   "de": "Meisterjäger",
+   "fr": "Maître chasseur"
+  }
+ },
+ "336": {
+  "name": {
+   "en": "Farseer",
+   "de": "Scharfseher",
+   "fr": "Long-voyant"
+  }
+ },
+ "337": {
+  "name": {
+   "en": "Netherlord",
+   "de": "Netherfürst",
+   "fr": "Seigneur du Néant"
+  }
+ },
+ "338": {
+  "name": {
+   "en": "Shadowblade",
+   "de": "Schattenklinge",
+   "fr": "Lame-de-l’ombre"
+  }
+ },
+ "362": {
+  "name": {
+   "en": "the Tomb Raider",
+   "de": "der Grabräuber",
+   "fr": "le Pilleur de tombes"
+  }
+ },
+ "343": {
+  "name": {
+   "en": "the Gullible",
+   "de": "der Leichtgläubige",
+   "fr": "le crédule"
+  }
+ },
+ "358": {
+  "name": {
+   "en": "Adventuring Instructor",
+   "de": "Abenteurermentor",
+   "fr": "instructeur aventurier"
+  }
+ },
+ "353": {
+  "name": {
+   "en": "Vindictive Gladiator",
+   "de": "Rachgieriger Gladiator",
+   "fr": "Gladiateur vindicatif"
+  }
+ },
+ "359": {
+  "name": {
+   "en": "Cruel Gladiator",
+   "de": "Unbarmherziger Gladiator",
+   "fr": "Gladiateur cruel"
+  }
+ },
+ "360": {
+  "name": {
+   "en": "Ferocious Gladiator",
+   "de": "Grimmiger Gladiator",
+   "fr": "Gladiateur féroce"
+  }
+ },
+ "347": {
+  "name": {
+   "en": "the Chosen",
+   "de": "der Auserwählte",
+   "fr": "l’élu"
+  }
+ },
+ "339": {
+  "name": {
+   "en": "High Priest",
+   "de": "Hohepriester",
+   "fr": "Grand prêtre"
+  }
+ },
+ "354": {
+  "name": {
+   "en": "the Unstoppable Force",
+   "de": "die unaufhaltbare Macht",
+   "fr": "la force irrésistible"
+  }
+ },
+ "357": {
+  "name": {
+   "en": "the Darkener",
+   "de": "der Verdunkler",
+   "fr": "l’Assombrisseur"
+  }
+ },
+ "315": {
+  "name": {
+   "en": "Wild Gladiator",
+   "de": "Unbändiger Gladiator",
+   "fr": "Gladiateur farouche"
+  }
+ },
+ "316": {
+  "name": {
+   "en": "Warmongering Gladiator",
+   "de": "Kriegstreibender Gladiator",
+   "fr": "Gladiateur belliqueux"
+  }
+ },
+ "368": {
+  "name": {
+   "en": "Dominant Gladiator",
+   "de": "Dominanter Gladiator",
+   "fr": "Gladiateur autoritaire"
+  }
+ },
+ "369": {
+  "name": {
+   "en": "the Tactician",
+   "de": "der Taktiker",
+   "fr": "le tacticien"
+  }
+ },
+ "364": {
+  "name": {
+   "en": "Titanslayer",
+   "de": "der Titanentöter",
+   "fr": "Tueur de Titans"
+  }
+ },
+ "366": {
+  "name": {
+   "en": "the Lightbringer",
+   "de": "der Lichtbringer",
+   "fr": "le Porteur de Lumière"
+  }
+ },
+ "361": {
+  "name": {
+   "en": "Timelord",
+   "de": "Zeitlord",
+   "fr": "Seigneur du temps"
+  }
+ },
+ "355": {
+  "name": {
+   "en": "Fearless Gladiator",
+   "de": "Furchtloser Gladiator",
+   "fr": "Gladiateur intrépide"
+  }
+ },
+ "370": {
+  "name": {
+   "en": "Demonic Gladiator",
+   "de": "Dämonischer Gladiator",
+   "fr": "Gladiateur démoniaque"
+  }
+ },
+ "365": {
+  "name": {
+   "en": "the Collector",
+   "de": "der Sammler",
+   "fr": "le Collectionneur"
+  }
+ },
+ "341": {
+  "name": {
+   "en": "the Dreamer",
+   "de": "der Träumer",
+   "fr": "le rêveur"
+  }
+ },
+ "342": {
+  "name": {
+   "en": "Vengeance Incarnate",
+   "de": "die Inkarnation der Rache",
+   "fr": "incarnation de la vengeance"
+  }
+ },
+ "367": {
+  "name": {
+   "en": "Demonslayer",
+   "de": "der Dämonentöter",
+   "fr": "Tueur de démons"
+  }
+ },
+ "348": {
+  "name": {
+   "en": "Headmaster",
+   "de": "Rektor",
+   "fr": "Doyen"
+  }
+ },
+ "356": {
+  "name": {
+   "en": "Stylist",
+   "de": "Stylist",
+   "fr": "Styliste"
+  }
+ },
+ "340": {
+  "name": {
+   "en": "Field Medic",
+   "de": "Feldsanitäter",
+   "fr": "Brancardier"
+  }
+ },
+ "346": {
+  "name": {
+   "en": "Talon's Vengeance",
+   "de": "Rache der Kralle",
+   "fr": "de la Serre vengeresse"
+  }
+ },
+ "372": {
+  "name": {
+   "en": "Postmaster",
+   "de": "Postmeister",
+   "fr": "Postier"
+  }
+ },
+ "373": {
+  "name": {
+   "en": "Prospector",
+   "de": "Schürfer",
+   "fr": "Prospecteur"
+  }
+ },
+ "371": {
+  "name": {
+   "en": "No Good, Dirty, Rotten, Candy Stealer!",
+   "de": "elender, abscheulicher, nichtsnutziger Süßigkeitendieb!",
+   "fr": "le vilain, sale, méchant voleur de bonbons !"
+  }
+ },
+ "374": {
+  "name": {
+   "en": "Famed Slayer of G'huun",
+   "de": "ruhmreicher Schlächter von G'huun",
+   "fr": "célèbre tueur de G’huun"
+  }
+ },
+ "376": {
+  "name": {
+   "en": "the Alliance Slayer",
+   "de": "der Allianzschlächter",
+   "fr": "le cauchemar de l’Alliance"
+  }
+ },
+ "378": {
+  "name": {
+   "en": "Inquisitor",
+   "de": "Inquisitor",
+   "fr": "Inquisiteur"
+  }
+ },
+ "381": {
+  "name": {
+   "en": "the Purifier",
+   "de": "der Läuterer",
+   "fr": "le purificateur"
+  }
+ },
+ "383": {
+  "name": {
+   "en": "Contender",
+   "de": "Streiter",
+   "fr": "Belligérant"
+  }
+ },
+ "377": {
+  "name": {
+   "en": "Conqueror of Azeroth",
+   "de": "Eroberer von Azeroth",
+   "fr": "conquérant d’Azeroth"
+  }
+ },
+ "375": {
+  "name": {
+   "en": "the Horde Slayer",
+   "de": "der Hordenschlächter",
+   "fr": "le cauchemar de la Horde"
+  }
+ },
+ "379": {
+  "name": {
+   "en": "Esteemed",
+   "de": "Hochverehrter",
+   "fr": "Estimé"
+  }
+ },
+ "380": {
+  "name": {
+   "en": "the Admired",
+   "de": "der Geachtete",
+   "fr": "l’admiré"
+  }
+ },
+ "382": {
+  "name": {
+   "en": "Expedition Leader",
+   "de": "Expeditionsleiter",
+   "fr": "l’insulaire"
+  }
+ },
+ "412": {
+  "name": {
+   "en": "Veteran of the Fourth War",
+   "de": "Veteran des Vierten Krieges",
+   "fr": "vétéran de la Quatrième guerre"
+  }
+ },
+ "405": {
+  "name": {
+   "en": "of the Deeps",
+   "de": "aus den Tiefen",
+   "fr": "des profondeurs"
+  }
+ },
+ "413": {
+  "name": {
+   "en": "As Themselves",
+   "de": "als er selbst",
+   "fr": "dans son propre rôle"
+  }
+ },
+ "410": {
+  "name": {
+   "en": "Renowned Explorer",
+   "de": "Berühmter Forscher",
+   "fr": "Explorateur renommé"
+  }
+ },
+ "386": {
+  "name": {
+   "en": "Hero of Dazar'alor",
+   "de": "Held von Dazar'alor",
+   "fr": "héros de Dazar’alor"
+  }
+ },
+ "411": {
+  "name": {
+   "en": "Corrupted Gladiator",
+   "de": "Verderbter Gladiator",
+   "fr": "Gladiateur corrompu"
+  }
+ },
+ "400": {
+  "name": {
+   "en": "Famed Slayer of the Harbinger",
+   "de": "ruhmreicher Sieger über den Vorboten",
+   "fr": "célèbre tueur du héraut"
+  }
+ },
+ "408": {
+  "name": {
+   "en": "Pilgrim the Mallet Bearer",
+   "de": "Pilger der Hammerträger",
+   "fr": "Pèlerin le porteur de maillet"
+  }
+ },
+ "414": {
+  "name": {
+   "en": "Servant of N'Zoth",
+   "de": "Diener von N'Zoth",
+   "fr": "fidèle de N’Zoth"
+  }
+ },
+ "403": {
+  "name": {
+   "en": "Junkyard",
+   "de": "Haldenkönig",
+   "fr": "de la casse"
+  }
+ },
+ "324": {
+  "name": {
+   "en": "Trashmaster",
+   "de": "Schrottmeister",
+   "fr": "Maître des déchets"
+  }
+ },
+ "402": {
+  "name": {
+   "en": "Notorious Gladiator",
+   "de": "Berüchtigter Gladiator",
+   "fr": "Gladiateur notoire"
+  }
+ },
+ "363": {
+  "name": {
+   "en": "Fierce Gladiator",
+   "de": "Stürmischer Gladiator",
+   "fr": "Gladiateur opiniâtre"
+  }
+ },
+ "399": {
+  "name": {
+   "en": "the T-Shirt Enthusiast",
+   "de": "der T-Shirt-Enthusiast",
+   "fr": "l’amateur de chemises"
+  }
+ },
+ "384": {
+  "name": {
+   "en": "Famed Conqueror of Dazar'alor",
+   "de": "gefeierter Eroberer von Dazar'alor",
+   "fr": "célèbre conquérant de Dazar’alor"
+  }
+ },
+ "385": {
+  "name": {
+   "en": "Famed Defender of Dazar'alor",
+   "de": "gefeierter Verteidiger von Dazar'alor",
+   "fr": "célèbre défenseur de Dazar’alor"
+  }
+ },
+ "404": {
+  "name": {
+   "en": "the Eternal",
+   "de": "der Ewige",
+   "fr": "l’Éternel"
+  }
+ },
+ "387": {
+  "name": {
+   "en": "the Elite Death Knight",
+   "de": "der Elitetodesritter",
+   "fr": "le chevalier de la mort d’élite"
+  }
+ },
+ "388": {
+  "name": {
+   "en": "the Elite Demon Hunter",
+   "de": "der Elitedämonenjäger",
+   "fr": "le chasseur de démons d’élite"
+  }
+ },
+ "389": {
+  "name": {
+   "en": "the Elite Druid",
+   "de": "der Elitedruide",
+   "fr": "le druide d’élite"
+  }
+ },
+ "390": {
+  "name": {
+   "en": "the Elite Hunter",
+   "de": "der Elitejäger",
+   "fr": "le chasseur d’élite"
+  }
+ },
+ "391": {
+  "name": {
+   "en": "the Elite Mage",
+   "de": "der Elitemagier",
+   "fr": "le mage d’élite"
+  }
+ },
+ "392": {
+  "name": {
+   "en": "the Elite Monk",
+   "de": "der Elitemönch",
+   "fr": "le moine d’élite"
+  }
+ },
+ "393": {
+  "name": {
+   "en": "the Elite Paladin",
+   "de": "der Elitepaladin",
+   "fr": "le paladin d’élite"
+  }
+ },
+ "394": {
+  "name": {
+   "en": "the Elite Priest",
+   "de": "der Elitepriester",
+   "fr": "le prêtre d’élite"
+  }
+ },
+ "395": {
+  "name": {
+   "en": "the Elite Rogue",
+   "de": "der Eliteschurke",
+   "fr": "le voleur d’élite"
+  }
+ },
+ "396": {
+  "name": {
+   "en": "the Elite Shaman",
+   "de": "der Eliteschamane",
+   "fr": "le chaman d’élite"
+  }
+ },
+ "397": {
+  "name": {
+   "en": "the Elite Warlock",
+   "de": "der Elitehexenmeister",
+   "fr": "le démoniste d’élite"
+  }
+ },
+ "398": {
+  "name": {
+   "en": "the Elite Warrior",
+   "de": "der Elitekrieger",
+   "fr": "le guerrier d’élite"
+  }
+ },
+ "406": {
+  "name": {
+   "en": "Sparking",
+   "de": "der Funkenschlag",
+   "fr": "l’étincelant"
+  }
+ },
+ "407": {
+  "name": {
+   "en": "Azeroth's Champion",
+   "de": "Champion von Azeroth",
+   "fr": "champion d’Azeroth"
+  }
+ },
+ "409": {
+  "name": {
+   "en": "Famed Slayer of Azshara",
+   "de": "ruhmreicher Schlächter von Azshara",
+   "fr": "célèbre tueur d’Azshara"
+  }
+ },
+ "417": {
+  "name": {
+   "en": "the Uncorrupted",
+   "de": "der Unverderbte",
+   "fr": "l’Immaculé"
+  }
+ },
+ "416": {
+  "name": {
+   "en": "Famed Slayer of N'Zoth",
+   "de": "ruhmreicher Bezwinger von N'Zoth",
+   "fr": "célèbre tueur de N’Zoth"
+  }
+ },
+ "418": {
+  "name": {
+   "en": "the Awakened",
+   "de": "der Erweckte",
+   "fr": "l’Éveillé"
+  }
+ },
+ "419": {
+  "name": {
+   "en": "the Faceless One",
+   "de": "der Gesichtslose",
+   "fr": "le sans-visage"
+  }
+ },
+ "415": {
+  "name": {
+   "en": "Minion of Mayhem",
+   "de": "Diener des Chaos",
+   "fr": "disciple du Désastre"
+  }
+ },
+ "446": {
+  "name": {
+   "en": "the Tormented",
+   "de": "der Gequälte",
+   "fr": "le Tourmenté"
+  }
+ },
+ "441": {
+  "name": {
+   "en": "Unchained Gladiator",
+   "de": "Entfesselter Gladiator",
+   "fr": "Gladiateur déchaîné"
+  }
+ },
+ "440": {
+  "name": {
+   "en": "Famed Slayer of Denathrius",
+   "de": "ruhmreicher Bezwinger von Denathrius",
+   "fr": "célèbre tueur de Denathrius"
+  }
+ },
+ "443": {
+  "name": {
+   "en": "Sword of the Primus",
+   "de": "Schwert des Primus",
+   "fr": "épée du Primat"
+  }
+ },
+ "431": {
+  "name": {
+   "en": "the Proud",
+   "de": "der Stolze",
+   "fr": "l’Orgueilleux"
+  }
+ },
+ "437": {
+  "name": {
+   "en": "Abominable",
+   "de": "der Monströse",
+   "fr": "Abominable"
+  }
+ },
+ "442": {
+  "name": {
+   "en": "Protector of the Weald",
+   "de": "Beschützer des Waldes",
+   "fr": "protecteur de la Sylve"
+  }
+ },
+ "433": {
+  "name": {
+   "en": "the Party Herald",
+   "de": "der Festherold",
+   "fr": "héraut des festivités"
+  }
+ },
+ "434": {
+  "name": {
+   "en": "Sinful Gladiator",
+   "de": "Sündiger Gladiator",
+   "fr": "Gladiateur impénitent"
+  }
+ },
+ "435": {
+  "name": {
+   "en": "Fun Guy",
+   "de": "Mykologe",
+   "fr": "le fongique"
+  }
+ },
+ "425": {
+  "name": {
+   "en": "Hand of the Archon",
+   "de": "Hand der Archon",
+   "fr": "main de l’Archonte"
+  }
+ },
+ "426": {
+  "name": {
+   "en": "Baron",
+   "de": "Baron",
+   "fr": "Baron"
+  }
+ },
+ "427": {
+  "name": {
+   "en": "Baroness",
+   "de": "Baronin",
+   "fr": "Baronne"
+  }
+ },
+ "428": {
+  "name": {
+   "en": "Winter's Envoy",
+   "de": "Gesandter des Winters",
+   "fr": "émissaire de l’hiver"
+  }
+ },
+ "429": {
+  "name": {
+   "en": "Count",
+   "de": "Graf",
+   "fr": "Comte"
+  }
+ },
+ "430": {
+  "name": {
+   "en": "Countess",
+   "de": "Gräfin",
+   "fr": "Comtesse"
+  }
+ },
+ "423": {
+  "name": {
+   "en": "Cryptkeeper",
+   "de": "Grufthüter",
+   "fr": "Gardien de la crypte"
+  }
+ },
+ "436": {
+  "name": {
+   "en": "the Avowed",
+   "de": "der Eingeschworene",
+   "fr": "le Confirmé"
+  }
+ },
+ "447": {
+  "name": {
+   "en": "Breaker of Chains",
+   "de": "Sprenger der Ketten",
+   "fr": "le Brise-chaînes"
+  }
+ },
+ "448": {
+  "name": {
+   "en": "Famed Bane of the Banshee Queen",
+   "de": "ruhmreicher Bezwinger der Bansheekönigin",
+   "fr": "célèbre tourment de la reine banshee"
+  }
+ },
+ "438": {
+  "name": {
+   "en": "Spirestalker",
+   "de": "Spitzenpirscher",
+   "fr": "Rôdeur des flèches"
+  }
+ },
+ "439": {
+  "name": {
+   "en": "the Ascended",
+   "de": "der Aufgestiegene",
+   "fr": "le transcendé"
+  }
+ },
+ "444": {
+  "name": {
+   "en": "Sin Eater",
+   "de": "Sündenfresser",
+   "fr": "Mange-vice"
+  }
+ },
+ "445": {
+  "name": {
+   "en": "Disciple of Devotion",
+   "de": "Jünger der Hingabe",
+   "fr": "disciple de la dévotion"
+  }
+ },
+ "432": {
+  "name": {
+   "en": "Sinbreaker",
+   "de": "Sündenbrecher",
+   "fr": "Brise-Vice"
+  }
+ },
+ "424": {
+  "name": {
+   "en": "Deathbringer",
+   "de": "Todesbringer",
+   "fr": "Porte-mort"
+  }
+ },
+ "485": {
+  "name": {
+   "en": "Merchant Artisan",
+   "de": "Professioneller Kunsthandwerker",
+   "fr": "Grossiste d’artisanat"
+  }
+ },
+ "486": {
+  "name": {
+   "en": "Personal Crafter",
+   "de": "Persönlicher Handwerker",
+   "fr": "Cheville ouvrière"
+  }
+ },
+ "487": {
+  "name": {
+   "en": "Famed Slayer of Raszageth",
+   "de": "ruhmreicher Schlächter von Raszageth",
+   "fr": "célèbre tueur de Raszageth"
+  }
+ },
+ "488": {
+  "name": {
+   "en": "the Storm-Eater",
+   "de": "der Sturmfresser",
+   "fr": "le Mange-tempêtes"
+  }
+ },
+ "491": {
+  "name": {
+   "en": "Legend",
+   "de": "Legende",
+   "fr": "la légende"
+  }
+ },
+ "459": {
+  "name": {
+   "en": "Fearless Spectator",
+   "de": "Furchtloser Zuschauer",
+   "fr": "Spectateur intrépide"
+  }
+ },
+ "465": {
+  "name": {
+   "en": "the Shrouded",
+   "de": "der Verhüllte",
+   "fr": "l’ombre"
+  }
+ },
+ "480": {
+  "name": {
+   "en": "Knight of Feathersworth",
+   "de": "Ritter von Federschein",
+   "fr": "chevalier de Valeplumes"
+  }
+ },
+ "481": {
+  "name": {
+   "en": "the Elite Evoker",
+   "de": "der Eliterufer",
+   "fr": "l’évocateur d’élite"
+  }
+ },
+ "482": {
+  "name": {
+   "en": "Crimson Legend",
+   "de": "Blutrote Legende",
+   "fr": "Légende écarlate"
+  }
+ },
+ "479": {
+  "name": {
+   "en": "Malicious",
+   "de": "Boshafter",
+   "fr": "le Néfaste"
+  }
+ },
+ "453": {
+  "name": {
+   "en": "the Unbound",
+   "de": "der Ungebundene",
+   "fr": "le délié"
+  }
+ },
+ "470": {
+  "name": {
+   "en": "the Thundering Hero",
+   "de": "der donnernde Held",
+   "fr": "le foudre de guerre héroïque"
+  }
+ },
+ "461": {
+  "name": {
+   "en": "Eternal Gladiator",
+   "de": "Ewiger Gladiator",
+   "fr": "Gladiateur éternel"
+  }
+ },
+ "474": {
+  "name": {
+   "en": "Ally of Dragons",
+   "de": "Verbündeter der Drachen",
+   "fr": "camarade des Dragons"
+  }
+ },
+ "475": {
+  "name": {
+   "en": "Intrepid Explorer",
+   "de": "Unerschrockener Forscher",
+   "fr": "Explorateur intrépide"
+  }
+ },
+ "476": {
+  "name": {
+   "en": "of Iskaara",
+   "de": "von Iskaara",
+   "fr": "d’Iskaara"
+  }
+ },
+ "492": {
+  "name": {
+   "en": "Skyscourge",
+   "de": "Schrecken der Lüfte",
+   "fr": "Fléau des cieux"
+  }
+ },
+ "466": {
+  "name": {
+   "en": "the Shrouded Hero",
+   "de": "der verhüllte Held",
+   "fr": "l’ombre héroïque"
+  }
+ },
+ "472": {
+  "name": {
+   "en": "Birdwatcher",
+   "de": "Vogelbeobachter",
+   "fr": "Ornithologue"
+  }
+ },
+ "449": {
+  "name": {
+   "en": "Gauntlet Runner",
+   "de": "Spießrutenläufer",
+   "fr": "Exécuteur d’épreuves"
+  }
+ },
+ "462": {
+  "name": {
+   "en": "Maw Walker",
+   "de": "Schlundgänger",
+   "fr": "Sans-Entraves"
+  }
+ },
+ "463": {
+  "name": {
+   "en": "Veilstrider",
+   "de": "Schleierwandler",
+   "fr": "Marchevoile"
+  }
+ },
+ "456": {
+  "name": {
+   "en": "Soloist",
+   "de": "Solist",
+   "fr": "Solitaire"
+  }
+ },
+ "464": {
+  "name": {
+   "en": "Hero of Fate",
+   "de": "Held des Schicksals",
+   "fr": "héros de la fatalité"
+  }
+ },
+ "452": {
+  "name": {
+   "en": "Cosmic Gladiator",
+   "de": "Kosmischer Gladiator",
+   "fr": "Gladiateur cosmique"
+  }
+ },
+ "450": {
+  "name": {
+   "en": "Tower Ranger",
+   "de": "Türmestürmer",
+   "fr": "alpiniste tourmenté"
+  }
+ },
+ "489": {
+  "name": {
+   "en": "Forbidden Reach Racer",
+   "de": "Rennmeister der Verbotenen Insel",
+   "fr": "Pilote des confins Interdits"
+  }
+ },
+ "473": {
+  "name": {
+   "en": "Khansguard",
+   "de": "Khanswache",
+   "fr": "Garde du khanat"
+  }
+ },
+ "451": {
+  "name": {
+   "en": "the Tormented Hero",
+   "de": "der gequälte Held",
+   "fr": "le héros tourmenté"
+  }
+ },
+ "457": {
+  "name": {
+   "en": "the Cryptic",
+   "de": "der Kryptische",
+   "fr": "le Cryptomancien"
+  }
+ },
+ "458": {
+  "name": {
+   "en": "the Cryptic Hero",
+   "de": "der kryptische Held",
+   "fr": "le cryptomancien héroïque"
+  }
+ },
+ "478": {
+  "name": {
+   "en": "Isles Racer",
+   "de": "Inselflitzer",
+   "fr": "Pilote des îles"
+  }
+ },
+ "483": {
+  "name": {
+   "en": "Paragon of the Obsidian Brood",
+   "de": "Champion der Obsidianbrut",
+   "fr": "parangon de la couvée obsidienne"
+  }
+ },
+ "484": {
+  "name": {
+   "en": "Agent of the Black Prince",
+   "de": "Agent des Schwarzen Prinzen",
+   "fr": "agent du prince noir"
+  }
+ },
+ "467": {
+  "name": {
+   "en": "Honorary Dryad",
+   "de": "Ehrendryade",
+   "fr": "dryade honoraire"
+  }
+ },
+ "471": {
+  "name": {
+   "en": "Soupervisor",
+   "de": "Suppenaufseher",
+   "fr": "Souperviseur"
+  }
+ },
+ "477": {
+  "name": {
+   "en": "the Thundering",
+   "de": "der Donnernde",
+   "fr": "le foudre de guerre"
+  }
+ },
+ "460": {
+  "name": {
+   "en": "of Lordaeron",
+   "de": "von Lordaeron",
+   "fr": "de Lordaeron"
+  }
+ },
+ "490": {
+  "name": {
+   "en": "Reverse Racer",
+   "de": "Gegenflitzer",
+   "fr": "Pilote de courses inversées"
+  }
+ },
+ "454": {
+  "name": {
+   "en": "Famed Slayer of The Banished One",
+   "de": "ruhmreicher Schlächter des Verbannten",
+   "fr": "célèbre tueur du Proscrit"
+  }
+ },
+ "455": {
+  "name": {
+   "en": "Guardian of the Pattern",
+   "de": "Wächter des Musters",
+   "fr": "gardien du schéma"
+  }
+ },
+ "468": {
+  "name": {
+   "en": "Crimson Gladiator",
+   "de": "Blutroter Gladiator",
+   "fr": "Gladiateur écarlate"
+  }
+ },
+ "469": {
+  "name": {
+   "en": "the Worldbreaker",
+   "de": "der Weltenbrecher",
+   "fr": "le Brise-monde"
+  }
+ },
+ "592": {
+  "name": {
+   "en": "the Enterprising",
+   "de": "der Unternehmerische",
+   "fr": "l’entrepreneuriat"
+  }
+ },
+ "593": {
+  "name": {
+   "en": "the Enterprising Hero",
+   "de": "der unternehmerische Held",
+   "fr": "l’entrepreneuriat héroïque"
+  }
+ },
+ "641": {
+  "name": {
+   "en": "Bronzebeard",
+   "de": "Bronzebart",
+   "fr": "Barbe-de-Bronze"
+  }
+ },
+ "537": {
+  "name": {
+   "en": "the Draconic",
+   "de": "der Drakonische",
+   "fr": "le draconique"
+  }
+ },
+ "538": {
+  "name": {
+   "en": "the Draconic Hero",
+   "de": "der drakonische Held",
+   "fr": "le héros draconique"
+  }
+ },
+ "520": {
+  "name": {
+   "en": "the Storm Rider",
+   "de": "der Sturmreiter",
+   "fr": "le Chevauche-tempête"
+  }
+ },
+ "563": {
+  "name": {
+   "en": "Deephauler",
+   "de": "Tiefbeuter",
+   "fr": "Abondabîmien"
+  }
+ },
+ "505": {
+  "name": {
+   "en": "Heir to the Void",
+   "de": "Auf die Leere abgestimmt",
+   "fr": "héritier du Vide"
+  }
+ },
+ "506": {
+  "name": {
+   "en": "Famed Slayer of Sarkareth",
+   "de": "ruhmreicher Schlächter von Sarkareth",
+   "fr": "célèbre tueur de Sarkareth"
+  }
+ },
+ "549": {
+  "name": {
+   "en": "Immortal Spelunker",
+   "de": "Unsterblicher Höhlenforscher",
+   "fr": "Spéléologue immortel"
+  }
+ },
+ "550": {
+  "name": {
+   "en": "High Explorer",
+   "de": "Hochforscher",
+   "fr": "Grand explorateur"
+  }
+ },
+ "603": {
+  "name": {
+   "en": "the Explosive",
+   "de": "der Explosive",
+   "fr": "l’explosif"
+  }
+ },
+ "515": {
+  "name": {
+   "en": "Eastern Kingdoms Racer",
+   "de": "Flitzer der Östlichen Königreiche",
+   "fr": "pilote des royaumes de l’Est"
+  }
+ },
+ "556": {
+  "name": {
+   "en": "Queenslayer",
+   "de": "Königinnentöter",
+   "fr": "Régicide"
+  }
+ },
+ "631": {
+  "name": {
+   "en": "the Mad",
+   "de": "der Verrückte",
+   "fr": "le Fou"
+  }
+ },
+ "516": {
+  "name": {
+   "en": "of the Tyr's Guard",
+   "de": "von Tyrs Wache",
+   "fr": "de la Garde de Tyr"
+  }
+ },
+ "606": {
+  "name": {
+   "en": "Darkfuse Diplomat",
+   "de": "Diplomat der Düsternisverschmolzenen",
+   "fr": "Diplomate imprégné de ténèbres"
+  }
+ },
+ "607": {
+  "name": {
+   "en": "Trade-Duke",
+   "de": "Handelsfürst",
+   "fr": "Duc du commerce"
+  }
+ },
+ "581": {
+  "name": {
+   "en": "Classic Enthusiast",
+   "de": "Enthusiast von Classic",
+   "fr": "Féru de Classic"
+  }
+ },
+ "582": {
+  "name": {
+   "en": "Outland Enthusiast",
+   "de": "Enthusiast der Scherbenwelt",
+   "fr": "Féru de l’Outreterre"
+  }
+ },
+ "583": {
+  "name": {
+   "en": "Northrend Enthusiast",
+   "de": "Enthusiast von Nordend",
+   "fr": "Féru du Norfendre"
+  }
+ },
+ "584": {
+  "name": {
+   "en": "Cataclysm Enthusiast",
+   "de": "Enthusiast des Kataklysmus",
+   "fr": "Amateur du Cataclysme"
+  }
+ },
+ "585": {
+  "name": {
+   "en": "Pandaria Enthusiast",
+   "de": "Enthusiast von Pandaria",
+   "fr": "Féru de la Pandarie"
+  }
+ },
+ "586": {
+  "name": {
+   "en": "Draenor Enthusiast",
+   "de": "Enthusiast von Draenor",
+   "fr": "Féru de Draenor"
+  }
+ },
+ "587": {
+  "name": {
+   "en": "Broken Isles Enthusiast",
+   "de": "Enthusiast der Verheerten Inseln",
+   "fr": "Féru des îles Brisées"
+  }
+ },
+ "588": {
+  "name": {
+   "en": "Zandalar Enthusiast",
+   "de": "Enthusiast von Zandalar",
+   "fr": "Féru de Zandalar"
+  }
+ },
+ "589": {
+  "name": {
+   "en": "Kul Tiras Enthusiast",
+   "de": "Enthusiast von Kul Tiras",
+   "fr": "Féru de Kul Tiras"
+  }
+ },
+ "590": {
+  "name": {
+   "en": "Shadowlands Enthusiast",
+   "de": "Enthusiast der Schattenlande",
+   "fr": "Féru de l’Ombreterre"
+  }
+ },
+ "591": {
+  "name": {
+   "en": "Dragon Isles Enthusiast",
+   "de": "Enthusiast der Dracheninseln",
+   "fr": "Féru des îles aux Dragons"
+  }
+ },
+ "616": {
+  "name": {
+   "en": "Part-Timer",
+   "de": "Teilzeitkraft",
+   "fr": "l’intérimaire"
+  }
+ },
+ "617": {
+  "name": {
+   "en": "\"Employee\" of the Month",
+   "de": "\"Mitarbeiter\" des Monats",
+   "fr": "« Employé » du mois"
+  }
+ },
+ "600": {
+  "name": {
+   "en": "Landlubber",
+   "de": "Landratte",
+   "fr": "Marin d’eau douce"
+  }
+ },
+ "601": {
+  "name": {
+   "en": "the Treasured",
+   "de": "der Geschätzte",
+   "fr": "l’inestimable"
+  }
+ },
+ "521": {
+  "name": {
+   "en": "Outland Racer",
+   "de": "Scherbenweltflitzer",
+   "fr": "pilote de l’Outreterre"
+  }
+ },
+ "561": {
+  "name": {
+   "en": "Famed Slayer of Ansurek",
+   "de": "ruhmreicher Bezwinger von Ansurek",
+   "fr": "célèbre tueur d’Ansurek"
+  }
+ },
+ "508": {
+  "name": {
+   "en": "Field Researcher",
+   "de": "Feldforscher",
+   "fr": "Chercheur de terrain"
+  }
+ },
+ "523": {
+  "name": {
+   "en": "Isles Ace",
+   "de": "Insel-Ass",
+   "fr": "As des îles"
+  }
+ },
+ "531": {
+  "name": {
+   "en": "the Dreaming Hero",
+   "de": "der träumende Held",
+   "fr": "le songe héroïque"
+  }
+ },
+ "529": {
+  "name": {
+   "en": "Battle Mender",
+   "de": "Schlachtenheiler",
+   "fr": "Soigneur de bataille"
+  }
+ },
+ "602": {
+  "name": {
+   "en": "High Roller",
+   "de": "Glücksroller",
+   "fr": "Flambeur"
+  }
+ },
+ "503": {
+  "name": {
+   "en": "the Smoldering",
+   "de": "der Qualmende",
+   "fr": "la flamme incandescente"
+  }
+ },
+ "504": {
+  "name": {
+   "en": "the Smoldering Hero",
+   "de": "der qualmende Held",
+   "fr": "la flamme incandescente héroïque"
+  }
+ },
+ "533": {
+  "name": {
+   "en": "The Forbidden",
+   "de": "der Verbotene",
+   "fr": "de l’Interdit"
+  }
+ },
+ "562": {
+  "name": {
+   "en": "Slayer of the Deeps",
+   "de": "Bezwinger der Tiefen",
+   "fr": "tueur des profondeurs"
+  }
+ },
+ "493": {
+  "name": {
+   "en": "Lionguard",
+   "de": "Löwenwache",
+   "fr": "Garde du Lion"
+  }
+ },
+ "519": {
+  "name": {
+   "en": "Honorary Preservationist",
+   "de": "Ehrenbewahrer",
+   "fr": "Préservateur honoraire"
+  }
+ },
+ "525": {
+  "name": {
+   "en": "Verdant Legend",
+   "de": "Tiefgrüne Legende",
+   "fr": "Légende verdoyante"
+  }
+ },
+ "526": {
+  "name": {
+   "en": "Verdant Gladiator",
+   "de": "Tiefgrüner Gladiator",
+   "fr": "Gladiateur verdoyant"
+  }
+ },
+ "595": {
+  "name": {
+   "en": "Molten Core Prospector",
+   "de": "Schürfer des geschmolzenen Kerns",
+   "fr": "Prospecteur du Cœur du Magma"
+  }
+ },
+ "596": {
+  "name": {
+   "en": "Karazhan Graduate",
+   "de": "Karazhanabsolvent",
+   "fr": "diplômé de Karazhan"
+  }
+ },
+ "499": {
+  "name": {
+   "en": "Obsidian Gladiator",
+   "de": "Obsidiangladiator",
+   "fr": "Gladiateur d’obsidienne"
+  }
+ },
+ "604": {
+  "name": {
+   "en": "Famed Slayer of The Chrome King",
+   "de": "ruhmreicher Schlächter des Chromkönigs",
+   "fr": "célèbre tueur du Roi du chrome"
+  }
+ },
+ "605": {
+  "name": {
+   "en": "Liberator of Undermine",
+   "de": "Befreier von Lorenhall",
+   "fr": "libérateur de Terremine"
+  }
+ },
+ "542": {
+  "name": {
+   "en": "Swabbie",
+   "de": "Deckhand",
+   "fr": "Moussaillon"
+  }
+ },
+ "543": {
+  "name": {
+   "en": "Deck Hand",
+   "de": "Matrose",
+   "fr": "Matelot"
+  }
+ },
+ "544": {
+  "name": {
+   "en": "Swashbuckler",
+   "de": "Säbelrassler",
+   "fr": "Bretteur"
+  }
+ },
+ "545": {
+  "name": {
+   "en": "Buccaneer",
+   "de": "Bukanier",
+   "fr": "Boucanier"
+  }
+ },
+ "546": {
+  "name": {
+   "en": "First Mate",
+   "de": "Erster Maat",
+   "fr": "Second"
+  }
+ },
+ "500": {
+  "name": {
+   "en": "Obsidian Legend",
+   "de": "Obsidianlegende",
+   "fr": "Légende d’obsidienne"
+  }
+ },
+ "557": {
+  "name": {
+   "en": "Awakened Hero",
+   "de": "erweckter Held",
+   "fr": "héros éveillé"
+  }
+ },
+ "495": {
+  "name": {
+   "en": "the Forbidden",
+   "de": "der Verbotene",
+   "fr": "de l’Interdit"
+  }
+ },
+ "597": {
+  "name": {
+   "en": "Breaknecker",
+   "de": "Halsbrecher",
+   "fr": "l’effréné"
+  }
+ },
+ "629": {
+  "name": {
+   "en": "of Hammerfall",
+   "de": "von Hammerfall",
+   "fr": "de Trépas-d’Orgrim"
+  }
+ },
+ "630": {
+  "name": {
+   "en": "of Stromgarde",
+   "de": "von Stromgarde",
+   "fr": "de Stromgarde"
+  }
+ },
+ "513": {
+  "name": {
+   "en": "Unparalleled",
+   "de": "der Unvergleichliche",
+   "fr": "l’Inégalable"
+  }
+ },
+ "571": {
+  "name": {
+   "en": "Detective",
+   "de": "Detektiv",
+   "fr": "Détective"
+  }
+ },
+ "580": {
+  "name": {
+   "en": "Skyrocketer",
+   "de": "Raketenreiter",
+   "fr": "Fusée céleste"
+  }
+ },
+ "511": {
+  "name": {
+   "en": "Ama'shan",
+   "de": "Ama'shan",
+   "fr": "Ama’shan"
+  }
+ },
+ "638": {
+  "name": {
+   "en": "the Delver Within",
+   "de": "der Tieferforscher im Inneren",
+   "fr": "l’Archéologue intérieur"
+  }
+ },
+ "639": {
+  "name": {
+   "en": "Contract Killer",
+   "de": "Auftragsmörder",
+   "fr": "Tueur à gages"
+  }
+ },
+ "527": {
+  "name": {
+   "en": "Blossom Bringer",
+   "de": "Blütenbringer",
+   "fr": "Messager des fleurs"
+  }
+ },
+ "530": {
+  "name": {
+   "en": "the Blazing",
+   "de": "der Lodernde",
+   "fr": "le Flamboyant"
+  }
+ },
+ "509": {
+  "name": {
+   "en": "Zaralek Cavern Racer",
+   "de": "Zaralekhöhlenrenner",
+   "fr": "Pilote de la grotte de Zaralek"
+  }
+ },
+ "612": {
+  "name": {
+   "en": "the Real Deal",
+   "de": "der Wahre",
+   "fr": "le Gros bonnet"
+  }
+ },
+ "528": {
+  "name": {
+   "en": "Famed Slayer of Fyrakk",
+   "de": "ruhmreicher Schlächter von Fyrakk",
+   "fr": "célèbre tueur de Fyrakka"
+  }
+ },
+ "568": {
+  "name": {
+   "en": "Machine-Warden",
+   "de": "Maschinenwart",
+   "fr": "gardien mécanique"
+  }
+ },
+ "642": {
+  "name": {
+   "en": "Thorn of Twilight",
+   "de": "Dorn des Zwielichts",
+   "fr": "épine du crépuscule"
+  }
+ },
+ "643": {
+  "name": {
+   "en": "Definitely Not a Cultist",
+   "de": "ganz sicher kein Kultist",
+   "fr": "ne fait pas du tout partie d’une secte"
+  }
+ },
+ "496": {
+  "name": {
+   "en": "Kalimdor Racer",
+   "de": "Kalimdorflitzer",
+   "fr": "pilote de Kalimdor"
+  }
+ },
+ "507": {
+  "name": {
+   "en": "Sniffenseeker",
+   "de": "Schnüffelsucher",
+   "fr": "renitruffe"
+  }
+ },
+ "598": {
+  "name": {
+   "en": "Flickering",
+   "de": "der Flackernde",
+   "fr": "lueur vacillante"
+  }
+ },
+ "599": {
+  "name": {
+   "en": "Infinite Delver",
+   "de": "Ewiger Tiefenforscher",
+   "fr": "Gouffrologue insatiable"
+  }
+ },
+ "576": {
+  "name": {
+   "en": "Echochaser",
+   "de": "Echojäger",
+   "fr": "Chasse-échos"
+  }
+ },
+ "640": {
+  "name": {
+   "en": "Star Savior",
+   "de": "Sternenretter",
+   "fr": "Sauveur stellaire"
+  }
+ },
+ "541": {
+  "name": {
+   "en": "Plunderlord",
+   "de": "Plünderfürst",
+   "fr": "Seigneur du pillage"
+  }
+ },
+ "510": {
+  "name": {
+   "en": "Whelptender",
+   "de": "Welpenhüter",
+   "fr": "soigneur de Dragonnets"
+  }
+ },
+ "532": {
+  "name": {
+   "en": "Dream Defender",
+   "de": "Traumverteidiger",
+   "fr": "défenseur du Rêve"
+  }
+ },
+ "539": {
+  "name": {
+   "en": "Strategist",
+   "de": "Stratege",
+   "fr": "Stratège"
+  }
+ },
+ "554": {
+  "name": {
+   "en": "Forged Warlord",
+   "de": "Geschmiedeter Kriegsfürst",
+   "fr": "Seigneur de guerre forgé"
+  }
+ },
+ "555": {
+  "name": {
+   "en": "Forged Marshal",
+   "de": "Geschmiedeter Marschall",
+   "fr": "Maréchal forgé"
+  }
+ },
+ "569": {
+  "name": {
+   "en": "Witness of the Kirin Tor",
+   "de": "Zeuge der Kirin Tor",
+   "fr": "témoin du Kirin Tor"
+  }
+ },
+ "572": {
+  "name": {
+   "en": "Silksinger",
+   "de": "Seidensänger",
+   "fr": "Chante-soie"
+  }
+ },
+ "573": {
+  "name": {
+   "en": "Anub'",
+   "de": "Anub'",
+   "fr": "Anub’"
+  }
+ },
+ "574": {
+  "name": {
+   "en": "Hand of the Vizier",
+   "de": "Hand des Wesirs",
+   "fr": "la main du vizir"
+  }
+ },
+ "636": {
+  "name": {
+   "en": "the Triple Threat",
+   "de": "die dreifache Gefahr",
+   "fr": "la triple menace"
+  }
+ },
+ "613": {
+  "name": {
+   "en": "Junkmaestro",
+   "de": "Schrottmaestro",
+   "fr": "As de la casse"
+  }
+ },
+ "558": {
+  "name": {
+   "en": "Forged Gladiator",
+   "de": "Geschmiedeter Gladiator",
+   "fr": "Gladiateur forgé"
+  }
+ },
+ "559": {
+  "name": {
+   "en": "Forged Legend",
+   "de": "Geschmiedete Legende",
+   "fr": "Légende forgée"
+  }
+ },
+ "564": {
+  "name": {
+   "en": "Machine Whisperer",
+   "de": "Maschinenflüsterer",
+   "fr": "Dompteur de machines"
+  }
+ },
+ "565": {
+  "name": {
+   "en": "Honorary Councilmember",
+   "de": "Ehrenratsmitglied",
+   "fr": "Membre honoraire du conseil"
+  }
+ },
+ "566": {
+  "name": {
+   "en": "Lamplighter",
+   "de": "Lampenanzünder",
+   "fr": "Falotier"
+  }
+ },
+ "567": {
+  "name": {
+   "en": "Thread-Spinner",
+   "de": "Fadenspinner",
+   "fr": "Fileur"
+  }
+ },
+ "579": {
+  "name": {
+   "en": "the Tempered",
+   "de": "der Gehärtete",
+   "fr": "le Trempé"
+  }
+ },
+ "517": {
+  "name": {
+   "en": "the Dreaming",
+   "de": "der Träumende",
+   "fr": "le songe"
+  }
+ },
+ "560": {
+  "name": {
+   "en": "Ascension Breaker",
+   "de": "Aufstiegsbrecher",
+   "fr": "le brise-Sublimation"
+  }
+ },
+ "577": {
+  "name": {
+   "en": "Grizzly Hills Hiker",
+   "de": "Wanderer der Grizzlyhügel",
+   "fr": "Randonneur des Grisonnes"
+  }
+ },
+ "578": {
+  "name": {
+   "en": "Plaguelands Survivor",
+   "de": "Überlebender der Pestländer",
+   "fr": "Rescapé des Maleterres"
+  }
+ },
+ "514": {
+  "name": {
+   "en": "of the Infinite",
+   "de": "des Ewigen",
+   "fr": "de l’Infini"
+  }
+ },
+ "594": {
+  "name": {
+   "en": "Khaz Algar Racer",
+   "de": "Reiter von Khaz Algar",
+   "fr": "Pilote de Khaz Algar"
+  }
+ },
+ "536": {
+  "name": {
+   "en": "Isles Archivist",
+   "de": "Archivar der Inseln",
+   "fr": "archiviste des îles"
+  }
+ },
+ "501": {
+  "name": {
+   "en": "Smelly",
+   "de": "Stinki",
+   "fr": "le Kifouette"
+  }
+ },
+ "498": {
+  "name": {
+   "en": "the Reconciler",
+   "de": "der Schlichter",
+   "fr": "le pacifiste"
+  }
+ },
+ "618": {
+  "name": {
+   "en": "the Reel Deal",
+   "de": "Walzenkönig",
+   "fr": "le fruit du hasard"
+  }
+ },
+ "548": {
+  "name": {
+   "en": "the Tempered Hero",
+   "de": "der gehärtete Held",
+   "fr": "le héros trempé"
+  }
+ },
+ "622": {
+  "name": {
+   "en": "Sentry",
+   "de": "Wachposten",
+   "fr": "Sentinelle"
+  }
+ },
+ "628": {
+  "name": {
+   "en": "Sacred Templar",
+   "de": "Heiliger Templer",
+   "fr": "Templier sacré"
+  }
+ },
+ "512": {
+  "name": {
+   "en": "the Inquisitive",
+   "de": "der Wissbegierige",
+   "fr": "le Fureteur"
+  }
+ },
+ "608": {
+  "name": {
+   "en": "Prized Gladiator",
+   "de": "Geachteter Gladiator",
+   "fr": "Gladiateur adulé"
+  }
+ },
+ "609": {
+  "name": {
+   "en": "Prized Warlord",
+   "de": "Geachteter Kriegsfürst",
+   "fr": "Seigneur de guerre adulé"
+  }
+ },
+ "610": {
+  "name": {
+   "en": "Prized Marshal",
+   "de": "Geachteter Marschall",
+   "fr": "Maréchal adulé"
+  }
+ },
+ "611": {
+  "name": {
+   "en": "Prized Legend",
+   "de": "Geachtete Legende",
+   "fr": "Légende adulée"
+  }
+ },
+ "570": {
+  "name": {
+   "en": "Seeker of Loot",
+   "de": "Beutesucher",
+   "fr": "chercheur de butin"
+  }
+ },
+ "522": {
+  "name": {
+   "en": "Dream Racer",
+   "de": "Traumrennpilot",
+   "fr": "Pilote du Rêve"
+  }
+ },
+ "524": {
+  "name": {
+   "en": "Emerald Ace",
+   "de": "Smaragdass",
+   "fr": "Champion d’émeraude"
+  }
+ },
+ "575": {
+  "name": {
+   "en": "the Bountiful",
+   "de": "der Großzügige",
+   "fr": "l’abondance"
+  }
+ },
+ "540": {
+  "name": {
+   "en": "Northrend Racer",
+   "de": "Rennreiter von Nordend",
+   "fr": "Pilote du Norfendre"
+  }
+ },
+ "644": {
+  "name": {
+   "en": "of the Twilight Star",
+   "de": "des Zwielichtsterns",
+   "fr": "de l’étoile du crépuscule"
+  }
+ },
+ "637": {
+  "name": {
+   "en": "the Unbound Hero",
+   "de": "der ungebundene Held",
+   "fr": "le héros délié"
+  }
+ },
+ "547": {
+  "name": {
+   "en": "Champion of the Dragonflights",
+   "de": "Champion der Drachenschwärme.",
+   "fr": "héraut des Vols draconiques"
+  }
+ },
+ "632": {
+  "name": {
+   "en": "Astral Warlord",
+   "de": "Astraler Kriegsfürst",
+   "fr": "Seigneur de guerre astral"
+  }
+ },
+ "633": {
+  "name": {
+   "en": "Astral Gladiator",
+   "de": "Astraler Gladiator",
+   "fr": "Gladiateur astral"
+  }
+ },
+ "634": {
+  "name": {
+   "en": "Astral Legend",
+   "de": "Astrale Legende",
+   "fr": "Légende astrale"
+  }
+ },
+ "635": {
+  "name": {
+   "en": "Astral Marshal",
+   "de": "Astraler Marschall",
+   "fr": "Maréchal astral"
+  }
+ },
+ "534": {
+  "name": {
+   "en": "Draconic Gladiator",
+   "de": "Drakonischer Gladiator",
+   "fr": "Gladiateur draconique"
+  }
+ },
+ "535": {
+  "name": {
+   "en": "Draconic Legend",
+   "de": "Drakonische Legende",
+   "fr": "Légende draconique"
+  }
+ },
+ "614": {
+  "name": {
+   "en": "Famed Slayer of Dimensius",
+   "de": "ruhmreicher Bezwinger von Dimensius",
+   "fr": "célèbre tueur de Dimensius"
+  }
+ },
+ "615": {
+  "name": {
+   "en": "Void Vanquisher",
+   "de": "Leerenbezwinger",
+   "fr": "Vainqueur du Vide"
+  }
+ },
+ "494": {
+  "name": {
+   "en": "the Key Master",
+   "de": "der Schlüsselmeister",
+   "fr": "le maître des clés"
+  }
+ },
+ "518": {
+  "name": {
+   "en": "Honorary Historian",
+   "de": "Ehrenhistoriker",
+   "fr": "spécialiste en histoire honoraire"
+  }
+ },
+ "551": {
+  "name": {
+   "en": "Timerunner",
+   "de": "Zeitläufer",
+   "fr": "Personnage du Cours du temps"
+  }
+ },
+ "552": {
+  "name": {
+   "en": "Paragon of the Mists",
+   "de": "Vorbild aus den Nebeln",
+   "fr": "parangon des brumes"
+  }
+ },
+ "553": {
+  "name": {
+   "en": "Claw of Eternus",
+   "de": "Klaue von Eternus",
+   "fr": "griffe d’Éternia"
+  }
+ },
+ "502": {
+  "name": {
+   "en": "Barter Boss",
+   "de": "Tauschboss",
+   "fr": "spécialiste du marchandage"
+  }
+ },
+ "758": {
+  "name": {
+   "en": "The Backbone of the Realm",
+   "de": "Rückgrat des Reiches",
+   "fr": "le pilier du royaume"
+  }
+ },
+ "687": {
+  "name": {
+   "en": "Terrace Terror",
+   "de": "Schrecken der Terrasse",
+   "fr": "Terreur de la terrasse"
+  }
+ },
+ "664": {
+  "name": {
+   "en": "Voidslayer",
+   "de": "Leerenschlächter",
+   "fr": "Tueur du Vide"
+  }
+ },
+ "678": {
+  "name": {
+   "en": "Dawnbringer",
+   "de": "Morgenbringer",
+   "fr": "Portelaube"
+  }
+ },
+ "689": {
+  "name": {
+   "en": "Fabled Vanquisher of Nullaeus",
+   "de": "sagenumwobener Bezwinger von Nullaeus",
+   "fr": "illustre pourfendeur de Vidaeus"
+  }
+ },
+ "748": {
+  "name": {
+   "en": "Thalassian Tailor",
+   "de": "Thalassischer Schneider",
+   "fr": "Couturier thalassien"
+  }
+ },
+ "754": {
+  "name": {
+   "en": "Dustlord",
+   "de": "Staubfürst",
+   "fr": "Noble-poussière"
+  }
+ },
+ "766": {
+  "name": {
+   "en": "Mrglgrgl of Grglmrgl",
+   "de": "Mrglgrgl von Grglmrgl",
+   "fr": "mrglgrgl de Grglmrgl"
+  }
+ },
+ "666": {
+  "name": {
+   "en": "Brawl Star",
+   "de": "Prügelprofi",
+   "fr": "Star de la baston"
+  }
+ },
+ "749": {
+  "name": {
+   "en": "Darkspear Dasher",
+   "de": "Dunkelspeersprinter",
+   "fr": "Coureur des Sombrelances"
+  }
+ },
+ "755": {
+  "name": {
+   "en": "Preyseeker",
+   "de": "Beutesucher",
+   "fr": "Traqueur"
+  }
+ },
+ "653": {
+  "name": {
+   "en": "Galactic Legend",
+   "de": "Galaktische Legende",
+   "fr": "Légende galactique"
+  }
+ },
+ "761": {
+  "name": {
+   "en": "World Apex",
+   "de": "Weltspitze",
+   "fr": "prédateur mondial"
+  }
+ },
+ "646": {
+  "name": {
+   "en": "Chronoscholar",
+   "de": "Chronogelehrter",
+   "fr": "Érudit temporel"
+  }
+ },
+ "740": {
+  "name": {
+   "en": "Loa-Speaker",
+   "de": "Loasprecher",
+   "fr": "Parle-Loa"
+  }
+ },
+ "659": {
+  "name": {
+   "en": "of the Infinite Chaos",
+   "de": "des ewigen Chaos",
+   "fr": "du chaos infini"
+  }
+ },
+ "654": {
+  "name": {
+   "en": "Galactic Gladiator",
+   "de": "Galaktischer Gladiator",
+   "fr": "Gladiateur galactique"
+  }
+ },
+ "690": {
+  "name": {
+   "en": "Spirebane",
+   "de": "Spitzenfluch",
+   "fr": "Fléau de la flèche"
+  }
+ },
+ "667": {
+  "name": {
+   "en": "Life of the Party",
+   "de": "der Mittelpunkt der Party",
+   "fr": "boute-en-train"
+  }
+ },
+ "681": {
+  "name": {
+   "en": "Scourgebane",
+   "de": "Geißelbann",
+   "fr": "Plaie-du-Fléau"
+  }
+ },
+ "682": {
+  "name": {
+   "en": "Top Student",
+   "de": "Spitzenschüler",
+   "fr": "élève modèle"
+  }
+ },
+ "752": {
+  "name": {
+   "en": "Thalassian Skinner",
+   "de": "Thalassischer Kürschner",
+   "fr": "Dépeceur thalassien"
+  }
+ },
+ "665": {
+  "name": {
+   "en": "Honorary Hara'ti",
+   "de": "Ehrenhara'ti",
+   "fr": "Hara’ti honoraire"
+  }
+ },
+ "668": {
+  "name": {
+   "en": "Famed Slayer of the Undreamt",
+   "de": "ruhmreicher Schlächter des Ungeträumten",
+   "fr": "célèbre tueur de l’Ineffable"
+  }
+ },
+ "680": {
+  "name": {
+   "en": "Chronicler of the Haranir",
+   "de": "Chronist der Haranir",
+   "fr": "chroniqueur des Haranir"
+  }
+ },
+ "691": {
+  "name": {
+   "en": "Treasure Seeker",
+   "de": "Schatzsucher",
+   "fr": "Chercheur de trésor"
+  }
+ },
+ "647": {
+  "name": {
+   "en": "Ba'",
+   "de": "Ba'",
+   "fr": "Ba’"
+  }
+ },
+ "648": {
+  "name": {
+   "en": "Zo'",
+   "de": "Zo'",
+   "fr": "Zo’"
+  }
+ },
+ "649": {
+  "name": {
+   "en": "Om'",
+   "de": "Om'",
+   "fr": "Om’"
+  }
+ },
+ "683": {
+  "name": {
+   "en": "Despair Defier",
+   "de": "Verachter der Verzweiflung",
+   "fr": "Duelliste du désespoir"
+  }
+ },
+ "685": {
+  "name": {
+   "en": "Nexus Navigator",
+   "de": "Nexusnavigator",
+   "fr": "navigateur de nexus"
+  }
+ },
+ "741": {
+  "name": {
+   "en": "Thalassian Alchemist",
+   "de": "Thalassischer Alchemist",
+   "fr": "Alchimiste thalassien"
+  }
+ },
+ "742": {
+  "name": {
+   "en": "Thalassian Blacksmith",
+   "de": "Thalassischer Schmied",
+   "fr": "Forgeron thalassien"
+  }
+ },
+ "743": {
+  "name": {
+   "en": "Thalassian Enchanter",
+   "de": "Thalassischer Verzauberer",
+   "fr": "Enchanteur thalassien"
+  }
+ },
+ "670": {
+  "name": {
+   "en": "Teacher of Strong",
+   "de": "stärkster Lehrer",
+   "fr": "mentor mycélien"
+  }
+ },
+ "757": {
+  "name": {
+   "en": "Caring Citizen",
+   "de": "Bemühter Bürger",
+   "fr": "Citoyen attentionné"
+  }
+ },
+ "658": {
+  "name": {
+   "en": "the Infernal",
+   "de": "der Höllische",
+   "fr": "l’infernal"
+  }
+ },
+ "663": {
+  "name": {
+   "en": "[PH]",
+   "de": "[PH]",
+   "fr": "[PH]"
+  }
+ },
+ "751": {
+  "name": {
+   "en": "Thalassian Herbalist",
+   "de": "Thalassischer Kräuterkundiger",
+   "fr": "Herboriste thalassien"
+  }
+ },
+ "762": {
+  "name": {
+   "en": "Azeroth's Top Ten Youth",
+   "de": "Top Ten von Azeroths Jugend",
+   "fr": "Jeune du top dix d’Azeroth"
+  }
+ },
+ "688": {
+  "name": {
+   "en": "the Ominous",
+   "de": "der Unheilvolle",
+   "fr": "le sinistre"
+  }
+ },
+ "756": {
+  "name": {
+   "en": "Volunteer",
+   "de": "Freiwilliger",
+   "fr": "Volontaire"
+  }
+ },
+ "677": {
+  "name": {
+   "en": "Famed Slayer of the Dark Naaru",
+   "de": "ruhmreicher Schlächter des Dunklen Naaru",
+   "fr": "célèbre tueur du Naaru noir"
+  }
+ },
+ "684": {
+  "name": {
+   "en": "Windrunner Mediator",
+   "de": "Windläufervermittler",
+   "fr": "Médiateur de Coursevent"
+  }
+ },
+ "686": {
+  "name": {
+   "en": "Maisaran Soultender",
+   "de": "Maisaraseelenhüter",
+   "fr": "Soignelâme de Maisara"
+  }
+ },
+ "676": {
+  "name": {
+   "en": "Famed Slayer of the Voidspire",
+   "de": "ruhmreicher Schlächter der Leerenspitze",
+   "fr": "célèbre tueur de la flèche du Vide"
+  }
+ },
+ "645": {
+  "name": {
+   "en": "Khaz Algar Enthusiast",
+   "de": "Enthusiast von Khaz Algar",
+   "fr": "Féru de Khaz Algar"
+  }
+ },
+ "662": {
+  "name": {
+   "en": "[PH]",
+   "de": "[PH]",
+   "fr": "[PH]"
+  }
+ },
+ "679": {
+  "name": {
+   "en": "Dream-Eater",
+   "de": "Traumschlinger",
+   "fr": "le mange-rêve"
+  }
+ },
+ "744": {
+  "name": {
+   "en": "Thalassian Engineer",
+   "de": "Thalassischer Ingenieur",
+   "fr": "Ingénieur thalassien"
+  }
+ },
+ "660": {
+  "name": {
+   "en": "[PH]",
+   "de": "[PH]",
+   "fr": "[PH]"
+  }
+ },
+ "750": {
+  "name": {
+   "en": "Thalassian Miner",
+   "de": "Thalassischer Minenarbeiter",
+   "fr": "Mineur thalassien"
+  }
+ },
+ "759": {
+  "name": {
+   "en": "The Philanthropist",
+   "de": "der Philanthrop",
+   "fr": "le philanthrope"
+  }
+ },
+ "661": {
+  "name": {
+   "en": "[PH]",
+   "de": "[PH]",
+   "fr": "[PH]"
+  }
+ },
+ "652": {
+  "name": {
+   "en": "Galactic Warlord",
+   "de": "Galaktischer Kriegsfürst",
+   "fr": "Seigneur de guerre galactique"
+  }
+ },
+ "746": {
+  "name": {
+   "en": "Thalassian Jewelcrafter",
+   "de": "Thalassischer Juwelenschleifer",
+   "fr": "Joaillier thalassien"
+  }
+ },
+ "764": {
+  "name": {
+   "en": "Big Brother",
+   "de": "Großer Bruder",
+   "fr": "Grand frère"
+  }
+ },
+ "657": {
+  "name": {
+   "en": "the Furnished",
+   "de": "der Ausgestattete",
+   "fr": "pro de la déco"
+  }
+ },
+ "760": {
+  "name": {
+   "en": "The Everlasting",
+   "de": "der Ewigwährende",
+   "fr": "le sempiternel"
+  }
+ },
+ "747": {
+  "name": {
+   "en": "Thalassian Leatherworker",
+   "de": "Thalassischer Lederverarbeiter",
+   "fr": "Travailleur du cuir thalassien"
+  }
+ },
+ "656": {
+  "name": {
+   "en": "the Umbral Hero",
+   "de": "der Schattenheld",
+   "fr": "le héros ombreux"
+  }
+ },
+ "650": {
+  "name": {
+   "en": "Delver",
+   "de": "Tiefenforscher",
+   "fr": "Gouffrologue"
+  }
+ },
+ "669": {
+  "name": {
+   "en": "Azeroth's Vanguard",
+   "de": "Frontkämpfer von Azeroth",
+   "fr": "avant-garde d’Azeroth"
+  }
+ },
+ "753": {
+  "name": {
+   "en": "the Singular",
+   "de": "der Singulare",
+   "fr": "le Singulier"
+  }
+ },
+ "655": {
+  "name": {
+   "en": "the Umbral",
+   "de": "der Schattenhafte",
+   "fr": "l’ombreux"
+  }
+ },
+ "745": {
+  "name": {
+   "en": "Thalassian Scribe",
+   "de": "Thalassischer Schreiber",
+   "fr": "Calligraphe thalassien"
+  }
+ },
+ "651": {
+  "name": {
+   "en": "Galactic Marshal",
+   "de": "Galaktischer Marschall",
+   "fr": "Maréchal galactique"
+  }
+ },
+ "671": {
+  "name": {
+   "en": "Mind-Seeker",
+   "de": "Gedankensucher",
+   "fr": "Cherche-esprit"
+  }
+ },
+ "763": {
+  "name": {
+   "en": "Model of the Era",
+   "de": "Vorbild einer Ära",
+   "fr": "Modèle de l’ère"
+  }
+ },
+ "772": {
+  "name": {
+   "en": "Void Breacher",
+   "de": "Leerenbrecher",
+   "fr": "Brise-Vide"
+  }
+ },
+ "773": {
+  "name": {
+   "en": "the Umbral Contender",
+   "de": "der Schattenstreiter",
+   "fr": "le belligérant ombreux"
+  }
+ }
+}

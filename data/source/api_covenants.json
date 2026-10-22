@@ -1,0 +1,74 @@
+{
+ "1": {
+  "name": {
+   "en": "Kyrian",
+   "de": "Kyrianer",
+   "fr": "Kyrians"
+  },
+  "description": {
+   "en": "The Kyrian are steadfast guardians of the afterlife who bear the souls of the dead into the Shadowlands. Eternally devoted to duty and service, only the worthy may enter their ranks.",
+   "de": "Die Kyrianer sind die standhaften Wächter des Jenseits und geleiten die Seelen der Toten in die Schattenlande. Sie widmen ihr ganzes Dasein ihren Pflichten und ihrem ewigen Dienst, und nur den Würdigen ist es vergönnt, sich ihnen anzuschließen.",
+   "fr": "Gardiens inébranlables de l’au-delà, les Kyrians ont la charge d’accompagner les âmes des morts jusqu’en Ombreterre. Engagés pour l’éternité au service d’autrui, ils n’acceptent dans leurs rangs que ceux qu’ils jugent dignes de les rejoindre."
+  }
+ },
+ "2": {
+  "name": {
+   "en": "Venthyr",
+   "de": "Venthyr",
+   "fr": "Venthyrs"
+  },
+  "description": {
+   "en": "The Venthyr are aristocratic overseers of souls burdened with excessive pride and wickedness. They guide troubled souls upon the rigorous path to atonement, harvesting anima to keep their realm strong.",
+   "de": "Die adligen Venthyr sind die Aufseher aller Seelen, auf denen die Bürde exzessiven Stolzes und maßloser Boshaftigkeit lastet. Sie führen derart geplagte Seelen auf den rechtschaffenen Pfad zur Sühne und ernten dabei Anima, um die Stärke ihres Reichs zu bewahren.",
+   "fr": "Aristocrates jusqu’au bout des ongles, les Venthyrs sont responsables des âmes accablées par la méchanceté et un orgueil démesuré. Ils les guident sur le chemin rigoureux de l’expiation et récoltent leur anima pour assurer la pérennité de leur royaume."
+  }
+ },
+ "3": {
+  "name": {
+   "en": "Night Fae",
+   "de": "Nachtfae",
+   "fr": "Faë nocturnes"
+  },
+  "description": {
+   "en": "The Night Fae tend to fallen nature spirits who slumber within the tranquil forest. Those with a deep bond to nature may join their cause, ensuring that the rejuvenated spirits can one day rejoin the eternal cycle.",
+   "de": "Die Nachtfae kümmern sich um die gefallenen Naturgeister, die in ihrem friedvollen Wald ruhen. Wer eine innige Verbindung zur Natur besitzt, vermag sich ihrer Sache anzuschließen, um dafür zu sorgen, dass die regenerierten Geister eines Tages wieder in den ewigen Kreislauf zurückkehren können.",
+   "fr": "Les Faë nocturnes veillent sur les esprits de la nature défunts qui sommeillent dans leur paisible forêt. Ceux qui éprouvent une profonde affinité avec la nature sont invités à les rejoindre pour œuvrer au retour des esprits régénérés dans le cycle éternel."
+  }
+ },
+ "4": {
+  "name": {
+   "en": "Necrolord",
+   "de": "Nekrolords",
+   "fr": "Nécro-seigneurs"
+  },
+  "description": {
+   "en": "Among the Necrolords, strength is rewarded and weakness cast aside. The souls of the ambitious and contentious are forged into an immortal army charged with the defense of the Shadowlands.",
+   "de": "Unter den Nekrolords wird Stärke belohnt und Schwäche getilgt. Die Seelen der Ehrgeizigen und Streitsüchtigen werden zu einer Armee aus unsterblichen Soldaten geschmiedet, deren Aufgabe es ist, die Schattenlande zu verteidigen.",
+   "fr": "Les nécro-seigneurs récompensent la force et méprisent la faiblesse. Ils aguerrissent les âmes ambitieuses et belliqueuses avant de les enrôler dans leur armée immortelle chargée de défendre l’Ombreterre."
+  }
+ },
+ "12": {
+  "name": {
+   "en": "Maruuk Centaur",
+   "de": "Zentauren der Maruuk",
+   "fr": "Centaure maruuk"
+  },
+  "description": {
+   "en": "The various centaur clans of the Ohn'ahran plains all identify as the Maruuk Centaur.",
+   "de": "Die verschiedenen Zentaurenklans der Ebenen von Ohn'ahra werden allesamt als Zentauren der Maruuk bezeichnet.",
+   "fr": "Les différents clans de Centaures des plaines d’Ohn’ahra sont tous réunis sous la bannière des Maruuks."
+  }
+ },
+ "13": {
+  "name": {
+   "en": "Dragonscale Expedition",
+   "de": "Drachenschuppenexpedition",
+   "fr": "Expédition du Dracaret"
+  },
+  "description": {
+   "en": "The Explorers' League and the Reliquary have joined forces for an expedition into the Dragon Isles.",
+   "de": "Die Forscherliga und die Archäologische Akademie haben sich für eine gemeinsame Expedition zu den Dracheninseln zusammengeschlossen.",
+   "fr": "La Ligue des explorateurs et le Reliquaire ont organisé une expédition conjointe dans les îles aux Dragons."
+  }
+ }
+}

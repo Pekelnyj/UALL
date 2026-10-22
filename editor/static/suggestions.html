@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Пропозиції — temnozelena.com</title>
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("wowua-theme")||"dark"}catch(e){}</script>
+<link rel="stylesheet" href="/theme.css">
+<script src="/theme.js" defer></script>
+<style>
+  :root{
+    --bg:#16181d; --bg2:#1d2027; --bg3:#23272f; --line:#2e333d;
+    --fg:#e6e8ec; --muted:#8b919c; --muted2:#6b7180;
+    --gold:#f0c64a; --gold-dim:#c9a23a;
+    --green:#3fb950; --green-bg:#16321d; --red:#f0584f; --red-bg:#341816;
+    --en:#cfd3da; --aux:#9aa0ab; --focus:#5a7fb5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Noto Sans",system-ui,-apple-system,Arial,sans-serif; font-size:15px; line-height:1.45}
+  a{color:var(--gold)}
+  header{position:sticky; top:0; z-index:10; background:var(--bg2); border-bottom:1px solid var(--line);
+    padding:12px 18px; display:flex; align-items:center; gap:14px; flex-wrap:wrap}
+  .brand{font-size:18px; font-weight:600; color:var(--green); margin:0}
+  .brand small{color:var(--muted); font-weight:400; font-size:13px; margin-left:8px}
+  .spacer{flex:1}
+  .who{color:var(--muted); font-size:13px} .who b{color:var(--fg)}
+  .userbtn{font-size:13px; color:var(--fg); background:var(--bg3); border:1px solid var(--line);
+    border-radius:7px; padding:7px 10px; text-decoration:none}
+  .userbtn:hover{background:#2b303a}
+  main{max-width:900px; margin:0 auto; padding:18px}
+  select,input[type=text],textarea,button{font-family:inherit; font-size:14px; color:var(--fg);
+    background:var(--bg3); border:1px solid var(--line); border-radius:7px; padding:7px 10px; outline:none}
+  input:focus,textarea:focus,select:focus{border-color:var(--focus)}
+  button{cursor:pointer}
+  .card{background:var(--bg2); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:12px}
+  .meta{font-size:12px; color:var(--muted2); display:flex; align-items:center; gap:8px; flex-wrap:wrap}
+  .meta b{color:var(--muted)}
+  .pill{display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:20px}
+  .pill.author{background:#23272f; color:var(--gold)}
+  .pill.pending{background:#23272f; color:var(--muted)}
+  .pill.approved{background:var(--green-bg); color:var(--green)}
+  .pill.rejected{background:var(--red-bg); color:var(--red)}
+  .src{margin:3px 0; white-space:pre-wrap; word-break:break-word}
+  .src .lbl{display:inline-block; min-width:46px; font-size:11px; font-weight:700; color:var(--muted2); margin-right:6px}
+  .en{color:var(--en)} .cur{color:var(--aux)} .new{color:var(--green)}
+  .votes{display:flex; gap:8px; margin-top:10px; align-items:center; flex-wrap:wrap}
+  .vote{background:var(--bg3); border:1px solid var(--line); border-radius:20px; padding:5px 12px; font-size:14px; color:var(--fg)}
+  .vote:hover{background:#2b303a}
+  .vote.on.up{background:var(--green-bg); border-color:#235c30; color:var(--green)}
+  .vote.on.down{background:var(--red-bg); border-color:#5a2420; color:var(--red)}
+  .vote.on.neu{background:#2a2710; border-color:#5a4d18; color:var(--gold)}
+  .cbtn{background:none; border:none; color:var(--muted); font-size:13px; padding:4px 0; text-decoration:underline}
+  .cbtn:hover{color:var(--fg)}
+  .adminbtns{margin-left:auto; display:flex; gap:8px}
+  .b-ok{background:var(--green-bg); color:var(--green); border:1px solid #235c30; border-radius:7px; padding:5px 12px}
+  .b-no{background:var(--red-bg); color:var(--red); border:1px solid #5a2420; border-radius:7px; padding:5px 12px}
+  .comments{margin-top:10px; border-top:1px solid var(--line); padding-top:10px; display:none}
+  .comment{font-size:13px; margin:6px 0; padding-left:8px; border-left:2px solid var(--line)}
+  .comment .who2{color:var(--gold); font-weight:600}
+  .comment .when{color:var(--muted2); font-size:11px; margin-left:6px}
+  .comment .del{background:none;border:none;color:var(--muted2);cursor:pointer;font-size:12px;margin-left:6px}
+  .caddrow{display:flex; gap:8px; margin-top:8px}
+  .caddrow input{flex:1}
+  .review{margin-top:8px; border-left:3px solid var(--gold); padding-left:8px; font-size:13px; color:var(--muted)}
+  .toast{font-size:13px} .toast.ok{color:var(--green)} .toast.err{color:var(--red)}
+  .note{padding:30px 10px; text-align:center; color:var(--muted)}
+  .spinner{display:inline-block; width:14px; height:14px; vertical-align:-2px; border:2px solid var(--muted2);
+    border-top-color:transparent; border-radius:50%; animation:spin .7s linear infinite; margin-right:6px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<header>
+  <h1 class="brand"><a href="/" style="color:inherit;text-decoration:none" title="На головну">temnozelena.com</a> <small>пропозиції</small></h1>
+  <div class="spacer"></div>
+  <span class="who" id="who">&nbsp;</span>
+  <select id="themeSel" class="themesel" title="Тема">
+    <option value="dark">🌙 Темна</option>
+    <option value="light">☀️ Світла</option>
+    <option value="oled">⬛ OLED</option>
+    <option value="medoid">🌿 Медоїд</option>
+  </select>
+  <a href="https://discord.com/invite/je7ruJVay6" target="_blank" rel="noopener noreferrer" class="userbtn" style="color:#5865f2">Discord</a>
+  <a href="/" class="userbtn">← до редактора</a>
+  <button class="userbtn" id="logout">Вийти</button>
+</header>
+<main>
+  <div class="card" style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+    <span style="color:var(--muted);font-size:13px">Пропозиції спільноти — читають усі. Голосуй 👍 / ❓ / 👎 і коментуй.
+      Створити: у <a href="/">редакторі</a> знайди рядок, зміни переклад → <b>«Запропонувати»</b>.</span>
+    <span class="spacer"></span>
+    <span style="color:var(--muted);font-size:13px">Статус:</span>
+    <select id="status">
+      <option value="pending">на розгляді</option>
+      <option value="approved">ухвалені</option>
+      <option value="rejected">відхилені</option>
+    </select>
+  </div>
+  <div id="list"><div class="note"><span class="spinner"></span>Завантаження…</div></div>
+</main>
+<script>
+"use strict";
+(function(){
+  const $ = (id) => document.getElementById(id);
+  function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+  function fdate(t){ const n=parseFloat(t); if(!n) return ""; return new Date(n*1000).toLocaleString("uk-UA"); }
+  async function api(url, opts){
+    const r = await fetch(url, opts);
+    if(r.status === 401){ location.href="/login"; throw new Error("Потрібен вхід"); }
+    let b=null; try{ b=await r.json(); }catch(e){}
+    if(!r.ok){ throw new Error((b&&b.detail&&typeof b.detail==="string")?b.detail:("HTTP "+r.status)); }
+    return b;
+  }
+  const ME = { name:"", role:"" };
+  (async function(){
+    try{ const m=await api("/api/me"); ME.name=m.name; ME.role=m.role; $("who").innerHTML=`<b>${esc(m.name)}</b> · ${esc(m.role)}`; }catch(e){}
+  })();
+  $("logout").addEventListener("click", async () => { try{ await fetch("/api/logout",{method:"POST"}); }catch(e){} location.href="/login"; });
+
+  $("status").addEventListener("change", load);
+
+  async function load(){
+    $("list").innerHTML = `<div class="note"><span class="spinner"></span>Завантаження…</div>`;
+    try{
+      const rows = await api("/api/suggestions?status=" + $("status").value);
+      if(!rows.length){ $("list").innerHTML = `<div class="note">Немає пропозицій.</div>`; return; }
+      $("list").innerHTML = "";
+      for(const g of rows) $("list").appendChild(card(g));
+    }catch(e){ $("list").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+
+  function voteBar(g){
+    const wrap = document.createElement("div");
+    wrap.className = "votes";
+    const defs = [["up",1,"👍"],["neu",0,"❓"],["down",-1,"👎"]];
+    const btns = {};
+    for(const [cls,val,emoji] of defs){
+      const b = document.createElement("button");
+      b.className = "vote " + cls + (g.my_vote===val ? " on" : "");
+      b.innerHTML = `${emoji} <b>${cls==="up"?g.up:cls==="down"?g.down:g.neutral}</b>`;
+      b.addEventListener("click", async () => {
+        try{
+          const r = await api(`/api/suggestions/${g.id}/vote`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({value:val})});
+          g.my_vote=r.my_vote; g.up=r.up; g.down=r.down; g.neutral=r.neutral;
+          for(const [c,v,e] of defs){
+            btns[c].className = "vote " + c + (g.my_vote===v ? " on" : "");
+            btns[c].innerHTML = `${e} <b>${c==="up"?g.up:c==="down"?g.down:g.neutral}</b>`;
+          }
+        }catch(ex){ /* ignore */ }
+      });
+      btns[cls]=b; wrap.appendChild(b);
+    }
+    return wrap;
+  }
+
+  function card(g){
+    const c = document.createElement("div");
+    c.className = "card";
+    const stCls = g.status==="approved"?"approved":g.status==="rejected"?"rejected":"pending";
+    const stTxt = g.status==="approved"?"ухвалено":g.status==="rejected"?"відхилено":"на розгляді";
+    c.innerHTML = `
+      <div class="meta">
+        <b>${esc(g.section||"")}</b> · ${esc(g.item_key||"")} ${g.field?("· "+esc(g.field)):""}
+        <span class="pill author" title="хто пропонує">${esc(g.author||"?")}</span>
+        <span>${fdate(g.created_at)}</span>
+        <span class="pill ${stCls}">${stTxt}</span>
+      </div>
+      ${g.en ? `<div class="src"><span class="lbl">EN</span><span class="en">${esc(g.en)}</span></div>`:""}
+      <div class="src"><span class="lbl">тепер</span><span class="cur">${esc(g.current_ua)}</span></div>
+      <div class="src"><span class="lbl">→</span><span class="new">${esc(g.suggested_ua)}</span></div>
+      ${g.comment ? `<div class="meta" style="margin-top:6px">💬 ${esc(g.comment)}</div>`:""}
+      ${g.review_comment ? `<div class="review">📩 ${esc(g.reviewed_by||"")}: ${esc(g.review_comment)}</div>`:""}`;
+    // голоси + (адмін) ухвалити/відхилити
+    const vrow = voteBar(g);
+    if(ME.role==="admin" && g.status==="pending"){
+      const ab = document.createElement("div"); ab.className="adminbtns";
+      const ok = document.createElement("button"); ok.className="b-ok"; ok.textContent="Ухвалити";
+      const no = document.createElement("button"); no.className="b-no"; no.textContent="Відхилити";
+      ok.addEventListener("click", async ()=>{ try{ await api(`/api/admin/suggestions/${g.id}/approve`,{method:"POST"}); load(); }catch(e){} });
+      no.addEventListener("click", async ()=>{ const reason=prompt("Причина відхилення (побачить автор; необов'язкова):",""); if(reason===null) return;
+        try{ await api(`/api/admin/suggestions/${g.id}/reject`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({comment:reason})}); load(); }catch(e){} });
+      ab.appendChild(ok); ab.appendChild(no); vrow.appendChild(ab);
+    }
+    if(g.author===ME.name || ME.role==="admin"){
+      const del = document.createElement("button"); del.className="vote"; del.textContent="🗑";
+      del.title="Видалити пропозицію";
+      del.addEventListener("click", async ()=>{
+        if(!confirm("Видалити цю пропозицію?")) return;
+        try{ await api(`/api/suggestions/${g.id}`,{method:"DELETE"}); c.remove(); }catch(e){}
+      });
+      vrow.appendChild(del);
+    }
+    c.appendChild(vrow);
+    // коментарі
+    const toggle = document.createElement("button");
+    toggle.className="cbtn"; toggle.textContent = `💬 коментарі (${g.n_comments})`;
+    const box = document.createElement("div"); box.className="comments";
+    let loaded = false;
+    toggle.addEventListener("click", async ()=>{
+      const show = box.style.display !== "block";
+      box.style.display = show ? "block" : "none";
+      if(show && !loaded){ loaded=true; await renderComments(g.id, box); }
+    });
+    c.appendChild(toggle); c.appendChild(box);
+    return c;
+  }
+
+  async function renderComments(sgid, box){
+    box.innerHTML = `<div class="note" style="padding:8px"><span class="spinner"></span></div>`;
+    let rows = [];
+    try{ rows = await api(`/api/suggestions/${sgid}/comments`); }catch(e){ box.innerHTML=`<div class="note">${esc(e.message)}</div>`; return; }
+    box.innerHTML = "";
+    for(const cm of rows) box.appendChild(commentEl(cm));
+    const row = document.createElement("div"); row.className="caddrow";
+    const inp = document.createElement("input"); inp.type="text"; inp.placeholder="ваш коментар…";
+    const send = document.createElement("button"); send.className="userbtn"; send.textContent="Надіслати";
+    const doSend = async ()=>{
+      const t = inp.value.trim(); if(!t) return;
+      try{ await api(`/api/suggestions/${sgid}/comments`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({text:t})});
+        inp.value=""; await renderComments(sgid, box);
+      }catch(ex){ /* ignore */ }
+    };
+    send.addEventListener("click", doSend);
+    inp.addEventListener("keydown",(e)=>{ if(e.key==="Enter"){ e.preventDefault(); doSend(); } });
+    row.appendChild(inp); row.appendChild(send); box.appendChild(row);
+  }
+
+  function commentEl(cm){
+    const el = document.createElement("div"); el.className="comment";
+    el.innerHTML = `<span class="who2">${esc(cm.author)}</span><span class="when">${fdate(cm.ts)}</span><br>${esc(cm.text)}`;
+    if(ME.role==="admin" || cm.author===ME.name){
+      const del = document.createElement("button"); del.className="del"; del.textContent="видалити";
+      del.addEventListener("click", async ()=>{ try{ await api(`/api/suggestions/comments/${cm.id}`,{method:"DELETE"}); el.remove(); }catch(e){} });
+      el.appendChild(del);
+    }
+    return el;
+  }
+
+  load();
+})();
+</script>
+</body>
+</html>

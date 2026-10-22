@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Мої правки — temnozelena.com</title>
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("wowua-theme")||"dark"}catch(e){}</script>
+<link rel="stylesheet" href="/theme.css">
+<script src="/theme.js" defer></script>
+<style>
+  :root{
+    --bg:#16181d; --bg2:#1d2027; --bg3:#23272f; --line:#2e333d;
+    --fg:#e6e8ec; --muted:#8b919c; --muted2:#6b7180;
+    --gold:#f0c64a; --gold-dim:#c9a23a;
+    --green:#3fb950; --red:#f0584f; --red-bg:#341816;
+    --en:#cfd3da; --aux:#9aa0ab; --focus:#5a7fb5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Noto Sans",system-ui,-apple-system,Arial,sans-serif; font-size:15px; line-height:1.45}
+  a{color:var(--gold); text-decoration:none}
+  header{position:sticky; top:0; z-index:10; background:var(--bg2); border-bottom:1px solid var(--line);
+    padding:12px 18px; display:flex; align-items:center; gap:14px; flex-wrap:wrap}
+  .brand{font-size:18px; font-weight:600; color:var(--green); margin:0}
+  .brand small{color:var(--muted); font-weight:400; font-size:13px; margin-left:8px}
+  .spacer{flex:1}
+  .who{color:var(--muted); font-size:13px}
+  .who b{color:var(--fg)}
+  .userbtn{font-size:13px; color:var(--fg); background:var(--bg3); border:1px solid var(--line);
+    border-radius:7px; padding:7px 10px}
+  .userbtn:hover{background:#2b303a}
+  main{max-width:1000px; margin:0 auto; padding:18px}
+  .card{background:var(--bg2); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:12px}
+  .meta{font-size:12px; color:var(--muted2); display:flex; align-items:center; gap:8px; flex-wrap:wrap}
+  .meta b{color:var(--muted)}
+  .pill{display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:20px}
+  .pill.editor{background:#10322a; color:#4fd1b0}
+  .pill.contributor{background:#23272f; color:var(--muted)}
+  .pill.rej{background:#341816; color:#f0584f}
+  .src{margin:2px 0; white-space:pre-wrap; word-break:break-word}
+  .src .lbl{display:inline-block; min-width:24px; font-size:11px; font-weight:700; color:var(--muted2); margin-right:6px}
+  .en{color:var(--en)} .old{color:var(--red)} .new{color:var(--green)}
+  button{font-family:inherit; font-size:13px; cursor:pointer; border-radius:7px; padding:5px 10px}
+  .ghost{background:var(--bg3); color:var(--fg); border:1px solid var(--line)}
+  .ghost:hover{background:#2b303a}
+  .note{padding:34px 10px; text-align:center; color:var(--muted)}
+  .toast{font-size:13px; margin-left:6px}
+  .toast.ok{color:var(--green)} .toast.err{color:var(--red)}
+  .spinner{display:inline-block; width:14px; height:14px; vertical-align:-2px; border:2px solid var(--muted2);
+    border-top-color:transparent; border-radius:50%; animation:spin .7s linear infinite; margin-right:6px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<header>
+  <h1 class="brand"><a href="/" style="color:inherit;text-decoration:none" title="На головну">temnozelena.com</a> <small>мої правки</small></h1>
+  <div class="spacer"></div>
+  <span class="who" id="who">&nbsp;</span>
+  <select id="themeSel" class="themesel" title="Тема">
+    <option value="dark">🌙 Темна</option>
+    <option value="light">☀️ Світла</option>
+    <option value="oled">⬛ OLED</option>
+    <option value="medoid">🌿 Медоїд</option>
+  </select>
+  <a href="https://discord.com/invite/je7ruJVay6" target="_blank" rel="noopener noreferrer" class="userbtn" style="color:#5865f2">Discord</a>
+  <a href="/" class="userbtn">← до редактора</a>
+</header>
+<main>
+  <h2 style="font-size:15px;color:var(--gold);margin:6px 2px 10px">Мої пропозиції</h2>
+  <div class="card" style="color:var(--muted);font-size:13px">
+    Пропозиції, які ти подав(-ла) на розгляд. Якщо адмін відхилив — тут буде <b style="color:var(--fg)">причина</b>.
+  </div>
+  <div id="sugbox"><div class="note"><span class="spinner"></span>Завантаження…</div></div>
+
+  <h2 style="font-size:15px;color:var(--gold);margin:22px 2px 10px">Мої правки</h2>
+  <div class="card" style="color:var(--muted);font-size:13px">
+    Прямі правки. Можеш <b style="color:var(--fg)">видалити</b> свою правку з журналу
+    (<span class="pill contributor">на розгляді</span> чекає на ухвалення адміном,
+    <span class="pill editor">прийнято</span> вже в артефакті).
+  </div>
+  <div id="box"><div class="note"><span class="spinner"></span>Завантаження…</div></div>
+</main>
+<script>
+"use strict";
+(function(){
+  const $ = (id) => document.getElementById(id);
+  function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+  function fdate(t){ const n=parseFloat(t); if(!n) return "—"; return new Date(n*1000).toLocaleString("uk-UA"); }
+  async function api(url, opts){
+    const r = await fetch(url, opts);
+    if(r.status === 401){ location.href = "/login"; throw new Error("Потрібен вхід"); }
+    let b=null; try{ b=await r.json(); }catch(e){}
+    if(!r.ok){ throw new Error((b&&b.detail&&typeof b.detail==="string")?b.detail:("HTTP "+r.status)); }
+    return b;
+  }
+
+  (async function(){
+    try{ const m = await api("/api/me"); $("who").innerHTML = `<b>${esc(m.name)}</b> · ${esc(m.role)}`; }catch(e){}
+  })();
+
+  async function load(){
+    $("box").innerHTML = `<div class="note"><span class="spinner"></span>Завантаження…</div>`;
+    try{
+      const rows = await api("/api/my/history?limit=300");
+      if(!rows.length){ $("box").innerHTML = `<div class="note">Ти ще не вносив(-ла) правок.</div>`; return; }
+      $("box").innerHTML = "";
+      for(const h of rows) $("box").appendChild(card(h));
+    }catch(e){ $("box").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+
+  function histBadge(s){
+    if(s === "accepted") return '<span class="pill editor">прийнято</span>';
+    if(s === "rejected") return '<span class="pill rej">відхилено</span>';
+    return '<span class="pill contributor">на розгляді</span>';
+  }
+  function card(h){
+    const el = document.createElement("div");
+    el.className = "card";
+    let reviewHtml = "";
+    if(h.status === "rejected" && h.review_comment){
+      reviewHtml = `<div class="meta" style="margin-top:6px;border-left:3px solid var(--gold);padding-left:8px">`
+        + `📩 Причина відхилення${h.reviewed_by?(" ("+esc(h.reviewed_by)+")"):""}: ${esc(h.review_comment)}</div>`;
+    }
+    el.innerHTML = `
+      <div class="meta">
+        <b>${esc(h.section||"")}</b> · ${esc(h.item_key||"")} ${h.field?("· "+esc(h.field)):""}
+        <span class="spacer"></span>
+        <span>${fdate(h.ts)}</span> ${histBadge(h.status)}
+        <button class="ghost del">🗑 видалити</button>
+        <span class="toast"></span>
+      </div>
+      ${h.en ? `<div class="src"><span class="lbl">EN</span><span class="en">${esc(h.en)}</span></div>`:""}
+      <div class="src"><span class="lbl">−</span><span class="old">${esc(h.old_ua)}</span></div>
+      <div class="src"><span class="lbl">+</span><span class="new">${esc(h.new_ua)}</span></div>
+      ${h.comment ? `<div class="meta" style="margin-top:6px">💬 ${esc(h.comment)}</div>`:""}
+      ${reviewHtml}`;
+    const toast = el.querySelector(".toast");
+    el.querySelector(".del").addEventListener("click", async () => {
+      if(!confirm("Видалити цю свою правку з журналу?")) return;
+      try{ await api(`/api/history/${h.id}`, {method:"DELETE"}); el.remove(); }
+      catch(ex){ toast.className="toast err"; toast.textContent=ex.message; }
+    });
+    return el;
+  }
+
+  // ---- мої пропозиції ----
+  function sugBadge(s){
+    if(s === "approved") return '<span class="pill editor">ухвалено</span>';
+    if(s === "rejected") return '<span class="pill rej">відхилено</span>';
+    return '<span class="pill contributor">на розгляді</span>';
+  }
+  async function loadSugs(){
+    $("sugbox").innerHTML = `<div class="note"><span class="spinner"></span>Завантаження…</div>`;
+    try{
+      const rows = await api("/api/my/suggestions?limit=300");
+      if(!rows.length){ $("sugbox").innerHTML = `<div class="note">Ти ще не подавав(-ла) пропозицій.</div>`; return; }
+      $("sugbox").innerHTML = "";
+      for(const g of rows) $("sugbox").appendChild(sugItem(g));
+    }catch(e){ $("sugbox").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+  function sugItem(g){
+    const el = document.createElement("div");
+    el.className = "card";
+    let reviewHtml = "";
+    if((g.status === "rejected" || g.status === "approved") && g.review_comment){
+      const label = g.status === "rejected" ? "Причина відхилення" : "Коментар";
+      reviewHtml = `<div class="meta" style="margin-top:6px;border-left:3px solid var(--gold);padding-left:8px">`
+        + `📩 ${label}${g.reviewed_by?(" ("+esc(g.reviewed_by)+")"):""}: ${esc(g.review_comment)}</div>`;
+    }
+    el.innerHTML = `
+      <div class="meta">
+        <b>${esc(g.section||"")}</b> · ${esc(g.item_key||"")} ${g.field?("· "+esc(g.field)):""}
+        <span class="spacer"></span>
+        <span>${fdate(g.created_at)}</span> ${sugBadge(g.status)}
+        <button class="ghost sugDel" style="padding:4px 9px">🗑 видалити</button>
+        <span class="toast"></span>
+      </div>
+      ${g.en ? `<div class="src"><span class="lbl">EN</span><span class="en">${esc(g.en)}</span></div>`:""}
+      <div class="src"><span class="lbl">тепер</span><span class="old">${esc(g.current_ua)}</span></div>
+      <div class="src"><span class="lbl">→</span><span class="new">${esc(g.suggested_ua)}</span></div>
+      ${g.comment ? `<div class="meta" style="margin-top:6px">💬 мій коментар: ${esc(g.comment)}</div>`:""}
+      ${reviewHtml}`;
+    const toast = el.querySelector(".toast");
+    el.querySelector(".sugDel").addEventListener("click", async () => {
+      if(!confirm("Видалити цю свою пропозицію?")) return;
+      try{ await api(`/api/suggestions/${g.id}`, {method:"DELETE"}); el.remove(); }
+      catch(ex){ toast.className="toast err"; toast.textContent=ex.message; }
+    });
+    return el;
+  }
+
+  loadSugs();
+  load();
+})();
+</script>
+</body>
+</html>

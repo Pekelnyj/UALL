@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Адмінпанель — temnozelena.com</title>
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("wowua-theme")||"dark"}catch(e){}</script>
+<link rel="stylesheet" href="/theme.css">
+<script src="/theme.js" defer></script>
+<style>
+  :root{
+    --bg:#16181d; --bg2:#1d2027; --bg3:#23272f; --line:#2e333d;
+    --fg:#e6e8ec; --muted:#8b919c; --muted2:#6b7180;
+    --gold:#f0c64a; --gold-dim:#c9a23a;
+    --green:#3fb950; --green-bg:#16321d; --red:#f0584f; --red-bg:#341816;
+    --en:#cfd3da; --aux:#9aa0ab; --focus:#5a7fb5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Noto Sans",system-ui,-apple-system,Arial,sans-serif;
+    font-size:15px; line-height:1.45;
+  }
+  a{color:var(--gold); text-decoration:none}
+  header{
+    position:sticky; top:0; z-index:10; background:var(--bg2);
+    border-bottom:1px solid var(--line); padding:12px 18px;
+    display:flex; align-items:center; gap:16px; flex-wrap:wrap;
+  }
+  .brand{font-size:18px; font-weight:600; color:var(--green); margin:0}
+  .brand small{color:var(--muted); font-weight:400; font-size:13px; margin-left:8px}
+  .spacer{flex:1}
+  .who{color:var(--muted); font-size:13px}
+  .who b{color:var(--fg)}
+  select,input[type=text],input[type=password],button{
+    font-family:inherit; font-size:14px; color:var(--fg);
+    background:var(--bg3); border:1px solid var(--line); border-radius:7px; padding:8px 10px; outline:none;
+  }
+  select:focus,input:focus{border-color:var(--focus)}
+  button{background:var(--gold); color:#221d05; border:1px solid var(--gold-dim); font-weight:600; cursor:pointer; white-space:nowrap}
+  button:hover{background:var(--gold-dim)}
+  button:disabled{opacity:.45; cursor:default}
+  button.ghost{background:var(--bg3); color:var(--fg); border:1px solid var(--line); font-weight:500}
+  button.ghost:hover{background:#2b303a}
+  button.danger{background:var(--red-bg); color:var(--red); border-color:#5a2420}
+  button.danger:hover{background:#46201d}
+  button.ok{background:var(--green-bg); color:var(--green); border-color:#235c30}
+  button.ok:hover{background:#1d4426}
+
+  main{max-width:1040px; margin:0 auto; padding:18px}
+  .tabs{display:flex; gap:6px; margin-bottom:18px; border-bottom:1px solid var(--line)}
+  .tab{
+    background:none; border:none; color:var(--muted); font-weight:600; font-size:14px;
+    padding:10px 14px; cursor:pointer; border-bottom:2px solid transparent; border-radius:0;
+  }
+  .tab:hover{color:var(--fg)}
+  .tab.active{color:var(--gold); border-bottom-color:var(--gold)}
+
+  .card{background:var(--bg2); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:12px}
+  .card h3{margin:0 0 12px; font-size:14px; color:var(--gold); font-weight:600}
+  .formrow{display:flex; gap:10px; flex-wrap:wrap; align-items:center}
+  .formrow input[type=text],.formrow input[type=password]{min-width:150px}
+
+  table{width:100%; border-collapse:collapse; font-size:14px}
+  th,td{text-align:left; padding:9px 10px; border-bottom:1px solid var(--line); vertical-align:middle}
+  th{color:var(--muted); font-weight:600; font-size:12px; text-transform:uppercase; letter-spacing:.4px}
+  td .muted{color:var(--muted2); font-size:12px}
+  .pill{display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:20px}
+  .pill.admin{background:#3a2f10; color:var(--gold)}
+  .pill.editor{background:#10322a; color:#4fd1b0}
+  .pill.contributor{background:#23272f; color:var(--muted)}
+  .pill.off{background:var(--red-bg); color:var(--red)}
+
+  .src{margin:2px 0; white-space:pre-wrap; word-break:break-word}
+  .src .lbl{display:inline-block; min-width:24px; font-size:11px; font-weight:700; color:var(--muted2); margin-right:6px}
+  .en{color:var(--en)} .old{color:var(--red)} .new{color:var(--green)} .cur{color:var(--aux)}
+  .meta{font-size:12px; color:var(--muted2); margin-bottom:6px}
+  .meta b{color:var(--muted)}
+  .rowact{display:flex; gap:8px; margin-top:8px; flex-wrap:wrap}
+
+  .note{padding:30px 10px; text-align:center; color:var(--muted)}
+  .toast{font-size:13px; margin-left:8px}
+  .toast.ok{color:var(--green)} .toast.err{color:var(--red)}
+  .spinner{display:inline-block; width:14px; height:14px; vertical-align:-2px; border:2px solid var(--muted2); border-top-color:transparent; border-radius:50%; animation:spin .7s linear infinite; margin-right:6px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<header>
+  <h1 class="brand"><a href="/" style="color:inherit;text-decoration:none" title="На головну">temnozelena.com</a> <small>адмінпанель</small></h1>
+  <div class="spacer"></div>
+  <span class="who" id="who">&nbsp;</span>
+  <select id="themeSel" class="themesel" title="Тема">
+    <option value="dark">🌙 Темна</option>
+    <option value="light">☀️ Світла</option>
+    <option value="oled">⬛ OLED</option>
+    <option value="medoid">🌿 Медоїд</option>
+  </select>
+  <a href="https://discord.com/invite/je7ruJVay6" target="_blank" rel="noopener noreferrer" class="userbtn" style="color:#5865f2;text-decoration:none">Discord</a>
+  <a href="/" class="ghost" style="padding:8px 10px;border:1px solid var(--line);border-radius:7px">← до редактора</a>
+  <button class="ghost" id="logout">Вийти</button>
+</header>
+
+<main>
+  <div class="card" style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+    <b style="color:var(--gold)">Експорт артефакту</b>
+    <button class="ghost" id="expEdits">⬇ Лише правки (delta)</button>
+    <button class="ghost" id="expFull">⬇ Усі переклади (знімок)</button>
+    <span class="muted" style="color:var(--muted2);font-size:12px">JSON із координатами
+      section · key · field. Застосувати: <code>python editor/apply_edits.py файл.json --build</code></span>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="users">Користувачі</button>
+    <button class="tab" data-tab="history">Історія правок</button>
+    <button class="tab" data-tab="accepted">Прийняті</button>
+    <button class="tab" data-tab="base">База</button>
+  </div>
+
+  <section id="tab-users">
+    <div class="card">
+      <h3>Створити користувача</h3>
+      <div class="formrow">
+        <input type="text" id="nu" placeholder="логін" autocomplete="off">
+        <input type="password" id="np" placeholder="пароль (мін. 8)" autocomplete="new-password">
+        <select id="nr">
+          <option value="contributor">contributor (пропозиції)</option>
+          <option value="editor">editor (пряма правка)</option>
+          <option value="admin">admin</option>
+        </select>
+        <button id="createBtn">Створити</button>
+        <span class="toast" id="createMsg"></span>
+      </div>
+    </div>
+    <div class="card">
+      <h3>Користувачі</h3>
+      <div id="usersBox"><div class="note"><span class="spinner"></span>Завантаження…</div></div>
+    </div>
+  </section>
+
+  <section id="tab-history" hidden>
+    <div class="card">
+      <div class="formrow">
+        <span style="color:var(--muted)">Автор:</span>
+        <select id="histAuthor"><option value="">усі</option></select>
+        <span style="color:var(--muted)">Статус:</span>
+        <select id="histStatus">
+          <option value="pending">на розгляді</option>
+          <option value="accepted">прийняті</option>
+          <option value="rejected">відхилені</option>
+          <option value="">усі</option>
+        </select>
+        <button class="ghost" id="histRefresh">Оновити</button>
+        <span class="spacer"></span>
+        <label style="color:var(--muted);font-size:13px;cursor:pointer">
+          <input type="checkbox" id="histAll"> обрати всі</label>
+        <button class="ok" id="histAccept">✓ Прийняти обрані → артефакт</button>
+        <button class="danger" id="histDelete">🗑 Видалити обрані</button>
+        <span class="toast" id="histMsg"></span>
+      </div>
+    </div>
+    <div id="histBox"><div class="note">Оберіть автора/статус.</div></div>
+  </section>
+
+  <section id="tab-accepted" hidden>
+    <div class="card">
+      <div class="formrow">
+        <span style="color:var(--muted)">Прийняті правки — вони підуть в delta-артефакт.</span>
+        <button class="ghost" id="accRefresh">Оновити</button>
+        <span class="spacer"></span>
+        <label style="color:var(--muted);font-size:13px;cursor:pointer">
+          <input type="checkbox" id="accAll"> обрати всі</label>
+        <button class="ghost" id="accReturn">↩ Повернути в розгляд</button>
+        <button class="danger" id="accDelete">🗑 Видалити обрані</button>
+        <span class="toast" id="accMsg"></span>
+      </div>
+    </div>
+    <div id="accBox"><div class="note"><span class="spinner"></span>Завантаження…</div></div>
+  </section>
+
+  <section id="tab-base" hidden>
+    <div class="card">
+      <h3>Завантажити нову базу</h3>
+      <p style="color:var(--muted);font-size:13px;margin:0 0 12px">
+        Пакет збирається локально: <code>python editor/build_base_package.py</code> →
+        <code>data/base_package.jsonl.gz</code>. Тут він <b style="color:var(--fg)">доливає лише нові рядки</b>
+        в копію живої БД, перевіряє її і атомарно підміняє. Праця спільноти зберігається.
+        Стара БД лишається <b style="color:var(--fg)">24 год на відкат</b>.
+      </p>
+      <div class="formrow">
+        <input type="file" id="baseFile" accept=".jsonl,.gz">
+        <input type="text" id="baseNote" placeholder="підпис (напр. патч 11.2)">
+        <button id="baseUploadBtn">Завантажити й перевірити</button>
+        <span class="toast" id="baseMsg"></span>
+      </div>
+      <div id="baseProgress" style="display:none;margin-top:10px;color:var(--muted);font-size:13px">
+        <span class="spinner"></span>Копіювання + перевірка… (може зайняти до хвилини — не закривай вкладку)
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Відкат</h3>
+      <p style="color:var(--muted);font-size:13px;margin:0 0 10px">Повернутися до попередньої бази (доступно 24 год після підміни).</p>
+      <div class="formrow">
+        <button class="danger" id="rollbackBtn">↩ Відкотити до попередньої</button>
+        <span class="toast" id="rollbackMsg"></span>
+      </div>
+      <div id="backupsBox" style="margin-top:10px"></div>
+    </div>
+
+    <div class="card">
+      <h3>Останні поповнення бази</h3>
+      <div id="updatesBox"><div class="note">—</div></div>
+    </div>
+  </section>
+</main>
+
+<script>
+"use strict";
+(function(){
+  const $ = (id) => document.getElementById(id);
+  function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+  function fdate(t){ const n = parseFloat(t); if(!n) return "—"; const d = new Date(n*1000); return d.toLocaleString("uk-UA"); }
+
+  async function api(url, opts){
+    const r = await fetch(url, opts);
+    if(r.status === 401){ location.href = "/login"; throw new Error("Потрібен вхід"); }
+    if(!r.ok){ let d=""; try{ d=(await r.json()).detail||""; }catch(e){} throw new Error("HTTP "+r.status+(d?" — "+d:"")); }
+    return r.json();
+  }
+
+  // ---- whoami + logout ----
+  let ME = "";
+  async function loadMe(){
+    try{ const m = await api("/api/me"); ME = m.name; $("who").innerHTML = `<b>${esc(m.name)}</b> · ${esc(m.role)}`; }
+    catch(e){}
+  }
+  $("logout").addEventListener("click", async () => {
+    try{ await fetch("/api/logout",{method:"POST"}); }catch(e){}
+    location.href = "/login";
+  });
+
+  // ---- tabs ----
+  const tabs = document.querySelectorAll(".tab");
+  tabs.forEach(t => t.addEventListener("click", () => {
+    tabs.forEach(x => x.classList.toggle("active", x===t));
+    for(const name of ["users","history","accepted","base"]) $("tab-"+name).hidden = (name !== t.dataset.tab);
+    if(t.dataset.tab === "history") loadHistory();
+    if(t.dataset.tab === "accepted") loadAccepted();
+    if(t.dataset.tab === "base") loadBaseStatus();
+  }));
+
+  // ---- USERS ----
+  let usersCache = [];
+  async function loadUsers(){
+    try{
+      usersCache = await api("/api/admin/users");
+      renderUsers();
+      // заповнити фільтр авторів в історії
+      const sel = $("histAuthor");
+      sel.innerHTML = '<option value="">усі</option>' +
+        usersCache.map(u => `<option value="${esc(u.username)}">${esc(u.username)}</option>`).join("");
+    }catch(e){ $("usersBox").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+  function renderUsers(){
+    if(!usersCache.length){ $("usersBox").innerHTML = `<div class="note">Немає користувачів.</div>`; return; }
+    let h = `<table><thead><tr><th>Логін</th><th>Роль</th><th>Стан</th><th>Створено</th><th></th></tr></thead><tbody>`;
+    for(const u of usersCache){
+      const self = u.username === ME;
+      const selfDis = self ? 'disabled title="це ви — щоб уникнути випадкового блокування собі доступу"' : '';
+      h += `<tr data-uid="${u.id}">
+        <td><b>${esc(u.username)}</b>${self?' <span class="pill admin">ви</span>':''}<div class="muted" title="ким створено акаунт (не рівень доступу)">${u.created_by?'створив: '+esc(u.created_by):''}</div></td>
+        <td>
+          <select class="roleSel" ${self?'disabled title="не можна змінити власну роль"':''}>
+            ${["contributor","editor","admin"].map(r=>`<option value="${r}" ${r===u.role?"selected":""}>${r}</option>`).join("")}
+          </select>
+        </td>
+        <td>${u.active ? '<span class="pill editor">активний</span>' : '<span class="pill off">вимкнено</span>'}</td>
+        <td class="muted">${fdate(u.created_at)}</td>
+        <td>
+          <div class="rowact">
+            <button class="ghost resetBtn">Скинути пароль</button>
+            <button class="${u.active?'danger':'ok'} toggleBtn" ${selfDis}>${u.active?'Вимкнути':'Увімкнути'}</button>
+            <button class="danger delBtn" ${selfDis}>Видалити</button>
+            <span class="toast"></span>
+          </div>
+        </td></tr>`;
+    }
+    h += `</tbody></table>`;
+    $("usersBox").innerHTML = h;
+    $("usersBox").querySelectorAll("tr[data-uid]").forEach(tr => {
+      const uid = tr.dataset.uid;
+      const toast = tr.querySelector(".toast");
+      const ok = (m) => { toast.className="toast ok"; toast.textContent=m; };
+      const er = (m) => { toast.className="toast err"; toast.textContent=m; };
+      tr.querySelector(".roleSel").addEventListener("change", async (e) => {
+        try{ await api(`/api/admin/users/${uid}/role`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({role:e.target.value})}); ok("✓ роль змінено"); }
+        catch(ex){ er(ex.message); loadUsers(); }
+      });
+      tr.querySelector(".resetBtn").addEventListener("click", async () => {
+        const pw = prompt("Новий пароль для користувача (мін. 8 символів):");
+        if(!pw || pw.length < 8){ if(pw) er("пароль закороткий (мін. 8 символів)"); return; }
+        try{ await api(`/api/admin/users/${uid}/reset`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({password:pw})}); ok("✓ пароль скинуто"); }
+        catch(ex){ er(ex.message); }
+      });
+      tr.querySelector(".toggleBtn").addEventListener("click", async (e) => {
+        const turnOn = e.target.textContent.trim() === "Увімкнути";
+        try{ await api(`/api/admin/users/${uid}/active`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({active:turnOn})}); loadUsers(); }
+        catch(ex){ er(ex.message); }
+      });
+      tr.querySelector(".delBtn").addEventListener("click", async () => {
+        const u = usersCache.find(x => String(x.id) === String(uid));
+        if(!confirm(`Видалити користувача «${u?u.username:uid}» назавжди?\nЙого правки в історії лишаться (з підписом автора).`)) return;
+        try{ await api(`/api/admin/users/${uid}`,{method:"DELETE"}); loadUsers(); }
+        catch(ex){ er(ex.message); }
+      });
+    });
+  }
+  $("createBtn").addEventListener("click", async () => {
+    const msg = $("createMsg");
+    if(($("np").value || "").length < 8){ msg.className="toast err"; msg.textContent="пароль закороткий (мін. 8 символів)"; return; }
+    try{
+      await api("/api/admin/users",{method:"POST",headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({username:$("nu").value,password:$("np").value,role:$("nr").value})});
+      msg.className="toast ok"; msg.textContent="✓ створено";
+      $("nu").value=""; $("np").value="";
+      loadUsers();
+    }catch(ex){ msg.className="toast err"; msg.textContent=ex.message; }
+  });
+
+  // ---- HISTORY (курація: обрати → прийняти → артефакт; видалити) ----
+  function selectedHistIds(){
+    return Array.from(document.querySelectorAll(".histChk:checked")).map(c => parseInt(c.value));
+  }
+  function histToast(m, ok){ const t = $("histMsg"); t.className = "toast " + (ok ? "ok" : "err"); t.textContent = m; }
+
+  async function loadHistory(){
+    const author = $("histAuthor").value, status = $("histStatus").value;
+    $("histAll").checked = false; histToast("", true);
+    $("histBox").innerHTML = `<div class="note"><span class="spinner"></span>Завантаження…</div>`;
+    try{
+      const rows = await api(`/api/admin/history?limit=300&author=${encodeURIComponent(author)}&status=${encodeURIComponent(status)}`);
+      if(!rows.length){ $("histBox").innerHTML = `<div class="note">Правок не знайдено.</div>`; return; }
+      $("histBox").innerHTML = "";
+      for(const h of rows) $("histBox").appendChild(histCard(h));
+    }catch(e){ $("histBox").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+
+  function histCard(h){
+    const card = document.createElement("div");
+    card.className = "card";
+    const st = h.status;
+    const bCls = st === "accepted" ? "editor" : st === "rejected" ? "off" : "contributor";
+    const bTxt = st === "accepted" ? "прийнято" : st === "rejected" ? "відхилено" : "на розгляді";
+    card.innerHTML = `
+      <div class="meta" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+        <input type="checkbox" class="histChk" value="${h.id}">
+        <b>${esc(h.section||"")}</b> · ${esc(h.item_key||"")} ${h.field?("· "+esc(h.field)):""}
+        <span class="spacer"></span>
+        <span class="pill admin" title="хто вніс правку">${esc(h.author)}</span>
+        <span class="muted">${fdate(h.ts)}</span>
+        <span class="pill stbadge ${bCls}">${bTxt}</span>
+        <button class="ok accOne" title="Прийняти → артефакт" style="padding:4px 9px;${st==='accepted'?'display:none':''}">✓</button>
+        <button class="danger rejOne" title="Відхилити (поверне текст до попереднього)" style="padding:4px 9px;${st==='rejected'?'display:none':''}">✗</button>
+        <button class="ghost histDel" title="Видалити запис" style="padding:4px 9px">🗑</button>
+        <span class="toast cardMsg"></span>
+      </div>
+      ${h.en ? `<div class="src"><span class="lbl">EN</span><span class="en">${esc(h.en)}</span></div>`:""}
+      <div class="src"><span class="lbl">−</span><span class="old">${esc(h.old_ua)}</span></div>
+      <div class="src"><span class="lbl">+</span><span class="new">${esc(h.new_ua)}</span></div>
+      ${h.comment ? `<div class="meta" style="margin-top:6px">💬 ${esc(h.comment)}</div>`:""}
+      ${h.review_comment ? `<div class="meta" style="margin-top:4px;border-left:3px solid var(--gold);padding-left:8px">📩 ${esc(h.reviewed_by||"")}: ${esc(h.review_comment)}</div>`:""}`;
+    const cmsg = card.querySelector(".cardMsg");
+    const acc = card.querySelector(".accOne"), rej = card.querySelector(".rejOne");
+    const badge = card.querySelector(".stbadge");
+    acc.addEventListener("click", async () => {
+      try{
+        await api("/api/admin/history/accept", {method:"POST",
+          headers:{"Content-Type":"application/json"}, body:JSON.stringify({ids:[h.id]})});
+        badge.className = "pill stbadge editor"; badge.textContent = "прийнято";
+        acc.style.display = "none"; rej.style.display = "";
+        cmsg.className = "toast ok"; cmsg.textContent = "✓ у артефакті";
+      }catch(ex){ cmsg.className = "toast err"; cmsg.textContent = ex.message; }
+    });
+    rej.addEventListener("click", async () => {
+      const reason = prompt("Причина відхилення (її побачить автор; необов'язкова):", "");
+      if(reason === null) return;
+      try{
+        const r = await api(`/api/admin/history/${h.id}/reject`, {method:"POST",
+          headers:{"Content-Type":"application/json"}, body:JSON.stringify({comment: reason})});
+        badge.className = "pill stbadge off"; badge.textContent = "відхилено";
+        rej.style.display = "none"; acc.style.display = "";
+        cmsg.className = "toast ok"; cmsg.textContent = r.reverted ? "відхилено, текст повернено" : "відхилено";
+      }catch(ex){ cmsg.className = "toast err"; cmsg.textContent = ex.message; }
+    });
+    card.querySelector(".histDel").addEventListener("click", async () => {
+      if(!confirm("Видалити цей запис правки з журналу?")) return;
+      try{ await api(`/api/history/${h.id}`, {method:"DELETE"}); card.remove(); }
+      catch(ex){ cmsg.className = "toast err"; cmsg.textContent = ex.message; }
+    });
+    return card;
+  }
+
+  $("histRefresh").addEventListener("click", loadHistory);
+  $("histAuthor").addEventListener("change", loadHistory);
+  $("histStatus").addEventListener("change", loadHistory);
+  $("histAll").addEventListener("change", (e) => {
+    document.querySelectorAll(".histChk").forEach(c => { c.checked = e.target.checked; });
+  });
+  $("histAccept").addEventListener("click", async () => {
+    const ids = selectedHistIds();
+    if(!ids.length){ histToast("нічого не обрано", false); return; }
+    try{
+      const r = await api("/api/admin/history/accept", {method:"POST",
+        headers:{"Content-Type":"application/json"}, body:JSON.stringify({ids})});
+      histToast(`прийнято: ${r.accepted} (тепер у delta-артефакті)`, true);
+      loadHistory();
+    }catch(ex){ histToast(ex.message, false); }
+  });
+  $("histDelete").addEventListener("click", async () => {
+    const ids = selectedHistIds();
+    if(!ids.length){ histToast("нічого не обрано", false); return; }
+    if(!confirm(`Видалити обрані записи (${ids.length})?`)) return;
+    try{
+      for(const id of ids){ await api(`/api/history/${id}`, {method:"DELETE"}); }
+      histToast(`видалено: ${ids.length}`, true);
+      loadHistory();
+    }catch(ex){ histToast(ex.message, false); }
+  });
+
+  // ---- ACCEPTED (прийняті: повернути в розгляд / видалити) ----
+  function selectedAccIds(){
+    return Array.from(document.querySelectorAll(".accChk:checked")).map(c => parseInt(c.value));
+  }
+  function accToast(m, ok){ const t = $("accMsg"); t.className = "toast " + (ok ? "ok" : "err"); t.textContent = m; }
+
+  async function loadAccepted(){
+    $("accAll").checked = false; accToast("", true);
+    $("accBox").innerHTML = `<div class="note"><span class="spinner"></span>Завантаження…</div>`;
+    try{
+      const rows = await api("/api/admin/history?status=accepted&limit=300");
+      if(!rows.length){ $("accBox").innerHTML = `<div class="note">Немає прийнятих правок.</div>`; return; }
+      $("accBox").innerHTML = "";
+      for(const h of rows) $("accBox").appendChild(accCard(h));
+    }catch(e){ $("accBox").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+
+  function accCard(h){
+    const card = document.createElement("div");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="meta" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+        <input type="checkbox" class="accChk" value="${h.id}">
+        <b>${esc(h.section||"")}</b> · ${esc(h.item_key||"")} ${h.field?("· "+esc(h.field)):""}
+        <span class="spacer"></span>
+        <span class="pill admin" title="хто вніс правку">${esc(h.author)}</span>
+        <span class="muted">${fdate(h.ts)}</span>
+        <span class="pill editor">прийнято</span>
+        <button class="ghost accRet" title="Повернути в розгляд" style="padding:4px 9px">↩</button>
+        <button class="ghost accDel" title="Видалити запис" style="padding:4px 9px">🗑</button>
+        <span class="toast cardMsg"></span>
+      </div>
+      ${h.en ? `<div class="src"><span class="lbl">EN</span><span class="en">${esc(h.en)}</span></div>`:""}
+      <div class="src"><span class="lbl">−</span><span class="old">${esc(h.old_ua)}</span></div>
+      <div class="src"><span class="lbl">+</span><span class="new">${esc(h.new_ua)}</span></div>
+      ${h.comment ? `<div class="meta" style="margin-top:6px">💬 ${esc(h.comment)}</div>`:""}`;
+    const cmsg = card.querySelector(".cardMsg");
+    card.querySelector(".accRet").addEventListener("click", async () => {
+      try{ await api("/api/admin/history/unaccept", {method:"POST",
+        headers:{"Content-Type":"application/json"}, body:JSON.stringify({ids:[h.id]})});
+        card.remove();
+      }catch(ex){ cmsg.className = "toast err"; cmsg.textContent = ex.message; }
+    });
+    card.querySelector(".accDel").addEventListener("click", async () => {
+      if(!confirm("Видалити цей запис правки?")) return;
+      try{ await api(`/api/history/${h.id}`, {method:"DELETE"}); card.remove(); }
+      catch(ex){ cmsg.className = "toast err"; cmsg.textContent = ex.message; }
+    });
+    return card;
+  }
+
+  $("accRefresh").addEventListener("click", loadAccepted);
+  $("accAll").addEventListener("change", (e) => {
+    document.querySelectorAll(".accChk").forEach(c => { c.checked = e.target.checked; });
+  });
+  $("accReturn").addEventListener("click", async () => {
+    const ids = selectedAccIds();
+    if(!ids.length){ accToast("нічого не обрано", false); return; }
+    try{
+      await api("/api/admin/history/unaccept", {method:"POST",
+        headers:{"Content-Type":"application/json"}, body:JSON.stringify({ids})});
+      accToast(`повернуто в розгляд: ${ids.length}`, true); loadAccepted();
+    }catch(ex){ accToast(ex.message, false); }
+  });
+  $("accDelete").addEventListener("click", async () => {
+    const ids = selectedAccIds();
+    if(!ids.length){ accToast("нічого не обрано", false); return; }
+    if(!confirm(`Видалити обрані (${ids.length})?`)) return;
+    try{
+      for(const id of ids){ await api(`/api/history/${id}`, {method:"DELETE"}); }
+      accToast(`видалено: ${ids.length}`, true); loadAccepted();
+    }catch(ex){ accToast(ex.message, false); }
+  });
+
+  // ---- BASE (доставка нової бази) ----
+  async function loadBaseStatus(){
+    $("updatesBox").innerHTML = `<div class="note"><span class="spinner"></span>…</div>`;
+    $("backupsBox").innerHTML = "";
+    try{
+      const s = await api("/api/admin/base/status");
+      if(!s.updates.length){ $("updatesBox").innerHTML = `<div class="note">Поповнень ще не було.</div>`; }
+      else{
+        $("updatesBox").innerHTML = s.updates.map(u =>
+          `<div class="meta" style="display:flex;gap:8px;padding:6px 0;border-bottom:1px solid var(--line)">
+             <b>+${u.added}</b> рядків${u.refreshed?(", оновлено "+u.refreshed):""}
+             <span class="spacer"></span><span class="muted">${esc(u.note||"")} · ${fdate(u.ts)}</span></div>`).join("");
+      }
+      const fresh = s.backups.filter(b => !b.expired);
+      $("rollbackBtn").disabled = fresh.length === 0;
+      $("backupsBox").innerHTML = s.backups.length
+        ? ("<div class='muted' style='font-size:12px;margin-bottom:4px'>Бекапи:</div>" + s.backups.map(b =>
+            `<div class="meta">${esc(b.name)} · ${b.size_mb} МБ · ${b.age_h} год тому `
+            + (b.expired ? '<span class="pill off">прострочений</span>' : '<span class="pill editor">доступний</span>') + `</div>`).join(""))
+        : "";
+    }catch(e){ $("updatesBox").innerHTML = `<div class="note">Помилка: ${esc(e.message)}</div>`; }
+  }
+
+  $("baseUploadBtn").addEventListener("click", async () => {
+    const f = $("baseFile").files[0], msg = $("baseMsg");
+    if(!f){ msg.className="toast err"; msg.textContent="оберіть файл пакета"; return; }
+    const gz = f.name.endsWith(".gz") ? 1 : 0;
+    msg.className="toast"; msg.textContent="";
+    $("baseUploadBtn").disabled = true; $("baseProgress").style.display = "block";
+    try{
+      const r = await fetch(`/api/admin/base/upload?gz=${gz}&note=${encodeURIComponent($("baseNote").value)}`,
+        { method:"POST", body: f });
+      if(r.status === 401){ location.href="/login"; return; }
+      let b=null; try{ b=await r.json(); }catch(e){}
+      if(!r.ok){ throw new Error((b&&b.detail)?(typeof b.detail==="string"?b.detail:JSON.stringify(b.detail)):("HTTP "+r.status)); }
+      msg.className="toast ok"; msg.textContent = `✓ підмінено: +${b.added} рядків. Відкат доступний 24 год.`;
+      $("baseFile").value=""; $("baseNote").value=""; loadBaseStatus();
+    }catch(ex){ msg.className="toast err"; msg.textContent = ex.message; }
+    finally{ $("baseUploadBtn").disabled = false; $("baseProgress").style.display="none"; }
+  });
+
+  $("rollbackBtn").addEventListener("click", async () => {
+    if(!confirm("Відкотити до попередньої бази? Поточну буде замінено.")) return;
+    const msg = $("rollbackMsg");
+    try{
+      const r = await api("/api/admin/base/rollback", {method:"POST"});
+      msg.className="toast ok"; msg.textContent = `✓ відкочено до ${r.restored} (${r.restored_age_h} год тому)`;
+      loadBaseStatus();
+    }catch(ex){ msg.className="toast err"; msg.textContent = ex.message; }
+  });
+
+  // ---- EXPORT ----
+  $("expEdits").addEventListener("click", () => { location.href = "/api/admin/export?scope=edits"; });
+  $("expFull").addEventListener("click", () => { location.href = "/api/admin/export?scope=full"; });
+
+  // ---- boot ----
+  (async () => { await loadMe(); loadUsers(); })();
+})();
+</script>
+</body>
+</html>

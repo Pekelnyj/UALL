@@ -1,0 +1,8 @@
+[Unit]
+Description=WoWUkraine editor.db backup (oneshot)
+
+[Service]
+Type=oneshot
+User=wowua
+Group=wowua
+ExecStart=/opt/wowukraine/deploy/backup.sh

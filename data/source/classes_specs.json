@@ -1,0 +1,888 @@
+{
+ "classes": {
+  "1": {
+   "male": {
+    "en": "Warrior",
+    "de": "Krieger",
+    "fr": "Guerrier"
+   },
+   "female": {
+    "en": "Warrior",
+    "de": "Kriegerin",
+    "fr": "Guerrière"
+   }
+  },
+  "2": {
+   "male": {
+    "en": "Paladin",
+    "de": "Paladin",
+    "fr": "Paladin"
+   },
+   "female": {
+    "en": "Paladin",
+    "de": "Paladin",
+    "fr": "Paladine"
+   }
+  },
+  "3": {
+   "male": {
+    "en": "Hunter",
+    "de": "Jäger",
+    "fr": "Chasseur"
+   },
+   "female": {
+    "en": "Hunter",
+    "de": "Jägerin",
+    "fr": "Chasseresse"
+   }
+  },
+  "4": {
+   "male": {
+    "en": "Rogue",
+    "de": "Schurke",
+    "fr": "Voleur"
+   },
+   "female": {
+    "en": "Rogue",
+    "de": "Schurkin",
+    "fr": "Voleuse"
+   }
+  },
+  "5": {
+   "male": {
+    "en": "Priest",
+    "de": "Priester",
+    "fr": "Prêtre"
+   },
+   "female": {
+    "en": "Priest",
+    "de": "Priesterin",
+    "fr": "Prêtresse"
+   }
+  },
+  "6": {
+   "male": {
+    "en": "Death Knight",
+    "de": "Todesritter",
+    "fr": "Chevalier de la mort"
+   },
+   "female": {
+    "en": "Death Knight",
+    "de": "Todesritter",
+    "fr": "Chevalière de la mort"
+   }
+  },
+  "7": {
+   "male": {
+    "en": "Shaman",
+    "de": "Schamane",
+    "fr": "Chaman"
+   },
+   "female": {
+    "en": "Shaman",
+    "de": "Schamanin",
+    "fr": "Chamane"
+   }
+  },
+  "8": {
+   "male": {
+    "en": "Mage",
+    "de": "Magier",
+    "fr": "Mage"
+   },
+   "female": {
+    "en": "Mage",
+    "de": "Magierin",
+    "fr": "Mage"
+   }
+  },
+  "9": {
+   "male": {
+    "en": "Warlock",
+    "de": "Hexenmeister",
+    "fr": "Démoniste"
+   },
+   "female": {
+    "en": "Warlock",
+    "de": "Hexenmeisterin",
+    "fr": "Démoniste"
+   }
+  },
+  "10": {
+   "male": {
+    "en": "Monk",
+    "de": "Mönch",
+    "fr": "Moine"
+   },
+   "female": {
+    "en": "Monk",
+    "de": "Mönch",
+    "fr": "Moniale"
+   }
+  },
+  "11": {
+   "male": {
+    "en": "Druid",
+    "de": "Druide",
+    "fr": "Druide"
+   },
+   "female": {
+    "en": "Druid",
+    "de": "Druidin",
+    "fr": "Druidesse"
+   }
+  },
+  "12": {
+   "male": {
+    "en": "Demon Hunter",
+    "de": "Dämonenjäger",
+    "fr": "Chasseur de démons"
+   },
+   "female": {
+    "en": "Demon Hunter",
+    "de": "Dämonenjägerin",
+    "fr": "Chasseuse de démons"
+   }
+  },
+  "13": {
+   "male": {
+    "en": "Evoker",
+    "de": "Rufer",
+    "fr": "Évocateur"
+   },
+   "female": {
+    "en": "Evoker",
+    "de": "Ruferin",
+    "fr": "Évocatrice"
+   }
+  },
+  "14": {
+   "male": {
+    "en": "Adventurer",
+    "de": "Abenteurer",
+    "fr": "Aventurier"
+   },
+   "female": {
+    "en": "Adventurer",
+    "de": "Adventurer",
+    "fr": "Adventurer"
+   }
+  },
+  "15": {
+   "male": {
+    "en": "Traveler",
+    "de": "Reisender",
+    "fr": "Voyageur"
+   },
+   "female": {
+    "en": "Traveler",
+    "de": "Reisende",
+    "fr": "Voyageuse"
+   }
+  }
+ },
+ "specs": {
+  "62": {
+   "classID": 8,
+   "male": {
+    "en": "Arcane",
+    "de": "Arkan",
+    "fr": "Arcanes"
+   },
+   "female": {
+    "en": "Arcane",
+    "de": "Arkan",
+    "fr": "Arcanes"
+   }
+  },
+  "63": {
+   "classID": 8,
+   "male": {
+    "en": "Fire",
+    "de": "Feuer",
+    "fr": "Feu"
+   },
+   "female": {
+    "en": "Fire",
+    "de": "Feuer",
+    "fr": "Feu"
+   }
+  },
+  "64": {
+   "classID": 8,
+   "male": {
+    "en": "Frost",
+    "de": "Frost",
+    "fr": "Givre"
+   },
+   "female": {
+    "en": "Frost",
+    "de": "Frost",
+    "fr": "Givre"
+   }
+  },
+  "65": {
+   "classID": 2,
+   "male": {
+    "en": "Holy",
+    "de": "Heilig",
+    "fr": "Sacré"
+   },
+   "female": {
+    "en": "Holy",
+    "de": "Heilig",
+    "fr": "Sacré"
+   }
+  },
+  "66": {
+   "classID": 2,
+   "male": {
+    "en": "Protection",
+    "de": "Schutz",
+    "fr": "Protection"
+   },
+   "female": {
+    "en": "Protection",
+    "de": "Schutz",
+    "fr": "Protection"
+   }
+  },
+  "70": {
+   "classID": 2,
+   "male": {
+    "en": "Retribution",
+    "de": "Vergeltung",
+    "fr": "Vindicte"
+   },
+   "female": {
+    "en": "Retribution",
+    "de": "Vergeltung",
+    "fr": "Vindicte"
+   }
+  },
+  "71": {
+   "classID": 1,
+   "male": {
+    "en": "Arms",
+    "de": "Waffen",
+    "fr": "Armes"
+   },
+   "female": {
+    "en": "Arms",
+    "de": "Waffen",
+    "fr": "Armes"
+   }
+  },
+  "72": {
+   "classID": 1,
+   "male": {
+    "en": "Fury",
+    "de": "Furor",
+    "fr": "Fureur"
+   },
+   "female": {
+    "en": "Fury",
+    "de": "Furor",
+    "fr": "Fureur"
+   }
+  },
+  "73": {
+   "classID": 1,
+   "male": {
+    "en": "Protection",
+    "de": "Schutz",
+    "fr": "Protection"
+   },
+   "female": {
+    "en": "Protection",
+    "de": "Schutz",
+    "fr": "Protection"
+   }
+  },
+  "102": {
+   "classID": 11,
+   "male": {
+    "en": "Balance",
+    "de": "Gleichgewicht",
+    "fr": "Équilibre"
+   },
+   "female": {
+    "en": "Balance",
+    "de": "Gleichgewicht",
+    "fr": "Équilibre"
+   }
+  },
+  "103": {
+   "classID": 11,
+   "male": {
+    "en": "Feral",
+    "de": "Wildheit",
+    "fr": "Farouche"
+   },
+   "female": {
+    "en": "Feral",
+    "de": "Wildheit",
+    "fr": "Farouche"
+   }
+  },
+  "104": {
+   "classID": 11,
+   "male": {
+    "en": "Guardian",
+    "de": "Wächter",
+    "fr": "Gardien"
+   },
+   "female": {
+    "en": "Guardian",
+    "de": "Wächter",
+    "fr": "Gardien"
+   }
+  },
+  "105": {
+   "classID": 11,
+   "male": {
+    "en": "Restoration",
+    "de": "Wiederherstellung",
+    "fr": "Restauration"
+   },
+   "female": {
+    "en": "Restoration",
+    "de": "Wiederherstellung",
+    "fr": "Restauration"
+   }
+  },
+  "250": {
+   "classID": 6,
+   "male": {
+    "en": "Blood",
+    "de": "Blut",
+    "fr": "Sang"
+   },
+   "female": {
+    "en": "Blood",
+    "de": "Blut",
+    "fr": "Sang"
+   }
+  },
+  "251": {
+   "classID": 6,
+   "male": {
+    "en": "Frost",
+    "de": "Frost",
+    "fr": "Givre"
+   },
+   "female": {
+    "en": "Frost",
+    "de": "Frost",
+    "fr": "Givre"
+   }
+  },
+  "252": {
+   "classID": 6,
+   "male": {
+    "en": "Unholy",
+    "de": "Unheilig",
+    "fr": "Impie"
+   },
+   "female": {
+    "en": "Unholy",
+    "de": "Unheilig",
+    "fr": "Impie"
+   }
+  },
+  "253": {
+   "classID": 3,
+   "male": {
+    "en": "Beast Mastery",
+    "de": "Tierherrschaft",
+    "fr": "Maîtrise des bêtes"
+   },
+   "female": {
+    "en": "Beast Mastery",
+    "de": "Tierherrschaft",
+    "fr": "Maîtrise des bêtes"
+   }
+  },
+  "254": {
+   "classID": 3,
+   "male": {
+    "en": "Marksmanship",
+    "de": "Treffsicherheit",
+    "fr": "Précision"
+   },
+   "female": {
+    "en": "Marksmanship",
+    "de": "Treffsicherheit",
+    "fr": "Précision"
+   }
+  },
+  "255": {
+   "classID": 3,
+   "male": {
+    "en": "Survival",
+    "de": "Überleben",
+    "fr": "Survie"
+   },
+   "female": {
+    "en": "Survival",
+    "de": "Überleben",
+    "fr": "Survie"
+   }
+  },
+  "256": {
+   "classID": 5,
+   "male": {
+    "en": "Discipline",
+    "de": "Disziplin",
+    "fr": "Discipline"
+   },
+   "female": {
+    "en": "Discipline",
+    "de": "Disziplin",
+    "fr": "Discipline"
+   }
+  },
+  "257": {
+   "classID": 5,
+   "male": {
+    "en": "Holy",
+    "de": "Heilig",
+    "fr": "Sacré"
+   },
+   "female": {
+    "en": "Holy",
+    "de": "Heilig",
+    "fr": "Sacré"
+   }
+  },
+  "258": {
+   "classID": 5,
+   "male": {
+    "en": "Shadow",
+    "de": "Schatten",
+    "fr": "Ombre"
+   },
+   "female": {
+    "en": "Shadow",
+    "de": "Schatten",
+    "fr": "Ombre"
+   }
+  },
+  "259": {
+   "classID": 4,
+   "male": {
+    "en": "Assassination",
+    "de": "Meucheln",
+    "fr": "Assassinat"
+   },
+   "female": {
+    "en": "Assassination",
+    "de": "Meucheln",
+    "fr": "Assassinat"
+   }
+  },
+  "260": {
+   "classID": 4,
+   "male": {
+    "en": "Outlaw",
+    "de": "Gesetzlosigkeit",
+    "fr": "Hors-la-loi"
+   },
+   "female": {
+    "en": "Outlaw",
+    "de": "Gesetzlosigkeit",
+    "fr": "Hors-la-loi"
+   }
+  },
+  "261": {
+   "classID": 4,
+   "male": {
+    "en": "Subtlety",
+    "de": "Täuschung",
+    "fr": "Finesse"
+   },
+   "female": {
+    "en": "Subtlety",
+    "de": "Täuschung",
+    "fr": "Finesse"
+   }
+  },
+  "262": {
+   "classID": 7,
+   "male": {
+    "en": "Elemental",
+    "de": "Elementar",
+    "fr": "Élémentaire"
+   },
+   "female": {
+    "en": "Elemental",
+    "de": "Elementar",
+    "fr": "Élémentaire"
+   }
+  },
+  "263": {
+   "classID": 7,
+   "male": {
+    "en": "Enhancement",
+    "de": "Verstärkung",
+    "fr": "Amélioration"
+   },
+   "female": {
+    "en": "Enhancement",
+    "de": "Verstärkung",
+    "fr": "Amélioration"
+   }
+  },
+  "264": {
+   "classID": 7,
+   "male": {
+    "en": "Restoration",
+    "de": "Wiederherstellung",
+    "fr": "Restauration"
+   },
+   "female": {
+    "en": "Restoration",
+    "de": "Wiederherstellung",
+    "fr": "Restauration"
+   }
+  },
+  "265": {
+   "classID": 9,
+   "male": {
+    "en": "Affliction",
+    "de": "Gebrechen",
+    "fr": "Affliction"
+   },
+   "female": {
+    "en": "Affliction",
+    "de": "Gebrechen",
+    "fr": "Affliction"
+   }
+  },
+  "266": {
+   "classID": 9,
+   "male": {
+    "en": "Demonology",
+    "de": "Dämonologie",
+    "fr": "Démonologie"
+   },
+   "female": {
+    "en": "Demonology",
+    "de": "Dämonologie",
+    "fr": "Démonologie"
+   }
+  },
+  "267": {
+   "classID": 9,
+   "male": {
+    "en": "Destruction",
+    "de": "Zerstörung",
+    "fr": "Destruction"
+   },
+   "female": {
+    "en": "Destruction",
+    "de": "Zerstörung",
+    "fr": "Destruction"
+   }
+  },
+  "268": {
+   "classID": 10,
+   "male": {
+    "en": "Brewmaster",
+    "de": "Braumeister",
+    "fr": "Maître brasseur"
+   },
+   "female": {
+    "en": "Brewmaster",
+    "de": "Braumeister",
+    "fr": "Maître brasseur"
+   }
+  },
+  "269": {
+   "classID": 10,
+   "male": {
+    "en": "Windwalker",
+    "de": "Windläufer",
+    "fr": "Marche-vent"
+   },
+   "female": {
+    "en": "Windwalker",
+    "de": "Windläufer",
+    "fr": "Marche-vent"
+   }
+  },
+  "270": {
+   "classID": 10,
+   "male": {
+    "en": "Mistweaver",
+    "de": "Nebelwirker",
+    "fr": "Tisse-brume"
+   },
+   "female": {
+    "en": "Mistweaver",
+    "de": "Nebelwirker",
+    "fr": "Tisse-brume"
+   }
+  },
+  "577": {
+   "classID": 12,
+   "male": {
+    "en": "Havoc",
+    "de": "Verwüstung",
+    "fr": "Dévastation"
+   },
+   "female": {
+    "en": "Havoc",
+    "de": "Verwüstung",
+    "fr": "Dévastation"
+   }
+  },
+  "581": {
+   "classID": 12,
+   "male": {
+    "en": "Vengeance",
+    "de": "Rachsucht",
+    "fr": "Vengeance"
+   },
+   "female": {
+    "en": "Vengeance",
+    "de": "Rachsucht",
+    "fr": "Vengeance"
+   }
+  },
+  "1444": {
+   "classID": 7,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1446": {
+   "classID": 1,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1447": {
+   "classID": 11,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1448": {
+   "classID": 3,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1449": {
+   "classID": 8,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1450": {
+   "classID": 10,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1451": {
+   "classID": 2,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1452": {
+   "classID": 5,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1453": {
+   "classID": 4,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1454": {
+   "classID": 9,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1455": {
+   "classID": 6,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1456": {
+   "classID": 12,
+   "male": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initial"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Standard",
+    "fr": "Initiale"
+   }
+  },
+  "1465": {
+   "classID": 13,
+   "male": {
+    "en": "Initial",
+    "de": "Initiand",
+    "fr": "Primaire"
+   },
+   "female": {
+    "en": "Initial",
+    "de": "Initiandin",
+    "fr": "Primaire"
+   }
+  },
+  "1467": {
+   "classID": 13,
+   "male": {
+    "en": "Devastation",
+    "de": "Verheerung",
+    "fr": "Dévastation"
+   },
+   "female": {
+    "en": "Devastation",
+    "de": "Verheerung",
+    "fr": "Dévastation"
+   }
+  },
+  "1468": {
+   "classID": 13,
+   "male": {
+    "en": "Preservation",
+    "de": "Bewahrung",
+    "fr": "Préservation"
+   },
+   "female": {
+    "en": "Preservation",
+    "de": "Bewahrung",
+    "fr": "Préservation"
+   }
+  },
+  "1473": {
+   "classID": 13,
+   "male": {
+    "en": "Augmentation",
+    "de": "Verstärkung",
+    "fr": "Augmentation"
+   },
+   "female": {
+    "en": "Augmentation",
+    "de": "Verstärkung",
+    "fr": "Augmentation"
+   }
+  },
+  "1478": {
+   "classID": 14,
+   "male": {
+    "en": "Adventurer",
+    "de": "Abenteurer",
+    "fr": "Aventurier"
+   },
+   "female": {
+    "en": "Adventurer",
+    "de": "Abenteurerin",
+    "fr": "Aventurière"
+   }
+  },
+  "1480": {
+   "classID": 12,
+   "male": {
+    "en": "Devourer",
+    "de": "Verschlinger",
+    "fr": "Dévoration"
+   },
+   "female": {
+    "en": "Devourer",
+    "de": "Verschlingerin",
+    "fr": "Dévoration"
+   }
+  }
+ }
+}

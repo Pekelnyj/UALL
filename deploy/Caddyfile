@@ -1,0 +1,25 @@
+# /etc/caddy/Caddyfile — домен temnozelena.com (A-запис DNS -> IP сервера Hetzner).
+# Caddy сам отримає й оновлюватиме HTTPS-сертифікат (Let's Encrypt).
+
+temnozelena.com {
+    encode zstd gzip
+
+    # дозволити великі завантаження бази (пакет .jsonl.gz)
+    request_body {
+        max_size 256MB
+    }
+
+    reverse_proxy 127.0.0.1:8011
+}
+
+# www -> на основний домен
+www.temnozelena.com {
+    redir https://temnozelena.com{uri} permanent
+}
+
+# --- Якщо захочеш редактор на ПІД-домені (editor.temnozelena.com) — заміни блок вище на:
+# editor.temnozelena.com {
+#     encode zstd gzip
+#     request_body { max_size 256MB }
+#     reverse_proxy 127.0.0.1:8011
+# }

@@ -1,0 +1,1269 @@
+{
+ "202": {
+  "name": {
+   "en": "Engineering",
+   "de": "Ingenieurskunst",
+   "fr": "Ingénierie"
+  }
+ },
+ "t2499": {
+  "name": {
+   "en": "Kul Tiran Engineering / Zandalari Engineering",
+   "de": "Ingenieurskunst von Kul Tiras / Ingenieurskunst von Zandalar",
+   "fr": "Ingénierie de Kul Tiras / Ingénierie de Zandalar"
+  }
+ },
+ "t2500": {
+  "name": {
+   "en": "Legion Engineering",
+   "de": "Ingenieurskunst der Verheerten Inseln",
+   "fr": "Ingénierie de Legion"
+  }
+ },
+ "t2501": {
+  "name": {
+   "en": "Draenor Engineering",
+   "de": "Ingenieurskunst von Draenor",
+   "fr": "Ingénierie de Draenor"
+  }
+ },
+ "t2502": {
+  "name": {
+   "en": "Pandaria Engineering",
+   "de": "Ingenieurskunst von Pandaria",
+   "fr": "Ingénierie de Pandarie"
+  }
+ },
+ "t2503": {
+  "name": {
+   "en": "Cataclysm Engineering",
+   "de": "Ingenieurskunst des Kataklysmus",
+   "fr": "Ingénierie de Cataclysm"
+  }
+ },
+ "t2504": {
+  "name": {
+   "en": "Northrend Engineering",
+   "de": "Ingenieurskunst von Nordend",
+   "fr": "Ingénierie du Norfendre"
+  }
+ },
+ "t2505": {
+  "name": {
+   "en": "Outland Engineering",
+   "de": "Ingenieurskunst der Scherbenwelt",
+   "fr": "Ingénierie d’Outreterre"
+  }
+ },
+ "t2506": {
+  "name": {
+   "en": "Classic Engineering",
+   "de": "Klassische Ingenieurskunst",
+   "fr": "Ingénierie classique"
+  }
+ },
+ "t2755": {
+  "name": {
+   "en": "Shadowlands Engineering",
+   "de": "Ingenieurskunst der Schattenlande",
+   "fr": "Ingénierie d’Ombreterre"
+  }
+ },
+ "t2827": {
+  "name": {
+   "en": "Dragon Isles Engineering",
+   "de": "Ingenieurskunst der Dracheninseln",
+   "fr": "Ingénierie des îles aux Dragons"
+  }
+ },
+ "t2875": {
+  "name": {
+   "en": "Khaz Algar Engineering",
+   "de": "Ingenieurskunst von Khaz Algar",
+   "fr": "Ingénierie de Khaz Algar"
+  }
+ },
+ "t2910": {
+  "name": {
+   "en": "Midnight Engineering",
+   "de": "Ingenieurskunst von Midnight",
+   "fr": "Ingénierie de Midnight"
+  }
+ },
+ "393": {
+  "name": {
+   "en": "Skinning",
+   "de": "Kürschnerei",
+   "fr": "Dépeçage"
+  }
+ },
+ "t2557": {
+  "name": {
+   "en": "Kul Tiran Skinning / Zandalari Skinning",
+   "de": "Kürschnerei von Kul Tiras / Kürschnerei von Zandalar",
+   "fr": "Dépeçage de Kul Tiras / Dépeçage de Zandalar"
+  }
+ },
+ "t2558": {
+  "name": {
+   "en": "Legion Skinning",
+   "de": "Kürschnerei der Verheerten Inseln",
+   "fr": "Dépeçage de Legion"
+  }
+ },
+ "t2559": {
+  "name": {
+   "en": "Draenor Skinning",
+   "de": "Kürschnerei von Draenor",
+   "fr": "Dépeçage de Draenor"
+  }
+ },
+ "t2560": {
+  "name": {
+   "en": "Pandaria Skinning",
+   "de": "Kürschnerei von Pandaria",
+   "fr": "Dépeçage de Pandarie"
+  }
+ },
+ "t2561": {
+  "name": {
+   "en": "Cataclysm Skinning",
+   "de": "Kürschnerei des Kataklysmus",
+   "fr": "Dépeçage de Cataclysm"
+  }
+ },
+ "t2562": {
+  "name": {
+   "en": "Northrend Skinning",
+   "de": "Kürschnerei von Nordend",
+   "fr": "Dépeçage du Norfendre"
+  }
+ },
+ "t2563": {
+  "name": {
+   "en": "Outland Skinning",
+   "de": "Kürschnerei der Scherbenwelt",
+   "fr": "Dépeçage d’Outreterre"
+  }
+ },
+ "t2564": {
+  "name": {
+   "en": "Classic Skinning",
+   "de": "Klassische Kürschnerei",
+   "fr": "Dépeçage classique"
+  }
+ },
+ "t2762": {
+  "name": {
+   "en": "Shadowlands Skinning",
+   "de": "Kürschnerei der Schattenlande",
+   "fr": "Dépeçage d’Ombreterre"
+  }
+ },
+ "t2834": {
+  "name": {
+   "en": "Dragon Isles Skinning",
+   "de": "Kürschnerei der Dracheninseln",
+   "fr": "Dépeçage des îles aux Dragons"
+  }
+ },
+ "t2882": {
+  "name": {
+   "en": "Khaz Algar Skinning",
+   "de": "Kürschnerei von Khaz Algar",
+   "fr": "Dépeçage de Khaz Algar"
+  }
+ },
+ "t2917": {
+  "name": {
+   "en": "Midnight Skinning",
+   "de": "Kürschnerei von Midnight",
+   "fr": "Dépeçage de Midnight"
+  }
+ },
+ "164": {
+  "name": {
+   "en": "Blacksmithing",
+   "de": "Schmiedekunst",
+   "fr": "Forge"
+  }
+ },
+ "t2437": {
+  "name": {
+   "en": "Kul Tiran Blacksmithing / Zandalari Blacksmithing",
+   "de": "Schmiedekunst von Kul Tiras / Schmiedekunst von Zandalar",
+   "fr": "Forge de Kul Tiras / Forge de Zandalar"
+  }
+ },
+ "t2454": {
+  "name": {
+   "en": "Legion Blacksmithing",
+   "de": "Schmiedekunst der Verheerten Inseln",
+   "fr": "Forge de Legion"
+  }
+ },
+ "t2472": {
+  "name": {
+   "en": "Draenor Blacksmithing",
+   "de": "Schmiedekunst von Draenor",
+   "fr": "Forge de Draenor"
+  }
+ },
+ "t2473": {
+  "name": {
+   "en": "Pandaria Blacksmithing",
+   "de": "Schmiedekunst von Pandaria",
+   "fr": "Forge de Pandarie"
+  }
+ },
+ "t2474": {
+  "name": {
+   "en": "Cataclysm Blacksmithing",
+   "de": "Schmiedekunst des Kataklysmus",
+   "fr": "Forge de Cataclysm"
+  }
+ },
+ "t2475": {
+  "name": {
+   "en": "Northrend Blacksmithing",
+   "de": "Schmiedekunst von Nordend",
+   "fr": "Forge du Norfendre"
+  }
+ },
+ "t2476": {
+  "name": {
+   "en": "Outland Blacksmithing",
+   "de": "Schmiedekunst der Scherbenwelt",
+   "fr": "Forge d’Outreterre"
+  }
+ },
+ "t2477": {
+  "name": {
+   "en": "Classic Blacksmithing",
+   "de": "Klassische Schmiedekunst",
+   "fr": "Forge classique"
+  }
+ },
+ "t2751": {
+  "name": {
+   "en": "Shadowlands Blacksmithing",
+   "de": "Schmiedekunst der Schattenlande",
+   "fr": "Forge d’Ombreterre"
+  }
+ },
+ "t2822": {
+  "name": {
+   "en": "Dragon Isles Blacksmithing",
+   "de": "Schmiedekunst der Dracheninseln",
+   "fr": "Forge des îles aux Dragons"
+  }
+ },
+ "t2872": {
+  "name": {
+   "en": "Khaz Algar Blacksmithing",
+   "de": "Schmiedekunst von Khaz Algar",
+   "fr": "Forge de Khaz Algar"
+  }
+ },
+ "t2907": {
+  "name": {
+   "en": "Midnight Blacksmithing",
+   "de": "Schmiedekunst von Midnight",
+   "fr": "Forge de Midnight"
+  }
+ },
+ "333": {
+  "name": {
+   "en": "Enchanting",
+   "de": "Verzauberkunst",
+   "fr": "Enchantement"
+  }
+ },
+ "t2486": {
+  "name": {
+   "en": "Kul Tiran Enchanting / Zandalari Enchanting",
+   "de": "Verzauberkunst von Kul Tiras / Verzauberkunst von Zandalar",
+   "fr": "Enchantement de Kul Tiras / Enchantement de Zandalar"
+  }
+ },
+ "t2487": {
+  "name": {
+   "en": "Legion Enchanting",
+   "de": "Verzauberkunst der Verheerten Inseln",
+   "fr": "Enchantement de Legion"
+  }
+ },
+ "t2488": {
+  "name": {
+   "en": "Draenor Enchanting",
+   "de": "Verzauberkunst von Draenor",
+   "fr": "Enchantement de Draenor"
+  }
+ },
+ "t2489": {
+  "name": {
+   "en": "Pandaria Enchanting",
+   "de": "Verzauberkunst von Pandaria",
+   "fr": "Enchantement de Pandarie"
+  }
+ },
+ "t2491": {
+  "name": {
+   "en": "Cataclysm Enchanting",
+   "de": "Verzauberkunst des Kataklysmus",
+   "fr": "Enchantement de Cataclysm"
+  }
+ },
+ "t2492": {
+  "name": {
+   "en": "Northrend Enchanting",
+   "de": "Verzauberkunst von Nordend",
+   "fr": "Enchantement du Norfendre"
+  }
+ },
+ "t2493": {
+  "name": {
+   "en": "Outland Enchanting",
+   "de": "Verzauberkunst der Scherbenwelt",
+   "fr": "Enchantement d’Outreterre"
+  }
+ },
+ "t2494": {
+  "name": {
+   "en": "Classic Enchanting",
+   "de": "Klassische Verzauberkunst",
+   "fr": "Enchantement classique"
+  }
+ },
+ "t2753": {
+  "name": {
+   "en": "Shadowlands Enchanting",
+   "de": "Verzauberkunst der Schattenlande",
+   "fr": "Enchantement d’Ombreterre"
+  }
+ },
+ "t2825": {
+  "name": {
+   "en": "Dragon Isles Enchanting",
+   "de": "Verzauberkunst der Dracheninseln",
+   "fr": "Enchantement des îles aux Dragons"
+  }
+ },
+ "t2874": {
+  "name": {
+   "en": "Khaz Algar Enchanting",
+   "de": "Verzauberkunst von Khaz Algar",
+   "fr": "Enchantement de Khaz Algar"
+  }
+ },
+ "t2909": {
+  "name": {
+   "en": "Midnight Enchanting",
+   "de": "Verzauberkunst von Midnight",
+   "fr": "Enchantement de Midnight"
+  }
+ },
+ "182": {
+  "name": {
+   "en": "Herbalism",
+   "de": "Kräuterkunde",
+   "fr": "Herboristerie"
+  }
+ },
+ "t2549": {
+  "name": {
+   "en": "Kul Tiran Herbalism / Zandalari Herbalism",
+   "de": "Kräuterkunde von Kul Tiras / Kräuterkunde von Zandalar",
+   "fr": "Herboristerie de Kul Tiras / Herboristerie de Zandalar"
+  }
+ },
+ "t2550": {
+  "name": {
+   "en": "Legion Herbalism",
+   "de": "Kräuterkunde der Verheerten Inseln",
+   "fr": "Herboristerie de Legion"
+  }
+ },
+ "t2551": {
+  "name": {
+   "en": "Draenor Herbalism",
+   "de": "Kräuterkunde von Draenor",
+   "fr": "Herboristerie de Draenor"
+  }
+ },
+ "t2552": {
+  "name": {
+   "en": "Pandaria Herbalism",
+   "de": "Kräuterkunde von Pandaria",
+   "fr": "Herboristerie de Pandarie"
+  }
+ },
+ "t2553": {
+  "name": {
+   "en": "Cataclysm Herbalism",
+   "de": "Kräuterkunde des Kataklysmus",
+   "fr": "Herboristerie de Cataclysm"
+  }
+ },
+ "t2554": {
+  "name": {
+   "en": "Northrend Herbalism",
+   "de": "Kräuterkunde von Nordend",
+   "fr": "Herboristerie du Norfendre"
+  }
+ },
+ "t2555": {
+  "name": {
+   "en": "Outland Herbalism",
+   "de": "Kräuterkunde der Scherbenwelt",
+   "fr": "Herboristerie d’Outreterre"
+  }
+ },
+ "t2556": {
+  "name": {
+   "en": "Classic Herbalism",
+   "de": "Klassische Kräuterkunde",
+   "fr": "Herboristerie classique"
+  }
+ },
+ "t2760": {
+  "name": {
+   "en": "Shadowlands Herbalism",
+   "de": "Kräuterkunde der Schattenlande",
+   "fr": "Herboristerie d’Ombreterre"
+  }
+ },
+ "t2832": {
+  "name": {
+   "en": "Dragon Isles Herbalism",
+   "de": "Kräuterkunde der Dracheninseln",
+   "fr": "Herboristerie des îles aux Dragons"
+  }
+ },
+ "t2877": {
+  "name": {
+   "en": "Khaz Algar Herbalism",
+   "de": "Kräuterkunde von Khaz Algar",
+   "fr": "Herboristerie de Khaz Algar"
+  }
+ },
+ "t2912": {
+  "name": {
+   "en": "Midnight Herbalism",
+   "de": "Kräuterkunde von Midnight",
+   "fr": "Herboristerie de Midnight"
+  }
+ },
+ "794": {
+  "name": {
+   "en": "Archaeology",
+   "de": "Archäologie",
+   "fr": "Archéologie"
+  }
+ },
+ "186": {
+  "name": {
+   "en": "Mining",
+   "de": "Bergbau",
+   "fr": "Minage"
+  }
+ },
+ "t2565": {
+  "name": {
+   "en": "Kul Tiran Mining / Zandalari Mining",
+   "de": "Bergbau von Kul Tiras / Bergbau von Zandalar",
+   "fr": "Minage de Kul Tiras / Minage de Zandalar"
+  }
+ },
+ "t2566": {
+  "name": {
+   "en": "Legion Mining",
+   "de": "Bergbau der Verheerten Inseln",
+   "fr": "Minage de Legion"
+  }
+ },
+ "t2567": {
+  "name": {
+   "en": "Draenor Mining",
+   "de": "Bergbau von Draenor",
+   "fr": "Minage de Draenor"
+  }
+ },
+ "t2568": {
+  "name": {
+   "en": "Pandaria Mining",
+   "de": "Bergbau von Pandaria",
+   "fr": "Minage de Pandarie"
+  }
+ },
+ "t2569": {
+  "name": {
+   "en": "Cataclysm Mining",
+   "de": "Bergbau des Kataklysmus",
+   "fr": "Minage de Cataclysm"
+  }
+ },
+ "t2570": {
+  "name": {
+   "en": "Northrend Mining",
+   "de": "Bergbau von Nordend",
+   "fr": "Minage du Norfendre"
+  }
+ },
+ "t2571": {
+  "name": {
+   "en": "Outland Mining",
+   "de": "Bergbau der Scherbenwelt",
+   "fr": "Minage d’Outreterre"
+  }
+ },
+ "t2572": {
+  "name": {
+   "en": "Classic Mining",
+   "de": "Klassischer Bergbau",
+   "fr": "Minage classique"
+  }
+ },
+ "t2761": {
+  "name": {
+   "en": "Shadowlands Mining",
+   "de": "Bergbau der Schattenlande",
+   "fr": "Minage d’Ombreterre"
+  }
+ },
+ "t2833": {
+  "name": {
+   "en": "Dragon Isles Mining",
+   "de": "Bergbau der Dracheninseln",
+   "fr": "Minage des îles aux Dragons"
+  }
+ },
+ "t2881": {
+  "name": {
+   "en": "Khaz Algar Mining",
+   "de": "Bergbau von Khaz Algar",
+   "fr": "Minage de Khaz Algar"
+  }
+ },
+ "t2916": {
+  "name": {
+   "en": "Midnight Mining",
+   "de": "Bergbau von Midnight",
+   "fr": "Minage de Midnight"
+  }
+ },
+ "197": {
+  "name": {
+   "en": "Tailoring",
+   "de": "Schneiderei",
+   "fr": "Couture"
+  }
+ },
+ "t2533": {
+  "name": {
+   "en": "Kul Tiran Tailoring / Zandalari Tailoring",
+   "de": "Schneiderei von Kul Tiras / Schneiderei von Zandalar",
+   "fr": "Couture de Kul Tiras / Couture de Zandalar"
+  }
+ },
+ "t2534": {
+  "name": {
+   "en": "Legion Tailoring",
+   "de": "Schneiderei der Verheerten Inseln",
+   "fr": "Couture de Legion"
+  }
+ },
+ "t2535": {
+  "name": {
+   "en": "Draenor Tailoring",
+   "de": "Schneiderei von Draenor",
+   "fr": "Couture de Draenor"
+  }
+ },
+ "t2536": {
+  "name": {
+   "en": "Pandaria Tailoring",
+   "de": "Schneiderei von Pandaria",
+   "fr": "Couture de Pandarie"
+  }
+ },
+ "t2537": {
+  "name": {
+   "en": "Cataclysm Tailoring",
+   "de": "Schneiderei des Kataklysmus",
+   "fr": "Couture de Cataclysm"
+  }
+ },
+ "t2538": {
+  "name": {
+   "en": "Northrend Tailoring",
+   "de": "Schneiderei von Nordend",
+   "fr": "Couture du Norfendre"
+  }
+ },
+ "t2539": {
+  "name": {
+   "en": "Outland Tailoring",
+   "de": "Schneiderei der Scherbenwelt",
+   "fr": "Couture d’Outreterre"
+  }
+ },
+ "t2540": {
+  "name": {
+   "en": "Classic Tailoring",
+   "de": "Klassische Schneiderei",
+   "fr": "Couture classique"
+  }
+ },
+ "t2759": {
+  "name": {
+   "en": "Shadowlands Tailoring",
+   "de": "Schneiderei der Schattenlande",
+   "fr": "Couture d’Ombreterre"
+  }
+ },
+ "t2831": {
+  "name": {
+   "en": "Dragon Isles Tailoring",
+   "de": "Schneiderei der Dracheninseln",
+   "fr": "Couture des îles aux Dragons"
+  }
+ },
+ "t2883": {
+  "name": {
+   "en": "Khaz Algar Tailoring",
+   "de": "Schneiderei von Khaz Algar",
+   "fr": "Couture de Khaz Algar"
+  }
+ },
+ "t2918": {
+  "name": {
+   "en": "Midnight Tailoring",
+   "de": "Schneiderei von Midnight",
+   "fr": "Couture de Midnight"
+  }
+ },
+ "773": {
+  "name": {
+   "en": "Inscription",
+   "de": "Inschriftenkunde",
+   "fr": "Calligraphie"
+  }
+ },
+ "t2507": {
+  "name": {
+   "en": "Kul Tiran Inscription / Zandalari Inscription",
+   "de": "Inschriftenkunde von Kul Tiras / Inschriftenkunde von Zandalar",
+   "fr": "Calligraphie de Kul Tiras / Calligraphie de Zandalar"
+  }
+ },
+ "t2508": {
+  "name": {
+   "en": "Legion Inscription",
+   "de": "Inschriftenkunde der Verheerten Inseln",
+   "fr": "Calligraphie de Legion"
+  }
+ },
+ "t2509": {
+  "name": {
+   "en": "Draenor Inscription",
+   "de": "Inschriftenkunde von Draenor",
+   "fr": "Calligraphie de Draenor"
+  }
+ },
+ "t2510": {
+  "name": {
+   "en": "Pandaria Inscription",
+   "de": "Inschriftenkunde von Pandaria",
+   "fr": "Calligraphie de Pandarie"
+  }
+ },
+ "t2511": {
+  "name": {
+   "en": "Cataclysm Inscription",
+   "de": "Inschriftenkunde des Kataklysmus",
+   "fr": "Calligraphie de Cataclysm"
+  }
+ },
+ "t2512": {
+  "name": {
+   "en": "Northrend Inscription",
+   "de": "Inschriftenkunde von Nordend",
+   "fr": "Calligraphie du Norfendre"
+  }
+ },
+ "t2513": {
+  "name": {
+   "en": "Outland Inscription",
+   "de": "Inschriftenkunde der Scherbenwelt",
+   "fr": "Calligraphie d’Outreterre"
+  }
+ },
+ "t2514": {
+  "name": {
+   "en": "Classic Inscription",
+   "de": "Klassische Inschriftenkunde",
+   "fr": "Calligraphie classique"
+  }
+ },
+ "t2756": {
+  "name": {
+   "en": "Shadowlands Inscription",
+   "de": "Inschriftenkunde der Schattenlande",
+   "fr": "Calligraphie d’Ombreterre"
+  }
+ },
+ "t2828": {
+  "name": {
+   "en": "Dragon Isles Inscription",
+   "de": "Inschriftenkunde der Dracheninseln",
+   "fr": "Calligraphie des îles aux Dragons"
+  }
+ },
+ "t2878": {
+  "name": {
+   "en": "Khaz Algar Inscription",
+   "de": "Inschriftenkunde von Khaz Algar",
+   "fr": "Calligraphie de Khaz Algar"
+  }
+ },
+ "t2913": {
+  "name": {
+   "en": "Midnight Inscription",
+   "de": "Inschriftenkunde von Midnight",
+   "fr": "Calligraphie de Midnight"
+  }
+ },
+ "185": {
+  "name": {
+   "en": "Cooking",
+   "de": "Kochkunst",
+   "fr": "Cuisine"
+  }
+ },
+ "t2541": {
+  "name": {
+   "en": "Kul Tiran Cooking / Zandalari Cooking",
+   "de": "Kochkunst von Kul Tiras / Kochkunst von Zandalar",
+   "fr": "Cuisine de Kul Tiras / Cuisine de Zandalar"
+  }
+ },
+ "t2542": {
+  "name": {
+   "en": "Legion Cooking",
+   "de": "Kochkunst der Verheerten Inseln",
+   "fr": "Cuisine de Legion"
+  }
+ },
+ "t2543": {
+  "name": {
+   "en": "Draenor Cooking",
+   "de": "Kochkunst von Draenor",
+   "fr": "Cuisine de Draenor"
+  }
+ },
+ "t2544": {
+  "name": {
+   "en": "Pandaria Cooking",
+   "de": "Kochkunst von Pandaria",
+   "fr": "Cuisine de Pandarie"
+  }
+ },
+ "t2545": {
+  "name": {
+   "en": "Cataclysm Cooking",
+   "de": "Kochkunst des Kataklysmus",
+   "fr": "Cuisine de Cataclysm"
+  }
+ },
+ "t2546": {
+  "name": {
+   "en": "Northrend Cooking",
+   "de": "Kochkunst von Nordend",
+   "fr": "Cuisine du Norfendre"
+  }
+ },
+ "t2547": {
+  "name": {
+   "en": "Outland Cooking",
+   "de": "Kochkunst der Scherbenwelt",
+   "fr": "Cuisine d’Outreterre"
+  }
+ },
+ "t2548": {
+  "name": {
+   "en": "Classic Cooking",
+   "de": "Klassische Kochkunst",
+   "fr": "Cuisine classique"
+  }
+ },
+ "t2752": {
+  "name": {
+   "en": "Shadowlands Cooking",
+   "de": "Kochkunst der Schattenlande",
+   "fr": "Cuisine d’Ombreterre"
+  }
+ },
+ "t2824": {
+  "name": {
+   "en": "Dragon Isles Cooking",
+   "de": "Kochkunst der Dracheninseln",
+   "fr": "Cuisine des îles aux Dragons"
+  }
+ },
+ "t2873": {
+  "name": {
+   "en": "Khaz Algar Cooking",
+   "de": "Kochkunst von Khaz Algar",
+   "fr": "Cuisine de Khaz Algar"
+  }
+ },
+ "t2908": {
+  "name": {
+   "en": "Midnight Cooking",
+   "de": "Kochkunst von Midnight",
+   "fr": "Cuisine de Midnight"
+  }
+ },
+ "356": {
+  "name": {
+   "en": "Fishing",
+   "de": "Angeln",
+   "fr": "Pêche"
+  }
+ },
+ "t2585": {
+  "name": {
+   "en": "Kul Tiran Fishing / Zandalari Fishing",
+   "de": "Angeln von Kul Tiras / Angeln von Zandalar",
+   "fr": "Pêche de Kul Tiras / Pêche de Zandalar"
+  }
+ },
+ "t2586": {
+  "name": {
+   "en": "Legion Fishing",
+   "de": "Angeln der Verheerten Inseln",
+   "fr": "Pêche de Legion"
+  }
+ },
+ "t2587": {
+  "name": {
+   "en": "Draenor Fishing",
+   "de": "Angeln von Draenor",
+   "fr": "Pêche de Draenor"
+  }
+ },
+ "t2588": {
+  "name": {
+   "en": "Pandaria Fishing",
+   "de": "Angeln von Pandaria",
+   "fr": "Pêche de Pandarie"
+  }
+ },
+ "t2589": {
+  "name": {
+   "en": "Cataclysm Fishing",
+   "de": "Angeln des Kataklysmus",
+   "fr": "Pêche de Cataclysm"
+  }
+ },
+ "t2590": {
+  "name": {
+   "en": "Northrend Fishing",
+   "de": "Angeln von Nordend",
+   "fr": "Pêche du Norfendre"
+  }
+ },
+ "t2591": {
+  "name": {
+   "en": "Outland Fishing",
+   "de": "Angeln der Scherbenwelt",
+   "fr": "Pêche d’Outreterre"
+  }
+ },
+ "t2592": {
+  "name": {
+   "en": "Classic Fishing",
+   "de": "Klassisches Angeln",
+   "fr": "Pêche classique"
+  }
+ },
+ "t2754": {
+  "name": {
+   "en": "Shadowlands Fishing",
+   "de": "Angeln der Schattenlande",
+   "fr": "Pêche d’Ombreterre"
+  }
+ },
+ "t2826": {
+  "name": {
+   "en": "Dragon Isles Fishing",
+   "de": "Angeln auf den Dracheninseln",
+   "fr": "Pêche des îles aux Dragons"
+  }
+ },
+ "t2876": {
+  "name": {
+   "en": "Khaz Algar Fishing",
+   "de": "Angeln von Khaz Algar",
+   "fr": "Pêche de Khaz Algar"
+  }
+ },
+ "t2911": {
+  "name": {
+   "en": "Midnight Fishing",
+   "de": "Angeln von Midnight",
+   "fr": "Pêche de Midnight"
+  }
+ },
+ "165": {
+  "name": {
+   "en": "Leatherworking",
+   "de": "Lederverarbeitung",
+   "fr": "Travail du cuir"
+  }
+ },
+ "t2525": {
+  "name": {
+   "en": "Kul Tiran Leatherworking / Zandalari Leatherworking",
+   "de": "Lederverarbeitung von Kul Tiras / Lederverarbeitung von Zandalar",
+   "fr": "Travail du cuir de Kul Tiras / Travail du cuir de Zandalar"
+  }
+ },
+ "t2526": {
+  "name": {
+   "en": "Legion Leatherworking",
+   "de": "Lederverarbeitung der Verheerten Inseln",
+   "fr": "Travail du cuir de Legion"
+  }
+ },
+ "t2527": {
+  "name": {
+   "en": "Draenor Leatherworking",
+   "de": "Lederverarbeitung von Draenor",
+   "fr": "Travail du cuir de Draenor"
+  }
+ },
+ "t2528": {
+  "name": {
+   "en": "Pandaria Leatherworking",
+   "de": "Lederverarbeitung von Pandaria",
+   "fr": "Travail du cuir de Pandarie"
+  }
+ },
+ "t2529": {
+  "name": {
+   "en": "Cataclysm Leatherworking",
+   "de": "Lederverarbeitung des Kataklysmus",
+   "fr": "Travail du cuir de Cataclysm"
+  }
+ },
+ "t2530": {
+  "name": {
+   "en": "Northrend Leatherworking",
+   "de": "Lederverarbeitung von Nordend",
+   "fr": "Travail du cuir du Norfendre"
+  }
+ },
+ "t2531": {
+  "name": {
+   "en": "Outland Leatherworking",
+   "de": "Lederverarbeitung der Scherbenwelt",
+   "fr": "Travail du cuir d’Outreterre"
+  }
+ },
+ "t2532": {
+  "name": {
+   "en": "Classic Leatherworking",
+   "de": "Klassische Lederverarbeitung",
+   "fr": "Travail du cuir classique"
+  }
+ },
+ "t2758": {
+  "name": {
+   "en": "Shadowlands Leatherworking",
+   "de": "Lederverarbeitung der Schattenlande",
+   "fr": "Travail du cuir d’Ombreterre"
+  }
+ },
+ "t2830": {
+  "name": {
+   "en": "Dragon Isles Leatherworking",
+   "de": "Lederverarbeitung der Dracheninseln",
+   "fr": "Travail du cuir des îles aux Dragons"
+  }
+ },
+ "t2880": {
+  "name": {
+   "en": "Khaz Algar Leatherworking",
+   "de": "Lederverarbeitung von Khaz Algar",
+   "fr": "Travail du cuir de Khaz Algar"
+  }
+ },
+ "t2915": {
+  "name": {
+   "en": "Midnight Leatherworking",
+   "de": "Lederverarbeitung von Midnight",
+   "fr": "Travail du cuir de Midnight"
+  }
+ },
+ "171": {
+  "name": {
+   "en": "Alchemy",
+   "de": "Alchemie",
+   "fr": "Alchimie"
+  }
+ },
+ "t2478": {
+  "name": {
+   "en": "Kul Tiran Alchemy / Zandalari Alchemy",
+   "de": "Alchemie von Kul Tiras / Alchemie von Zandalar",
+   "fr": "Alchimie de Kul Tiras / Alchimie de Zandalar"
+  }
+ },
+ "t2479": {
+  "name": {
+   "en": "Legion Alchemy",
+   "de": "Alchemie der Verheerten Inseln",
+   "fr": "Alchimie de Legion"
+  }
+ },
+ "t2480": {
+  "name": {
+   "en": "Draenor Alchemy",
+   "de": "Alchemie von Draenor",
+   "fr": "Alchimie de Draenor"
+  }
+ },
+ "t2481": {
+  "name": {
+   "en": "Pandaria Alchemy",
+   "de": "Alchemie von Pandaria",
+   "fr": "Alchimie de Pandarie"
+  }
+ },
+ "t2482": {
+  "name": {
+   "en": "Cataclysm Alchemy",
+   "de": "Alchemie des Kataklysmus",
+   "fr": "Alchimie de Cataclysm"
+  }
+ },
+ "t2483": {
+  "name": {
+   "en": "Northrend Alchemy",
+   "de": "Alchemie von Nordend",
+   "fr": "Alchimie du Norfendre"
+  }
+ },
+ "t2484": {
+  "name": {
+   "en": "Outland Alchemy",
+   "de": "Alchemie der Scherbenwelt",
+   "fr": "Alchimie d’Outreterre"
+  }
+ },
+ "t2485": {
+  "name": {
+   "en": "Classic Alchemy",
+   "de": "Klassische Alchemie",
+   "fr": "Alchimie classique"
+  }
+ },
+ "t2750": {
+  "name": {
+   "en": "Shadowlands Alchemy",
+   "de": "Alchemie der Schattenlande",
+   "fr": "Alchimie d’Ombreterre"
+  }
+ },
+ "t2823": {
+  "name": {
+   "en": "Dragon Isles Alchemy",
+   "de": "Alchemie der Dracheninseln",
+   "fr": "Alchimie des îles aux Dragons"
+  }
+ },
+ "t2871": {
+  "name": {
+   "en": "Khaz Algar Alchemy",
+   "de": "Alchemie von Khaz Algar",
+   "fr": "Alchimie de Khaz Algar"
+  }
+ },
+ "t2906": {
+  "name": {
+   "en": "Midnight Alchemy",
+   "de": "Alchemie von Midnight",
+   "fr": "Alchimie de Midnight"
+  }
+ },
+ "755": {
+  "name": {
+   "en": "Jewelcrafting",
+   "de": "Juwelierskunst",
+   "fr": "Joaillerie"
+  }
+ },
+ "t2517": {
+  "name": {
+   "en": "Kul Tiran Jewelcrafting / Zandalari Jewelcrafting",
+   "de": "Juwelierskunst von Kul Tiras / Juwelierskunst von Zandalar",
+   "fr": "Joaillerie de Kul Tiras / Joaillerie de Zandalar"
+  }
+ },
+ "t2518": {
+  "name": {
+   "en": "Legion Jewelcrafting",
+   "de": "Juwelierskunst der Verheerten Inseln",
+   "fr": "Joaillerie de Legion"
+  }
+ },
+ "t2519": {
+  "name": {
+   "en": "Draenor Jewelcrafting",
+   "de": "Juwelierskunst von Draenor",
+   "fr": "Joaillerie de Draenor"
+  }
+ },
+ "t2520": {
+  "name": {
+   "en": "Pandaria Jewelcrafting",
+   "de": "Juwelierskunst von Pandaria",
+   "fr": "Joaillerie de Pandarie"
+  }
+ },
+ "t2521": {
+  "name": {
+   "en": "Cataclysm Jewelcrafting",
+   "de": "Juwelierskunst des Kataklysmus",
+   "fr": "Joaillerie de Cataclysm"
+  }
+ },
+ "t2522": {
+  "name": {
+   "en": "Northrend Jewelcrafting",
+   "de": "Juwelierskunst von Nordend",
+   "fr": "Joaillerie du Norfendre"
+  }
+ },
+ "t2523": {
+  "name": {
+   "en": "Outland Jewelcrafting",
+   "de": "Juwelierskunst der Scherbenwelt",
+   "fr": "Joaillerie d’Outreterre"
+  }
+ },
+ "t2524": {
+  "name": {
+   "en": "Classic Jewelcrafting",
+   "de": "Klassische Juwelierskunst",
+   "fr": "Joaillerie classique"
+  }
+ },
+ "t2757": {
+  "name": {
+   "en": "Shadowlands Jewelcrafting",
+   "de": "Juwelierskunst der Schattenlande",
+   "fr": "Joaillerie d’Ombreterre"
+  }
+ },
+ "t2829": {
+  "name": {
+   "en": "Dragon Isles Jewelcrafting",
+   "de": "Juwelierskunst der Dracheninseln",
+   "fr": "Joaillerie des îles aux Dragons"
+  }
+ },
+ "t2879": {
+  "name": {
+   "en": "Khaz Algar Jewelcrafting",
+   "de": "Juwelierskunst von Khaz Algar",
+   "fr": "Joaillerie de Khaz Algar"
+  }
+ },
+ "t2914": {
+  "name": {
+   "en": "Midnight Jewelcrafting",
+   "de": "Juwelierskunst von Midnight",
+   "fr": "Joaillerie de Midnight"
+  }
+ },
+ "2777": {
+  "name": {
+   "en": "Soul Cyphering",
+   "de": "Seelenchiffrierung",
+   "fr": "Cryptogrammes d’âmes"
+  }
+ },
+ "2787": {
+  "name": {
+   "en": "Abominable Stitching",
+   "de": "Monstrositätenflickerei",
+   "fr": "Suture abominable"
+  }
+ },
+ "2791": {
+  "name": {
+   "en": "Ascension Crafting",
+   "de": "Aufstiegshandwerk",
+   "fr": "Artisanat de l’Ascension"
+  }
+ },
+ "2811": {
+  "name": {
+   "en": "Stygia Crafting",
+   "de": "Stygiahandwerk",
+   "fr": "Travail des stygies"
+  }
+ },
+ "2819": {
+  "name": {
+   "en": "Protoform Synthesis",
+   "de": "Protoformsynthese",
+   "fr": "Synthèse de protoforme"
+  }
+ },
+ "2821": {
+  "name": {
+   "en": "Arcana Manipulation",
+   "de": "Arkanamanipulation",
+   "fr": "Manipulation des arcanes"
+  }
+ },
+ "2847": {
+  "name": {
+   "en": "Tuskarr Fishing Gear",
+   "de": "Angelausrüstung der Tuskarr",
+   "fr": "Matériel de pêche rohart"
+  }
+ },
+ "2886": {
+  "name": {
+   "en": "Supply Shipments",
+   "de": "Vorratslieferungen",
+   "fr": "Cargaisons de ravitaillement"
+  }
+ },
+ "2870": {
+  "name": {
+   "en": "Shipment Prototype",
+   "de": "Lieferungs-Prototyp",
+   "fr": "Prototype de cargaison"
+  }
+ },
+ "2950": {
+  "name": {
+   "en": "Alchemy Research",
+   "de": "Alchemieforschung",
+   "fr": "Recherches d’alchimie"
+  }
+ },
+ "2984": {
+  "name": {
+   "en": "Dye Crafting",
+   "de": "Farbherstellung",
+   "fr": "Préparation de teinture"
+  }
+ }
+}

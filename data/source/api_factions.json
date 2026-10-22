@@ -1,0 +1,3285 @@
+{
+ "1091": {
+  "name": {
+   "en": "The Wyrmrest Accord",
+   "de": "Der Wyrmruhpakt",
+   "fr": "Accord du Repos du ver"
+  },
+  "description": {
+   "en": "With the Blue Dragonflight's violent upheaval against all mortal users of magic, the remaining dragonflights have banded under the leadership of the Red Dragonflight to combat their wayward kin.",
+   "de": "Angesichts der Aggression des blauen Drachenschwarms gegenüber allen sterblichen Magienutzern, haben sich die übrigen Schwärme unter der Führung des roten Drachenschwarms zum Kampf gegen die unberechenbaren Artgenossen zusammengeschlossen.",
+   "fr": "Avec le soulèvement violent du Vol draconique bleu contre tous les utilisateurs mortels de la magie, les vols draconiques restants se sont regroupés sous la bannière du Vol draconique rouge, pour combattre leurs frères égarés."
+  }
+ },
+ "67": {
+  "name": {
+   "en": "Horde",
+   "de": "Horde",
+   "fr": "Horde"
+  }
+ },
+ "589": {
+  "name": {
+   "en": "Wintersaber Trainers",
+   "de": "Wintersäblerausbilder",
+   "fr": "Éleveurs de sabres-d'hiver"
+  },
+  "description": {
+   "en": "This small group of reclusive night elves raises and trains wintersabers in the Winterspring area.",
+   "de": "Eine kleine Gruppe zurückgezogener Nachtelfen zieht in der Gegend von Winterquell Wintersäbler auf und bildet sie aus.",
+   "fr": "Ce petit groupe d’Elfes de la nuit vit en reclus. Ses membres élèvent et dressent des sabres-d’hiver au Berceau-de-l’Hiver."
+  }
+ },
+ "891": {
+  "name": {
+   "en": "Alliance Forces",
+   "de": "Streitkräfte der Allianz",
+   "fr": "Forces de l'Alliance"
+  }
+ },
+ "1104": {
+  "name": {
+   "en": "Frenzyheart Tribe",
+   "de": "Stamm der Wildherzen",
+   "fr": "Tribu Frénécœur"
+  },
+  "description": {
+   "en": "Driven from their lands by the Scourge, this fierce tribe of wolvar stumbled upon Sholazar Basin, where they intend to make their new home.  Their aggressive nature has put them at odds with the various gorloc tribes known collectively as the Oracles.",
+   "de": "Von der Geißel aus ihrer Heimat vertrieben, stolperten diese Wolvar ins Sholazarbecken, wo sie ihr neues Zuhause errichten wollen. Ihre aggressive Art hat zu Spannungen mit den dortigen Gorlocstämmen geführt, die man auch die Orakel nennt.",
+   "fr": "Chassée de ses terres par le Fléau, cette redoutable tribu de varleus compte faire du bassin de Sholazar son nouveau foyer. Le tempérament agressif de ses membres leur vaut des démêlés avec les diverses tribus de gorlocs regroupées sous le nom d'Oracles."
+  }
+ },
+ "54": {
+  "name": {
+   "en": "Gnomeregan",
+   "de": "Gnomeregan",
+   "fr": "Gnomeregan"
+  },
+  "description": {
+   "en": "The former denizens of Gnomeregan, now living in New Tinkertown and in league with the Alliance.",
+   "de": "Die einstigen Bewohner von Gnomeregan, die nun in Neu-Tüftlerstadt leben und Verbündete der Allianz sind.",
+   "fr": "Les anciens habitants de Gnomeregan vivent aujourd’hui à la Nouvelle-Brikabrok et se sont associés à l’Alliance."
+  }
+ },
+ "69": {
+  "name": {
+   "en": "Darnassus",
+   "de": "Darnassus",
+   "fr": "Darnassus"
+  },
+  "description": {
+   "en": "This Alliance capital is populated by Night Elves and is located in the Island of Teldrassil.  Ruled by the Priestess of the Moon, Tyrande Whisperwind.",
+   "de": "Diese Hauptstadt der Allianz wird von Nachtelfen bewohnt und liegt auf der Insel Teldrassil. Beherrscht von der Mondpriesterin Tyrande Wisperwind.",
+   "fr": "Située sur l’île de Teldrassil, cette capitale de l’Alliance est la demeure des Elfes de la nuit. Elle est dirigée par la prêtresse de la Lune, Tyrande Murmevent."
+  }
+ },
+ "76": {
+  "name": {
+   "en": "Orgrimmar",
+   "de": "Orgrimmar",
+   "fr": "Orgrimmar"
+  },
+  "description": {
+   "en": "Founded by Thrall, this Horde capital city is home to many of the proud orc clans of Durotar.",
+   "de": "Diese von Thrall begründete Hauptstadt der Horde ist das Zuhause von vielen der stolzen Orcklans von Durotar.",
+   "fr": "Fondée par Thrall, cette capitale de la Horde abrite les nombreux et fiers clans orcs de Durotar."
+  }
+ },
+ "470": {
+  "name": {
+   "en": "Ratchet",
+   "de": "Ratschet",
+   "fr": "Cabestan"
+  },
+  "description": {
+   "en": "Part of the Steamwheedle Cartel, this goblin city provides a neutral haven for those that wish to trade goods and services in the Barrens.",
+   "de": "Diese neutrale Goblinstadt, ein Teil des Dampfdruckkartells, ist ein sicherer Hafen für all jene, die im Brachland mit Waren und Dienstleistungen handeln wollen.",
+   "fr": "Cette ville gobeline appartient au cartel Gentepression. Elle offre un abri neutre à tous ceux qui veulent échanger des biens et des services dans les Tarides."
+  }
+ },
+ "1278": {
+  "name": {
+   "en": "Sho",
+   "de": "Sho",
+   "fr": "Sho"
+  },
+  "description": {
+   "en": "A stout, proud defender of the farmlands, Sho is always there when you need a strong fist.",
+   "de": "Als kräftige und stolze Verteidigerin des Farmlands ist Sho immer da, wenn man eine starke Hand braucht.",
+   "fr": "Vigoureuse et fière protectrice des fermes, Sho est toujours là quand il s’agit de faire le coup de poing."
+  }
+ },
+ "509": {
+  "name": {
+   "en": "The League of Arathor",
+   "de": "Der Bund von Arathor",
+   "fr": "Ligue d'Arathor"
+  },
+  "description": {
+   "en": "The League of Arathor seeks to reclaim the lost land of Arathi Basin for their benefactors in Stormwind.",
+   "de": "Der Bund von Arathor will die verlorenen Ländereien des Arathibeckens wieder für ihre Gönner in Sturmwind zurückgewinnen.",
+   "fr": "La Ligue d’Arathor tente de récupérer les terres perdues du bassin Arathi pour le compte de ses bienfaiteurs de Hurlevent."
+  }
+ },
+ "889": {
+  "name": {
+   "en": "Warsong Outriders",
+   "de": "Kriegshymnenklan",
+   "fr": "Voltigeurs Chanteguerre"
+  },
+  "description": {
+   "en": "Fierce orcs of the Warsong Clan, locked in battle against the Silverwing Sentinels in Warsong Gulch.",
+   "de": "Grimmige Orcs des Kriegshymnenklans, die in ständige Auseinandersetzungen mit den Schildwachen der Silberschwingen in der Kriegshymnenschlucht verwickelt sind.",
+   "fr": "Ces vaillants Orcs du clan Chanteguerre livrent une bataille incessante aux Sentinelles d’Aile-argent dans le goulet des Chanteguerres."
+  }
+ },
+ "72": {
+  "name": {
+   "en": "Stormwind",
+   "de": "Sturmwind",
+   "fr": "Hurlevent"
+  },
+  "description": {
+   "en": "One of the last bastions of human power, this Alliance capital is ruled by the young but wise king, Anduin Wrynn.",
+   "de": "Eine der letzten Bastionen der Macht der Menschen. Diese Hauptstadt der Allianz wird von dem jungen, aber weisen König Anduin Wrynn beherrscht.",
+   "fr": "Cette capitale de l’Alliance est l’un des derniers bastions de la puissance des Humains. Elle est gouvernée avec sagesse par le jeune roi Anduin Wrynn."
+  }
+ },
+ "47": {
+  "name": {
+   "en": "Ironforge",
+   "de": "Eisenschmiede",
+   "fr": "Forgefer"
+  },
+  "description": {
+   "en": "This Alliance capital is the pride of the Dun Morogh dwarves.  Home to King Magni.",
+   "de": "Die Hauptstadt der Allianz ist der ganze Stolz der Zwerge von Dun Morogh. Heimat von König Magni.",
+   "fr": "Résidence du roi Magni, cette capitale de l’Alliance fait la fierté des nains de Dun Morogh."
+  }
+ },
+ "942": {
+  "name": {
+   "en": "Cenarion Expedition",
+   "de": "Expedition des Cenarius",
+   "fr": "Expédition cénarienne"
+  },
+  "description": {
+   "en": "An exploratory force sent to Outland by the Cenarion Circle to study surviving life forms.  The Cenarion Expedition has quickly gained in size and autonomy since the opening of the Dark Portal.",
+   "de": "Eine Truppe von Forschern, die vom Zirkel des Cenarius in die Scherbenwelt entsandt wurde, um die dort überlebenden Lebensformen zu untersuchen. Die Expedition hat seit der Öffnung des Dunklen Portals rasch an Größe und Unabhängigkeit gewonnen.",
+   "fr": "Une troupe d’explorateurs envoyée en Outreterre par le Cercle cénarien, afin d’étudier les formes de vie survivantes. L’Expédition cénarienne a rapidement grossi et gagné en autonomie depuis l'ouverture de la Porte des ténèbres."
+  }
+ },
+ "1037": {
+  "name": {
+   "en": "Alliance Vanguard",
+   "de": "Vorhut der Allianz",
+   "fr": "Avant-garde de l'Alliance"
+  },
+  "description": {
+   "en": "The combined forces of the Alliance in Northrend, lead by the Valiance Expedition, but also including civilian groups such as the Explorers' League.",
+   "de": "Die vereinten Streitkräfte der Allianz in Nordend, angeführt von der Expedition Valianz. Dazu gehören aber auch zivile Gruppen wie die Forscherliga.",
+   "fr": "L’ensemble des troupes de l’Alliance en Norfendre, dirigées par l’expédition de la Bravoure mais incluant également des groupes de civils comme la Ligue des explorateurs."
+  }
+ },
+ "81": {
+  "name": {
+   "en": "Thunder Bluff",
+   "de": "Donnerfels",
+   "fr": "Pitons-du-Tonnerre"
+  },
+  "description": {
+   "en": "Baine Bloodhoof leads his people, the proud Tauren, from this mighty Horde capital.",
+   "de": "Baine Bluthuf führt sein Volk, die stolzen Tauren, von dieser mächtigen Hauptstadt der Horde aus an.",
+   "fr": "Baine Sabot-de-Sang dirige son peuple, les fiers Taurens, depuis cette puissante capitale de la Horde."
+  }
+ },
+ "529": {
+  "name": {
+   "en": "Argent Dawn",
+   "de": "Argentumdämmerung",
+   "fr": "Aube d'argent"
+  },
+  "description": {
+   "en": "An organization focused on protecting Azeroth from the threat of the Scourge.  Strongholds of the Argent Dawn can be found in the Eastern and Western Plaguelands.",
+   "de": "Eine Organisation, die es sich zum Ziel gesetzt hat, Azeroth vor der Bedrohung durch die Geißel zu beschützen. Stützpunkte der Argentumdämmerung befinden sich in den Östlichen und Westlichen Pestländern.",
+   "fr": "Cette organisation s’est vouée à protéger Azeroth contre la menace du Fléau. On trouve ses forteresses dans les Maleterres de l’Est et de l’Ouest."
+  }
+ },
+ "93": {
+  "name": {
+   "en": "Magram Clan Centaur",
+   "de": "Magramklan",
+   "fr": "Centaures (Magram)"
+  },
+  "description": {
+   "en": "These centaur have made their home in the eastern region of Desolace.  Mortal enemies of the Gelkis Centaur.",
+   "de": "Diese Zentauren leben in der östlichen Region von Desolace. Todfeinde des Gelkisklans.",
+   "fr": "Ennemis mortels des centaures Gelkis, ces centaures résident dans la région orientale de Désolace."
+  }
+ },
+ "1090": {
+  "name": {
+   "en": "Kirin Tor",
+   "de": "Kirin Tor",
+   "fr": "Kirin Tor"
+  },
+  "description": {
+   "en": "The mages and archmages running the city of Dalaran.  Faced with the rising threats of the Blue Dragonflight and the Scourge, they've transported their city to the heart of Northrend.",
+   "de": "Die Magier und Erzmagier, welche über Dalaran herrschen. Angesichts der wachsenden Bedrohung durch den blauen Drachenschwarm und die Geißel haben sie ihre Stadt ins Herz Nordends versetzt.",
+   "fr": "Les mages et les archimages qui gouvernent la cité de Dalaran. Devant les menaces croissantes du Vol draconique bleu et du Fléau, ils ont transporté leur cité au cœur du Norfendre."
+  }
+ },
+ "1119": {
+  "name": {
+   "en": "The Sons of Hodir",
+   "de": "Die Söhne Hodirs",
+   "fr": "Fils de Hodir"
+  },
+  "description": {
+   "en": "The frost giants of the Storm Peaks are a war-like race that makes their home in Dun Niffelem.",
+   "de": "Die Frostriesen der Sturmgipfel sind ein kriegsversessenes Volk, das Dun Niffelem seine Heimat nennt.",
+   "fr": "Les géants du givre des pics Foudroyés sont un peuple guerrier qui s'est établi à Dun Niffelem."
+  }
+ },
+ "910": {
+  "name": {
+   "en": "Brood of Nozdormu",
+   "de": "Brut Nozdormus",
+   "fr": "Progéniture de Nozdormu"
+  },
+  "description": {
+   "en": "The descendants of the Bronze Dragonflight are the guardians of time and care little for the mortal races.",
+   "de": "Die Abkömmlinge des bronzenen Drachenschwarms sind die Behüter der Zeit und scheren sich wenig um die Angelegenheiten der sterblichen Völker.",
+   "fr": "Ces descendants du Vol de bronze sont les gardiens du temps, et ne se préoccupent que très peu des races mortelles."
+  }
+ },
+ "530": {
+  "name": {
+   "en": "Darkspear Trolls",
+   "de": "Dunkelspeertrolle",
+   "fr": "Trolls sombrelances"
+  },
+  "description": {
+   "en": "This tribe of exiled trolls has joined forces with Thrall and the Horde.  They now call Durotar their home, which they share with their orc allies.",
+   "de": "Dieser Stamm von verbannten Trollen hat sich Thrall und der Horde angeschlossen. Ihr Zuhause ist nun Durotar, welches sie sich mit den Orcs teilen.",
+   "fr": "Cette tribu de Trolls exilés a joint ses forces à celles de Thrall et de la Horde. Ils partagent désormais Durotar avec leurs alliés orcs."
+  }
+ },
+ "1126": {
+  "name": {
+   "en": "The Frostborn",
+   "de": "Die Frosterben",
+   "fr": "Givre-nés"
+  },
+  "description": {
+   "en": "This mysterious race of frost dwarves makes their home in the Storm Peaks.  They've recently befriended members of the Explorers' League and welcome Alliance members within their settlements.",
+   "de": "Dieses geheimnisvolle Eiszwergenvolk hat die Sturmgipfel zu seinem Heim ernannt. Vor Kurzem haben sich diese Zwerge mit der Forscherliga angefreundet und heißen Mitglieder der Allianz in ihren Siedlungen willkommen.",
+   "fr": "Cette mystérieuse race de Nains de givre a élu domicile dans les pics Foudroyés. Ils se sont récemment alliés à la Ligue des explorateurs et accueillent les membres de l'Alliance dans leurs habitations."
+  }
+ },
+ "1064": {
+  "name": {
+   "en": "The Taunka",
+   "de": "Die Taunka",
+   "fr": "Taunkas"
+  },
+  "description": {
+   "en": "These hardy people are cousins of the Tauren and have become valuable scouts for the armies of the Horde as they march northward.",
+   "de": "Bei diesem zähen Volk handelt es sich um Verwandte der Tauren. Sie sind zu wertvollen Spähern der Armeen der Horde auf ihrem Marsch gen Norden geworden.",
+   "fr": "Ce peuple robuste est apparenté aux Taurens. Il fournit d'inestimables éclaireurs aux armées de la Horde, dans sa marche vers le nord."
+  }
+ },
+ "469": {
+  "name": {
+   "en": "Alliance",
+   "de": "Allianz",
+   "fr": "Alliance"
+  }
+ },
+ "1106": {
+  "name": {
+   "en": "Argent Crusade",
+   "de": "Argentumkreuzzug",
+   "fr": "Croisade d'argent"
+  },
+  "description": {
+   "en": "Led by Tirion Fordring, the Argent Crusade combines the reformed Order of the Silver Hand with the Argent Dawn in one final push against the forces of the Lich King.",
+   "de": "Der Argentumkreuzzug ist ein Zusammenschluss der Argentumdämmerung mit dem reformierten Orden der Silbernen Hand unter der Führung Tirion Fordrings. Ziel des Kreuzzugs ist es, den letzten Schlag gegen die Streitkräfte des Lichkönigs zu führen.",
+   "fr": "Menée par Tirion Fordring, la Croisade d'argent regroupe les membres d'une Main d'argent reformée et ceux de l'Aube d'argent, dans le but de vaincre une bonne fois pour toutes les troupes du roi-liche."
+  }
+ },
+ "1011": {
+  "name": {
+   "en": "Lower City",
+   "de": "Unteres Viertel",
+   "fr": "Ville basse"
+  },
+  "description": {
+   "en": "The refugees of Shattrath come from diverse backgrounds and races.  Word of helpful deeds spreads quickly among the Denizens of Lower City.",
+   "de": "Die Flüchtlinge von Shattrath entstammen den verschiedensten Verhältnissen und Völkern. Die Kunde guter Taten verbreitet sich rasch unter den Bewohnern des Unteren Viertels.",
+   "fr": "Les réfugiés qui habitent Shattrath sont de diverses races et origines. Lorsque l'on vient en aide à un habitant de la Ville basse, la nouvelle se répand vite."
+  }
+ },
+ "59": {
+  "name": {
+   "en": "Thorium Brotherhood",
+   "de": "Thoriumbruderschaft",
+   "fr": "Confrérie du thorium"
+  },
+  "description": {
+   "en": "The dwarves of the Thorium Brotherhood epitomize excellence in craftsmanship and are bent on unlocking the secrets of Blackrock Mountain.",
+   "de": "Die Zwerge der Thoriumbruderschaft verkörpern den Höhepunkt der Handwerkskunst und sind davon besessen, die Geheimnisse des Schwarzfels zu enträtseln.",
+   "fr": "Les nains de la Confrérie du thorium personnifient l’excellence dans l’artisanat, et sont résolus à percer les secrets du mont Rochenoire."
+  }
+ },
+ "980": {
+  "name": {
+   "en": "The Burning Crusade",
+   "de": "The Burning Crusade",
+   "fr": "The Burning Crusade"
+  }
+ },
+ "1275": {
+  "name": {
+   "en": "Ella",
+   "de": "Ella",
+   "fr": "Ella"
+  },
+  "description": {
+   "en": "Ella aspires to be a great brewer, but she has a long road ahead of her!",
+   "de": "Elle möchte eine große Braumeisterin werden, doch sie hat noch einen langen Weg vor sich.",
+   "fr": "Ella aspire à devenir un grand brasseur, mais elle a encore une longue route devant elle !"
+  }
+ },
+ "1097": {
+  "name": {
+   "en": "Wrath of the Lich King",
+   "de": "Wrath of the Lich King",
+   "fr": "Wrath of the Lich King"
+  }
+ },
+ "1050": {
+  "name": {
+   "en": "Valiance Expedition",
+   "de": "Expedition Valianz",
+   "fr": "Expédition de la Bravoure"
+  },
+  "description": {
+   "en": "The main armies of the Alliance in Northrend, moving against the Scourge and unified under King Varian Wrynn's command.",
+   "de": "Die Hauptarmeen der Allianz in Nordend, die gemeinsam unter der Führung von König Varian Wrynn gegen die Geißel ins Feld ziehen.",
+   "fr": "L'armée principale de l'Alliance dans le Norfendre, qui combat le Fléau et est dirigée par le roi Varian Wrynn."
+  }
+ },
+ "947": {
+  "name": {
+   "en": "Thrallmar",
+   "de": "Thrallmar",
+   "fr": "Thrallmar"
+  },
+  "description": {
+   "en": "The expedition sent through the Dark Portal by Thrall has built a stronghold in Hellfire Peninsula.  Thrallmar serves as a base of operations for much of the Horde's activities in Outland.",
+   "de": "Die Expedition, die von Thrall durch das Dunkle Portal gesandt wurde, hat auf der Höllenfeuerhalbinsel eine Feste errichtet. Thrallmar dient der Horde als Operationsbasis für den Großteil ihrer Aktivitäten in der Scherbenwelt.",
+   "fr": "L’expédition envoyée à travers la Porte des ténèbres par Thrall a bâti une forteresse sur la péninsule des Flammes infernales. Thrallmar sert de base d’opérations à la plupart des activités de la Horde en Outreterre."
+  }
+ },
+ "1052": {
+  "name": {
+   "en": "Horde Expedition",
+   "de": "Expedition der Horde",
+   "fr": "Expédition de la Horde"
+  },
+  "description": {
+   "en": "The combined forces of the Horde in Northrend, spearheaded by the Warsong Offensive.",
+   "de": "Die vereinten Streitkräfte der Horde in Nordend, angeführt von der Kriegshymnenoffensive.",
+   "fr": "Les troupes combinées de la Horde en Norfendre, dont l'Offensive chanteguerre est le fer de lance."
+  }
+ },
+ "1038": {
+  "name": {
+   "en": "Ogri'la",
+   "de": "Ogri'la",
+   "fr": "Ogri'la"
+  },
+  "description": {
+   "en": "The enlightened denizens of Ogri'la have made their dwelling in the western Blade's Edge Mountains, where proximity to apexis crystals has caused them to transcend their brutish ogre nature.",
+   "de": "Die erleuchteten Bewohner von Ogri'la haben sich im Westen des Schergrats angesiedelt, wo sie sich auf Grund der Nähe zu den Apexiskristallen über ihre unzivilisierte Ogernatur hinaus entwickelt haben.",
+   "fr": "Les citoyens éclairés d'Ogri'la ont élu domicile dans la partie ouest des Tranchantes, où la proximité des cristaux apogides leur a permis de transcender la brutalité de leur nature d'Ogres."
+  }
+ },
+ "990": {
+  "name": {
+   "en": "The Scale of the Sands",
+   "de": "Die Wächter der Sande",
+   "fr": "Balance des sables"
+  },
+  "description": {
+   "en": "A secretive subgroup of the Bronze Dragonflight, led by Soridormi, prime mate of Nozdormu.",
+   "de": "Eine geheime Gruppierung des bronzenen Drachenschwarms, angeführt von Soridormi, Nozdormus Hauptgefährtin.",
+   "fr": "Une faction secrète du Vol de bronze menée par Soridormi, première compagne de Nozdormu."
+  }
+ },
+ "892": {
+  "name": {
+   "en": "Horde Forces",
+   "de": "Streitkräfte der Horde",
+   "fr": "Forces de la Horde"
+  }
+ },
+ "510": {
+  "name": {
+   "en": "The Defilers",
+   "de": "Die Entweihten",
+   "fr": "Profanateurs"
+  },
+  "description": {
+   "en": "The Defilers seek to claim Arathi Basin's valuable resources for the Horde.",
+   "de": "Die Entweihten wollen die wertvollen Ressourcen des Arathibeckens für die Horde gewinnen.",
+   "fr": "Les Profanateurs cherchent à s’emparer des ressources inestimables du bassin Arathi au profit de la Horde."
+  }
+ },
+ "729": {
+  "name": {
+   "en": "Frostwolf Clan",
+   "de": "Frostwolfklan",
+   "fr": "Clan Loup-de-Givre"
+  },
+  "description": {
+   "en": "The Frostwolf Clan seeks to drive out the dwarves of the Stormpike Expedition from Alterac Valley.",
+   "de": "Der Frostwolfklan will die Zwerge des Sturmlanzenklans aus dem Alteractal vertreiben.",
+   "fr": "Le clan Loup-de-Givre cherche à chasser les nains de l’expédition Foudrepique de la vallée d’Alterac."
+  }
+ },
+ "909": {
+  "name": {
+   "en": "Darkmoon Faire",
+   "de": "Dunkelmond-Jahrmarkt",
+   "fr": "Foire de Sombrelune"
+  },
+  "description": {
+   "en": "A carnival that showcases the weird and the extraordinary, located on a mysterious island only accessible for the first week of every month.",
+   "de": "Dieser Jahrmarkt bietet das Bizarre und Außergewöhnliche dar. Er ist auf einer mysteriösen Insel beheimatet, die Besucher nur in der ersten Woche jedes Monats betreten können.",
+   "fr": "Cette foire, qui présente des attractions étranges et extraordinaires, est située sur une île mystérieuse accessible uniquement la première semaine de chaque mois."
+  }
+ },
+ "92": {
+  "name": {
+   "en": "Gelkis Clan Centaur",
+   "de": "Gelkisklan",
+   "fr": "Centaures (Gelkis)"
+  },
+  "description": {
+   "en": "These centaur have made their home in the southern region of Desolace.  Mortal enemies of the Magram Centaur.",
+   "de": "Diese Zentauren leben in der südlichen Region von Desolace. Todfeinde des Magramklans.",
+   "fr": "Ennemis mortels des centaures Magram, ces centaures se sont établis dans la région méridionale de Désolace."
+  }
+ },
+ "967": {
+  "name": {
+   "en": "The Violet Eye",
+   "de": "Das Violette Auge",
+   "fr": "L'Œil pourpre"
+  },
+  "description": {
+   "en": "A secret sect of the Kirin Tor founded to spy on Medivh and his activities.",
+   "de": "Eine geheime Sekte der Kirin Tor, die gegründet wurde, um Medivh und seine Arbeit auszuspionieren.",
+   "fr": "Une secte secrète du Kirin Tor, fondée pour espionner Medivh et ses activités."
+  }
+ },
+ "933": {
+  "name": {
+   "en": "The Consortium",
+   "de": "Das Konsortium",
+   "fr": "Consortium"
+  },
+  "description": {
+   "en": "Led by Nexus-Prince Haramad, the Consortium is a loosely affiliated cartel of ethereal smugglers, traders and thieves that has come to Outland to benefit from its riches.",
+   "de": "Das Konsortium, geführt von Nexusprinz Haramad, ist ein frei gebundenes Kartell von astralen Schmugglern, Händlern und Dieben, die in die Scherbenwelt kamen, um von ihren Schätzen zu profitieren.",
+   "fr": "Dirigé par le prince-nexus Haramad, le Consortium est un cartel de contrebandiers, de négociants et de voleurs éthériens, unis dans une alliance assez lâche et venus en Outreterre pour tirer profit de ses richesses."
+  }
+ },
+ "989": {
+  "name": {
+   "en": "Keepers of Time",
+   "de": "Hüter der Zeit",
+   "fr": "Gardiens du Temps"
+  },
+  "description": {
+   "en": "The Keepers of Time are bronze dragons hand-picked by Nozdormu to watch over the Caverns of Time.",
+   "de": "Die Hüter der Zeit sind von Nozdormu höchstpersönlich ausgesuchte bronzene Drachen, die über die Höhlen der Zeit wachen.",
+   "fr": "Les Gardiens du Temps sont des dragons de bronze choisis avec soin par Nozdormu pour protéger les Grottes du temps."
+  }
+ },
+ "21": {
+  "name": {
+   "en": "Booty Bay",
+   "de": "Beutebucht",
+   "fr": "Baie-du-Butin"
+  },
+  "description": {
+   "en": "This booming coastal city is run by Baron Revilgaz of the Blackwater Raiders.  Mortal enemies of the Bloodsail Buccaneers and part of the Steamwheedle Cartel.",
+   "de": "In dieser blühenden Küstenstadt hat Baron Revilgaz von den Schwarzmeerräubern das Sagen. Teil des Dampfdruckkartells und Todfeinde der Blutsegelbukaniere.",
+   "fr": "Cette ville portuaire en pleine expansion est dirigée par le baron Revilgaz, des Écumeurs des Flots noirs. Ces derniers appartiennent au cartel Gentepression, et sont des ennemis mortels des boucaniers de la Voile sanglante."
+  }
+ },
+ "1173": {
+  "name": {
+   "en": "Ramkahen",
+   "de": "Ramkahen",
+   "fr": "Ramkahen"
+  },
+  "description": {
+   "en": "The cat-like people of Ramkahen are the descendants of the Tol'vir, guardians of Uldum.  Though they've lost their stone bodies, protecting the secrets of the titans is still a part of their rigid tradition.",
+   "de": "Das Katzenvolk von Ramkahen sind Nachkommen der Tol'vir, der Wächter von Uldum. Obwohl sie ihre steinernen Körper verloren haben, ist der Schutz der Geheimnisse der Titanen noch immer Teil ihrer strengen Traditionen.",
+   "fr": "Les hommes-chats de Ramkahen sont les descendants des Tol'vir, les gardiens d'Uldum. Même s'ils ont perdu leur corps de pierre, protéger les secrets des Titans fait toujours partie de leur stricte tradition."
+  }
+ },
+ "1077": {
+  "name": {
+   "en": "Shattered Sun Offensive",
+   "de": "Offensive der Zerschmetterten Sonne",
+   "fr": "Opération Soleil brisé"
+  },
+  "description": {
+   "en": "Shattrath City's final push against Prince Kael'thas' operations in the Sunwell.",
+   "de": "Shattraths letzte Offensive gegen Prinz Kael'thas' Unternehmen beim Sonnenbrunnen.",
+   "fr": "Dernière phase de la campagne de Shattrath visant à contrer les agissements du prince Kael'thas au Puits de soleil."
+  }
+ },
+ "1169": {
+  "name": {
+   "en": "Guild",
+   "de": "Gilde",
+   "fr": "Guilde"
+  }
+ },
+ "911": {
+  "name": {
+   "en": "Silvermoon City",
+   "de": "Silbermond",
+   "fr": "Lune-d’Argent"
+  },
+  "description": {
+   "en": "The capital of Quel'Thalas, home of the blood elves.  Though nearly destroyed by Arthas' attack on the Sunwell, Silvermoon is once again a thriving city.",
+   "de": "Hauptstadt von Quel'Thalas und Heimat der Blutelfen. Fast gänzlich nach Arthas' Angriff auf den Sonnenbrunnen zerstört, ist Silbermond wieder eine blühende Metropole.",
+   "fr": "La capitale de Quel'Thalas, foyer des Elfes de sang. Quasiment détruite lors de l'attaque d'Arthas sur le puits de soleil, Lune-d’Argent est redevenue une ville prospère."
+  }
+ },
+ "87": {
+  "name": {
+   "en": "Bloodsail Buccaneers",
+   "de": "Blutsegelbukaniere",
+   "fr": "Voile sanglante"
+  },
+  "description": {
+   "en": "These bloodthirsty corsairs are the bane of many a merchant in the high seas.  Sworn enemies of Booty Bay.",
+   "de": "Diese blutdürstigen Korsaren sind der Schrecken aller Handelsschiffe. Erzrivalen von Beutebucht.",
+   "fr": "Ennemis jurés de Baie-du-Butin, ces corsaires assoiffés de sang sont la plaie des nombreux marchands qui naviguent en haute mer."
+  }
+ },
+ "1118": {
+  "name": {
+   "en": "Classic",
+   "de": "Classic",
+   "fr": "Classique"
+  }
+ },
+ "730": {
+  "name": {
+   "en": "Stormpike Guard",
+   "de": "Sturmlanzengarde",
+   "fr": "Garde Foudrepique"
+  },
+  "description": {
+   "en": "The Stormpike Dwarves have set up residence in Alterac Valley, where they're locked in battle with the Frostwolf Orcs.",
+   "de": "Die Zwerge des Sturmlanzenklans haben sich im Alteractal niedergelassen, wo sie in ständige Auseinandersetzungen mit den Orcs des Frostwolfklans verwickelt sind.",
+   "fr": "Les nains Foudrepique se sont établis dans la vallée d’Alterac, où ils affrontent sans cesse les Orcs Loup-de-givre."
+  }
+ },
+ "1124": {
+  "name": {
+   "en": "The Sunreavers",
+   "de": "Die Sonnenhäscher",
+   "fr": "Saccage-Soleil"
+  },
+  "description": {
+   "en": "Traditionally barred from Dalaran, the Horde has been accepted into the city through the efforts of Archmage Aethas Sunreaver.  His followers have taken up his name and watch over the ward known as Sunreaver's Sanctuary.",
+   "de": "Durch die Anstrengungen des Erzmagiers Aethas Sonnenhäscher wird die Horde nun in Dalaran geduldet, obwohl die Stadt ihr früher verschlossen blieb. Seine Anhänger wachen über das Stadtviertel, das als Sonnenhäschers Zuflucht bekannt ist.",
+   "fr": "Traditionnellement exclue de Dalaran, la Horde a fini par y être admise grâce aux efforts de l'archimage Aethas Saccage-Soleil. Ses adeptes ont repris son nom et veillent sur le quartier appelé Sanctuaire de Saccage-Soleil."
+  }
+ },
+ "935": {
+  "name": {
+   "en": "The Sha'tar",
+   "de": "Die Sha'tar",
+   "fr": "Sha'tar"
+  },
+  "description": {
+   "en": "The Sha'tar are a group of powerful naaru who rule over a rebuilt Shattrath City.  With the help of the Aldor and the Scryers, they lead the battle against Illidan and the Burning Legion.",
+   "de": "Die Sha'tar sind eine Gruppe mächtiger Naaru, die das neu aufgebaute Shattrath regieren. Mit Hilfe der Aldor und der Seher führen sie den Kampf gegen Illidan und die Brennende Legion an.",
+   "fr": "Les Sha’tar forment un groupe de puissants naaru, qui règne sur la cité reconstruite de Shattrath. Avec l'aide de l'Aldor et des Clairvoyants, ils dirigent la lutte contre Illidan et la Légion ardente."
+  }
+ },
+ "1168": {
+  "name": {
+   "en": "Guild",
+   "de": "Gilde",
+   "fr": "Guilde"
+  },
+  "description": {
+   "en": "Guild reputation is your personal standing with your guild, and is required to buy guild rewards.  Guild reputation is gained automatically when you earn guild experience.",
+   "de": "Der Gildenruf ist Euer persönlicher Ruf bei Eurer Gilde und wird benötigt, um Gildenbelohnungen zu erwerben. Gildenruf wird automatisch zusammen mit Gildenerfahrung erlangt.",
+   "fr": "Cette réputation représente la manière dont vous êtes perçu(e) par votre guilde actuelle. Elle est nécessaire pour acheter les récompenses de guilde. Vous gagnez de la réputation de guilde automatiquement quand vous obtenez de l'expérience de guilde."
+  }
+ },
+ "609": {
+  "name": {
+   "en": "Cenarion Circle",
+   "de": "Zirkel des Cenarius",
+   "fr": "Cercle cénarien"
+  },
+  "description": {
+   "en": "The druids of Cenarion Circle are guardians of nature and make their home in tranquil Moonglade.",
+   "de": "Die Druiden des Zirkels des Cenarius sind Beschützer der Natur und leben auf der friedlichen Mondlichtung.",
+   "fr": "Gardiens de la nature, les druides du Cercle cénarien ont établi leur demeure dans la paisible vallée de Reflet-de-Lune."
+  }
+ },
+ "749": {
+  "name": {
+   "en": "Hydraxian Waterlords",
+   "de": "Hydraxianer",
+   "fr": "Hydraxiens"
+  },
+  "description": {
+   "en": "These elementals have made their home on the islands east of Azshara.  Sworn enemies of the armies of Ragnaros.",
+   "de": "Diese Elementarwesen leben auf den Inseln östlich von Azshara. Erzrivalen der Armeen von Ragnaros.",
+   "fr": "Ennemis jurés des armées de Ragnaros, ces élémentaires se sont installés dans les îles à l’est d’Azshara."
+  }
+ },
+ "270": {
+  "name": {
+   "en": "Zandalar Tribe",
+   "de": "Stamm der Zandalari",
+   "fr": "Tribu Zandalar"
+  },
+  "description": {
+   "en": "These trolls have come to Yojamba Isle in an effort to recruit help against the resurrected Blood God and his Atal'ai Priests in Zul'Gurub.",
+   "de": "Diese Trolle sind zur Insel Yojamba gereist, um Hilfe im Kampf gegen den wiederauferstandenen Blutgott und seine Priester der Atal'ai in Zul'Gurub zu erbitten.",
+   "fr": "Ces Trolls sont venus sur l’île de Yojamba pour tenter de trouver de l’aide contre le Dieu sanglant ressuscité et ses prêtres atal’ai, à Zul'Gurub."
+  }
+ },
+ "577": {
+  "name": {
+   "en": "Everlook",
+   "de": "Ewige Warte",
+   "fr": "Long-Guet"
+  },
+  "description": {
+   "en": "This trading post is run by the goblins of the Steamwheedle Cartel and it sits in the crossroads of Winterspring's main trade routes.",
+   "de": "Dies ist ein von den Goblins des Dampfdruckkartells geführter Handelsposten, der sich im Zentrum der Haupthandelswege von Winterquell befindet.",
+   "fr": "Administré par les Gobelins du cartel Gentepression, ce comptoir se trouve au croisement des routes commerciales du Berceau-de-l’Hiver."
+  }
+ },
+ "1012": {
+  "name": {
+   "en": "Ashtongue Deathsworn",
+   "de": "Die Todeshörigen",
+   "fr": "Ligemort cendrelangue"
+  },
+  "description": {
+   "en": "The elite of the Broken tribe known as the Ashtongue, officially aligned with Illidan. The Deathsworn are Akama's most trusted lieutenants and are privy to their leader's mysterious motivations.",
+   "de": "Die Elite des Stammes der Zerschlagenen, bekannt als Aschenzungen, hat sich offiziell mit Illidan verbündet. Die Todeshörigen sind Akamas zuverlässigste Leutnants und in die geheimnisvollen Absichten ihres Anführers eingeweiht.",
+   "fr": "L’élite de la tribu des Roués des Cendrelangues, officiellement alliée avec Illidan. Les ligemorts sont les lieutenants favoris d’Akama, et connaissent les mystérieuses motivations de leur chef."
+  }
+ },
+ "941": {
+  "name": {
+   "en": "The Mag'har",
+   "de": "Die Mag'har",
+   "fr": "Mag'har"
+  },
+  "description": {
+   "en": "This reclusive group of brown-skinned orcs has escaped any form of demonic corruption.  They have retained their traditional way of life in the face of great changes in Outland.",
+   "de": "Diese zurückgezogene Gruppe braunhäutiger Orcs ist jeglichem Einfluss dämonischer Verderbnis entflohen. Sie behielten angesichts der großen Veränderungen in der Scherbenwelt ihre traditionelle Lebensweise bei.",
+   "fr": "Ces Orcs à la peau brune vivent reclus et ont échappé à toute corruption démoniaque. Ils ont conservé leur mode de vie traditionnel malgré tous les bouleversements survenus en Outreterre."
+  }
+ },
+ "1068": {
+  "name": {
+   "en": "Explorers' League",
+   "de": "Forscherliga",
+   "fr": "Ligue des explorateurs"
+  },
+  "description": {
+   "en": "This organization seeks to find the origin of the dwarven race by collecting Titan artifacts.  Their most recent research has led them to various archeological sites in Northrend.",
+   "de": "Diese Organisation strebt danach, durch das Sammeln von Titanenartefakten den Ursprung der Zwerge zu ergründen. Ihre aktuellsten Forschungen haben sie dazu veranlasst, verschiedene archäologische Stätten in Nordend aufzusuchen.",
+   "fr": "Cette organisation cherche à découvrir les origines de la race des nains en rassemblant les reliques des Titans. Leurs recherches les plus récentes les ont conduit à explorer différents sites archéologiques du Norfendre."
+  }
+ },
+ "946": {
+  "name": {
+   "en": "Honor Hold",
+   "de": "Ehrenfeste",
+   "fr": "Bastion de l'Honneur"
+  },
+  "description": {
+   "en": "Vestiges of the Sons of Lothar, veterans of the Alliance that first came into Draenor, have steadfastly held on to this Hellfire outpost.  They are now joined by the armies from Stormwind and Ironforge.",
+   "de": "Die noch Verbliebenen der Söhne Lothars, Veteranen der Allianz, die zuerst nach Draenor kamen, haben standhaft an diesem Außenposten der Höllenfeuerhalbinsel festgehalten. Die Armeen von Sturmwind und Eisenschmiede haben sich ihnen jetzt angeschlossen.",
+   "fr": "Cet avant-poste des Flammes infernales est la place forte de ce qui reste des Fils de Lothar, les vétérans de l’Alliance qui ont, les premiers, posé le pied sur Draenor. Des armées venues de Forgefer et de Hurlevent sont en train de les rejoindre."
+  }
+ },
+ "890": {
+  "name": {
+   "en": "Silverwing Sentinels",
+   "de": "Silberschwingen",
+   "fr": "Sentinelles d'Aile-argent"
+  },
+  "description": {
+   "en": "Staunch defenders of Ashenvale, locked in battle against the Warsong Outriders in Warsong Gulch.",
+   "de": "Standhafte Verteidiger des Eschentals, die in ständige Auseinandersetzungen mit der Vorhut des Kriegshymnenklans in der Kriegshymnenschlucht verwickelt sind.",
+   "fr": "Ces vaillants défenseurs d’Orneval livrent une bataille incessante aux voltigeurs Chanteguerre du goulet des Chanteguerres."
+  }
+ },
+ "1072": {
+  "name": {
+   "en": "[DNT] AC Major Faction Child Renown Test"
+  }
+ },
+ "1073": {
+  "name": {
+   "en": "The Kalu'ak",
+   "de": "Die Kalu'ak",
+   "fr": "Kalu'aks"
+  },
+  "description": {
+   "en": "The tuskarr are a tough but peaceful people who derive their livelihood from fishing and whaling.  Their settlements have recently come under fierce attack and welcome any allies who would come to their aid.",
+   "de": "Die Tuskarr sind ein zähes, jedoch friedliches Volk, das seinen Lebensunterhalt mit Fischerei und Walfang bestreitet. Ihre Siedlungen sind kürzlich Opfer heftiger Angriffe geworden und sie heißen alle Verbündeten willkommen, die ihnen zu Hilfe kommen.",
+   "fr": "Les roharts sont un peuple endurant mais pacifique, qui vit de la pêche et de la chasse à la baleine. Leurs villages ont récemment été violemment attaqués, et ils accueillent volontiers tous les alliés qui leur viennent en aide."
+  }
+ },
+ "930": {
+  "name": {
+   "en": "Exodar",
+   "de": "Die Exodar",
+   "fr": "Exodar"
+  },
+  "description": {
+   "en": "The naaru vessel that brought the draenei to Azeroth.  Though stranded in the Azuremyst Isles, it acts as a home city for this noble race.",
+   "de": "Das Schiff der Naaru, das die Draenei nach Azeroth brachte. Nach seinem Absturz auf der Azurmythosinsel dient es diesem edlen Volk als Heimstätte.",
+   "fr": "Le vaisseau naaru qui a conduit les Draeneï en Azeroth. Bien que naufragé dans l'archipel de Brume-Azur, il sert de capitale à ce noble peuple."
+  }
+ },
+ "1174": {
+  "name": {
+   "en": "Wildhammer Clan",
+   "de": "Wildhammerklan",
+   "fr": "Clan Marteau-Hardi"
+  },
+  "description": {
+   "en": "The Wildhammer dwarves are known for their near-reckless courage as well as their unsurpassed gryphon-riding skills.  After losing their home of Grim Batol to a Dark Iron Curse, they've spread their dwellings around the Twilight Highlands.",
+   "de": "Die Wildhammerzwerge sind für ihren verwegenen Mut und ihre unübertroffenen Greifenreitkünste bekannt. Nachdem sie ihre Heimat durch einen Dunkeleisenfluch verloren haben, haben sie ihre Behausungen rund um das Schattenhochland angelegt.",
+   "fr": "Les nains marteaux-hardis sont connus pour leur courage, leur témérité et leur compétence inégalée de chevaucheurs de griffon. Chassés de Grim Batol par une malédiction sombrefer, ils se sont depuis éparpillés dans les hautes-terres du Crépuscule."
+  }
+ },
+ "1178": {
+  "name": {
+   "en": "Hellscream's Reach",
+   "de": "Höllschreis Hand",
+   "fr": "Poing de Hurlenfer"
+  },
+  "description": {
+   "en": "Hellscream's Reach is an elite Horde regiment comprised solely of veterans of multiple tours of duty.   Handpicked by Garrosh himself, he has commanded them to take complete control of Tol Barad.  Failure is not an option.",
+   "de": "Höllschreis Hand ist ein Elite-Horderegiment, das ausschließlich mit Veteranen verschiedener Feldzüge bestückt ist. Sie sind von Garrosh persönlich berufen und damit beauftragt worden, die Kontrolle über Tol Barad zu übernehmen. Scheitern ist keine Option.",
+   "fr": "Le Poing de Hurlenfer est un régiment d'élite de la Horde composé uniquement de vétérans ayant souvent combattu. Sélectionnés par Garrosh lui-même, ils ont reçu pour ordre de prendre le contrôle total de Tol Barad. L'échec n'est pas une option."
+  }
+ },
+ "1031": {
+  "name": {
+   "en": "Sha'tari Skyguard",
+   "de": "Himmelswache der Sha'tari",
+   "fr": "Garde-ciel sha'tari"
+  },
+  "description": {
+   "en": "An airborne military force created by Shattrath City to deal with the threats that loom in the highest reaches of Outland.",
+   "de": "Eine von Shattrath aufgestellte Luftstreitmacht, die sich der Bedrohungen in den äußeren Regionen der Scherbenwelt annimmt.",
+   "fr": "Une force militaire aérienne créée par la ville de Shattrath pour s'occuper des menaces qui rôdent dans les zones de haute altitude de l'Outreterre."
+  }
+ },
+ "1067": {
+  "name": {
+   "en": "The Hand of Vengeance",
+   "de": "Die Hand der Rache",
+   "fr": "Main de la vengeance"
+  },
+  "description": {
+   "en": "The Forsaken tasked by Sylvanas Windrunner with enacting Undercity's vengeance against Arthas by delivering the latest strain of their deadly Plague.",
+   "de": "Eine Gruppe der Verlassenen, die von Sylvanas Windläufer damit beauftragt wurden, im Namen von Unterstadt Vergeltung an Arthas auszuüben, indem sie den neuesten Erreger ihrer tödlichen Seuche einsetzen.",
+   "fr": "Sylvanas Coursevent a chargé ces Réprouvés de venger Fossoyeuse en infligeant la dernière mutation de leur peste mortelle à Arthas."
+  }
+ },
+ "1271": {
+  "name": {
+   "en": "Order of the Cloud Serpent",
+   "de": "Orden der Wolkenschlange",
+   "fr": "L’ordre du Serpent-nuage"
+  },
+  "description": {
+   "en": "Guardians of the East Temple",
+   "de": "Wächter des Osttempels.",
+   "fr": "Gardiens du temple de l’Est"
+  }
+ },
+ "1156": {
+  "name": {
+   "en": "The Ashen Verdict",
+   "de": "Das Äscherne Verdikt",
+   "fr": "Verdict des cendres"
+  },
+  "description": {
+   "en": "Under a pact by Tirion Fordring and Darion Mograine, the Argent Crusade and the Knights of the Ebon Blade have set aside their differences during the attack on Icecrown Citadel until the Lich King is slain.",
+   "de": "Durch einen Pakt von Tirion Fordring und Darion Mograine haben der Argentumkreuzzug und die Ritter der Schwarzen Klinge während des Angriffs auf die Eiskronenzitadelle ihre Meinungsverschiedenheit solange zurückgestellt, bis der Lichkönig vernichtet ist.",
+   "fr": "Tirion Fordring et Darion Mograine ont passé un accord. La Croisade d’argent et les chevaliers de la Lame d’ébène ont mis de côté leurs différends pour attaquer la citadelle de la Couronne de glace… et anéantir le roi-liche."
+  }
+ },
+ "1162": {
+  "name": {
+   "en": "Cataclysm",
+   "de": "Cataclysm",
+   "fr": "Cataclysm"
+  }
+ },
+ "1273": {
+  "name": {
+   "en": "Jogu the Drunk",
+   "de": "Jogu der Betrunkene",
+   "fr": "Jogu l’Ivrogne"
+  },
+  "description": {
+   "en": "Jogu's easy to find - gazing into the bottom of a bottle of the cheapest Stormstout Brewery has to offer.",
+   "de": "Jogu ist leicht zu finden – er vergnügt sich mit dem Billigsten, das die Brauerei Sturmbräu zu bieten hat.",
+   "fr": "Jogu est facile à trouver, il est certainement en train d’admirer le fond d’une des bouteilles bon marché vendues à la brasserie Brune d’Orage."
+  }
+ },
+ "1171": {
+  "name": {
+   "en": "Therazane",
+   "de": "Therazane",
+   "fr": "Therazane"
+  },
+  "description": {
+   "en": "The elemental plane of earth, Deepholm, is ruled by Therazane and her children, the Stone Lords.  After witnessing the devastation Deathwing and his followers caused her realm, Therazane treats all outsiders with open hostility.",
+   "de": "Die elementare Ebene der Erde, Tiefenheim, wird von Therazane und ihren Kindern, den Steinlords, beherrscht. Seitdem sie Zeugin der Zerstörung wurde, die Todesschwinge und seine Anhänger angerichtet haben, empfängt sie alle Fremden mit offener Feindschaft.",
+   "fr": "Le Tréfonds, plan élémentaire de la terre, est dirigé par Therazane et ses enfants, les seigneurs de pierre. Après avoir été témoin de la dévastation provoquée par Aile de mort et ses serviteurs, Therazane traite tous les étrangers avec hostilité."
+  }
+ },
+ "1269": {
+  "name": {
+   "en": "Golden Lotus",
+   "de": "Goldener Lotus",
+   "fr": "Lotus doré"
+  },
+  "description": {
+   "en": "This mysterious society of Pandaren intend to solve the Mogu problem once and for all.",
+   "de": "Diese geheimnisvolle Pandarengesellschaft wurde gegründet, um die Bedrohung durch die Mogu endgültig aus der Welt zu schaffen.",
+   "fr": "Cette mystérieuse société pandarène cherche à résoudre le problème mogu une fois pour toutes."
+  }
+ },
+ "1172": {
+  "name": {
+   "en": "Dragonmaw Clan",
+   "de": "Drachenmalklan",
+   "fr": "Clan Gueule-de-dragon"
+  },
+  "description": {
+   "en": "This wayward orc clan was once empowered by Deathwing himself to enslave red dragons, including Alexstrasza.  Currently less numerous and powerful, the Dragonmaw make their home in the Twilight Highlands.",
+   "de": "Dieser eigensinnige Orcklan wurde einst von Todesschwinge ermächtigt, um die roten Drachen einschließlich Alexstrasza zu versklaven. Derzeit ist der Drachenmalklan schwächer, weniger zahlreich und hat sich im Schattenhochland niedergelassen.",
+   "fr": "Ce clan d'Orcs rebelles fut autrefois habilité par Aile de mort lui-même à asservir les dragons rouges, y compris Alexstrasza. Aujourd'hui moins nombreux et puissants, les Gueules-de-dragon se sont établis dans les hautes-terres du Crépuscule."
+  }
+ },
+ "1105": {
+  "name": {
+   "en": "The Oracles",
+   "de": "Die Orakel",
+   "fr": "Oracles"
+  },
+  "description": {
+   "en": "The gorlocs of Sholazar Basin are a race of reptilian creatures who see themselves as guardians of the titan technology that remains in the zone (though they understand little of it).  They find themselves in an escalating territorial war with the wolvar.",
+   "de": "Die Gorlocs des Sholazarbeckens sind ein Volk reptilischer Kreaturen, die sich selbst als Wächter der Titanentechnologie dieser Region sehen (auch wenn sie nur wenig davon verstehen). Sie kämpfen einen eskalierenden Territorialkrieg mit den Wolvar.",
+   "fr": "Les gorlocs du bassin de Sholazar sont des créatures reptiliennes qui se considèrent comme les gardiens des vestiges de la technologie des Titans dans la région (même s’ils la comprennent mal). Ils sont en conflit territorial avec les varleus."
+  }
+ },
+ "1270": {
+  "name": {
+   "en": "Shado-Pan",
+   "de": "Shado-Pan",
+   "fr": "Pandashan"
+  },
+  "description": {
+   "en": "The shadowy protectors of Pandaria's temples, the Shado-Pan are wrought with mystery.",
+   "de": "Die geheimnisvollen Beschützer der Tempel Pandarias, die Shado-Pan, umranken viele Mysterien.",
+   "fr": "Énigmatiques protecteurs des temples de Pandarie, les Pandashan sont auréolés de mystère."
+  }
+ },
+ "1272": {
+  "name": {
+   "en": "The Tillers",
+   "de": "Die Ackerbauern",
+   "fr": "Laboureurs"
+  },
+  "description": {
+   "en": "The Tillers are peaceful and productive pandaren, working with the land to feed the massive appetites of their people.",
+   "de": "Die Ackerbauern sind friedfertige und produktive Pandaren, die das Land bestellen, um die hungrigen Mägen ihres Volkes zu füllen.",
+   "fr": "Les Laboureurs sont des Pandarens pacifiques et travailleurs qui cultivent la terre pour satisfaire les gros appétits de leur peuple."
+  }
+ },
+ "934": {
+  "name": {
+   "en": "The Scryers",
+   "de": "Die Seher",
+   "fr": "Clairvoyants"
+  },
+  "description": {
+   "en": "Voren'thal the Seer leads the dissident blood elves who've rejected Kael'thas' path to power.  They've joined forces with the naaru of Shattrath City, much to the dismay of the Aldor.",
+   "de": "Voren'thal der Seher ist der Anführer der andersdenkenden Blutelfen, die Kael'thas' Weg der Macht abgelehnt haben. Sie haben sich, zu großer Bestürzung der Aldor, mit den Naaru von Shattrath verbündet.",
+   "fr": "Voren’thal le Voyant dirige les Elfes de sang dissidents qui ont rejeté la vision de Kael’thas. Au grand désarroi de l'Aldor, ils se sont joints aux naaru de Shattrath."
+  }
+ },
+ "1708": {
+  "name": {
+   "en": "Laughing Skull Orcs",
+   "de": "Orcs des Lachenden Schädels",
+   "fr": "Orcs du Crâne-Ricanant"
+  },
+  "description": {
+   "en": "The Laughing Skull clan calls the most savage reaches of Draenor home, laughing maniacally at the impending annihilation they face from every side.",
+   "de": "Der Klan des Lachenden Schädels hat sich die wildesten Ecken Draenors zur Heimat gemacht. Diese Orcs haben für die bevorstehende Vernichtung, die für sie allgegenwärtig ist, nur ein irres Lachen übrig.",
+   "fr": "Le clan du Crâne-Ricanant a pour foyer les confins les plus sauvages de Draenor. Ses membres se gaussent de l’annihilation imminente qui les menace de toutes parts."
+  }
+ },
+ "970": {
+  "name": {
+   "en": "Sporeggar",
+   "de": "Sporeggar",
+   "fr": "Sporeggar"
+  },
+  "description": {
+   "en": "The sporelings are a mostly peaceful race of mushroom-men native to Outland. Their home is located in the southern bogs of Zangarmarsh. ",
+   "de": "Die Sporlinge sind ein vornehmlich friedfertiges Volk von Pilzwesen, das in der Scherbenwelt heimisch ist. Ihre Heimstätte liegt in den südlichen Sümpfen der Zangarmarschen.",
+   "fr": "Les sporelins sont un peuple d’hommes-champignons paisibles, originaires de l’Outreterre. Ils vivent dans les tourbières méridionales du marécage de Zangar."
+  }
+ },
+ "1015": {
+  "name": {
+   "en": "Netherwing",
+   "de": "Netherschwingen",
+   "fr": "Aile-du-Néant"
+  },
+  "description": {
+   "en": "This unusual brood of dragons was spawned from the eggs of Deathwing's black dragonflight, and infused with raw nether-energies.  Now, they seek to find their identity beyond the shadows of their father's destructive heritage.",
+   "de": "Diese ungewöhnlichen Drachen entsprangen Todesschwinges schwarzer Drachenbrut und wurden mit rohen Netherenergien erfüllt. Sie suchen nun nach ihrer Identität jenseits des Schattens, den das Erbe ihres zerstörerischen Vaters auf sie warf.",
+   "fr": "Cette portée de dragons peu commune est issue des œufs du Vol noir d'Aile de mort, imprégnés des pures énergies du Néant. Ils cherchent maintenant à retrouver leur identité, au-delà des ombres de l'héritage délétère de leur père."
+  }
+ },
+ "1094": {
+  "name": {
+   "en": "The Silver Covenant",
+   "de": "Der Silberbund",
+   "fr": "Concordat argenté"
+  },
+  "description": {
+   "en": "A militant core of high elves that rejects the admission of blood elves into the Kirin Tor.  They've united under the banner of Vereesa Windrunner and joined the Alliance forces in Northrend.",
+   "de": "Ein militanter Kern von Hochelfen, die den Eintritt der Blutelfen in die Kirin Tor ablehnen. Sie haben sich unter dem Banner von Vereesa Windläufer versammelt und sich den Streitkräften der Allianz in Nordend angeschlossen.",
+   "fr": "Un groupe militant de Haut-Elfes qui refuse l'admission d'Elfes de sang au Kirin Tor. Ils se sont unis sous la bannière de Vereesa Coursevent et ont rejoint les forces de l'Alliance dans le Norfendre."
+  }
+ },
+ "1098": {
+  "name": {
+   "en": "Knights of the Ebon Blade",
+   "de": "Ritter der Schwarzen Klinge",
+   "fr": "Chevaliers de la Lame d'ébène"
+  },
+  "description": {
+   "en": "Freed from the grasp of the Lich King, his former Death Knights have regrouped against him under the banner of Highlord Darion Mograine.",
+   "de": "Frei von der Knechtschaft durch den Lichkönig, haben sich seine einstigen Todesritter unter dem Banner von Hochlord Darion Mograine gegen ihn gesammelt.",
+   "fr": "Libérés de l'emprise du roi-liche, ses anciens chevaliers de la mort se sont regroupés pour l'affronter sous la bannière du généralissime Darion Mograine."
+  }
+ },
+ "1133": {
+  "name": {
+   "en": "Bilgewater Cartel",
+   "de": "Bilgewasserkartell",
+   "fr": "Cartel Baille-Fonds"
+  },
+  "description": {
+   "en": "Run by the ruthless Trade Prince Gallywix, the Bilgewater Cartel is the most powerful trading company on the Isle of Kezan. From their headquarters at Bilgewater Port, the cartel dominates trade all over the South Seas.",
+   "de": "Das Bilgewasserkartell, die einflussreichste Handelsgesellschaft der Insel Kezan, wird vom Handelsprinzen Gallywix geleitet. Von der Hauptniederlassung am Bilgepier aus dominiert das Kartell den Handel auf den Südlichen Meeren.",
+   "fr": "Dirigé par l'impitoyable prince marchand Gallywix, le cartel Baille-Fonds est la compagnie commerciale la plus puissante de l'île de Kezan. Depuis son quartier-général au port Baille-Fonds, le cartel domine tout le commerce des mers du Sud."
+  }
+ },
+ "1135": {
+  "name": {
+   "en": "The Earthen Ring",
+   "de": "Der Irdene Ring",
+   "fr": "Cercle terrestre"
+  },
+  "description": {
+   "en": "This gathering of the most powerful shaman of Azeroth seeks to maintain the balance between the world's elemental forces.  Their main focus during the cataclysm has been to  repair and stabilize the damage caused by Deathwing's arrival.",
+   "de": "Dieser Bund der mächtigsten Schamanen Azeroths versucht, das Gleichgewicht der Elementarkräfte zu erhalten. Ihr Hauptaugenmerk nach dem Kataklysmus liegt darauf, den durch Todesschwinges Ankunft entstandenen Schaden zu reparieren und zu stabilisieren.",
+   "fr": "Ce rassemblement des plus puissants chamans d'Azeroth cherche à maintenir l'équilibre entre les forces élémentaires du monde. Son principal objectif durant le Cataclysme a été de circonscrire et réparer les dégâts provoqués par l'arrivée d'Aile de mort."
+  }
+ },
+ "369": {
+  "name": {
+   "en": "Gadgetzan",
+   "de": "Gadgetzan",
+   "fr": "Gadgetzan"
+  },
+  "description": {
+   "en": "Capital of the Steamwheedle Cartel and home to goblinhood's finest engineers, alchemists and merchants.",
+   "de": "Hauptstadt des Dampfdruckkartells und die Heimat der besten Ingenieure, Alchemisten und Händler, die die Goblins zu bieten haben.",
+   "fr": "Capitale du cartel Gentepression, c’est la demeure des meilleurs ingénieurs, alchimistes et marchands gobelins."
+  }
+ },
+ "68": {
+  "name": {
+   "en": "Undercity",
+   "de": "Unterstadt",
+   "fr": "Fossoyeuse"
+  },
+  "description": {
+   "en": "Led by Sylvanas Windrunner, the Forsaken have joined a tenuous alliance with the Horde and established this capital in the vast depths under the Ruins of Lordaeron.",
+   "de": "Angeführt von Sylvanas Windläufer, sind die Verlassenen eine zerbrechliche Allianz mit der Horde eingegangen und haben ihre Hauptstadt in den unermesslichen Tiefen unter den Ruinen von Lordaeron errichtet.",
+   "fr": "Dirigés par Sylvanas Coursevent, les Réprouvés ont établi une alliance ténue avec la Horde et se sont installés dans les vastes catacombes qui s’étendent sous les ruines de Lordaeron."
+  }
+ },
+ "1177": {
+  "name": {
+   "en": "Baradin's Wardens",
+   "de": "Wächter von Baradin",
+   "fr": "Gardiens de Baradin"
+  },
+  "description": {
+   "en": "Once led by Duke Reginald Baradin II, this fierce army has historic ties to the island stronghold of Tol Barad.  They have joined the forces of the Alliance in an effort to repeal the Horde invaders and gain control of this strategic island.",
+   "de": "Diese einst von Herzog Reginald Baradin II. geführte unerschütterliche Armee war seit Urzeiten Teil der Inselfestung von Tol Barad. Sie hat sich mit der Allianz verbündet, um die Horde zurückzudrängen und die Kontrolle über die Insel zurückzuerlangen.",
+   "fr": "Autrefois dirigée par le duc Reginald Baradin II, cette féroce armée a des liens historiques avec l'île fortifiée de Tol Barad. Elle a rejoint l'Alliance pour repousser les envahisseurs de la Horde et prendre le contrôle de cette île stratégique."
+  }
+ },
+ "1245": {
+  "name": {
+   "en": "Mists of Pandaria",
+   "de": "Mists of Pandaria",
+   "fr": "Mists of Pandaria"
+  }
+ },
+ "932": {
+  "name": {
+   "en": "The Aldor",
+   "de": "Die Aldor",
+   "fr": "L'Aldor"
+  },
+  "description": {
+   "en": "An ancient order of draenei priests once run by Velen, the Aldor are currently led by High Priestess Ishanah.  They are servants of the naaru in Shattrath City known as the Sha'tar.  Rivals of the Scryers.",
+   "de": "Als uralter Orden von Draeneipriestern, einst geführt von Velen, werden die Aldor nun von Hohepriesterin Ishanah geleitet. Sie dienen den Naaru in Shattrath, auch bekannt als die Sha'tar. Rivalen der Seher.",
+   "fr": "Autrefois dirigé par Velen, l’Aldor est un ordre antique de prêtres draeneï. Son chef actuel est la grande prêtresse Ishanah. Il sert les Sha’tar, les naaru de Shattrath, et est en rivalité avec les Clairvoyants."
+  }
+ },
+ "70": {
+  "name": {
+   "en": "Syndicate",
+   "de": "Syndikat",
+   "fr": "Syndicat"
+  },
+  "description": {
+   "en": "A primarily human criminal organization that operates mostly out of the Alterac Mountains and Hillsbrad Foothills.",
+   "de": "Eine Verbrechensorganisation, die hauptsächlich aus Menschen besteht und vom Alteracgebirge und den Vorgebirgen des Hügellands aus operiert.",
+   "fr": "Cette organisation criminelle, composée d’une majorité d’Humains, opère depuis les montagnes d’Alterac et les contreforts de Hautebrande."
+  }
+ },
+ "809": {
+  "name": {
+   "en": "Shen'dralar",
+   "de": "Shen'dralar",
+   "fr": "Shen'dralar"
+  },
+  "description": {
+   "en": "A remnant of the once powerful elves living in Dire Maul, yet still wise and knowledgeable about great secrets. ",
+   "de": "Ein Überbleibsel der mächtigen Elfen, die einst in Düsterbruch lebten. Sie sind noch immer weise und wissen um viele Geheimnisse.",
+   "fr": "Ce qui reste des puissants Elfes qui vivaient à Hache-Tripes. Ils ont conservé leur sagesse, et connaissent maints secrets."
+  }
+ },
+ "1134": {
+  "name": {
+   "en": "Gilneas",
+   "de": "Gilneas",
+   "fr": "Gilnéas"
+  },
+  "description": {
+   "en": "The people of Gilneas are a nation of survivors.  Having walled themselves off from the rest of humanity, they must now face new threats from within.",
+   "de": "Die Bewohner von Gilneas sind ein zähes Volk. Nachdem sich die Nation nach außen abgeschottet hatte, muss sie nun gegen die Gefahr von innen kämpfen.",
+   "fr": "Le peuple de Gilnéas est une nation de survivants. Ils ont construit un mur entre eux et le reste du monde, mais ils doivent maintenant faire face aux menaces intérieures."
+  }
+ },
+ "1280": {
+  "name": {
+   "en": "Tina Mudclaw",
+   "de": "Tina Lehmkrall",
+   "fr": "Tina Griffe de Tourbe"
+  },
+  "description": {
+   "en": "Tina Mudclaw is fond of the delicate things in life.",
+   "de": "Tina Lehmkrall weiß die schönen Dinge des Lebens zu würdigen.",
+   "fr": "Tina Griffe de Tourbe est friande des choses délicates de la vie."
+  }
+ },
+ "1283": {
+  "name": {
+   "en": "Farmer Fung",
+   "de": "Bauer Fung",
+   "fr": "Fermier Fung"
+  },
+  "description": {
+   "en": "Farmer Fung grows the biggest vegetables in the Heartland!",
+   "de": "Bauer Fung baut das größte Gemüse im Kernland an!",
+   "fr": "Le fermier Fung fait pousser les plus gros légumes de tout le Giron !"
+  }
+ },
+ "1358": {
+  "name": {
+   "en": "Nat Pagle",
+   "de": "Nat Pagle",
+   "fr": "Nat Pagle"
+  },
+  "description": {
+   "en": "The consummate fisherman and lover of fine alcohol from across the land, Nat's irascible exterior belies a love of teaching.",
+   "de": "Unter der rauen Schale dieses unübertroffenen Anglers und Liebhabers feinen Alkohols des ganzen Landes steckt Nats Liebe dazu, anderen etwas beizubringen.",
+   "fr": "Pêcheur accompli et amoureux des alcools fins de tous les horizons, le caractère irascible de Nat cache une passion pour l’enseignement."
+  }
+ },
+ "1359": {
+  "name": {
+   "en": "The Black Prince",
+   "de": "Der Schwarze Prinz",
+   "fr": "Prince noir"
+  },
+  "description": {
+   "en": "Black Prince Wrathion is the last of the black dragons. He has been known to richly reward those who earn his trust and support his endeavors.",
+   "de": "Furorion, der Schwarze Prinz, ist der letzte der schwarzen Drachen. Er ist dafür bekannt, diejenigen reich zu belohnen, die sein Vertrauen erlangen und seine Ziele unterstützen.",
+   "fr": "Irion le prince noir est le dernier des dragons noirs. On dit qu’il récompense richement ceux qui gagnent sa confiance et qui soutiennent ses efforts."
+  }
+ },
+ "1337": {
+  "name": {
+   "en": "The Klaxxi",
+   "de": "Die Klaxxi",
+   "fr": "Klaxxi"
+  },
+  "description": {
+   "en": "These Mantid Elders are untouched by the corruption and insanity that has overtaken the remainder of the Mantid Swarm. They seek to work with the races of Pandaria to restore their Queen to glory.",
+   "de": "Diese Ältesten der Mantis sind von der Verderbnis und vom Wahnsinn verschont geblieben, der den Rest des Mantisschwarms befallen hat. Sie wollen mit den Völkern Pandarias zusammenarbeiten, um ihrer Königin wieder zu alter Größe zu verhelfen.",
+   "fr": "Ces anciens mantides ont été épargnés par la corruption et la folie qui a emporté le reste de l’essaim mantide. Ils tentent de travailler de concert avec les races de Pandarie pour rendre à leur reine sa gloire passée."
+  }
+ },
+ "1085": {
+  "name": {
+   "en": "Warsong Offensive",
+   "de": "Kriegshymnenoffensive",
+   "fr": "Offensive chanteguerre"
+  },
+  "description": {
+   "en": "Garrosh Hellscream commands the Horde's main expeditionary forces as they make their way into Northrend to face Arthas and the armies of the Scourge.",
+   "de": "Garrosh Höllschrei ist Befehlshaber der primären Expeditionskorps der Horde auf ihrem Weg ins Innere Nordends, wo sie sich Arthas und den Armeen der Geißel stellen wollen.",
+   "fr": "Garrosh Hurlenfer commande les forces expéditionnaires de la Horde, alors qu'elles avancent en Norfendre pour affronter Arthas et les armées du Fléau."
+  }
+ },
+ "1158": {
+  "name": {
+   "en": "Guardians of Hyjal",
+   "de": "Wächter des Hyjal",
+   "fr": "Gardiens d'Hyjal"
+  },
+  "description": {
+   "en": "Faced with the impending devastation of Mount Hyjal, the most powerful members of the Cenarion Circle have joined forces with their Emerald Dragonflight allies to fend off Ragnaros' elemental hordes and the Twilight's Hammer.",
+   "de": "Angesichts der bevorstehenden Zerstörung des Hyjal haben die mächtigsten Mitglieder des Zirkels des Cenarius ihre Kräfte mit dem smaragdgrünen Drachenschwarm vereint, um Ragnaros' Elementare und den Schattenhammerkult abzuwehren.",
+   "fr": "Confrontés à la dévastation imminente du mont Hyjal, les plus puissants membres du Cercle cénarien ont uni leurs forces à celles du Vol draconique émeraude pour repousser les hordes de serviteurs de Ragnaros et du Marteau du crépuscule."
+  }
+ },
+ "1204": {
+  "name": {
+   "en": "Avengers of Hyjal",
+   "de": "Rächer des Hyjal",
+   "fr": "Vengeurs d’Hyjal"
+  },
+  "description": {
+   "en": "Infuriated by the destruction wrought by the Lord of Flame, the Cenarion Circle seize the initiative, fighting back against Ragnaros and driving deep into the very heart of the Firelands.",
+   "de": "Zorneserfüllt von der Zerstörung, die der Flammenfürst verursacht hat, ergreift der Zirkel des Cenarius die Initiative und schickt sich an, in die Feuerlande vorzudringen und Ragnaros direkt anzugreifen.",
+   "fr": "Rendus furieux par la destruction perpétrée par le seigneur des Flammes, le Cercle cénarien reprend l’initiative, rispostant aux attaques de Ragnaros et s’enfonçant au cœur même des terres de Feu."
+  }
+ },
+ "978": {
+  "name": {
+   "en": "Kurenai",
+   "de": "Kurenai",
+   "fr": "Kurenaï"
+  },
+  "description": {
+   "en": "Draenei for \"redeemed.\"  These Broken have escaped the grasp of their various slavers in Outland and have made their home in Nagrand.  It is there that they seek to rediscover their destiny.",
+   "de": "Draeneiisch für \"erlöst\". Diese Zerschlagenen konnten aus den Fängen ihrer Unterdrücker in der Scherbenwelt entfliehen und haben in Nagrand ihre neue Heimat gefunden. Dort versuchen sie nun, ihr Schicksal aufs Neue zu entdecken.",
+   "fr": "Ce mot signifie « rachetés » en draeneï. Après avoir échappé au joug des esclavagistes de l'Outreterre, ces Roués se sont installés en Nagrand. C'est là qu'ils cherchent à redécouvrir leur destinée."
+  }
+ },
+ "1228": {
+  "name": {
+   "en": "Forest Hozen",
+   "de": "Wald-Ho-zen",
+   "fr": "Hozen des forêts"
+  },
+  "description": {
+   "en": "A spirited, violent, and short-lived race of monkey people",
+   "de": "Ein heißblütiges, gewalttätiges und kurzlebiges Volk von Affenmenschen.",
+   "fr": "Un peuple singe fougueux et violent à l’espérance de vie courte."
+  }
+ },
+ "1345": {
+  "name": {
+   "en": "The Lorewalkers",
+   "de": "Die Lehrensucher",
+   "fr": "Chroniqueurs"
+  },
+  "description": {
+   "en": "Caretakers of the mysteries of Pandaria, these brave souls roam the continent, hoping to learn from their history.",
+   "de": "Als Bewahrer der Mysterien Pandarias durchstreifen diese tapferen Seelen den Kontinent und hoffen, aus ihrer und über ihre Geschichte zu lernen.",
+   "fr": "Gardiens des mystères de la Pandarie, ces âmes courageuses parcourent le continent, dans l’espoir d’apprendre de leur histoire."
+  }
+ },
+ "1242": {
+  "name": {
+   "en": "Pearlfin Jinyu",
+   "de": "Jinyu der Perlflossen",
+   "fr": "Jinyu de Nageperle"
+  },
+  "description": {
+   "en": "A reserved, methodical race of fish people.",
+   "de": "Ein reserviertes, akribisches Fischvolk.",
+   "fr": "Un peuple pisciforme, réservé et méthodique."
+  }
+ },
+ "1352": {
+  "name": {
+   "en": "Huojin Pandaren",
+   "de": "Die Huojin",
+   "fr": "Pandarens huojin"
+  },
+  "description": {
+   "en": "Led by the intrepid Ji Firepaw, the Huojin Pandaren are quick to act and quicker to fight for what they believe in.",
+   "de": "Unter der Führung des unerschrockenen Ji Feuerpfote handeln und kämpfen die Pandaren der Houjin immer schnell für das, woran sie glauben.",
+   "fr": "Dirigés par l’intrépide Ji Patte de Feu, les Pandarens huojin sont prompts à réagir et encore plus lorsqu’il s’agit de combattre pour ce en quoi ils croient."
+  }
+ },
+ "1276": {
+  "name": {
+   "en": "Old Hillpaw",
+   "de": "Der alte Hügelpranke",
+   "fr": "Vieux Patte des Hauts"
+  },
+  "description": {
+   "en": "Old Hillpaw is the canniest chicken raiser around.",
+   "de": "Der alte Hügelpranke ist der pfiffigste Hühnerzüchter weit und breit.",
+   "fr": "Le vieux Patte des Hauts est l’éleveur de poulet le plus malin du coin."
+  }
+ },
+ "1353": {
+  "name": {
+   "en": "Tushui Pandaren",
+   "de": "Die Tushui",
+   "fr": "Pandarens tushui"
+  },
+  "description": {
+   "en": "Led by the stalwart Aysa Cloudsinger, the Tushui Pandaren believe in contemplation and reasoned action.",
+   "de": "Die Pandaren der Tushui werden von der standhaften Aysa Wolkensänger angeführt und glauben an Besinnlichkeit und durchdachtes Handeln.",
+   "fr": "Dirigés par la vaillante Aysa Poète des Nuages, les Pandarens tushui croient au recueillement et aux actions raisonnées."
+  }
+ },
+ "1281": {
+  "name": {
+   "en": "Gina Mudclaw",
+   "de": "Gina Lehmkrall",
+   "fr": "Gina Griffe de Tourbe"
+  },
+  "description": {
+   "en": "Managing the Halfhill Market makes Gina Mudclaw one stressed lady!",
+   "de": "Die Verwaltung des Halbhügelmarkts bereitet Gina Lehmkrall viel Stress.",
+   "fr": "Gérer le marché de Micolline fait de Gina Griffe de Tourbe une dame très stressée !"
+  }
+ },
+ "1282": {
+  "name": {
+   "en": "Fish Fellreed",
+   "de": "Fischi Rohrroder",
+   "fr": "Marée Pelage de Roseau"
+  },
+  "description": {
+   "en": "Fish Fellreed's found out more about the history of this land than the rest of the town's forgotten.",
+   "de": "Fischi Rohrroder hat mehr über die Geschichte dieses Landes herausgefunden, als der Rest des Ortes zusammengenommen vergessen hat.",
+   "fr": "Marée Pelage de Roseau en appris plus sur l’histoire de cette terre que ce que le reste de la ville a oublié."
+  }
+ },
+ "1302": {
+  "name": {
+   "en": "The Anglers",
+   "de": "Die Angler",
+   "fr": "Hameçonneurs"
+  },
+  "description": {
+   "en": "The Anglers are a group of Pandaren fisherman that hope to feed their people and grow their knowledge of fishing.",
+   "de": "Die Angler sind eine Gruppe von Pandarenfischern, die ihr Volk ernähren und ihr Können im Fischfang verfeinern wollen.",
+   "fr": "Les Hameçonneurs sont un groupe de pêcheurs pandarens qui souhaite nourrir son peuple et accroître ses connaissances en matière de pêche."
+  }
+ },
+ "1277": {
+  "name": {
+   "en": "Chee Chee",
+   "de": "Chi-Chi",
+   "fr": "Chii Chii"
+  },
+  "description": {
+   "en": "If you've ever had a question about sheep, Chee Chee will know the answer.",
+   "de": "Falls Ihr schon immer mal etwas über Schafe fragen wolltet, dann hat Chi-Chi die Antwort für Euch.",
+   "fr": "Si vous avez des questions sur les moutons, Chii Chii a sûrement la réponse."
+  }
+ },
+ "922": {
+  "name": {
+   "en": "Tranquillien",
+   "de": "Tristessa",
+   "fr": "Tranquillien"
+  },
+  "description": {
+   "en": "Once a high elf town, Tranquillien became abandoned after the Scourge invaded Quel'Thalas.  It has now been reclaimed by the Forsaken and the blood elves who seek to rid the Ghostlands of the Scourge.",
+   "de": "Einstige Stadt der Hochelfen, nach dem Einmarsch der Geißel in Quel'Thalas von ihren einstigen Bewohnern aufgegeben. Erst kürzlich von den Verlassenen und den Blutelfen während Ihres Feldzuges gegen die Geißel in den Geisterlanden zurückerobert.",
+   "fr": "Tranquillien était jadis une paisible cité elfique. Abandonnée lorsque le Fléau a envahi Quel’Thalas, elle a été reprise par les Réprouvés et les Elfes de sang qui s’efforcent de chasser le Fléau des terres Fantômes."
+  }
+ },
+ "576": {
+  "name": {
+   "en": "Timbermaw Hold",
+   "de": "Holzschlundfeste",
+   "fr": "Grumegueules"
+  },
+  "description": {
+   "en": "As the last uncorrupted furbolg tribe, the Timbermaw seek to preserve their spiritual ways and end the suffering of their brethren.",
+   "de": "Als der letzte unverderbte Stamm der Furbolgs wollen die Furbolgs der Holzschlundfeste ihren spirituellen Lebensweg bewahren und das Leiden ihrer Artgenossen beenden.",
+   "fr": "Les Grumegueules sont la dernière tribu furbolg à échapper à la corruption. Ils cherchent à préserver leur spiritualité et à mettre un terme aux souffrances de leur peuple."
+  }
+ },
+ "1440": {
+  "name": {
+   "en": "Darkspear Rebellion",
+   "de": "Rebellion der Dunkelspeere",
+   "fr": "Rébellion sombrelance"
+  },
+  "description": {
+   "en": "Vol'jin has declared open rebellion against Garrosh Hellscream. With the aid of both Horde and Alliance forces, he gathers resources in preparation for an attack on Orgrimmar itself.",
+   "de": "Vol'jin hat zu offener Rebellion gegen Garrosh Höllschrei aufgerufen. Mit der Hilfe von sowohl Horde- als auch Allianzstreitkräften sammelt er Ressourcen, um Orgrimmar anzugreifen.",
+   "fr": "Vol’jin s’est ouvertement rebellé contre Garrosh Hurlenfer. Avec l’aide conjointe des troupes de la Horde et de l’Alliance, il rassemble les ressources nécessaires à la préparation d’une attaque contre Orgrimmar même."
+  }
+ },
+ "1444": {
+  "name": {
+   "en": "Warlords of Draenor",
+   "de": "Warlords of Draenor",
+   "fr": "Warlords of Draenor"
+  }
+ },
+ "1445": {
+  "name": {
+   "en": "Frostwolf Orcs",
+   "de": "Frostwolforcs",
+   "fr": "Orcs loups-de-givre"
+  },
+  "description": {
+   "en": "The Frostwolf orcs of Frostfire Ridge are a tight-knit family of brutal warriors, well equipped to deal with the savage realities of Draenor.",
+   "de": "Die Frostwolforcs des Frostfeuergrats sind ein enger Familienverbund aus hartgesottenen Kriegern, die den Unbilden Draenors mehr als gewachsen sind.",
+   "fr": "Les Orcs loups-de-givre de la crête de Givrefeu forment une famille soudée de guerriers brutaux et bien équipés pour affronter la dure réalité de Draenor."
+  }
+ },
+ "1492": {
+  "name": {
+   "en": "Emperor Shaohao",
+   "de": "Kaiser Shaohao",
+   "fr": "Empereur Shaohao"
+  },
+  "description": {
+   "en": "Shaohao, the long lost Emperor of the Pandaren people, is a personage worthy of deep respect.",
+   "de": "Shaohao, der lang verschollene Kaiser der Pandaren, ist eine Persönlichkeit, der höchster Respekt gebührt.",
+   "fr": "Shaohao, l’empereur du peuple pandaren disparu depuis longtemps, est un personnage digne du plus profond respect."
+  }
+ },
+ "1435": {
+  "name": {
+   "en": "Shado-Pan Assault",
+   "de": "Shado-Pan-Vorstoß",
+   "fr": "Assaut des Pandashan"
+  },
+  "description": {
+   "en": "These valorous Shado-Pan venture into the Throne of Thunder to vanquish the evil found within, and exact justice for the centuries of slavery they endured under the Thunder King's reign.",
+   "de": "Diese tapferen Shado-Pan wagen sich in den Thron des Donners in der Hoffnung, das darin schlummernde Böse einzudämmen und Gerechtigkeit zu üben für die Jahrhunderte der Sklaverei, die sie unter der Herrschaft des Donnerkönigs erleiden mussten.",
+   "fr": "Ces valeureux pandashan s’aventurent au Trône du tonnerre pour contenir le mal qui s’y cache et faire justice pour les siècles d’esclavage qu’ils ont endurés sous le règne du roi-tonnerre."
+  }
+ },
+ "1216": {
+  "name": {
+   "en": "Shang Xi's Academy",
+   "de": "Akademie des Shang Xi",
+   "fr": "Académie de Shang Xi"
+  },
+  "description": {
+   "en": "For nearly three generations, the esteemed Shang Xi has prepared pandaren heroes for lives of adventure.",
+   "de": "Seit fast drei Generationen bereitet der hoch angesehene Shang Xi pandarische Helden auf ein Leben voller Abenteuer vor.",
+   "fr": "Depuis près de trois générations, le très estimé Shang Xi prépare des héros pandarens pour une vie d’aventures."
+  }
+ },
+ "1375": {
+  "name": {
+   "en": "Dominance Offensive",
+   "de": "Herrschaftsoffensive",
+   "fr": "Offensive Domination"
+  },
+  "description": {
+   "en": "Horde forces in Pandaria, stationed at Domination Point in Krasarang Wilds.",
+   "de": "Streitkräfte der Horde in Pandaria, stationiert in der Herrschaftsfeste in der Krasarangwildnis.",
+   "fr": "Les forces de la Horde sont en Pandarie, stationnées à la halte de la Domination dans les étendues sauvages de Krasarang."
+  }
+ },
+ "1376": {
+  "name": {
+   "en": "Operation: Shieldwall",
+   "de": "Operation Schildwall",
+   "fr": "Opération Bouclier"
+  },
+  "description": {
+   "en": "Alliance forces in Pandaria, stationed at Lion's Landing in Krasarang Wilds.",
+   "de": "Streitkräfte der Allianz in Pandaria, stationiert in der Löwenlandung in der Krasarangwildnis.",
+   "fr": "Les forces de l’Alliance sont en Pandarie, stationnées sur le territoire du Lion dans les étendues sauvages de Krasarang."
+  }
+ },
+ "1387": {
+  "name": {
+   "en": "Kirin Tor Offensive",
+   "de": "Offensive der Kirin Tor",
+   "fr": "Offensive du Kirin Tor"
+  },
+  "description": {
+   "en": "Ignited by Jaina's fury, the Kirin Tor Offensive seek to seize Thunder Isle for the glory of the Alliance!",
+   "de": "Die durch Jainas Zorn angetriebene Offensive der Kirin Tor versucht die Insel des Donners für die Allianz zu gewinnen!",
+   "fr": "Enflammée par la fureur de Jaina, l’Offensive du Kirin Tor veut s’emparer de l’île du Tonnerre pour la gloire de l’Alliance !"
+  }
+ },
+ "1388": {
+  "name": {
+   "en": "Sunreaver Onslaught",
+   "de": "Sonnenhäscheransturm",
+   "fr": "Assaut des Saccage-Soleil"
+  },
+  "description": {
+   "en": "Outcast from Dalaran, the Sunreaver Onslaught fight to obtain powerful mogu artifacts from among the ruins of Thunder Isle, and to secure their future if the Horde falls to anarchy.",
+   "de": "Der aus Dalaran vertriebene Sonnenhäscheransturm kämpft, um mächtige Moguartefakte aus den Ruinen der Insel des Donners zu bergen, und für eine sichere Zukunft, sollte die Horde im Chaos versinken.",
+   "fr": "Banni de Dalaran, l’assaut des Saccage-Soleil se bat pour obtenir de puissants artéfacts mogu dans les ruines de l’île du Tonnerre, et assurer leur avenir si la Horde succombe à l’anarchie."
+  }
+ },
+ "1416": {
+  "name": {
+   "en": "Akama's Trust",
+   "de": "Akamas Vertrauen",
+   "fr": "Confiance d’Akama"
+  },
+  "description": {
+   "en": "Akama is distrustful of Warlocks after witnessing Illidan's fall to his own corruption, followed by the invasion of the Black Temple by Warlocks after the Cataclysm.",
+   "de": "Akama misstraut Hexenmeistern, da er miterleben musste, wie Illidan seiner eigenen Verderbnis anheim fiel und wie der Schwarze Tempel nach dem Kataklysmus von Hexenmeistern überfallen wurde.",
+   "fr": "Akama ne fait plus confiance aux démonistes depuis qu’il a vu Illidan succomber à sa propre corruption et le Temple noir se faire envahir par les démonistes après le Cataclysme."
+  }
+ },
+ "1419": {
+  "name": {
+   "en": "Bizmo's Brawlpub (Season 1)",
+   "de": "Bizmos Boxbar (Saison 1)",
+   "fr": "Bar-Tabasse de Bizmo (saison 1)"
+  },
+  "description": {
+   "en": "The first season of the LFG Brawler's Guild occurred during the Pandaria campaign.",
+   "de": "Die erste Kampfgildensaison der Allianz fand während des Pandariafeldzugs statt.",
+   "fr": "La première saison de la guilde des Bastonneurs en groupes aléatoires a eu lieu durant la campagne en Pandarie."
+  }
+ },
+ "1341": {
+  "name": {
+   "en": "The August Celestials",
+   "de": "Die Himmlischen Erhabenen",
+   "fr": "Astres vénérables"
+  },
+  "description": {
+   "en": "These brave Pandaren defend the temples of Pandaria from the evils of the Sha.",
+   "de": "Diese tapferen Pandaren verteidigen die Tempel von Pandaria vor dem Bösen des Sha.",
+   "fr": "Ces braves Pandarens protègent les temples de Pandarie des maléfiques sha."
+  }
+ },
+ "1279": {
+  "name": {
+   "en": "Haohan Mudclaw",
+   "de": "Haohan Lehmkrall",
+   "fr": "Haohan Griffe de Tourbe"
+  },
+  "description": {
+   "en": "The respected leader of the Tillers, Haohan Mudclaw is swamped with responsibilities.",
+   "de": "Als geschätzter Anführer der Ackerbauern ertrinkt Haohan Lehmkrall in Pflichten.",
+   "fr": "Chef respecté des Laboureurs, Haohan Griffe de Tourbe est débordé de responsabilités."
+  }
+ },
+ "1374": {
+  "name": {
+   "en": "Brawl'gar Arena (Season 1)",
+   "de": "Shlae'gararena (Saison 1)",
+   "fr": "Arène de Castagn’ar (saison 1)"
+  },
+  "description": {
+   "en": "The first season of the Horde Brawler's Guild occurred during the Pandaria campaign.",
+   "de": "Die erste Kampfgildensaison der Horde fand während des Pandariafeldzugs statt.",
+   "fr": "La première saison de la guilde des Bastonneurs de la Horde a eu lieu durant la campagne en Pandarie."
+  }
+ },
+ "1515": {
+  "name": {
+   "en": "Arakkoa Outcasts",
+   "de": "Ausgestoßene Arakkoa",
+   "fr": "Parias arakkoa"
+  },
+  "description": {
+   "en": "Working from the shadows, the Arakkoa Outcasts seek to bring a brighter tomorrow.",
+   "de": "Aus dem Verborgenen arbeiten die ausgestoßenen Arakkoa auf eine strahlende Zukunft für ihr Volk hin.",
+   "fr": "Œuvrant dans l’ombre, les parias arakkoa cherchent à se forger des lendemains meilleurs."
+  }
+ },
+ "1690": {
+  "name": {
+   "en": "Brawl'gar Arena (Season 2)",
+   "de": "Shlae'gararena (Saison 2)",
+   "fr": "Arène de Castagn’ar (saison 2)"
+  },
+  "description": {
+   "en": "The second season of the Horde Brawler's Guild occurred during the Draenor campaign.",
+   "de": "Die zweite Kampfgildensaison der Horde fand während des Draenorfeldzugs statt.",
+   "fr": "La deuxième saison de la guilde des Bastonneurs de la Horde a eu lieu durant la campagne de Draenor."
+  }
+ },
+ "1691": {
+  "name": {
+   "en": "Bizmo's Brawlpub (Season 2)",
+   "de": "Bizmos Boxbar (Saison 2)",
+   "fr": "Bar-Tabasse de Bizmo (saison 2)"
+  },
+  "description": {
+   "en": "The second season of the Alliance Brawler's Guild occurred during the Draenor campaign.",
+   "de": "Die zweite Kampfgildensaison der Allianz fand während des Draenorfeldzugs statt.",
+   "fr": "La deuxième saison de la guilde des Bastonneurs de l’Alliance a eu lieu durant la campagne de Draenor."
+  }
+ },
+ "1681": {
+  "name": {
+   "en": "Vol'jin's Spear",
+   "de": "Vol'jins Speer",
+   "fr": "Lance de Vol’jin"
+  },
+  "description": {
+   "en": "Horde forces in Ashran, stationed at Warspear.",
+   "de": "Hordenstreitkräfte in Ashran, beim Kriegsspeer stationiert.",
+   "fr": "Troupes de la Horde en A’shran, stationnées à Fer-de-Lance."
+  }
+ },
+ "1682": {
+  "name": {
+   "en": "Wrynn's Vanguard",
+   "de": "Wrynns Vorhut",
+   "fr": "Avant-garde de Wrynn"
+  },
+  "description": {
+   "en": "Alliance forces in Ashran, stationed at Stormshield.",
+   "de": "Allianzstreitkräfte in Ashran, beim Sturmschild stationiert.",
+   "fr": "Troupes de l’Alliance en A’shran, stationnées à Bouclier-des-Tempêtes."
+  }
+ },
+ "1828": {
+  "name": {
+   "en": "Highmountain Tribe",
+   "de": "Der Hochbergstamm",
+   "fr": "Tribu de Haut-Roc"
+  },
+  "description": {
+   "en": "The Highmountain Tribe has dwindled in numbers over the years, and with the drogbar threat looming, seek new allies to save their homeland.",
+   "de": "Der Hochbergstamm hat über die Jahre viele Söhne und Töchter verloren. Im Angesicht der jüngsten Bedrohung durch die Drogbar suchen sie nun neue Verbündete, um ihre Heimat zu verteidigen.",
+   "fr": "La tribu de Haut-Roc a vu sa population s’amoindrir avec les années, mais la menace des Drogbars l’amène à former de nouvelles alliances pour sauver son foyer."
+  }
+ },
+ "1847": {
+  "name": {
+   "en": "Hand of the Prophet",
+   "de": "Hand des Propheten",
+   "fr": "Main du prophète"
+  },
+  "description": {
+   "en": "Yrel has assembled the remaining Exarchs and is calling for a crusade in Velen's name. Together they are working to establish a foothold in Tanaan Jungle and to overthrow Gul'dan.",
+   "de": "Yrel hat die verbleibenden Exarchen versammelt und ruft in Velens Namen zum Kreuzzug auf. Gemeinsam versuchen sie, einen Stützpunkt im Tanaandschungel zu errichten, um Gul'dan zu stürzen.",
+   "fr": "Yrel a rassemblé les derniers exarques et veut entamer une croisade au nom de Velen. Ensemble, les exarques œuvrent pour prendre pied sur la jungle de Tanaan et renverser Gul’dan."
+  }
+ },
+ "1848": {
+  "name": {
+   "en": "Vol'jin's Headhunters",
+   "de": "Vol'jins Kopfjäger",
+   "fr": "Chasseurs de têtes de Vol’jin"
+  },
+  "description": {
+   "en": "Seeking to protect Azeroth with a decisive victory on Draenor, Warchief Vol'jin is assembling an elite team of champions to establish a foothold in Tanaan Jungle and to overthrow Gul'dan.",
+   "de": "In seinem Bestreben, durch einen entscheidenden Sieg in Draenor Azeroth zu schützen, zieht Kriegshäuptling Vol'jin ein Eliteteam aus Champions zusammen, um im Tanaandschungel einen Stützpunkt zu errichten und Gul'dan zu stürzen.",
+   "fr": "Cherchant à protéger Azeroth grâce à une victoire décisive en Draenor, le chef de guerre Vol’jin rassemble une équipe de champions d’élite pour prendre pied dans la jungle de Tanaan et renverser Gul’dan."
+  }
+ },
+ "1849": {
+  "name": {
+   "en": "Order of the Awakened",
+   "de": "Orden der Erwachten",
+   "fr": "Ordre des Éveillés"
+  },
+  "description": {
+   "en": "Survivors of a grisly civil war, these beleaguered arakkoans hope the reclamation of apexis artifacts will hold the key to peacefully rebuilding their civilization.",
+   "de": "Diese bedrängten Arakkoa sind aus einem verheerenden Bürgerkrieg hervorgegangen und setzen all ihre Hoffnung darauf, mit der Wiedergewinnung von Apexisartefakten ihre Zivilisation friedlich wiederaufbauen zu können.",
+   "fr": "Rescapés d’une terrible guerre civile, ces arakkoa assiégés espèrent pouvoir reconstruire leur civilisation dans la paix une fois les artéfacts apogides récupérés."
+  }
+ },
+ "1850": {
+  "name": {
+   "en": "The Saberstalkers",
+   "de": "Die Säbelzahnpirscher",
+   "fr": "Traquesabres"
+  },
+  "description": {
+   "en": "The treacherous wilds of Tanaan Jungle have attracted the craftiest hunters from both Azeroth and Draenor. To defeat the beasts of Tanaan, one must become a beast.",
+   "de": "Die tückische Wildnis des Tanaandschungels hat die Neugier der gerissensten Jäger, sowohl von Azeroth als auch von Draenor, geweckt. Um die Bestien von Tanaan zu besiegen, muss man selbst zur Bestie werden.",
+   "fr": "La faune dangereuse de la jungle de Tanaan attire les chasseurs les plus rusés d’Azeroth et de Draenor. Pour vaincre les bêtes de Tanaan, il faut soi-même devenir un animal."
+  }
+ },
+ "1731": {
+  "name": {
+   "en": "Council of Exarchs",
+   "de": "Exarchenrat",
+   "fr": "Conseil des exarques"
+  },
+  "description": {
+   "en": "Under the leadership of five powerful exarchs, the draenei of Draenor have prospered in a savage world.",
+   "de": "Unter der Führung fünf mächtiger Exarchen haben sich die Draenei von Draenor in dieser ungezähmten Welt erfolgreich ein neues Zuhause geschaffen.",
+   "fr": "Dirigés par cinq puissants exarques, les Draeneï ont prospéré malgré la sauvagerie naturelle de Draenor."
+  }
+ },
+ "1859": {
+  "name": {
+   "en": "The Nightfallen",
+   "de": "Die Nachtsüchtigen",
+   "fr": "Souffrenuit"
+  },
+  "description": {
+   "en": "These exiled Nightborne elves suffer withdrawals after being cut off from the Nightwell. They oppose their people's alliance with the Legion and fight for some kind of redemption.",
+   "de": "Diese von den Nachtgeborenen verstoßenen Elfen leiden unter Entzugserscheinungen, seit sie vom Nachtbrunnen abgeschnitten sind. Im Streben, sich von ihren Sünden reinzuwaschen, kämpfen sie nun gegen den Pakt, den ihr Volk mit der Legion geschlossen hat.",
+   "fr": "Ces Elfes sacrenuit exilés souffrent d’être privés de l’énergie du Puits de la nuit. Ils s’opposent à l’alliance que leur peuple a conclue avec la Légion et combattent dans l’espoir de trouver la rédemption."
+  }
+ },
+ "1883": {
+  "name": {
+   "en": "Dreamweavers",
+   "de": "Die Traumweber",
+   "fr": "Tisse-Rêves"
+  },
+  "description": {
+   "en": "The druids and their allies in Val'sharah have guarded the Emerald Dream since time immemorial.",
+   "de": "Diese Druiden und ihre Verbündeten in Val'sharah wachen seit Jahrtausenden über den Smaragdgrünen Traum.",
+   "fr": "Les druides et leurs alliés de Val’sharah gardent le Rêve d’émeraude depuis des temps immémoriaux."
+  }
+ },
+ "1894": {
+  "name": {
+   "en": "The Wardens",
+   "de": "Die Wächterinnen",
+   "fr": "Gardiennes"
+  },
+  "description": {
+   "en": "After Legion forces broke the Vault of the Wardens with the aid of Gul'dan, what few Wardens remain are determined to rebuild their prison and hunt down the terrifying beasts that were let loose when it fell.",
+   "de": "Nachdem die Legion mit Gul'dans Hilfe in das Verlies der Wächterinnen eindrang, sind die wenigen verbliebenen Wächterinnen fest entschlossen, das Gefängnis wieder aufzubauen und die furchterregenden Bestien, die befreit wurden, wieder einzufangen.",
+   "fr": "Suite à l’assaut de la Légion et de Gul’dan, les quelques Gardiennes du caveau qui demeurent sont déterminées à reconstruire cette prison et à traquer les effroyables créatures qui s’en sont échappées lorsqu’elle est tombée."
+  }
+ },
+ "1741": {
+  "name": {
+   "en": "Leorajh",
+   "de": "Leorajh",
+   "fr": "Leorajh"
+  },
+  "description": {
+   "en": "Your personal bodyguard, stationed at your barracks. You can build friendship with Leorajh by inviting him to fight alongside you.",
+   "de": "Euer persönlicher Leibwächter, der in Eurer Kaserne stationiert ist. Ihr könnt Eure Freundschaft zu Leorajh aufbauen, indem Ihr ihn an Eurer Seite kämpfen lasst.",
+   "fr": "Votre garde du corps personnel, posté dans votre caserne. Vous pouvez vous lier d’amitié avec Leorajh en l’invitant à combattre à vos côtés."
+  }
+ },
+ "1900": {
+  "name": {
+   "en": "Court of Farondis",
+   "de": "Farondis' Hofstaat",
+   "fr": "Cour de Farondis"
+  },
+  "description": {
+   "en": "The ghostly Court of Farondis and its allies continue the fight against an onslaught of invaders on the cursed island of Azsuna.",
+   "de": "Farondis' gespenstischer Hofstaat führt auf der verfluchten Insel Azsuna zusammen mit seinen Verbündeten einen verzweifelten Kampf gegen eine Übermacht an Invasoren.",
+   "fr": "Les fantômes de la cour de Farondis et leurs alliés continuent le combat pour repousser les attaques d’envahisseurs sur l’île maudite d’Azsuna."
+  }
+ },
+ "1733": {
+  "name": {
+   "en": "Delvar Ironfist",
+   "de": "Delvar Eisenfaust",
+   "fr": "Delvar Poing-de-Fer"
+  },
+  "description": {
+   "en": "Your personal bodyguard, stationed at your barracks. You can build friendship with Delvar by inviting him to fight alongside you.",
+   "de": "Euer persönlicher Leibwächter, der in Eurer Kaserne stationiert ist. Ihr könnt Eure Freundschaft zu Delvar aufbauen, indem Ihr ihn an Eurer Seite kämpfen lasst.",
+   "fr": "Votre garde du corps personnel, posté dans votre caserne. Vous pouvez vous lier d’amitié avec Delvar en l’invitant à combattre à vos côtés."
+  }
+ },
+ "1735": {
+  "name": {
+   "en": "Barracks Bodyguards",
+   "de": "Kasernenleibwächter",
+   "fr": "Gardes du corps de caserne"
+  },
+  "description": {
+   "en": "Station bodyguards at your barracks.",
+   "de": "Stationiert Leibwächter in Eurer Kaserne.",
+   "fr": "Permet de poster des gardes du corps dans votre caserne."
+  }
+ },
+ "1736": {
+  "name": {
+   "en": "Tormmok",
+   "de": "Tormmok",
+   "fr": "Tormmok"
+  },
+  "description": {
+   "en": "Your personal bodyguard, stationed at your barracks. You can build friendship with Tormmok by inviting him to fight alongside you.",
+   "de": "Euer persönlicher Leibwächter, der in Eurer Kaserne stationiert ist. Ihr könnt Eure Freundschaft zu Tormmok aufbauen, indem Ihr ihn an Eurer Seite kämpfen lasst.",
+   "fr": "Votre garde du corps personnel, posté dans votre caserne. Vous pouvez vous lier d’amitié avec Tormmok en l’invitant à combattre à vos côtés."
+  }
+ },
+ "1737": {
+  "name": {
+   "en": "Talonpriest Ishaal",
+   "de": "Krallenpriester Ishaal",
+   "fr": "Prêtre de la serre Ishaal"
+  },
+  "description": {
+   "en": "Your personal bodyguard, stationed at your barracks. You can build friendship with Ishaal by inviting him to fight alongside you.",
+   "de": "Euer persönlicher Leibwächter, der in Eurer Kaserne stationiert ist. Ihr könnt Eure Freundschaft zu Ishaal aufbauen, indem Ihr ihn an Eurer Seite kämpfen lasst.",
+   "fr": "Votre garde du corps personnel, posté dans votre caserne. Vous pouvez vous lier d’amitié avec Ishaal en l’invitant à combattre à vos côtés."
+  }
+ },
+ "1738": {
+  "name": {
+   "en": "Defender Illona",
+   "de": "Beschützerin Illona",
+   "fr": "Défenseur Illona"
+  },
+  "description": {
+   "en": "Your personal bodyguard, stationed at your barracks. You can build friendship with Illona by inviting her to fight alongside you.",
+   "de": "Euer persönlicher Leibwächter, der in Eurer Kaserne stationiert ist. Ihr könnt Eure Freundschaft zu Illona aufbauen, indem Ihr sie an Eurer Seite kämpfen lasst.",
+   "fr": "Votre garde du corps personnel, posté dans votre caserne. Vous pouvez vous lier d’amitié avec Illona en l’invitant à combattre à vos côtés."
+  }
+ },
+ "1739": {
+  "name": {
+   "en": "Vivianne",
+   "de": "Vivianne",
+   "fr": "Vivianne"
+  },
+  "description": {
+   "en": "Your personal bodyguard, stationed at your barracks. You can build friendship with Vivianne by inviting her to fight alongside you.",
+   "de": "Euer persönlicher Leibwächter, der in Eurer Kaserne stationiert ist. Ihr könnt Eure Freundschaft zu Vivianne aufbauen, indem Ihr sie an Eurer Seite kämpfen lasst.",
+   "fr": "Votre garde du corps personnel, posté dans votre caserne. Vous pouvez vous lier d’amitié avec Vivianne en l’invitant à combattre à vos côtés."
+  }
+ },
+ "1710": {
+  "name": {
+   "en": "Sha'tari Defense",
+   "de": "Sha'tarverteidigung",
+   "fr": "Défense sha’tari"
+  },
+  "description": {
+   "en": "The defenders of Shattrath struggle to regain control of their capital city, having been betrayed from within.",
+   "de": "Die Verteidiger von Shattrath kämpfen nach dem Verrat aus den eigenen Reihen darum, die Kontrolle über ihre Hauptstadt zurückzuerlangen.",
+   "fr": "Suite à une trahison dans leurs rangs, les défenseurs de Shattrath peinent à reprendre le contrôle de leur capitale."
+  }
+ },
+ "1711": {
+  "name": {
+   "en": "Steamwheedle Preservation Society",
+   "de": "Werterhaltungsgesellschaft des Dampfdruckkartells",
+   "fr": "Société de Conservation de Gentepression"
+  },
+  "description": {
+   "en": "The goblins of the Steamwheedle Preservation Society seek to liberate relics from the ogres of Nagrand with the noble intention of selling them to the highest bidder.",
+   "de": "Die Goblins der Werterhaltungsgesellschaft des Dampfdruckkartells möchten Relikte aus den Händen der Oger von Nagrand \"befreien\" – mit dem edlen Ziel, sie an den Meistbietenden zu verkaufen.",
+   "fr": "Les Gobelins de la Société de Conservation de Gentepression cherchent à débarrasser les Ogres de Nagrand de leurs reliques, dans la noble intention de les vendre au plus offrant."
+  }
+ },
+ "1740": {
+  "name": {
+   "en": "Aeda Brightdawn",
+   "de": "Aeda Morgenglanz",
+   "fr": "Aeda Brillaube"
+  },
+  "description": {
+   "en": "Your personal bodyguard, stationed at your barracks. You can build friendship with Aeda by inviting him to fight alongside you.",
+   "de": "Euer persönlicher Leibwächter, der in Eurer Kaserne stationiert ist. Ihr könnt Eure Freundschaft zu Aeda aufbauen, indem Ihr sie an Eurer Seite kämpfen lasst.",
+   "fr": "Votre garde du corps personnel, posté dans votre caserne. Vous pouvez vous lier d’amitié avec Aeda en l’invitant à combattre à vos côtés."
+  }
+ },
+ "1834": {
+  "name": {
+   "en": "Legion",
+   "de": "Legion",
+   "fr": "Legion"
+  }
+ },
+ "1948": {
+  "name": {
+   "en": "Valarjar",
+   "de": "Valarjar",
+   "fr": "Valarjar"
+  },
+  "description": {
+   "en": "These are the chosen warriors of Odyn, sworn to his service in life and death.",
+   "de": "Auserwählte Krieger Odyns, die geschworen haben, ihrem Herrn im Leben wie im Tode zu dienen.",
+   "fr": "Ces guerriers sont les élus d’Odyn, qu’ils ont juré de servir dans la vie comme dans la mort."
+  }
+ },
+ "1975": {
+  "name": {
+   "en": "Conjurer Margoss",
+   "de": "Beschwörer Margoss",
+   "fr": "Adjurateur Margoss"
+  },
+  "description": {
+   "en": "Once a student of the Kirin Tor, Margoss has turned to fishing to ease his stressful life.",
+   "de": "Margoss war einst ein Schüler der Kirin Tor, bis er sich dem Angeln widmete, um Erholung vom nervenaufreibenden Alltag als Magier zu finden.",
+   "fr": "Autrefois étudiant du Kirin Tor, Margoss s’est tourné vers la pêche pour relâcher la pression de sa vie stressante."
+  }
+ },
+ "1984": {
+  "name": {
+   "en": "The First Responders",
+   "de": "Die Ersthelfer",
+   "fr": "Guérisseuses"
+  },
+  "description": {
+   "en": "High in their floating home city of Dalaran, Olisarra and Angelique treat the injured, the sick and the quite nearly, fatally wounded. They also sell wares to travelers who are in need of medical supplies.",
+   "de": "Hoch oben in ihrer schwebenden Heimatstadt Dalaran behandeln Olisarra und Angelique die Kranken, die Verwundeten und selbst diejenigen, die dem Tode näher sind als dem Leben. Sie verkaufen auch medizinische Waren an Reisende, die sie benötigen.",
+   "fr": "Perchées sur les hauteurs de leur ville natale de Dalaran, Olisarra et Angélique prodiguent des soins aux blessés, aux malades et aux patients dans un état critique. Elles vendent aussi des fournitures médicales aux voyageurs."
+  }
+ },
+ "2010": {
+  "name": {
+   "en": "Brawl'gar Arena (Season 3)",
+   "de": "Shlae'gararena (Saison 3)",
+   "fr": "Arène de Castagn’ar (saison 3)"
+  },
+  "description": {
+   "en": "The third season of the Horde Brawler's Guild occurred during the Broken Isles campaign.",
+   "de": "Die dritte Kampfgildensaison der Horde fand während des Feldzugs auf den Verheerten Inseln statt.",
+   "fr": "La troisième saison de la guilde des Bastonneurs de la Horde a eu lieu durant la campagne des îles Brisées."
+  }
+ },
+ "2011": {
+  "name": {
+   "en": "Bizmo's Brawlpub (Season 3)",
+   "de": "Bizmos Boxbar (Saison 3)",
+   "fr": "Bar-Tabasse de Bizmo (saison 3)"
+  },
+  "description": {
+   "en": "The third season of the Alliance Brawler's Guild occurred during the Broken Isles campaign.",
+   "de": "Die dritte Kampfgildensaison der Allianz fand während des Feldzugs auf den Verheerten Inseln statt.",
+   "fr": "La troisième saison de la guilde des Bastonneurs de l’Alliance a eu lieu durant la campagne des îles Brisées."
+  }
+ },
+ "2018": {
+  "name": {
+   "en": "Talon's Vengeance",
+   "de": "Rache der Kralle",
+   "fr": "Serre vengeresse"
+  },
+  "description": {
+   "en": "Allies of the demigod Aviana and protectors of the winged creatures of the Broken Isles.",
+   "de": "Verbündete der Halbgöttin Aviana und Beschützer aller geflügelten Wesen der Verheerten Inseln.",
+   "fr": "Alliés de la demi-déesse Aviana et protecteurs des créatures ailées des îles Brisées."
+  }
+ },
+ "2045": {
+  "name": {
+   "en": "Armies of Legionfall",
+   "de": "Die Legionsrichter",
+   "fr": "Armées du Déclin de la Légion"
+  },
+  "description": {
+   "en": "The coalition of orders dedicated to defeating the Legion at the Tomb of Sargeras and Broken Shore.",
+   "de": "Eine Koalition aus Orden mit dem Ziel, im Grabmal des Sargeras und an der Verheerten Küste die Legion zu bezwingen.",
+   "fr": "Une coalition d’ordres déterminés à vaincre la Légion à la tombe de Sargeras et au rivage Brisé."
+  }
+ },
+ "2097": {
+  "name": {
+   "en": "Ilyssia of the Waters",
+   "de": "Ilyssia von den Wassern",
+   "fr": "Ilyssia des Eaux"
+  },
+  "description": {
+   "en": "The ancient keeper of the Royal Pond in Azsuna.",
+   "de": "Die uralte Hüterin des Königlichen Teichs in Azsuna.",
+   "fr": "Gardienne de l’étang Royal d’Azsuna depuis des millénaires."
+  }
+ },
+ "2098": {
+  "name": {
+   "en": "Keeper Raynae",
+   "de": "Hüterin Raynae",
+   "fr": "Gardienne Raynae"
+  },
+  "description": {
+   "en": "The watcher of fish in Val'sharah.",
+   "de": "Die Hüterin über die Fische von Val'sharah.",
+   "fr": "La gardienne des poissons de Val’sharah."
+  }
+ },
+ "2135": {
+  "name": {
+   "en": "Chromie",
+   "de": "Chromie",
+   "fr": "Chromie"
+  },
+  "description": {
+   "en": "Chronormu (Chromie for short) has always been one of the more active, approachable bronze dragons. Strengthening your bond with her will increase her power in the Deaths of Chromie scenario.",
+   "de": "Chronormu (oder einfach Chromie) war schon immer einer der aktiveren, zugänglicheren Bronzedrachen. Wenn Ihr das Band zwischen Euch stärkt, erhöht das ihre Macht im Szenario 'Die Tode von Chromie'.",
+   "fr": "Chronormu, plus connue sous le diminutif de Chromie, a toujours été l’un des dragons de bronze les plus actifs et accessibles. Renforcez votre lien avec elle pour augmenter sa puissance dans le scénario des Morts de Chromie."
+  }
+ },
+ "2099": {
+  "name": {
+   "en": "Akule Riverhorn",
+   "de": "Akule Flusshorn",
+   "fr": "Akule Ruissecorne"
+  },
+  "description": {
+   "en": "A master of the river and the fish within.",
+   "de": "Ein ausgewiesener Kenner des Flusses und der Flussfische.",
+   "fr": "Maître des rivières et des poissons qui les peuplent."
+  }
+ },
+ "2100": {
+  "name": {
+   "en": "Corbyn",
+   "de": "Corbyn",
+   "fr": "Corbyn"
+  },
+  "description": {
+   "en": "A raven with bright, intelligent eyes and a love of fish.",
+   "de": "Ein Rabe mit einem aufgeweckten, intelligenten Blick, der Fische liebt.",
+   "fr": "Un corbeau avec des yeux brillants d’intelligence qui aime passionnément les poissons."
+  }
+ },
+ "2101": {
+  "name": {
+   "en": "Sha'leth",
+   "de": "Sha'leth",
+   "fr": "Sha’leth"
+  },
+  "description": {
+   "en": "A mysterious withered who makes her home by the waterfalls.",
+   "de": "Eine geheimnisvolle Verdorrte, die bei den Wasserfällen wohnt.",
+   "fr": "Une mystérieuse flétrie qui vit près des chutes d’eau."
+  }
+ },
+ "2102": {
+  "name": {
+   "en": "Impus",
+   "de": "Wichtlus",
+   "fr": "Diablotus"
+  },
+  "description": {
+   "en": "Summoned from far away, Impus collects shells in hopes of creating a \"magic gateway\" to return home.",
+   "de": "Der von weit her beschworene Wichtlus sammelt Muscheln in der Hoffnung, damit ein \"magisches Tor\" zu erschaffen und nach Hause zurückkehren zu können.",
+   "fr": "Invoqué depuis un endroit lointain, Diablotus collectionne les carapaces dans l’espoir de créer une « porte magique » pour retourner chez lui."
+  }
+ },
+ "2156": {
+  "name": {
+   "en": "Talanji's Expedition",
+   "de": "Talanjis Expedition",
+   "fr": "Expédition de Talanji"
+  },
+  "description": {
+   "en": "Princess Talanji and her allies fight to protect Zandalar from the onslaught of the Blood Trolls.",
+   "de": "Prinzessin Talanji kämpft mit ihren Verbündeten, um Zandalar vor dem Ansturm der Bluttrolle zu schützen.",
+   "fr": "La princesse Talanji et ses alliés se battent pour protéger Zandalar de l’assaut des Trolls de sang."
+  }
+ },
+ "2158": {
+  "name": {
+   "en": "Voldunai",
+   "de": "Voldunai",
+   "fr": "Volduni"
+  },
+  "description": {
+   "en": "Comprised of exiles and scavengers, the Voldunai use their knowledge of the sands to thrive where others would wither and die.",
+   "de": "Die Voldunai bestehen aus Verbannten und Plünderern. Mithilfe ihrer Kenntnisse über die Sande können sie gedeihen, wo andere verenden würden.",
+   "fr": "Groupe d’exilés vivant de récupération, les Volduni utilisent leurs connaissances des sables pour prospérer là où d’autres perdraient la vie."
+  }
+ },
+ "2159": {
+  "name": {
+   "en": "7th Legion",
+   "de": "7. Legion",
+   "fr": "7e Légion"
+  },
+  "description": {
+   "en": "A elite special force delegation of the Alliance army, currently focused on disrupting Horde operations in Zandalar.",
+   "de": "Eine Eliteeinheit der Allianzstreitkräfte, die sich derzeit auf die Sabotage von Hordeoperationen in Zandalar konzentriert.",
+   "fr": "Une troupe d’élite spéciale de l’armée de l’Alliance, chargée de perturber les opérations de la Horde en Zandalar."
+  }
+ },
+ "2162": {
+  "name": {
+   "en": "Storm's Wake",
+   "de": "Die Sturmwacht",
+   "fr": "Sillage des tempêtes"
+  },
+  "description": {
+   "en": "Home to farmers, craftsmen, soldiers, and the mysterious tidesages, the Storm's Wake seeks to reclaim Stormsong Valley and affirm their place in Kul Tiras.",
+   "de": "Die Sturmwacht ist ein Bund von Bauern, Handwerkern, Soldaten und den mysteriösen Gezeitenweisen. Gemeinsam wollen sie das Sturmsangtal wieder unter ihre Führung bringen und sich ihren Platz in Kul Tiras sichern.",
+   "fr": "Rassemblant fermiers, artisans, soldats et les mystérieux eaugures, le Sillage des tempêtes cherche à reprendre possession de la vallée Chantorage et à affirmer sa position en Kul Tiras."
+  }
+ },
+ "2163": {
+  "name": {
+   "en": "Tortollan Seekers",
+   "de": "Tortollanische Sucher",
+   "fr": "Chercheurs tortollans"
+  },
+  "description": {
+   "en": "Traversing the world, the Tortollan Seekers wield their immense wealth to catalogue and preserve forbidden knowledge.",
+   "de": "Auf ihren Reisen um die Welt nutzen die tortollanischen Sucher ihren enormen Reichtum zur Katalogisierung und Bewahrung von verbotenem Wissen.",
+   "fr": "Voyageant à travers le monde, les Chercheurs tortollans utilisent leur immense fortune pour cataloguer et préserver des connaissances interdites."
+  }
+ },
+ "2165": {
+  "name": {
+   "en": "Army of the Light",
+   "de": "Armee des Lichts",
+   "fr": "Armée de la Lumière"
+  },
+  "description": {
+   "en": "After the fall of Argus, the draenei's finest warriors followed the prime naaru Xe'ra across the cosmos in an eternal war to bring about the Legion's end. Since then, other survivors of the Burning Crusade have joined the ranks of the Lightforged.",
+   "de": "Nachdem Argus fiel, folgten die tapfersten Krieger der Draenei der Höchsten der Naaru, Xe'ra, auf einem ewigen Feldzug durch den Kosmos. Ihr Ziel: das Ende der Legion. Seither haben sich den Rängen der Lichtgeschmiedeten weitere Überlebende des Brennenden Kreuzzugs angeschlossen.",
+   "fr": "Après la chute d’Argus, les meilleurs guerriers parmi les Draeneï ont suivi le Premier Naaru, Xe’ra, à travers le cosmos dans une guerre sans fin contre la Légion. Depuis, d’autres survivants de la Croisade ardente ont rejoint les rangs des Sancteforge."
+  }
+ },
+ "2104": {
+  "name": {
+   "en": "Battle for Azeroth",
+   "de": "Battle for Azeroth",
+   "fr": "Battle for Azeroth"
+  }
+ },
+ "2160": {
+  "name": {
+   "en": "Proudmoore Admiralty",
+   "de": "Prachtmeeradmiralität",
+   "fr": "Amirauté des Portvaillant"
+  },
+  "description": {
+   "en": "Masters of the sea and commanders of Azeroth's finest navy, the distinguished Proudmoore family has led Kul Tiras for decades from their seat of power in Boralus.",
+   "de": "Die vornehme Familie der Prachtmeers gebietet über die See und befehligt die prächtigste Flotte von Azeroth. Schon seit Jahrzehnten regiert sie von ihrer Residenzstadt Boralus aus über Kul Tiras.",
+   "fr": "Maîtres des mers, commandants de la meilleure flotte d’Azeroth, les Portvaillant gouvernent Kul Tiras à Boralus, siège du pouvoir de leur éminente famille, depuis des décennies."
+  }
+ },
+ "2170": {
+  "name": {
+   "en": "Argussian Reach",
+   "de": "Der Argusvorstoß",
+   "fr": "Front argusséen"
+  },
+  "description": {
+   "en": "Although many struggled to oppose the Burning Legion's conquest of Argus, not all were able to escape. Emboldened by the arrival of new allies, these refugees and outcasts stand united in their mission to reclaim their home.",
+   "de": "Zwar haben viele bei der Eroberung von Argus durch die Brennende Legion Widerstand geleistet, doch am Ende gelang nicht jedem die Flucht. Durch die Ankunft neuer Verbündeter haben diese Flüchtlinge und Verstoßenen jetzt neuen Mut gefasst und kämpfen Seite an Seite, um ihre Heimat zurückzuerobern.",
+   "fr": "Même si nombreux sont ceux qui se sont opposés à la conquête d’Argus par la Légion, tous n’ont pas pu s’enfuir. Enhardis par l’arrivée de nouveaux alliés, réfugiés et parias se sont unis pour récupérer leur foyer."
+  }
+ },
+ "2164": {
+  "name": {
+   "en": "Champions of Azeroth",
+   "de": "Champions von Azeroth",
+   "fr": "Champions d’Azeroth"
+  },
+  "description": {
+   "en": "Enlisted by Magni Bronzebeard, the Champions of Azeroth seek to heal the wounds caused by Sargeras' burning blade and save a dying world.",
+   "de": "Die von Magni Bronzebart rekrutierten Champions von Azeroth kämpfen unermüdlich dafür, die Wunden zu schließen, die Sargeras' sengende Klinge verursacht hat, und unsere sterbende Welt zu heilen.",
+   "fr": "Engagés par Magni Barbe-de-Bronze, les Champions d’Azeroth cherchent à soigner les blessures infligées par la lame ardente de Sargeras et à sauver un monde qui se meurt."
+  }
+ },
+ "2161": {
+  "name": {
+   "en": "Order of Embers",
+   "de": "Glutorden",
+   "fr": "Ordre des Braises"
+  },
+  "description": {
+   "en": "An ancient Kul Tiran order resurrected to battle the threat of witchcraft, the Order of Embers fights with knowledge guiding their blades.",
+   "de": "Der Glutorden ist eine uralte Kul Tiranische Bruderschaft, die für den Kampf gegen die Hexenbedrohung wiederbelebt wurde. Seine Mitglieder führen ihre Klingen mit Wissen und Weisheit.",
+   "fr": "L’Ordre des Braises, un ancien ordre kultirassien, a été ressuscité pour combattre la menace de la sorcellerie, avec pour guide de leurs lames la connaissance."
+  }
+ },
+ "2157": {
+  "name": {
+   "en": "The Honorbound",
+   "de": "Die Eidgebundenen",
+   "fr": "Brigade de l’Honneur"
+  },
+  "description": {
+   "en": "A special delegation of the Horde army, focused on disrupting Alliance operations in Kul Tiras.",
+   "de": "Eine Sonderdelegation der Hordestreitkräfte, die sich auf die Sabotage von Allianzoperationen in Kul Tiras konzentriert.",
+   "fr": "Une délégation spéciale de l’armée de la Horde, chargée de perturber les opérations de l’Alliance en Kul Tiras."
+  }
+ },
+ "2103": {
+  "name": {
+   "en": "Zandalari Empire",
+   "de": "Zandalariimperium",
+   "fr": "Empire zandalari"
+  },
+  "description": {
+   "en": "The oldest empire of Azeroth, the Zandalari are powerful trolls who bargain with fearsome loa and whose navy is unmatched on the Great Sea.",
+   "de": "Das älteste Imperium von Azeroth. Die Zandalari sind mächtige Trolle, die mit furchterregenden Loa paktieren und deren Seeflotte auf dem Großen Meer ihresgleichen sucht.",
+   "fr": "Les Zandalari, dont l’empire est le plus ancien d’Azeroth, sont de puissants Trolls qui pactisent avec de terrifiants Loas et possèdent une flotte inégalée dans toute la Grande mer."
+  }
+ },
+ "349": {
+  "name": {
+   "en": "Ravenholdt",
+   "de": "Rabenholdt",
+   "fr": "Ravenholdt"
+  },
+  "description": {
+   "en": "This guild of thieves and assassins welcomes only those of extraordinary prowess into its fold.  Sworn rivals of the Syndicate.",
+   "de": "Diese Gilde von Dieben und Meuchelmördern heißt nur jene willkommen, die über außergewöhnliches Können verfügen. Erzrivalen des Syndikats.",
+   "fr": "Cette guilde de voleurs et d’assassins, ennemie jurée du Syndicat, n’accepte que les individus les plus talentueux."
+  }
+ },
+ "2372": {
+  "name": {
+   "en": "Brawl'gar Arena (Season 4)",
+   "de": "Shlae'gararena (Saison 4)",
+   "fr": "Arène de Castagn’ar (saison 4)"
+  },
+  "description": {
+   "en": "The fourth season of the Horde Brawler's Guild occurred during the Kul Tiras campaign.",
+   "de": "Die vierte Kampfgildensaison der Horde fand während der Kampagne von Kul Tiras statt.",
+   "fr": "La quatrième saison de la guilde des Bastonneurs de la Horde a eu lieu durant la campagne de Kul Tiras."
+  }
+ },
+ "2373": {
+  "name": {
+   "en": "The Unshackled",
+   "de": "Die Entfesselten",
+   "fr": "Affranchis"
+  },
+  "description": {
+   "en": "Oppressed by the Naga, these refugees have banded together to rise up and seize their freedom.",
+   "de": "Diese Flüchtlinge wurden lange von den Naga unterdrückt. Nun haben sie sich zusammengeschlossen, um für ihre Freiheit zu kämpfen.",
+   "fr": "Opprimés par les Nagas, ces réfugiés se sont ligués et soulevés pour conquérir leur liberté."
+  }
+ },
+ "2400": {
+  "name": {
+   "en": "Waveblade Ankoan",
+   "de": "Ankoaner der Meeresklinge",
+   "fr": "Ankoïens du Brisant"
+  },
+  "description": {
+   "en": "An ancient species of deep sea warriors, the Waveblade Ankoan traverse the deepest and most dangerous parts of the ocean.",
+   "de": "Die Ankoaner der Meeresklinge sind ein altes Volk von Tiefseekriegern, die die tiefsten und gefährlichsten Gebiete des Ozeans durchqueren.",
+   "fr": "Les Ankoïens du Brisant, un antique peuple de guerriers des abysses, traversent les zones les plus profondes et les plus dangereuses de l’océan."
+  }
+ },
+ "2407": {
+  "name": {
+   "en": "The Ascended",
+   "de": "Die Aufgestiegenen",
+   "fr": "Transcendés"
+  },
+  "description": {
+   "en": "Kyrian who complete the arduous process of purging their mortal encumbrances are deemed worthy of the rite of ascension, earning their wings and pledging eternal service to the Archon.",
+   "de": "Kyrianer, denen es gelingt, die mühsame Läuterung ihrer sterblichen Belastungen zu vollenden, erweisen sich dadurch als würdige Kandidaten für den Ritus des Aufstiegs, durch den sie sich ihre Schwingen verdienen und sich auf ewig in den Dienst der Archon stellen.",
+   "fr": "Les Kyrians qui parviennent à se débarrasser des fardeaux de leur vie mortelle sont jugés dignes d’accomplir le rite de l’Ascension au cours duquel ils reçoivent leurs ailes et s’engagent pour l’éternité au service de l’Archonte."
+  }
+ },
+ "2410": {
+  "name": {
+   "en": "The Undying Army",
+   "de": "Die Unvergängliche Armee",
+   "fr": "Armée immortelle"
+  },
+  "description": {
+   "en": "Long ago, the Primus established the five houses of Maldraxxus to build the ultimate fighting force. Through might, cleverness, and guile, this unyielding armada is pledged to defend the Shadowlands against all threats.",
+   "de": "Vor langer Zeit errichtete der Primus die fünf Häuser von Maldraxxus, um die ultimative Streitkraft aufzubauen. Diese unbeugsame Armada hat geschworen, die Schattenlande durch ihre Macht, Gerissenheit und Listigkeit gegen alle Bedrohungen zu verteidigen.",
+   "fr": "Il y a une éternité de cela, le Primat fonda les cinq maisons de Maldraxxus dans le but de constituer l’armée ultime. Que ce soit par la force, l’intelligence ou la ruse, ces troupes ont juré de défendre l’Ombreterre envers et contre tous."
+  }
+ },
+ "2413": {
+  "name": {
+   "en": "Court of Harvesters",
+   "de": "Hof der Ernter",
+   "fr": "Cour des Moissonneurs"
+  },
+  "description": {
+   "en": "After countless ages spent under the rule of Sire Denathrius, authority in Revendreth is now shared amongst the Court of Harvesters. These noble venthyr carry out the sacred duty of redeeming prideful souls.",
+   "de": "Nach einer schier endlosen Ära unter der Herrschaft von Graf Denathrius ist die Regierungsgewalt nun zwischen den Mitgliedern des Hofs der Ernter aufgeteilt. Diese adligen Venthyr erfüllen die heilige Pflicht, die stolzen Seelen zu erlösen.",
+   "fr": "Après des siècles sous le règne tyrannique de sire Denathrius, Revendreth est désormais gouverné par la cour des Moissonneurs. Ces nobles venthyrs ont pour devoir sacré de guider les âmes orgueilleuses sur la voie de la rédemption."
+  }
+ },
+ "2414": {
+  "name": {
+   "en": "Shadowlands",
+   "de": "Schattenlande",
+   "fr": "Shadowlands"
+  }
+ },
+ "2415": {
+  "name": {
+   "en": "Rajani",
+   "de": "Rajani",
+   "fr": "Rajani"
+  },
+  "description": {
+   "en": "A group of mogu loyal to the titan keeper Ra, they are charged with defending the Engine of Nalak'sha from N'Zoth's minions.",
+   "de": "Eine Gruppe Mogu, die dem Titanenhüter Ra treu ergeben ist und die Aufgabe verfolgt, die Maschine von Nalak'sha gegen N'Zoths Diener zu verteidigen.",
+   "fr": "Groupe de Mogu fidèles au gardien des Titans Ra, chargés de défendre le moteur de Nalak’sha contre les serviteurs de N’Zoth."
+  }
+ },
+ "2478": {
+  "name": {
+   "en": "The Enlightened",
+   "de": "Die Erleuchteten",
+   "fr": "Les Éclairés"
+  },
+  "description": {
+   "en": "Once members of Cartel Al, the Enlightened have abandoned the pursuit of profit and glory out of devotion to the First Ones. By earning their favor, the brokers may be willing to share the knowledge they have gleaned.",
+   "de": "Die Erleuchteten waren einst Mitglieder des Kartells Al, haben das Streben nach Profit und Ruhm aber aufgegeben, um den Ersten zu folgen. Wenn Ihr ihre Gunst erlangt, teilen die Mittler womöglich das von ihnen gesammelte Wissen.",
+   "fr": "Autrefois membres du cartel Al, les Négociants éclairés ont renoncé à tout enrichissement personnel par dévotion envers les Fondateurs. Ils pourraient être enclins à partager leur savoir avec ceux qui sauront mériter leurs faveurs."
+  }
+ },
+ "2503": {
+  "name": {
+   "en": "Maruuk Centaur",
+   "de": "Zentauren der Maruuk",
+   "fr": "Centaure maruuk"
+  },
+  "description": {
+   "en": "Centaur clans roam the Ohn'ahran Plains, where they follow the call of the wind and seek the thrill of the hunt.",
+   "de": "Die Zentaurenklans durchstreifen die Ebenen von Ohn'ahra, wo sie dem Ruf der Wildnis folgen und auf der Jagd den Nervenkitzel suchen.",
+   "fr": "Guidés par l’appel du vent et le frisson de la chasse, les clans de Centaures parcourent les plaines d’Ohn’ahra."
+  }
+ },
+ "2506": {
+  "name": {
+   "en": "Dragonflight",
+   "de": "Dragonflight",
+   "fr": "Dragonflight"
+  }
+ },
+ "2507": {
+  "name": {
+   "en": "Dragonscale Expedition",
+   "de": "Drachenschuppenexpedition",
+   "fr": "Expédition du Dracaret"
+  },
+  "description": {
+   "en": "A joint expedition of the Explorers' League and Reliquary, this fearless group of adventurers, scholars, and crafters seek to uncover the many mysteries of the Dragon Isles.",
+   "de": "Diese gemeinsame Expedition der Forscherliga und der Archäologischen Akademie besteht aus furchtlosen Abenteurern, Gelehrten und Handwerkern, die die vielen Geheimnisse der Dracheninseln ergründen wollen.",
+   "fr": "Expédition conjointe de la Ligue des explorateurs et du Reliquaire, ce groupe intrépide d’aventuriers, d’érudits et d’artisans cherche à percer les nombreux mystères des îles aux Dragons."
+  }
+ },
+ "2510": {
+  "name": {
+   "en": "Valdrakken Accord",
+   "de": "Valdrakkenabkommen",
+   "fr": "Concordat de Valdrakken"
+  },
+  "description": {
+   "en": "Centered in their most ancient city, the Valdrakken Accord is the unified might of all dragonkind, seeking to protect not only their island home but all of Azeroth.",
+   "de": "Das Valdrakkenabkommen mit seinem Sitz in der ältesten Stadt der gesamten Drachenwelt repräsentiert deren vereinte Macht, die es nicht nur zum Schutz seiner Inselheimat einsetzt, sondern von ganz Azeroth.",
+   "fr": "Établi dans la capitale historique des peuples draconiens, le concordat de Valdrakken incarne leur puissance réunie et cherche à protéger non seulement leur île natale, mais aussi l’ensemble d’Azeroth."
+  }
+ },
+ "2511": {
+  "name": {
+   "en": "Iskaara Tuskarr",
+   "de": "Tuskarr von Iskaara",
+   "fr": "Rohart iskaarien"
+  },
+  "description": {
+   "en": "The Iskaara Tuskarr have been on the Dragon Isles for generations, living in harmony and telling tales of the world around them.",
+   "de": "Die Tuskarr von Iskaara leben seit Generationen in Harmonie auf den Dracheninseln und erzählen Geschichten über die Welt, die sie umgibt.",
+   "fr": "Les Roharts iskaariens vivent en harmonie sur les îles aux Dragons depuis des générations et sont friands de récits sur le monde qui les entoure."
+  }
+ },
+ "2391": {
+  "name": {
+   "en": "Rustbolt Resistance",
+   "de": "Rostbolzenwiderstand",
+   "fr": "Résistance de Mécarouille"
+  },
+  "description": {
+   "en": "The Rustbolt Resistance holds the line against King Mechagon and his evil plans.",
+   "de": "Der Rostbolzenwiderstand stellt sich König Mechagon und seinen teuflischen Plänen in den Weg.",
+   "fr": "La Résistance de Mécarouille fait front au roi Mécagone et ses plans diaboliques."
+  }
+ },
+ "2395": {
+  "name": {
+   "en": "Honeyback Hive",
+   "de": "Honigrückenschwarm",
+   "fr": "Essaim Dos-de-Miel"
+  },
+  "description": {
+   "en": "A species of bee known for their unusual size. While newcomers to Stormsong Valley, they quickly made their presence known to adventurers and insect enthusiasts alike.",
+   "de": "Eine Bienenart, die bekannt ist für ihre gigantische Größe. Obwohl diese Bienen im Sturmsangtal noch nicht lange beheimatet sind, erfreuen sie sich großer Bekanntschaft unter Abenteurern und Insektenforschern.",
+   "fr": "Une espèce d’abeille réputée pour sa taille inhabituelle. Bien qu’elle soit nouvelle dans la vallée Chantorage, son arrivée a rapidement été notée à la fois par les aventuriers et les amateurs d’insectes."
+  }
+ },
+ "2371": {
+  "name": {
+   "en": "Bizmo's Brawlpub (Season 4)",
+   "de": "Bizmos Boxbar (Saison 4)",
+   "fr": "Bar-Tabasse de Bizmo (saison 4)"
+  },
+  "description": {
+   "en": "The fourth season of the Alliance Brawler's Guild occurred during the Kul Tiras campaign.",
+   "de": "Die vierte Kampfgildensaison der Allianz fand während der Kampagne von Kul Tiras statt.",
+   "fr": "La quatrième saison de la guilde des Bastonneurs de l’Alliance a eu lieu durant la campagne de Kul Tiras."
+  }
+ },
+ "2417": {
+  "name": {
+   "en": "Uldum Accord",
+   "de": "Abkommen von Uldum",
+   "fr": "Accord d’Uldum"
+  },
+  "description": {
+   "en": "A loose coalition of allies headed by the Tol'vir, the Uldum Accord was founded to protect the Forge of Origination from enemy forces.",
+   "de": "Das Abkommen von Uldum ist ein lockerer Verband Gleichgesinnter, der unter der Führung der Tol'vir die Schmiede des Ursprungs vor feindlichen Streitkräften beschützt.",
+   "fr": "Coalition informelle menée par les Tol’vir, l’Accord d’Uldum a été fondé pour protéger la forge des Origines face aux hordes ennemies."
+  }
+ },
+ "2432": {
+  "name": {
+   "en": "Ve'nari",
+   "de": "Ve'nari",
+   "fr": "Ve’nari"
+  },
+  "description": {
+   "en": "Ve'nari knows more about the Maw than anyone, and she might share a fraction of that information with you if you earn her regard.",
+   "de": "Ve'nari weiß mehr über den Schlund als jeder andere, und vielleicht teilt sie ja einen Bruchteil ihres Wissens mit Euch, wenn Ihr Euch ihren Respekt verdient.",
+   "fr": "Ve’nari en sait plus que quiconque sur l’Antre et pourrait bien se confier à vous si vous gagnez son respect."
+  }
+ },
+ "2439": {
+  "name": {
+   "en": "The Avowed",
+   "de": "Die Eingeschworenen",
+   "fr": "Les Confirmés"
+  },
+  "description": {
+   "en": "Fiercely devoted to the Accuser, these archivists seek to restore and catalog the sinstones fragmented by the Lord Chamberlain and his Inquisitor allies.",
+   "de": "Diese Archivare dienen der Anklägerin hingebungsvoll und versuchen, die vom Obersten Kämmerer und seinen verbündeten Inquisitoren zerschlagenen Sündensteine wiederherzustellen und zu katalogisieren.",
+   "fr": "D’une loyauté sans faille envers l’Accusatrice, ces archivistes cherchent à restaurer et cataloguer les stèles du vice brisées par le grand chambellan et ses inquisiteurs."
+  }
+ },
+ "2465": {
+  "name": {
+   "en": "The Wild Hunt",
+   "de": "Die Wilde Jagd",
+   "fr": "L’Hallali"
+  },
+  "description": {
+   "en": "Called to serve the Winter Queen in times of dire need, the Wild Hunt assembles the finest huntresses and hunters in all of Ardenweald. In the face of drought and peril, the Wild Hunt stands ready to defend the forest.",
+   "de": "Die Wilde Jagd setzt sich aus den besten Jägerinnen und Jägern des Ardenwalds zusammen und wird in Krisenzeiten gerufen, um der Winterkönigin zu dienen. In einer Zeit der Gefahren und der Dürre steht die Wilde Jagd bereit, den Wald zu verteidigen.",
+   "fr": "Mobilisé pour servir la reine de l’hiver en temps de crise, l’Hallali rassemble les meilleurs chasseresses et chasseurs de Sylvarden. Face à la pénurie et au danger, ils se tiennent prêts à défendre la forêt."
+  }
+ },
+ "2472": {
+  "name": {
+   "en": "The Archivists' Codex",
+   "de": "Der Archivarskodex",
+   "fr": "Le Codex des archivistes"
+  },
+  "description": {
+   "en": "Korthian attendants have committed their existence to researching relics from across the Shadowlands. Led by their Archivist, they are dedicated to recovering the relics scattered across Korthia in the wake of the mawsworn invasion.",
+   "de": "Korthianische Bedienstete haben sich der Erforschung der Relikte aus den gesamten Schattenlanden verschrieben. Unter der Leitung ihres Archivars sind sie fest entschlossen, die im Zuge der Invasion der Schlundgebundenen über Korthia verstreuten Relikte zu bergen.",
+   "fr": "Les auxiliaires korthiens consacrent leur existence à rechercher des reliques aux quatre coins de l’Ombreterre. Guidés par leur archiviste, ils sont résolus à recouvrer les reliques éparpillées dans Korthia après l’invasion antrelige."
+  }
+ },
+ "2462": {
+  "name": {
+   "en": "Stitchmasters",
+   "de": "Flickmeister",
+   "fr": "Maîtres des sutures"
+  },
+  "description": {
+   "en": "The Stitchmasters are renowned for their ability to fuse flesh, bone, and anima into constructs that make them a powerful ally in Maldraxxus, and they have taken up residence in Butchers Block after seceding from the treacherous House of Constructs.",
+   "de": "Die Flickmeister sind berühmt für ihre Fähigkeit, Fleisch, Knochen und Anima zu Konstrukten zu verschmelzen, die sie zu mächtigen Verbündeten in Maldraxxus machen. Sie haben sich nach ihrer Trennung vom verräterischen Haus der Konstrukte am Metzgerblock niedergelassen.",
+   "fr": "Spécialistes réputés de la fusion des chairs, des os et de l’anima pour créer des assemblages, les maîtres des sutures s’avèrent de puissants alliés en Maldraxxus. Ils se sont installés au Billot après avoir quitté la maison des Assemblages et ses traîtres."
+  }
+ },
+ "2464": {
+  "name": {
+   "en": "Court of Night",
+   "de": "Hof der Nacht",
+   "fr": "Cour de la Nuit"
+  },
+  "description": {
+   "en": "The anima drought and Drust invasion consume the Winter Queen and Wild Hunt's attention, leaving the droman of the Court of Night to protect the wildseeds and defend their groves.",
+   "de": "Die Animadürre und die Invasion der Drust beschäftigen die Winterkönigin und die Wilde Jagd. Daher müssen die Dromanen des Hofs der Nacht auf sich allein gestellt die Wildsamen beschützen und ihre Haine verteidigen.",
+   "fr": "La pénurie d’anima et l’invasion des Drust accaparent toute l’attention de la reine de l’hiver et de l’Hallali, ce qui laisse aux dromans de la cour de la Nuit la charge de protéger les graines sauvages et de défendre leurs bosquets."
+  }
+ },
+ "2445": {
+  "name": {
+   "en": "The Ember Court",
+   "de": "Der Gluthof",
+   "fr": "Cour des Braises"
+  },
+  "description": {
+   "en": "A new court has opened in Revendreth, where Prince Renathal attempts to unite allies from across the Shadowlands and increase his covenant's influence.",
+   "de": "In Revendreth wurde ein neuer Hof eröffnet, auf dem Prinz Renathal versucht, Verbündete aus allen Reichen der Schattenlande zusammenzuführen und den Einfluss seines Pakts zu verstärken.",
+   "fr": "Une nouvelle cour s’est ouverte en Revendreth, où le prince Rénathal tente d’unir des alliés de toute l’Ombreterre et d’augmenter l’influence de sa congrégation."
+  }
+ },
+ "2446": {
+  "name": {
+   "en": "Baroness Vashj",
+   "de": "Baronin Vashj",
+   "fr": "Baronne Vashj"
+  },
+  "description": {
+   "en": "This restless leader of the naga is watching and judging.",
+   "de": "Die rastlose Anführerin der Naga beobachtet und urteilt.",
+   "fr": "Cette inépuisable dignitaire naga a un œil critique sur tout."
+  }
+ },
+ "2447": {
+  "name": {
+   "en": "Lady Moonberry",
+   "de": "Lady Mondbeere",
+   "fr": "Dame Baie-de-Lune"
+  },
+  "description": {
+   "en": "A mercurial member of the Court of Night, Lady Moonberry is known for her tricks as well as her influence.",
+   "de": "Lady Mondbeere ist ein launenhaftes Mitglied des Hofs der Nacht und sowohl für ihre Tricks als auch ihren Einfluss bekannt.",
+   "fr": "Membre lunatique de la cour de la Nuit, dame Baie-de-Lune est réputée pour ses artifices et son influence."
+  }
+ },
+ "2448": {
+  "name": {
+   "en": "Mikanikos",
+   "de": "Mikanikos",
+   "fr": "Mikanikos"
+  },
+  "description": {
+   "en": "As Forgelite Prime of Bastion, Mikanikos is always tinkering with new inventions.",
+   "de": "Als Oberster Schmied der Bastion tüftelt Mikanikos ständig an neuen Erfindungen herum.",
+   "fr": "En tant que premier forgelite du Bastion, Mikanikos passe le plus clair de son temps à bricoler toutes sortes d’inventions."
+  }
+ },
+ "2449": {
+  "name": {
+   "en": "The Countess",
+   "de": "Die Gräfin",
+   "fr": "La comtesse"
+  },
+  "description": {
+   "en": "As Revendreth's premier party host and socialite, the Countess has an outsized influence on public perception.",
+   "de": "Als beste Festveranstalterin Revendreths und allseits bekannte feine Dame hat die Gräfin einen überproportional großen Einfluss auf die öffentliche Wahrnehmung.",
+   "fr": "En sa qualité d’hôtesse de marque férue de mondanités, la comtesse jouit d’une influence considérable en Revendreth."
+  }
+ },
+ "2450": {
+  "name": {
+   "en": "Alexandros Mograine",
+   "de": "Alexandros Mograine",
+   "fr": "Alexandros Mograine"
+  },
+  "description": {
+   "en": "The Ashbringer has spent lifetimes in war, never allowed his final rest.",
+   "de": "Der Aschenbringer hat mehrere Lebzeiten im Krieg verbracht, und es wurde ihm stets verwehrt, seine letzte Ruhe zu finden.",
+   "fr": "Le Porte-Cendres a passé des vies entières à faire la guerre, sans jamais pouvoir trouver le repos."
+  }
+ },
+ "2451": {
+  "name": {
+   "en": "Hunt-Captain Korayn",
+   "de": "Jagdhauptmann Korayn",
+   "fr": "Capitaine de l’Hallali Korayn"
+  },
+  "description": {
+   "en": "A fearsome fighter, Hunt-Captain Korayn has no patience for ceremony.",
+   "de": "Als furchterregende Kämpferin hat Jagdhauptmann Korayn keine Geduld für Zeremonien.",
+   "fr": "Redoutable combattante, le capitaine de l’Hallali Korayn ne supporte pas les formalités protocolaires."
+  }
+ },
+ "2452": {
+  "name": {
+   "en": "Polemarch Adrestes",
+   "de": "Polemarch Adrestes",
+   "fr": "Marchedroit Adrestès"
+  },
+  "description": {
+   "en": "Always on duty, this stoic ascended must be ordered to have a good time, even at a party.",
+   "de": "Dieser stoische Aufgestiegene ist immer im Dienst. Selbst auf einem Fest muss man ihm befehlen, sich zu amüsieren.",
+   "fr": "Entièrement dévoué à son devoir, ce transcendé impavide ne se divertit que si on lui en donne l’ordre, même lorsqu’il participe à une réception."
+  }
+ },
+ "2453": {
+  "name": {
+   "en": "Rendle and Cudgelface",
+   "de": "Rendel und Knüppelfratze",
+   "fr": "Rondel et Férul"
+  },
+  "description": {
+   "en": "Hard workers deserve appreciation. And few work harder for Sinfall than Rendle and Cudgelface.",
+   "de": "Wer hart arbeitet, verdient Anerkennung. Und kaum jemand arbeitet härter für Sündensturz als Rendel und Knüppelfratze.",
+   "fr": "Ceux qui travaillent dur méritent de la reconnaissance. Et dans tout Tombe-Vice, personne ne se donne autant de mal que Rondel et Férul."
+  }
+ },
+ "2454": {
+  "name": {
+   "en": "Choofa",
+   "de": "Choofa",
+   "fr": "Choufa"
+  },
+  "description": {
+   "en": "Choofa and his friends are party animals, in every meaning of the phrase.",
+   "de": "Choofa und seine Freunde kann man in jederlei Hinsicht als Partytiere bezeichnen.",
+   "fr": "Choufa et ses amis ne manquent pas de panache, dans tous les sens du terme."
+  }
+ },
+ "2455": {
+  "name": {
+   "en": "Cryptkeeper Kassir",
+   "de": "Grufthüter Kassir",
+   "fr": "Gardien de la crypte Kassir"
+  },
+  "description": {
+   "en": "Stubborn and principled, Cryptkeeper Kassir will always fight for what he believes in.",
+   "de": "Grufthüter Kassir ist stur, aber prinzipientreu und kämpft für das, woran er glaubt.",
+   "fr": "Aussi têtu qu’à cheval sur ses principes, le gardien de la crypte Kassir ne cessera jamais de se battre pour ce en quoi il croit."
+  }
+ },
+ "2456": {
+  "name": {
+   "en": "Droman Aliothe",
+   "de": "Dromanin Aliothe",
+   "fr": "Dromane Aliothe"
+  },
+  "description": {
+   "en": "The great bear Aliothe is a wild god, but she is not primitive.",
+   "de": "Die große Bärin Aliothe mag eine wilde Göttin sein, aber deswegen ist sie noch lange nicht primitiv.",
+   "fr": "Si la grande ourse Aliothe est une déesse sauvage, elle n’a rien d’une créature primitive."
+  }
+ },
+ "2457": {
+  "name": {
+   "en": "Grandmaster Vole",
+   "de": "Großmeister Vole",
+   "fr": "Grand maître Vole"
+  },
+  "description": {
+   "en": "Vole's dedication to overseeing the Theater of Pain is undeniable.",
+   "de": "Voles Hingabe als Aufseher des Theaters der Schmerzen ist unbestreitbar.",
+   "fr": "Personne ne peut nier que le grand maître Vole se dévoue corps et âme au théâtre de la Souffrance."
+  }
+ },
+ "2458": {
+  "name": {
+   "en": "Kleia and Pelagos",
+   "de": "Kleia und Pelagos",
+   "fr": "Kléia et Pélagos"
+  },
+  "description": {
+   "en": "These soulbinds are strongest together, and their friends amongst the venthyr will be pleased to see them again.",
+   "de": "Diese Seelenbande sind gemeinsam am stärksten. Ihre Freunde unter den Venthyr werden erfreut sein, sie wiederzusehen.",
+   "fr": "Ces âmes liées sont plus fortes lorsqu’elles sont ensemble, et leurs amis parmi les Venthyrs seront ravis de les revoir."
+  }
+ },
+ "2459": {
+  "name": {
+   "en": "Sika",
+   "de": "Sika",
+   "fr": "Sika"
+  },
+  "description": {
+   "en": "This single remarkable steward keeps all of Bastion operational.",
+   "de": "Die erstaunliche Provostin hält die gesamte Bastion im Alleingang am Laufen.",
+   "fr": "Cette régisseuse remarquable assure le bon fonctionnement de l’ensemble du Bastion."
+  }
+ },
+ "2460": {
+  "name": {
+   "en": "Stonehead",
+   "de": "Steinkopf",
+   "fr": "Tête-de-Caillasse"
+  },
+  "description": {
+   "en": "Our simple-minded friend to the south controls access to the Ember Ward.",
+   "de": "Unser einfach gestrickter Freund aus dem Süden kontrolliert den Zugang zum Glutdistrikt.",
+   "fr": "Notre ami simple d’esprit contrôle l’accès à la province des Braises, au sud."
+  }
+ },
+ "2461": {
+  "name": {
+   "en": "Plague Deviser Marileth",
+   "de": "Seuchenerfinder Marileth",
+   "fr": "Marileth, catalyseur de peste"
+  },
+  "description": {
+   "en": "His experiments may be messy, but Maldraxxus's master slime scientist always finds a solution.",
+   "de": "Seine Experimente sind zugegebenermaßen chaotisch und schmutzig, aber der führende Schleimwissenschaftler von Maldraxxus findet immer eine Lösung.",
+   "fr": "Si salissantes soient ses expériences, l’éminent expert en gelée de Maldraxxus trouve toujours une solution à tout."
+  }
+ },
+ "2469": {
+  "name": {
+   "en": "Fractal Lore",
+   "de": "Fraktalkunde",
+   "fr": "Savoir fractal"
+  },
+  "description": {
+   "en": "Unleash the secrets of creation.",
+   "de": "Entfesselt die Geheimnisse der Schöpfung.",
+   "fr": "Levez le voile sur les secrets de la création."
+  }
+ },
+ "2470": {
+  "name": {
+   "en": "Death's Advance",
+   "de": "Vorstoß des Todes",
+   "fr": "Avancée de la mort"
+  },
+  "description": {
+   "en": "The combined might of the Shadowlands covenants, brought forth to breach the Sanctum of Domination.",
+   "de": "Die Macht der Pakte der Schattenlande wurde vereint, um in das Sanktum der Herrschaft einzudringen.",
+   "fr": "La puissance combinée des congrégations de l’Ombreterre, unie pour donner l’assaut au sanctum de Domination."
+  }
+ },
+ "2517": {
+  "name": {
+   "en": "Wrathion",
+   "de": "Furorion",
+   "fr": "Irion"
+  },
+  "description": {
+   "en": "Long focused on protecting Azeroth, Wrathion's gaze has now turned to the future of the black dragonflight... and his destiny.",
+   "de": "Furorion hatte sich lange dem Schutz von Azeroth verschrieben. Jetzt konzentriert er sich auf die Zukunft des schwarzen Drachenschwarms... und sein eigenes Schicksal.",
+   "fr": "Jusqu’alors préoccupé par la défense d’Azeroth, Irion se consacre désormais à l’avenir du Vol draconique noir… et à son propre destin."
+  }
+ },
+ "2518": {
+  "name": {
+   "en": "Sabellian",
+   "de": "Sabellian",
+   "fr": "Sabellian"
+  },
+  "description": {
+   "en": "Sabellian has established a new generation of uncorrupt black dragons, and works to protect it at all costs.",
+   "de": "Sabellian hat eine neue Generation von unverderbten schwarzen Drachen begründet und widmet sich jetzt ihrem Schutz. Um jeden Preis.",
+   "fr": "Sabellian a fondé une nouvelle génération de Dragons noirs non corrompus, et s’efforce de la protéger à tout prix."
+  }
+ },
+ "2550": {
+  "name": {
+   "en": "Cobalt Assembly",
+   "de": "Kobaltkonvent",
+   "fr": "Assemblée de Cobalt"
+  },
+  "description": {
+   "en": "The Cobalt Assembly was once a place where blue dragons would conjure marvelous creations with arcane magic. Now it has fallen into the hands of the Sundered Flame who intend to use its magic for war.",
+   "de": "Der Kobaltkonvent war einst ein Ort, wo blaue Drachen mithilfe arkaner Magie phänomenale Schöpfungen hervorbrachten. Jetzt ist er in die Hände der Splitterflammen gefallen, die diese Magie für Kriegszwecke nutzen wollen.",
+   "fr": "L’assemblée de Cobalt était autrefois un sanctuaire où les Dragons bleus invoquaient de merveilleuses créations nées de la magie des arcanes. Aujourd’hui, elle est tombée aux mains de la Flamme fracturée qui compte mettre ce pouvoir au service de la guerre."
+  }
+ },
+ "2553": {
+  "name": {
+   "en": "Soridormi",
+   "de": "Soridormi",
+   "fr": "Soridormi"
+  },
+  "description": {
+   "en": "Soridormi's timewalkers travel the timeways and defend our world against limitless alternatives. When our timeline is under temporal assault or falling apart, Soridormi is the commander who holds everything together.",
+   "de": "Soridormis Zeitwanderer bereisen die Zeitwege und verteidigen unsere Welt vor endlosen Alternativen. Wenn unsere Zeitlinie unter temporalem Beschuss steht oder auseinanderbricht, ist Soridormi die Kommandantin, die alles zusammenhält.",
+   "fr": "Les marcheurs du temps de Soridormi arpentent les voies temporelles et protègent notre monde contre les innombrables alternatives. Lorsque notre ligne temporelle est attaquée ou menace de s’effondrer, elle est la commandante chargée de restaurer l’équilibre."
+  }
+ },
+ "2523": {
+  "name": {
+   "en": "Dark Talons",
+   "de": "Dunkelkrallen",
+   "fr": "Serres-Noires"
+  },
+  "description": {
+   "en": "Led by the brave Scalecommander Cindrethresh, the Dark Talons were trained to be the secret weapon of the black dragonflight. Today, these dracthyr use their skills to turn the tide of any battle regardless of how outnumbered they are.",
+   "de": "Die von der mutigen Schuppenkommandantin Glutdresch angeführten Dunkelkrallen wurden zur Geheimwaffe des schwarzen Drachenschwarms ausgebildet. Heutzutage setzen diese Dracthyr ihre Fähigkeiten ein, um das Blatt in jeder Schlacht und ungeachtet ihrer eigenen Unterzahl zu wenden.",
+   "fr": "Avec à leur tête la brave squammandante Cendrécraz, les Serres-Noires étaient l’arme secrète du Vol draconique noir. De nos jours, ces Dracthyrs sont capables de renverser le cours de n’importe quelle bataille, même en infériorité numérique."
+  }
+ },
+ "2524": {
+  "name": {
+   "en": "Obsidian Warders",
+   "de": "Obsidianwächter",
+   "fr": "Gardes d’obsidienne"
+  },
+  "description": {
+   "en": "Led by the stalwart Scalecommander Azurathel, the Obsidian Warders were trained to be the shield of the black dragonflight. Today these dracthyr use those skills to defend those most in need against overwhelming odds.",
+   "de": "Die von dem tapferen Schuppenkommandanten Azurathel angeführten Obsidianwächter wurden dazu ausgebildet, den schwarzen Drachenschwarm zu beschützen. Heutzutage setzen sie ihre Fähigkeiten ein, um jene in Not gegen eine überwältigende Übermacht zu verteidigen.",
+   "fr": "Avec à leur tête le brave squammandant Azurathel, les Serres-Noires étaient l’arme secrète du Vol draconique noir. De nos jours, ces Dracthyrs sont capables de renverser le cours de n’importe quelle bataille, même en infériorité numérique."
+  }
+ },
+ "2526": {
+  "name": {
+   "en": "Winterpelt Furbolg",
+   "de": "Winterpelzfurbolgs",
+   "fr": "Furbolg crin-d’hiver"
+  },
+  "description": {
+   "en": "The Winterpelt Furbolg speak a language no one seems to understand. Perhaps more will be revealed in the future.",
+   "de": "Die Winterpelzfurbolgs sprechen eine Sprache, die niemand zu verstehen scheint. Vielleicht wird in Zukunft mehr darüber offenbart.",
+   "fr": "Les Furbolgs crins-d’hiver parlent un dialecte que personne ne semble comprendre. Peut-être en apprendrons-nous davantage à l’avenir."
+  }
+ },
+ "2544": {
+  "name": {
+   "en": "Artisan's Consortium - Dragon Isles Branch",
+   "de": "Handwerkerkonsortium - Zweig der Dracheninseln",
+   "fr": "Consortium d’artisanat – filiale des îles aux Dragons"
+  }
+ },
+ "2564": {
+  "name": {
+   "en": "Loamm Niffen",
+   "de": "Niffen von Loamm",
+   "fr": "Flairans de Terreau"
+  },
+  "description": {
+   "en": "Underneath the Dragon Isles, deep in Zaralek Cavern, lies the niffen town of Loamm. The friendly traders there are renowned for their hospitality, sense of smell, and peculiar bartering trade system.",
+   "de": "Unter den Dracheninseln, tief in der Zaralekhöhle, liegt das Niffendorf Loamm. Die freundlichen Händler dort sind bekannt für ihre Gastlichkeit, ihren Geruchssinn und ihr eigenartiges Tauschhandelssystem.",
+   "fr": "Sous les îles aux Dragons, au plus profond de la grotte de Zaralek, se cache la cité flairane de Terreau. Ses négociants et négociantes sont réputés pour leur amabilité sans faille, leur hospitalité, leur odorat surdéveloppé et leur système de marchandage unique en son genre."
+  }
+ },
+ "2568": {
+  "name": {
+   "en": "Glimmerogg Racer",
+   "de": "Glimmeroggrenner",
+   "fr": "Pilote phosphorogg"
+  },
+  "description": {
+   "en": "Briggul won't let Slick go with just anybody. Can you prove your worth as a snail trainer?",
+   "de": "Briggul lässt Schleimer nicht mit jedem gehen. Könnt Ihr Euer Können als $gSchneckenausbilder:Schneckenausbilderin; beweisen?",
+   "fr": "Briggul ne confie pas Gliss à n’importe qui. Pouvez-vous prouver que vous savez chevaucher un escargot ?"
+  }
+ },
+ "2569": {
+  "name": {
+   "en": "The War Within",
+   "de": "The War Within",
+   "fr": "The War Within"
+  }
+ },
+ "2570": {
+  "name": {
+   "en": "Hallowfall Arathi",
+   "de": "Arathi von Heilsturz",
+   "fr": "Arathis de Sainte-Chute"
+  },
+  "description": {
+   "en": "The Arathi of the Hallowfall Expedition safeguard the star Beledar from the many threats found under Khaz Algar. Cut off from their overseas empire, they have built a new home with the strength of their faith in the Sacred Flame.",
+   "de": "Die Arathi der Heilsturzexpedition beschützen den Stern Beledar vor den zahlreichen Bedrohungen, die unter Khaz Algar lauern. Abgeschnitten von ihrem Imperium in Übersee haben sie mit der Kraft ihres Glaubens an die Heilige Flamme ein neues Zuhause errichtet.",
+   "fr": "Les Arathis de l’expédition de Sainte-Chute protègent l’étoile Beledar des nombreuses menaces venant de sous Khaz Algar. Isolés de leur empire lointain, ils ont bâti un nouveau foyer grâce à la puissance de leur foi en la Flamme sacrée."
+  }
+ },
+ "2574": {
+  "name": {
+   "en": "Dream Wardens",
+   "de": "Traumwächter",
+   "fr": "Gardiens du Rêve"
+  },
+  "description": {
+   "en": "A coalition of various races ready to defend the Emerald Dream against any and all threats.",
+   "de": "Ein Zusammenschluss mehrerer Völker, bereit den Smaragdgrünen Traum gegen jegliche Bedrohung zu verteidigen.",
+   "fr": "Une coalition de races prêtes à défendre le Rêve d’émeraude contre toutes les menaces possibles."
+  }
+ },
+ "2594": {
+  "name": {
+   "en": "The Assembly of the Deeps",
+   "de": "Der Konvent der Tiefen",
+   "fr": "Assemblée des profondeurs"
+  },
+  "description": {
+   "en": "Throughout the Ringing Deeps, neglected machinery awaits repair. While Machine Speakers lend their technological acumen, kobolds scavenge parts left behind. Anyone wanting to explore and rebuild is welcome to help.",
+   "de": "Überall in den Schallenden Tiefen warten vernachlässigte Maschinen darauf, repariert zu werden. Während Maschinenflüsterer ihr technologisches Geschick zur Verfügung stellen, haben es die Kobolde auf die zurückgelassenen Teile abgesehen. Jeder mit einer Vorliebe fürs Erkunden und Wiederaufbauen ist eingeladen, mitzuhelfen.",
+   "fr": "Au sein des abîmes Retentissants, des machines abandonnées attendent d’être réparées. Tandis que les mandataires des machines exploitent leurs connaissances technologiques, les Kobolds récupèrent des pièces détachées. Quiconque souhaite explorer et reconstruire est la ou le bienvenu."
+  }
+ },
+ "2600": {
+  "name": {
+   "en": "The Severed Threads",
+   "de": "Die Durchtrennten Fäden",
+   "fr": "Les Fils tranchés"
+  },
+  "description": {
+   "en": "Queen Ansurek's tumultuous reign has not been without its detractors. The Severed Threads work cleverly and quietly behind the scenes to unravel the tapestry of Ansurek's iron rule from within.",
+   "de": "Königin Ansureks turbulente Regierung blieb nicht ohne Kritiker. Die Durchtrennten Fäden arbeiten still und gerissen im Hintergrund daran, Ansureks eiserne Herrschaft von innen heraus abzuwickeln.",
+   "fr": "Le règne tumultueux de la reine Ansurek a connu quelques détracteurs. Les Fils tranchés ont œuvré avec intelligence et discrétion pour saboter le règne d’Ansurek de l’intérieur."
+  }
+ },
+ "2590": {
+  "name": {
+   "en": "Council of Dornogal",
+   "de": "Rat von Dornogal",
+   "fr": "Conseil de Dornogal"
+  },
+  "description": {
+   "en": "Ruling from the Foundation Hall under the leadership of Councilward Merrix, the Council of Dornogal makes decisions affecting all earthen in the Isle of Dorn.",
+   "de": "Der Rat von Dornogal regiert in der Gründungshalle unter dem Vorsitz von Ratsvorsteher Merrix. Die Entscheidungen, die der Rat trifft, haben Auswirkungen auf alle Irdenen auf der Insel von Dorn.",
+   "fr": "Depuis la salle des Fondations, le conseil de Dornogal exerce le pouvoir sous la houlette du conseiller Merrix et prend des décisions affectant tous les Terrestres de l’île de Dorn."
+  }
+ },
+ "2601": {
+  "name": {
+   "en": "The Weaver",
+   "de": "Die Weberin",
+   "fr": "La Tisserande"
+  },
+  "description": {
+   "en": "Once the Royal Weaver, the Widow Arak'nai now carefully watches her former home with a critical eye. With a network of weave-rats and spies at her disposal, there is little that escapes her notice.",
+   "de": "Die Witwe Arak'nai war einst die königliche Weberin, aber blickt nun mit kritischen Augen auf ihr früheres Zuhause. Dank ihres Netzwerks aus Weberatten und Spionen entgeht ihr wenig.",
+   "fr": "Autrefois tisserande royale, la veuve Arak’nai pose désormais un regard critique sur son ancien foyer. Grâce à son réseau de tisse-rats et d’espions, peu de choses lui échappent."
+  }
+ },
+ "2605": {
+  "name": {
+   "en": "The General",
+   "de": "Der General",
+   "fr": "Le général"
+  },
+  "description": {
+   "en": "Once the most renowned military leader in Azj-Kahet, Anub'azal has been passed over in favor of one of Ansurek's beloved Ascended. This simply will not stand.",
+   "de": "Anub'azal war einst der bekannteste militärische Anführer in Azj-Kahet, aber wurde zugunsten eines von Ansureks geliebten Aufgestiegenen übergangen. Das ist völlig inakzeptabel.",
+   "fr": "Autrefois le plus illustre chef militaire d’Azj-Kahet, Anub’azal a dû laisser sa place à l’un des Transcendés si chers au cœur d’Ansurek. Une décision qui ne restera pas sans conséquences."
+  }
+ },
+ "2607": {
+  "name": {
+   "en": "The Vizier",
+   "de": "Der Wesir",
+   "fr": "Le vizir"
+  },
+  "description": {
+   "en": "Perched in the most dangerous position of all, Executor Nizrek spends his days as Queen Ansurek's most loyal advisor. Fortunately, Ansurek has yet to discover that the rest of his time is spent trying to end her reign.",
+   "de": "Exekutor Nizrek hat eine der gefährlichsten Positionen überhaupt inne und dient Königin Ansurek tagsüber als einer ihrer treuesten Berater. Zum Glück hat Ansurek noch nicht entdeckt, dass er seine restliche Zeit damit zubringt, an ihrem Thron zu sägen.",
+   "fr": "Occupant la position la plus dangereuse de toutes, l’exécuteur Nizrek passe ses journées à conseiller la reine Ansurek. Fort heureusement, Ansurek ignore qu’il passe le reste de son temps à essayer de mettre fin à son règne."
+  }
+ },
+ "2615": {
+  "name": {
+   "en": "Azerothian Archives",
+   "de": "Archive von Azeroth",
+   "fr": "Archives d’Azeroth"
+  },
+  "description": {
+   "en": "A charter group of scholars from the Dragonscale Expedition dedicated to the preservation of the antiquities for future generations.",
+   "de": "Eine seereisende Gruppe von Gelehrten der Drachenschuppenexpedition, die sich der Bewahrung von Antiquitäten für zukünftige Generationen verschrieben hat.",
+   "fr": "Une association d’érudits de l’expédition du Dracaret qui s’attelle à la préservation des antiquités pour les générations à venir."
+  }
+ },
+ "2593": {
+  "name": {
+   "en": "Keg Leg's Crew",
+   "de": "Fasshaxes Besatzung",
+   "fr": "Équipage de Labarrique"
+  },
+  "description": {
+   "en": "Free-spirited crew of misfits causing mischief under the flag of Captain Keg Leg.",
+   "de": "Eine unkonventionelle Tunichtgut-Besatzung unter der Flagge von Kapitän Fasshaxe.",
+   "fr": "Un équipage de canailles indépendant, qui sème le chaos sous le pavillon du capitaine Labarrique."
+  }
+ },
+ "2658": {
+  "name": {
+   "en": "The K'aresh Trust",
+   "de": "Der Bund von K'aresh",
+   "fr": "L’Entente de K’aresh"
+  },
+  "description": {
+   "en": "A coalition of cartels from brokers and ethereals formed with an impossible goal. To save a facet of their destroyed world from the All-Devouring.",
+   "de": "Eine Koalition aus Kartellen der Mittler und Astralen, die mit einem unmöglichen Ziel gebildet wurde: eine Facette ihrer zerstörten Welt vor dem alles Verschlingenden zu retten.",
+   "fr": "Une coalition de cartels négociants et éthériens formée pour accomplir un objectif impossible : sauver des griffes de l’Omni-dévoreur une facette de leur monde détruit."
+  }
+ },
+ "2653": {
+  "name": {
+   "en": "The Cartels of Undermine",
+   "de": "Die Kartelle von Lorenhall",
+   "fr": "Cartels de Terremine"
+  },
+  "description": {
+   "en": "Undermine isn't like other towns. There are no kings or chiefs, just cartels. Everyone wants to be part of the cartels. It's even better than being a king, because you can only have one king. But Undermine's got a lot of cartels, and they all need a pal.",
+   "de": "Lorenhall ist nicht wie andere Städte. Es gibt keine Könige oder Häuptlinge, nur Kartelle. Jeder will Teil der Kartelle sein. Es ist sogar noch besser, als König zu sein, weil man nur einen König haben kann. Doch Lorenhall hat viele Kartelle und sie alle können Freunde gebrauchen.",
+   "fr": "Terremine n’est pas comme les autres villes. Il n’y a ni roi ni chef, rien que des cartels. Tout le monde veut en faire partie. Il ne peut y avoir qu’un roi, alors que Terremine a plein de cartels, c’est bien mieux. Et ils ont tous ont besoin de nouveaux membres."
+  }
+ },
+ "2685": {
+  "name": {
+   "en": "Gallagio Loyalty Rewards Club",
+   "de": "Garbagio Treueclub",
+   "fr": "Programme de fidélité du Gallagio"
+  },
+  "description": {
+   "en": "The Gallagio is under new management, well it will be. And when it is, you want to be on their good side right? So, make the Gallagio a better place and make some new friends.",
+   "de": "Das Garbagio hat eine neue Führungsebene. Nun, bald zumindest. Und wenn es so weit ist, wollt Ihr doch wohl auf deren guten Seite stehen, oder? Na dann macht das Garbagio zu einem besseren Ort und findet ein paar neue Freunde.",
+   "fr": "Le Gallagio vient de changer de direction. Ou en changera bientôt. Et quand ce sera le cas, vous voudrez être en bon termes avec le proprio, non ? Alors aidez le Gallagio à s’améliorer, et faites-vous une bonne réputation."
+  }
+ },
+ "2696": {
+  "name": {
+   "en": "Amani Tribe",
+   "de": "Amanistamm",
+   "fr": "Tribu des Amani"
+  },
+  "description": {
+   "en": "The Amani conquered and claimed the majority of Eastern Kingdoms for thousands of years, but were forced back into current-day Zul'Aman once the elves and humans colonized the land themselves.",
+   "de": "Die Amani eroberten den Großteil der Östlichen Königreiche und beanspruchten ihn jahrtausendelang für sich. Sie wurden jedoch in das Gebiet, das heute als Zul'Aman bekannt ist, zurückgedrängt, als die Elfen und Menschen ihrerseits das Land kolonisierten.",
+   "fr": "Pendant des millénaires, le peuple amani a dominé et contrôlé la plus grande partie des royaumes de l’Est, mais il a été contraint de trouver refuge à Zul’Aman lorsque les peuples elfe et humain ont colonisé ces terres."
+  }
+ },
+ "2792": {
+  "name": {
+   "en": "Ritual Sites",
+   "de": "Ritualstätten",
+   "fr": "Sites rituels"
+  },
+  "description": {
+   "en": "The chaos following the voids attacks have emboldened enemies to seek to power from dark rituals. These sites of intense magic must be dealt with.",
+   "de": "Im Chaos, das auf die Angriffe der Leere folgte, suchten viele Gegner Macht in dunklen Ritualen. Jemand muss sich um diese Stätten intensiver Magie kümmern.",
+   "fr": "Le chaos qui a suivi les attaques du Vide a enhardi les adversaires, qui se tournent désormais vers de sombres rituels pour gagner en puissance. Nous devons nous occuper de ces sites de magie intense."
+  }
+ },
+ "2640": {
+  "name": {
+   "en": "Brann Bronzebeard",
+   "de": "Brann Bronzebart",
+   "fr": "Brann Barbe-de-Bronze"
+  },
+  "description": {
+   "en": "Trusty Delve Companion",
+   "de": "Treuer Tiefengefährte",
+   "fr": "Compagnon de Gouffre digne de confiance"
+  }
+ },
+ "2669": {
+  "name": {
+   "en": "Darkfuse Solutions",
+   "de": "Düsternisverschmolzene Lösungen",
+   "fr": "Solutions ténébreuses"
+  },
+  "description": {
+   "en": "Darkfuse Solutions did not make friends working for Gallywix, but giving up isn't the goblin way. They're back with a new brand, a new attitude, and hey, it was just business, right?",
+   "de": "Düsternisverschmolzene Lösungen haben sich mit ihrer Arbeit unter Gallywix keine Freunde gemacht, aber einfach aufgeben ist auch nicht die Goblinart. Sie sind zurück. Mit neuer Vermarktung und neuer Einstellung. Und hey, war nicht persönlich gemeint, war alles rein geschäftlich.",
+   "fr": "Les Solutions ténébreuses ne se sont pas fait d’amis en travaillant pour Gallywix, mais l’abandon ne fait pas partie de la méthode gobeline. Elles reviennent avec une nouvelle marque, une nouvelle attitude, et puis, il s’agissait juste d’affaires, pas vrai ?"
+  }
+ },
+ "2671": {
+  "name": {
+   "en": "Venture Company",
+   "de": "Venture Company",
+   "fr": "KapitalRisk"
+  },
+  "description": {
+   "en": "Venture Company doesn't have the best rep in town, but no one harvests, mines, or drills faster. You want nice? Find a book club. You want raw material? Venture's got you covered.",
+   "de": "Die Venture Company hat nicht gerade den besten Ruf, aber niemand erntet, schürft oder bohrt schneller. Ihr wollt es schön? Sucht Euch einen Buchklub. Ihr wollt Rohmaterial? Die Venture Company hat alles, was Ihr braucht.",
+   "fr": "La KapitalRisk n’a pas une très bonne réputation en ville, mais personne ne récolte, mine ou creuse plus vite que ses membres. Si vous voulez quelque chose de joli, peignez un tableau. Si vous voulez des matières premières, la KapitalRisk s’occupe de vous."
+  }
+ },
+ "2673": {
+  "name": {
+   "en": "Bilgewater Cartel",
+   "de": "Bilgewasserkartell",
+   "fr": "Cartel Baille-Fonds"
+  },
+  "description": {
+   "en": "The Bilgewater Cartel has had more ups and downs than most, but no one can build and invent like they can. From cities to pool toys to [CLASSIFIED], Bilgewater builds it best.",
+   "de": "Das Bilgewasserkartell hat mehr Höhen und Tiefen durchgemacht als die meisten anderen, aber es baut und erfindet wie kein Zweiter. Von Städten über Wasserspielzeug bis hin zu [STRENG VERTRAULICH]. Das Bilgewasserkartell baut es am besten.",
+   "fr": "Le cartel Baille-Fonds a connu plus de hauts et de bas que d’autres, mais personne ne sait aussi bien construire ou inventer. Qu’il s’agisse de villes, de jouets de bain ou de [SECRET DÉFENSE], Baille-Fonds fait ce qu’il y a de mieux."
+  }
+ },
+ "2675": {
+  "name": {
+   "en": "Blackwater Cartel",
+   "de": "Schwarzmeer AG",
+   "fr": "Cartel des Flots noirs"
+  },
+  "description": {
+   "en": "Blackwater Cartel is new to the cart, formerly plying the seas as pirates. But they are already making waves with shipping and luxury vacations. They can move any cargo, anywhere, any time, and now it's all nice and legal.",
+   "de": "Die Schwarzmeer AG ist neu unter den Kartellen und hat zuvor als Piraten die Meere unsicher gemacht. Doch sie schlagen durch ihr Versandgeschäft und Luxusurlaubsangebote bereits hohe Wellen. Sie können jede Fracht transportieren. An jeden Ort und zu jeder Zeit. Und jetzt sogar alles sauber und legal.",
+   "fr": "Le cartel des Flots noirs s’est formé récemment sur les fondations d’un ancien syndicat de pirates. Mais il fait à présent des vagues dans le monde du transport maritime et des croisières de luxe. Il peut déplacer n’importe quelle cargaison, n’importe où, à n’importe quel moment, désormais de façon légale."
+  }
+ },
+ "2677": {
+  "name": {
+   "en": "Steamwheedle Cartel",
+   "de": "Dampfdruckkartell",
+   "fr": "Cartel Gentepression"
+  },
+  "description": {
+   "en": "Steamwheedle may be the oldest and largest cartel in Undermine. They have had their hands in almost every industry and their reach spans Azeroth and beyond. These days, with the rise of Noggenfogger, it's the alchemy that they are known for.",
+   "de": "Das Dampfdruckkartell ist vermutlich das älteste und größte Kartell in Lorenhall. Es hatte seine Finger schon in so ziemlich jeder Branche im Spiel und seine Reichweite geht sogar über Azeroth hinaus. Dieser Tage, mit dem Aufstieg von Noggenfogger, ist es vor allem für seine Alchemie bekannt.",
+   "fr": "Gentepression est sans doute le plus ancien et le plus grand cartel de Terremine. Il a une main dans toutes les industries, et son influence s’étend même au-delà d’Azeroth. De nos jours, depuis l’ascension de Brouillecaboche, l’alchimie représente le gros de son activité."
+  }
+ },
+ "2688": {
+  "name": {
+   "en": "Flame's Radiance",
+   "de": "Die Strahlen der Flamme",
+   "fr": "Radiance de la Flamme"
+  },
+  "description": {
+   "en": "When Hallowfall comes under threat and the army stretched thin, a call to arms is issued to those with the strength to wield a weapon and Flame's Radiance is formed. All allies are welcome to join in Hallowfall's defense.",
+   "de": "Als Heilsturz in Bedrängnis gerät und seine Armee an Kraft verliert, werden alle einberufen, die in der Lage sind, eine Waffe zu führen. Auf diese Weise formieren sich die Strahlen der Flamme. Alle Verbündeten sind willkommen, sich der Verteidigung von Heilsturz anzuschließen.",
+   "fr": "Lorsque Sainte-Chute est menacée et l’armée trop affaiblie pour faire face, un appel aux armes retentit pour former la Radiance de la Flamme. Tout renfort sera le bienvenu pour la défense de Sainte-Chute."
+  }
+ },
+ "2714": {
+  "name": {
+   "en": "Shades of the Row",
+   "de": "Schemen der Gasse",
+   "fr": "Ombres de l’Allée"
+  },
+  "description": {
+   "en": "Underhanded. Greedy. But incredibly useful in sticky situations. You won't hear many refer to the Shades of the Row, but you can be certain nearly everyone in Silvermoon has dealt with them.",
+   "de": "Hinterhältig. Gierig. Aber in heiklen Situationen äußerst nützlich. Viele sprechen nicht offen über die Schemen der Gasse, doch Ihr könnt sicher sein, dass fast jeder in Silbermond schon einmal mit ihnen zu tun hatte.",
+   "fr": "Sournoises. Avides. Mais incroyablement utiles dans les situations délicates. Bien que peu de personnes parlent des Ombres de l’Allée, la quasi-totalité de Lune-d’Argent a déjà eu affaire à leurs manigances."
+  }
+ },
+ "2662": {
+  "name": {
+   "en": "[PH] The Power of Friendship"
+  },
+  "description": {
+   "en": "[PH] This is the bucket for all neighborhood visitors who can become friends with the player."
+  }
+ },
+ "2663": {
+  "name": {
+   "en": "Meerah",
+   "de": "Meerah",
+   "fr": "Meera"
+  },
+  "description": {
+   "en": "Far away from her home of Vol'dun, Meerah has decided to travel the world as a merchant alongside her best friends, the alpacas Dolly and Dot.",
+   "de": "Fernab ihrer Heimat Vol'dun hat Meerah sich dafür entschieden, die Welt als Händlerin zu bereisen, zusammen mit ihren beiden besten Freunden, den Alpakas Dolly und Dot.",
+   "fr": "Loin de sa terre natale de Vol’dun, Meera a décidé de parcourir le monde en tant que marchande aux côtés de ses meilleurs amis, les alpagas Dingo et Dolly."
+  }
+ },
+ "2664": {
+  "name": {
+   "en": "Flynn Fairwind",
+   "de": "Finn Schönwind",
+   "fr": "Flynn Bellebrise"
+  },
+  "description": {
+   "en": "Flynn once made his living as a pirate captain off the coasts of Kul Tiras, though he has since promised to serve the Alliance (so long as he gets paid).",
+   "de": "Einst bestritt Finn seinen Lebensunterhalt als Piratenkapitän an der Küste von Kul Tiras, doch inzwischen hat er der Allianz die Treue geschworen (solange er dafür entlohnt wird).",
+   "fr": "Autrefois capitaine pirate d’un bateau pirate sévissant au large des côtes de Kul Tiras, Flynn a depuis juré de servir l’Alliance… contre espèces sonnantes et trébuchantes."
+  }
+ },
+ "2665": {
+  "name": {
+   "en": "Lillistrasza",
+   "de": "Lillistrasza",
+   "fr": "Lillistrasza"
+  },
+  "description": {
+   "en": "Lillistrasza lives at the Ruby Lifeshrine within the Dragon Isles, but is known for wandering off to visit interesting places every so often.",
+   "de": "Lillistrasza lebt im Rubinlebensschrein auf den Dracheninseln, ist aber dafür bekannt, ab und an loszuziehen, um interessante Orte zu besuchen.",
+   "fr": "Si elle vit au sanctuaire de l’Essence rubis, sur les îles aux Dragons, Lillistrasza est connue pour s’éclipser de temps à autre afin de visiter des lieux qui l’intéressent."
+  }
+ },
+ "2666": {
+  "name": {
+   "en": "Roasts and Boasts",
+   "de": "Ruhmreiche Röstungen",
+   "fr": "Cafetard vantard"
+  },
+  "description": {
+   "en": "The local coffee shop of Borogrove.",
+   "de": "DIE Kaffeestube in Borohain.",
+   "fr": "Le café local de Borobois."
+  }
+ },
+ "2710": {
+  "name": {
+   "en": "Silvermoon Court",
+   "de": "Hof in Silbermond",
+   "fr": "Cour de Lune-d’Argent"
+  },
+  "description": {
+   "en": "Through elegance, intellect, and political precision, the Court ensures that Silvermoon City's light shines eternally radiant, and distinctly its own.",
+   "de": "Durch Eleganz, Intellekt und politische Präzision sorgt der Hof dafür, dass das Licht von Silbermond ewig und unverwechselbar erstrahlt.",
+   "fr": "Par son élégance, son intelligence et sa finesse politique, la cour s’assure que la lumière de Lune-d’Argent brille d’un éclat unique et éternel."
+  }
+ },
+ "2711": {
+  "name": {
+   "en": "Magisters",
+   "de": "Magister",
+   "fr": "Magistères"
+  },
+  "description": {
+   "en": "Silvermoon's premier magic wielders. The magisters are brilliant sin'dorei that hold utmost mastery over the arcane arts, with intellects sharpened by hundreds of years of study.",
+   "de": "Silbermonds mächtigste Zauberwirker. Die Magister sind brillante Sin'dorei, die die arkanen Künste meisterhaft beherrschen und deren Verstand durch Jahrhunderte des Studiums geschärft wurde.",
+   "fr": "La fine fleur des lanceurs et lanceuses de sorts de Lune-d’Argent. Les Magistères sont d’éminents êtres sin’dorei qui maîtrisent à la perfection les arts arcaniques, dotés d’un esprit aiguisé par des siècles d’études."
+  }
+ },
+ "2712": {
+  "name": {
+   "en": "Blood Knights",
+   "de": "Blutritter",
+   "fr": "Chevaliers de sang"
+  },
+  "description": {
+   "en": "Silvermoon City's contingent of paladins. Stalwart heroes and chosen champions of the sun, they follow Lady Liadrin into battle to smite the foes of the sin'dorei.",
+   "de": "Silbermonds Kontingent Paladine. Standhafte und auserwählte Champions der Sonne, die Lady Liadrin in die Schlacht folgen, um die Feinde der Sin'dorei zu vernichten.",
+   "fr": "Les troupes paladines de Lune-d’Argent. De braves héros et héroïnes, fidèles du soleil, qui suivent dame Liadrin au combat pour terrasser les adversaires des Sin’dorei."
+  }
+ },
+ "2713": {
+  "name": {
+   "en": "Farstriders",
+   "de": "Weltenwanderer",
+   "fr": "Pérégrins"
+  },
+  "description": {
+   "en": "Elite rangers of the sin'dorei, formally tasked with guarding the forests, borders, and wildlands of the Eversong Woods.",
+   "de": "Elitewaldläufer der Sin'dorei, offiziell damit betraut, die Wälder, Grenzen und die Wildnis des Immersangwalds zu beschützen.",
+   "fr": "L’élite des troupes forestières sin’dorei dont la mission formelle est de garder les forêts, les frontières et les terres sauvages du bois des Chants éternels."
+  }
+ },
+ "2698": {
+  "name": {
+   "en": "Midnight",
+   "de": "Midnight",
+   "fr": "Midnight"
+  }
+ },
+ "2699": {
+  "name": {
+   "en": "The Singularity",
+   "de": "Die Singularität",
+   "fr": "La Singularité"
+  },
+  "description": {
+   "en": "In the vortex of terror and violence that is the Voidstorm, few have the mettle to survive. The Singularity, gathered by Magister Umbric and the ren'dorei, encompasses any who would brave this fearsome land to stand up to Xal'atath.",
+   "de": "Im Leerensturm, ein Wirbel des Schreckens und der Gewalt, haben nur wenige das Zeug zum Überleben. Die Singularität, versammelt von Magister Umbric und den Ren'dorei, umfasst alle, die sich in dieses furchteinflößende Land wagen, um sich Xal'atath zu stellen.",
+   "fr": "Peu d’individus ont la force de caractère nécessaire pour survivre dans le tourbillon de terreur et de violence de la tempête du Vide. La Singularité, fondée par le magistère Umbric et les Ren’dorei, réunit tous les êtres prêts à braver cette terre redoutable pour tenir tête à Xal’atath."
+  }
+ },
+ "2704": {
+  "name": {
+   "en": "Hara'ti",
+   "de": "Hara'ti",
+   "fr": "Hara’ti"
+  },
+  "description": {
+   "en": "Called to Harandar by the echo of their Goddess' song, the Hara'ti watch over her cradle in hopes that she may one day return.",
+   "de": "Die Hara'ti wurden durch das Echo des Lieds ihrer Göttin nach Harandar gerufen und bewachen ihre Wiege in der Hoffnung, dass sie eines Tages zurückkehren möge.",
+   "fr": "Répondant à l’écho du chant de leur déesse, les Hara’ti veillent sur son berceau, Harandar, en espérant son retour."
+  }
+ },
+ "2736": {
+  "name": {
+   "en": "Manaforge Vandals",
+   "de": "Vandalen der Manaschmiede",
+   "fr": "Vandales de la manaforge"
+  },
+  "description": {
+   "en": "While the K'aresh Trust works to unite the people of their dying star, some members prefer a more direct approach. Using all method of covert and under-handed tactics, the Manaforge Vandals seek to dismantle Salhadaar's forces by any means necessary.",
+   "de": "Während der Bund von K'aresh daran arbeitet, die Bewohner ihres sterbenden Sterns zu vereinen, bevorzugen einige der Mitglieder einen direkteren Ansatz. Mit allerlei verdeckten und hinterhältigen Taktiken versuchen die Vandalen der Manaschmiede, Salhadaars Streitkräfte mit allen nötigen Mitteln zu zerschlagen.",
+   "fr": "L’Entente de K’aresh travaille à unir les peuples de son étoile mourante, mais d’autres préfèrent une approche plus directe. Faisant usage de tous les types de subterfuge et de tromperie à leur disposition, les Vandales de la manaforge cherchent à démanteler les forces de Salhadaar, coûte que coûte."
+  }
+ },
+ "2744": {
+  "name": {
+   "en": "Valeera Sanguinar",
+   "de": "Valeera Sanguinar",
+   "fr": "Valeera Sanguinar"
+  },
+  "description": {
+   "en": "Trusty Delve Companion",
+   "de": "Treue Tiefengefährtin",
+   "fr": "Compagnie de Gouffre digne de confiance"
+  }
+ },
+ "2766": {
+  "name": {
+   "en": "Brawl'gar Arena",
+   "de": "Shlae'gararena",
+   "fr": "Arène de Castagn’ar"
+  },
+  "description": {
+   "en": "Creatures have been gathered from far and wide to participate in bloody arena deathmatches with heroes of the Horde.",
+   "de": "Kreaturen von weit und breit wurden eingefangen, um sie in blutigen Arenakämpfen gegen die Helden der Horde antreten zu lassen.",
+   "fr": "Des créatures sont venues de partout pour participer à des combats à mort dans une arène sanglante avec des héros et héroïnes de la Horde."
+  }
+ },
+ "2767": {
+  "name": {
+   "en": "Bizmo's Brawlpub",
+   "de": "Bizmos Boxbar",
+   "fr": "Bar-Tabasse de Bizmo"
+  },
+  "description": {
+   "en": "A group of battle-hungry fighters has gathered creatures from far and wide to participate in bloody arena deathmatches with heroes of the Alliance.",
+   "de": "Eine Gruppe kampfeshungriger Draufgänger hat Kreaturen von weit und breit eingefangen, um sie in blutigen Arenakämpfen gegen die Helden der Allianz antreten zu lassen.",
+   "fr": "Un groupe de combat en mal de bataille a rassemblé des créatures venues de partout pour participer à des combats à mort dans une arène sanglante avec des héros et héroïnes de l’Alliance."
+  }
+ },
+ "2770": {
+  "name": {
+   "en": "Slayer's Duellum",
+   "de": "Schlächterduellum",
+   "fr": "Duellum meurtrier"
+  },
+  "description": {
+   "en": "Deep within the Voidstorm, the war between Vidious and Ziadan rages on.",
+   "de": "Tief im Leerensturm wütet der Krieg zwischen Vidious und Ziadan weiter.",
+   "fr": "Au cœur de la tempête du Vide, la guerre entre Vidious et Ziadan fait rage."
+  }
+ }
+}

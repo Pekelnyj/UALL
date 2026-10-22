@@ -1,0 +1,61 @@
+# ── WoWUkraine .gitignore ──
+# Комітимо: addon/ (аддон+згенеровані бази), pipeline/ (скрипти), docs/,
+# data/translations.json (МАЙСТЕР-переклад), data/source/ (джерела для генерації).
+
+# data/: усе регенеровне/величезне (wago 513M, _backup, батчі) — крім майстра й джерел
+data/*
+!data/source/
+!data/translations.json
+# канон власних назв: вхід для _canon_names_gate.py (блокувальний гейт),
+# відтворюється canon_build.py, але без нього збірка не стартує
+!data/canon.json
+
+# ІМЕНА ЖИВИХ ГРАВЦІВ. Локальний список альтів тестерів для playernames.py —
+# у кожного власника свій, публікувати чужі імена персонажів не можна.
+data/playernames.local.json
+
+# Байткод Python. Не лише сміття: у .pyc запікаються рядкові константи, тож
+# скомпільований playernames.py ніс у собі всі імена гравців зі списку.
+__pycache__/
+*.pyc
+
+# Резервні копії джерел — сміття, та ще й зі старими даними
+*.bak*
+
+# Тестерські SavedVariables-захоплення + розпакований код конкурента (референс, не наш код)
+testerlua/
+testerdaun/
+
+# Релізні zip-збірки (регенеровні)
+release/
+
+# Скріншоти-робочі та тимчасове
+*.png
+*.jpg
+*.bak
+*.tmp
+*.log
+
+# WoW SavedVariables (якщо колись опиняться поруч)
+*CaptureDB.lua
+*SettingsDB.lua
+
+# !!! SSH-ключі сервера (ПРИВАТНИЙ ключ — НІКОЛИ в git) !!!
+key/
+*.key
+*.pem
+id_rsa*
+id_ed25519*
+
+# Веб-редактор: робоча БД (192МБ, містить хеші паролів і сесії!), кеш, тимчасове.
+# Комітимо лише код редактора (editor/*.py, static/*). БД будується import_db.py.
+editor/editor.db
+editor/*.db
+editor/backups/
+editor/uploads/
+editor/__pycache__/
+editor/_*
+db-offsite/
+
+# Публічні збірки (генеруються build_public.py)
+build/

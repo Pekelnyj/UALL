@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Вхід — temnozelena.com</title>
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("wowua-theme")||"dark"}catch(e){}</script>
+<link rel="stylesheet" href="/theme.css">
+<script src="/theme.js" defer></script>
+<style>
+  :root{
+    --bg:#16181d; --bg2:#1d2027; --bg3:#23272f; --line:#2e333d;
+    --fg:#e6e8ec; --muted:#8b919c; --muted2:#6b7180;
+    --gold:#f0c64a; --gold-dim:#c9a23a; --red:#f0584f; --focus:#5a7fb5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;height:100%}
+  body{
+    background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Noto Sans",system-ui,-apple-system,Arial,sans-serif;
+    font-size:15px; display:flex; align-items:center; justify-content:center; min-height:100vh;
+  }
+  .wrap{display:flex; gap:20px; align-items:stretch; justify-content:center; flex-wrap:wrap; padding:20px}
+  .card{
+    background:var(--bg2); border:1px solid var(--line); border-radius:14px;
+    padding:30px 28px; width:340px; box-shadow:0 12px 40px rgba(0,0,0,.4);
+  }
+  .dlcard{display:flex; flex-direction:column}
+  .dlcard .sub{margin-bottom:18px}
+  .dlbtn{
+    display:block; text-align:center; text-decoration:none; margin-top:6px;
+    font-size:15px; font-weight:600; background:var(--gold); color:#221d05;
+    border:1px solid var(--gold-dim); border-radius:8px; padding:12px 14px; cursor:pointer;
+  }
+  .dlbtn:hover{background:var(--gold-dim)}
+  .dlnote{color:var(--muted); font-size:12.5px; line-height:1.5; margin:14px 0 0}
+  .dlnote code{background:var(--bg3); border:1px solid var(--line); border-radius:4px; padding:1px 5px; font-size:12px}
+  /* Публічна збірка CurseForge — теж КНОПКА, але контурна: видно, що це
+     альтернатива, а не головна дія (нею лишається тестерський реліз). */
+  .dlcf{color:var(--muted); font-size:12.5px; line-height:1.5; margin:16px 0 6px}
+  .cfbtn{
+    display:block; text-align:center; text-decoration:none;
+    font-size:14px; font-weight:600; background:transparent; color:var(--gold);
+    border:1px solid var(--gold-dim); border-radius:8px; padding:10px 14px; cursor:pointer;
+  }
+  .cfbtn:hover{background:var(--gold-dim); color:#221d05}
+  /* Версія тепер стоїть ОДРАЗУ під кнопкою тестерів (а не в кінці картки),
+     тож margin-top:auto прибрано — інакше він розпихав би вміст донизу. */
+  .dlver{color:var(--muted2); font-size:12px; margin:8px 0 0; text-align:center}
+  .brand{font-size:20px; font-weight:600; color:var(--green); margin:0 0 4px}
+  .sub{color:var(--muted); font-size:13px; margin:0 0 22px}
+  label{display:block; font-size:12px; font-weight:700; color:var(--muted); margin:14px 0 5px; letter-spacing:.3px}
+  input{
+    width:100%; font-family:inherit; font-size:15px; color:var(--fg);
+    background:var(--bg3); border:1px solid var(--line); border-radius:8px; padding:10px 12px; outline:none;
+  }
+  input:focus{border-color:var(--focus)}
+  button{
+    width:100%; margin-top:22px; font-family:inherit; font-size:15px; font-weight:600;
+    background:var(--gold); color:#221d05; border:1px solid var(--gold-dim);
+    border-radius:8px; padding:11px; cursor:pointer;
+  }
+  button:hover{background:var(--gold-dim)}
+  button:disabled{opacity:.5; cursor:default}
+  .err{
+    margin-top:16px; display:none; color:var(--red); font-size:13px;
+    background:#341816; border-left:3px solid var(--red); border-radius:0 6px 6px 0; padding:8px 12px;
+  }
+  .spinner{
+    display:inline-block; width:14px; height:14px; vertical-align:-2px;
+    border:2px solid rgba(0,0,0,.4); border-top-color:transparent; border-radius:50%;
+    animation:spin .7s linear infinite; margin-right:6px;
+  }
+  @keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<form class="card" id="form">
+  <h1 class="brand">temnozelena.com</h1>
+  <p class="sub">редактор перекладів WoW — вхід</p>
+  <label for="u">Логін</label>
+  <input id="u" type="text" autocomplete="username" autofocus>
+  <label for="p">Пароль</label>
+  <input id="p" type="password" autocomplete="current-password">
+  <button id="btn" type="submit">Увійти</button>
+  <div class="err" id="err"></div>
+  <div style="text-align:center;margin-top:16px">
+    <select id="themeSel" class="themesel" title="Тема">
+      <option value="dark">🌙 Темна</option>
+      <option value="light">☀️ Світла</option>
+      <option value="oled">⬛ OLED</option>
+      <option value="medoid">🌿 Медоїд</option>
+    </select>
+  </div>
+  <div style="text-align:center;margin-top:12px">
+    <a href="https://discord.com/invite/je7ruJVay6" target="_blank" rel="noopener noreferrer" style="color:#5865f2;font-size:13px;text-decoration:none">Discord-спільнота</a>
+  </div>
+</form>
+
+<aside class="card dlcard" id="dlcard">
+  <h1 class="brand">Завантажити аддон</h1>
+  <p class="sub">Українізатор WoW: Midnight — без реєстрації.<br>
+    Тестерська збірка: свіжі переклади раніше за CurseForge.</p>
+  <a class="dlbtn" id="dlbtn" href="/download"
+     title="Тестерська збірка: свіжі переклади раніше за CurseForge">⬇ Завантажити реліз для тестерів</a>
+  <!-- Версія стоїть ОДРАЗУ під кнопкою тестерів: раніше вона була в кінці картки,
+       після кнопки CurseForge, і читалась як опис саме CurseForge-збірки. -->
+  <p class="dlver" id="dlver">&nbsp;</p>
+  <p class="dlnote">
+    Розпакуйте архів у теку <code>Interface/AddOns</code> вашого WoW.
+    У грі: <code>/reload</code>. Переклад одразу активний.
+  </p>
+  <p class="dlcf">Хочете оновлення через застосунок? Стабільна версія:</p>
+  <a class="cfbtn" href="https://www.curseforge.com/wow/addons/uall-ukrainian-localization"
+     target="_blank" rel="noopener noreferrer"
+     title="Публічна (стабільна) збірка на CurseForge">CurseForge</a>
+</aside>
+
+<!-- WoW: Forever — окремий аддон UALLF (проєкт WoWForever). Свій маршрут /download/forever,
+     свої метадані /api/release/forever; картка ховається, якщо релізу Forever немає. -->
+<aside class="card dlcard" id="fvcard">
+  <h1 class="brand">WoW: Forever</h1>
+  <p class="sub">Український переклад WoW: Forever — тестова збірка.<br>
+    Аддон UALLF разом зі збирачем текстів для перекладу.</p>
+  <a class="dlbtn" id="fvbtn" href="/download/forever"
+     title="Тестова збірка перекладу WoW: Forever">⬇ Завантажити тестовий реліз Forever</a>
+  <p class="dlver" id="fvver">&nbsp;</p>
+  <p class="dlnote">
+    Розпакуйте обидві теки з архіву в <code>_classic_beta_\Interface\AddOns</code>.
+    У грі: <code>/reload</code>. Shift — показати англійський оригінал.
+  </p>
+  <p class="dlnote">Інструкція й список змін — у файлі «ЧИТАЙ МЕНЕ.txt» в архіві.</p>
+</aside>
+</div>
+<script>
+"use strict";
+(function(){
+  const form = document.getElementById("form");
+  const btn = document.getElementById("btn");
+  const err = document.getElementById("err");
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    err.style.display = "none";
+    btn.disabled = true;
+    btn.innerHTML = '<span class="spinner"></span>вхід…';
+    try{
+      const r = await fetch("/api/login", {
+        method:"POST", headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({
+          username: document.getElementById("u").value,
+          password: document.getElementById("p").value,
+        }),
+      });
+      if(!r.ok){
+        let d = "Помилка входу";
+        try{ d = (await r.json()).detail || d; }catch(e){}
+        throw new Error(d);
+      }
+      location.href = "/";
+    }catch(ex){
+      err.textContent = ex.message;
+      err.style.display = "block";
+      btn.disabled = false;
+      btn.textContent = "Увійти";
+    }
+  });
+  // показати версію релізу під кнопкою завантаження (або сховати картку, якщо релізу нема);
+  // однаково для ретейлу (/api/release) і Forever (/api/release/forever)
+  function showRelease(api, verId, cardId){
+    fetch(api).then(r=>r.json()).then(d=>{
+      const ver = document.getElementById(verId);
+      if(d && d.available){
+        const mb = d.size ? (d.size/1048576).toFixed(1)+" МБ" : "";
+        // Час викладення — місцевим часом гравця (сервер віддає UTC з «Z»).
+        // Свіжі збірки показуємо як «сьогодні/вчора о HH:MM», давніші — датою.
+        let when = "";
+        if(d.published){
+          const t = new Date(d.published);
+          if(!isNaN(t)){
+            const hhmm = t.toLocaleTimeString("uk-UA",{hour:"2-digit",minute:"2-digit"});
+            const day0 = new Date(); day0.setHours(0,0,0,0);
+            const days = Math.floor((day0 - new Date(t).setHours(0,0,0,0))/86400000);
+            if(days === 0)      when = "сьогодні о " + hhmm;
+            else if(days === 1) when = "вчора о " + hhmm;
+            else when = t.toLocaleDateString("uk-UA",{day:"numeric",month:"long"}) + " о " + hhmm;
+          }
+        }
+        if(ver) ver.textContent = "Версія " + d.version + (mb ? " · " + mb : "")
+                                  + (when ? " · " + when : "");
+      }else{
+        const dc = document.getElementById(cardId);
+        if(dc) dc.style.display = "none";
+      }
+    }).catch(()=>{});
+  }
+  showRelease("/api/release", "dlver", "dlcard");
+  showRelease("/api/release/forever", "fvver", "fvcard");
+})();
+</script>
+</body>
+</html>

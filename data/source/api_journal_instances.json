@@ -1,0 +1,1472 @@
+{
+ "63": {
+  "name": {
+   "en": "Deadmines",
+   "de": "Todesminen",
+   "fr": "Les Mortemines"
+  }
+ },
+ "64": {
+  "name": {
+   "en": "Shadowfang Keep",
+   "de": "Burg Schattenfang",
+   "fr": "Donjon d’Ombrecroc"
+  }
+ },
+ "65": {
+  "name": {
+   "en": "Throne of the Tides",
+   "de": "Thron der Gezeiten",
+   "fr": "Trône des marées"
+  }
+ },
+ "66": {
+  "name": {
+   "en": "Blackrock Caverns",
+   "de": "Schwarzfelshöhlen",
+   "fr": "Cavernes de Rochenoire"
+  }
+ },
+ "67": {
+  "name": {
+   "en": "The Stonecore",
+   "de": "Der Steinerne Kern",
+   "fr": "Le Cœur-de-Pierre"
+  }
+ },
+ "68": {
+  "name": {
+   "en": "The Vortex Pinnacle",
+   "de": "Der Vortexgipfel",
+   "fr": "La cime du Vortex"
+  }
+ },
+ "69": {
+  "name": {
+   "en": "Lost City of the Tol'vir",
+   "de": "Die Verlorene Stadt der Tol'vir",
+   "fr": "Cité perdue des Tol’vir"
+  }
+ },
+ "70": {
+  "name": {
+   "en": "Halls of Origination",
+   "de": "Hallen des Ursprungs",
+   "fr": "Salles de l’Origine"
+  }
+ },
+ "71": {
+  "name": {
+   "en": "Grim Batol",
+   "de": "Grim Batol",
+   "fr": "Grim Batol"
+  }
+ },
+ "72": {
+  "name": {
+   "en": "The Bastion of Twilight",
+   "de": "Die Bastion des Zwielichts",
+   "fr": "Le bastion du Crépuscule"
+  }
+ },
+ "73": {
+  "name": {
+   "en": "Blackwing Descent",
+   "de": "Pechschwingenabstieg",
+   "fr": "Descente de l’Aile noire"
+  }
+ },
+ "74": {
+  "name": {
+   "en": "Throne of the Four Winds",
+   "de": "Thron der Vier Winde",
+   "fr": "Trône des quatre vents"
+  }
+ },
+ "75": {
+  "name": {
+   "en": "Baradin Hold",
+   "de": "Baradinfestung",
+   "fr": "Bastion de Baradin"
+  }
+ },
+ "76": {
+  "name": {
+   "en": "Zul'Gurub",
+   "de": "Zul'Gurub",
+   "fr": "Zul’Gurub"
+  }
+ },
+ "77": {
+  "name": {
+   "en": "Zul'Aman",
+   "de": "Zul'Aman",
+   "fr": "Zul’Aman"
+  }
+ },
+ "78": {
+  "name": {
+   "en": "Firelands",
+   "de": "Feuerlande",
+   "fr": "Terres de Feu"
+  }
+ },
+ "184": {
+  "name": {
+   "en": "End Time",
+   "de": "Endzeit",
+   "fr": "La Fin des temps"
+  }
+ },
+ "185": {
+  "name": {
+   "en": "Well of Eternity",
+   "de": "Brunnen der Ewigkeit",
+   "fr": "Puits d’éternité"
+  }
+ },
+ "186": {
+  "name": {
+   "en": "Hour of Twilight",
+   "de": "Die Stunde des Zwielichts",
+   "fr": "L’Heure du Crépuscule"
+  }
+ },
+ "187": {
+  "name": {
+   "en": "Dragon Soul",
+   "de": "Drachenseele",
+   "fr": "L’Âme des dragons"
+  }
+ },
+ "226": {
+  "name": {
+   "en": "Ragefire Chasm",
+   "de": "Der Flammenschlund",
+   "fr": "Gouffre de Ragefeu"
+  }
+ },
+ "227": {
+  "name": {
+   "en": "Blackfathom Deeps",
+   "de": "Tiefschwarze Grotte",
+   "fr": "Profondeurs de Brassenoire"
+  }
+ },
+ "228": {
+  "name": {
+   "en": "Blackrock Depths",
+   "de": "Schwarzfelstiefen",
+   "fr": "Profondeurs de Rochenoire"
+  }
+ },
+ "229": {
+  "name": {
+   "en": "Lower Blackrock Spire",
+   "de": "Untere Schwarzfelsspitze",
+   "fr": "Bas du pic Rochenoire"
+  }
+ },
+ "230": {
+  "name": {
+   "en": "Dire Maul - Capital Gardens",
+   "de": "Düsterbruch - Hauptstadtgärten",
+   "fr": "Hache-Tripes – Grands jardins"
+  }
+ },
+ "231": {
+  "name": {
+   "en": "Gnomeregan",
+   "de": "Gnomeregan",
+   "fr": "Gnomeregan"
+  }
+ },
+ "232": {
+  "name": {
+   "en": "Maraudon",
+   "de": "Maraudon",
+   "fr": "Maraudon"
+  }
+ },
+ "233": {
+  "name": {
+   "en": "Razorfen Downs",
+   "de": "Hügel der Klingenhauer",
+   "fr": "Souilles de Tranchebauge"
+  }
+ },
+ "234": {
+  "name": {
+   "en": "Razorfen Kraul",
+   "de": "Kral der Klingenhauer",
+   "fr": "Kraal de Tranchebauge"
+  }
+ },
+ "236": {
+  "name": {
+   "en": "Stratholme - Main Gate",
+   "de": "Stratholme - Haupttor",
+   "fr": "Stratholme – Grande porte"
+  }
+ },
+ "237": {
+  "name": {
+   "en": "The Temple of Atal'hakkar",
+   "de": "Der Tempel von Atal'Hakkar",
+   "fr": "Le temple d’Atal’Hakkar"
+  }
+ },
+ "238": {
+  "name": {
+   "en": "The Stockade",
+   "de": "Das Verlies",
+   "fr": "La Prison"
+  }
+ },
+ "239": {
+  "name": {
+   "en": "Uldaman",
+   "de": "Uldaman",
+   "fr": "Uldaman"
+  }
+ },
+ "240": {
+  "name": {
+   "en": "Wailing Caverns",
+   "de": "Höhlen des Wehklagens",
+   "fr": "Cavernes des Lamentations"
+  }
+ },
+ "241": {
+  "name": {
+   "en": "Zul'Farrak",
+   "de": "Zul'Farrak",
+   "fr": "Zul’Farrak"
+  }
+ },
+ "246": {
+  "name": {
+   "en": "Scholomance",
+   "de": "Scholomance",
+   "fr": "Scholomance"
+  }
+ },
+ "247": {
+  "name": {
+   "en": "Auchenai Crypts",
+   "de": "Auchenaikrypta",
+   "fr": "Cryptes Auchenaï"
+  }
+ },
+ "248": {
+  "name": {
+   "en": "Hellfire Ramparts",
+   "de": "Höllenfeuerbollwerk",
+   "fr": "Remparts des Flammes infernales"
+  }
+ },
+ "249": {
+  "name": {
+   "en": "Magisters' Terrace",
+   "de": "Terrasse der Magister",
+   "fr": "Terrasse des Magistères"
+  }
+ },
+ "250": {
+  "name": {
+   "en": "Mana-Tombs",
+   "de": "Managruft",
+   "fr": "Tombes-mana"
+  }
+ },
+ "251": {
+  "name": {
+   "en": "Old Hillsbrad Foothills",
+   "de": "Vorgebirge des Alten Hügellands",
+   "fr": "Contreforts de Hautebrande d’antan"
+  }
+ },
+ "252": {
+  "name": {
+   "en": "Sethekk Halls",
+   "de": "Sethekkhallen",
+   "fr": "Les salles des Sethekk"
+  }
+ },
+ "253": {
+  "name": {
+   "en": "Shadow Labyrinth",
+   "de": "Schattenlabyrinth",
+   "fr": "Labyrinthe des Ombres"
+  }
+ },
+ "254": {
+  "name": {
+   "en": "The Arcatraz",
+   "de": "Die Arkatraz",
+   "fr": "L’Arcatraz"
+  }
+ },
+ "255": {
+  "name": {
+   "en": "The Black Morass",
+   "de": "Der Schwarze Morast",
+   "fr": "Le Noir marécage"
+  }
+ },
+ "256": {
+  "name": {
+   "en": "The Blood Furnace",
+   "de": "Der Blutkessel",
+   "fr": "La Fournaise du sang"
+  }
+ },
+ "257": {
+  "name": {
+   "en": "The Botanica",
+   "de": "Die Botanika",
+   "fr": "La Botanica"
+  }
+ },
+ "258": {
+  "name": {
+   "en": "The Mechanar",
+   "de": "Die Mechanar",
+   "fr": "Le Méchanar"
+  }
+ },
+ "259": {
+  "name": {
+   "en": "The Shattered Halls",
+   "de": "Die Zerschmetterten Hallen",
+   "fr": "Les salles Brisées"
+  }
+ },
+ "260": {
+  "name": {
+   "en": "The Slave Pens",
+   "de": "Die Sklavenunterkünfte",
+   "fr": "Les enclos aux esclaves"
+  }
+ },
+ "261": {
+  "name": {
+   "en": "The Steamvault",
+   "de": "Die Dampfkammer",
+   "fr": "Le caveau de la Vapeur"
+  }
+ },
+ "262": {
+  "name": {
+   "en": "The Underbog",
+   "de": "Der Tiefensumpf",
+   "fr": "La Basse-tourbière"
+  }
+ },
+ "271": {
+  "name": {
+   "en": "Ahn'kahet: The Old Kingdom",
+   "de": "Ahn'kahet: Das Alte Königreich",
+   "fr": "Ahn’kahet : l’Ancien royaume"
+  }
+ },
+ "272": {
+  "name": {
+   "en": "Azjol-Nerub",
+   "de": "Azjol-Nerub",
+   "fr": "Azjol-Nérub"
+  }
+ },
+ "273": {
+  "name": {
+   "en": "Drak'Tharon Keep",
+   "de": "Feste Drak'Tharon",
+   "fr": "Donjon de Drak’Tharon"
+  }
+ },
+ "274": {
+  "name": {
+   "en": "Gundrak",
+   "de": "Gundrak",
+   "fr": "Gundrak"
+  }
+ },
+ "275": {
+  "name": {
+   "en": "Halls of Lightning",
+   "de": "Hallen der Blitze",
+   "fr": "Les salles de Foudre"
+  }
+ },
+ "276": {
+  "name": {
+   "en": "Halls of Reflection",
+   "de": "Hallen der Reflexion",
+   "fr": "Salles des Reflets"
+  }
+ },
+ "277": {
+  "name": {
+   "en": "Halls of Stone",
+   "de": "Hallen des Steins",
+   "fr": "Les salles de Pierre"
+  }
+ },
+ "278": {
+  "name": {
+   "en": "Pit of Saron",
+   "de": "Grube von Saron",
+   "fr": "Fosse de Saron"
+  }
+ },
+ "279": {
+  "name": {
+   "en": "The Culling of Stratholme",
+   "de": "Das Ausmerzen von Stratholme",
+   "fr": "L’Épuration de Stratholme"
+  }
+ },
+ "280": {
+  "name": {
+   "en": "The Forge of Souls",
+   "de": "Die Seelenschmiede",
+   "fr": "La Forge des Âmes"
+  }
+ },
+ "281": {
+  "name": {
+   "en": "The Nexus",
+   "de": "Der Nexus",
+   "fr": "Le Nexus"
+  }
+ },
+ "282": {
+  "name": {
+   "en": "The Oculus",
+   "de": "Das Oculus",
+   "fr": "L’Oculus"
+  }
+ },
+ "283": {
+  "name": {
+   "en": "The Violet Hold",
+   "de": "Die Violette Festung",
+   "fr": "Le fort Pourpre"
+  }
+ },
+ "284": {
+  "name": {
+   "en": "Trial of the Champion",
+   "de": "Prüfung des Champions",
+   "fr": "L’épreuve du champion"
+  }
+ },
+ "285": {
+  "name": {
+   "en": "Utgarde Keep",
+   "de": "Burg Utgarde",
+   "fr": "Donjon d’Utgarde"
+  }
+ },
+ "286": {
+  "name": {
+   "en": "Utgarde Pinnacle",
+   "de": "Turm Utgarde",
+   "fr": "Cime d’Utgarde"
+  }
+ },
+ "302": {
+  "name": {
+   "en": "Stormstout Brewery",
+   "de": "Die Brauerei Sturmbräu",
+   "fr": "Brasserie Brune d’Orage"
+  }
+ },
+ "303": {
+  "name": {
+   "en": "Gate of the Setting Sun",
+   "de": "Tor der Untergehenden Sonne",
+   "fr": "Porte du Soleil couchant"
+  }
+ },
+ "311": {
+  "name": {
+   "en": "Scarlet Halls",
+   "de": "Scharlachrote Hallen",
+   "fr": "Salles Écarlates"
+  }
+ },
+ "312": {
+  "name": {
+   "en": "Shado-Pan Monastery",
+   "de": "Das Shado-Pan-Kloster",
+   "fr": "Monastère des Pandashan"
+  }
+ },
+ "313": {
+  "name": {
+   "en": "Temple of the Jade Serpent",
+   "de": "Tempel der Jadeschlange",
+   "fr": "Temple du Serpent de jade"
+  }
+ },
+ "316": {
+  "name": {
+   "en": "Scarlet Monastery",
+   "de": "Das Scharlachrote Kloster",
+   "fr": "Monastère Écarlate"
+  }
+ },
+ "317": {
+  "name": {
+   "en": "Mogu'shan Vaults",
+   "de": "Mogu'shangewölbe",
+   "fr": "Caveaux Mogu’shan"
+  }
+ },
+ "320": {
+  "name": {
+   "en": "Terrace of Endless Spring",
+   "de": "Terrasse d. Endlosen Frühlings",
+   "fr": "Terrasse Printanière"
+  }
+ },
+ "321": {
+  "name": {
+   "en": "Mogu'shan Palace",
+   "de": "Mogu'shanpalast",
+   "fr": "Palais Mogu’shan"
+  }
+ },
+ "322": {
+  "name": {
+   "en": "Pandaria",
+   "de": "Pandaria",
+   "fr": "Pandarie"
+  }
+ },
+ "324": {
+  "name": {
+   "en": "Siege of Niuzao Temple",
+   "de": "Belagerung des Niuzaotempels",
+   "fr": "Siège du temple de Niuzao"
+  }
+ },
+ "330": {
+  "name": {
+   "en": "Heart of Fear",
+   "de": "Das Herz der Angst",
+   "fr": "Cœur de la peur"
+  }
+ },
+ "362": {
+  "name": {
+   "en": "Throne of Thunder",
+   "de": "Thron des Donners",
+   "fr": "Trône du tonnerre"
+  }
+ },
+ "369": {
+  "name": {
+   "en": "Siege of Orgrimmar",
+   "de": "Schlacht um Orgrimmar",
+   "fr": "Siège d’Orgrimmar"
+  }
+ },
+ "385": {
+  "name": {
+   "en": "Bloodmaul Slag Mines",
+   "de": "Blutschlägermine",
+   "fr": "Mine de la Masse-Sanglante"
+  }
+ },
+ "457": {
+  "name": {
+   "en": "Blackrock Foundry",
+   "de": "Schwarzfelsgießerei",
+   "fr": "Fonderie des Rochenoires"
+  }
+ },
+ "476": {
+  "name": {
+   "en": "Skyreach",
+   "de": "Himmelsnadel",
+   "fr": "Orée-du-Ciel"
+  }
+ },
+ "477": {
+  "name": {
+   "en": "Highmaul",
+   "de": "Hochfels",
+   "fr": "Cognefort"
+  }
+ },
+ "536": {
+  "name": {
+   "en": "Grimrail Depot",
+   "de": "Grimmgleisdepot",
+   "fr": "Dépôt de Tristerail"
+  }
+ },
+ "537": {
+  "name": {
+   "en": "Shadowmoon Burial Grounds",
+   "de": "Schattenmondgrabstätte",
+   "fr": "Terres sacrées d’Ombrelune"
+  }
+ },
+ "547": {
+  "name": {
+   "en": "Auchindoun",
+   "de": "Auchindoun",
+   "fr": "Auchindoun"
+  }
+ },
+ "556": {
+  "name": {
+   "en": "The Everbloom",
+   "de": "Der Immergrüne Flor",
+   "fr": "La Flore éternelle"
+  }
+ },
+ "557": {
+  "name": {
+   "en": "Draenor",
+   "de": "Draenor",
+   "fr": "Draenor"
+  }
+ },
+ "558": {
+  "name": {
+   "en": "Iron Docks",
+   "de": "Eisendocks",
+   "fr": "Quais de Fer"
+  }
+ },
+ "559": {
+  "name": {
+   "en": "Upper Blackrock Spire",
+   "de": "Obere Schwarzfelsspitze",
+   "fr": "Sommet du pic Rochenoire"
+  }
+ },
+ "669": {
+  "name": {
+   "en": "Hellfire Citadel",
+   "de": "Höllenfeuerzitadelle",
+   "fr": "Citadelle des Flammes infernales"
+  }
+ },
+ "707": {
+  "name": {
+   "en": "Vault of the Wardens",
+   "de": "Das Verlies der Wächterinnen",
+   "fr": "Caveau des Gardiennes"
+  }
+ },
+ "716": {
+  "name": {
+   "en": "Eye of Azshara",
+   "de": "Das Auge Azsharas",
+   "fr": "L’Œil d’Azshara"
+  }
+ },
+ "721": {
+  "name": {
+   "en": "Halls of Valor",
+   "de": "Die Hallen der Tapferkeit",
+   "fr": "Salles des Valeureux"
+  }
+ },
+ "726": {
+  "name": {
+   "en": "The Arcway",
+   "de": "Der Arkus",
+   "fr": "L’Arcavia"
+  }
+ },
+ "727": {
+  "name": {
+   "en": "Maw of Souls",
+   "de": "Der Seelenschlund",
+   "fr": "La Gueule des âmes"
+  }
+ },
+ "740": {
+  "name": {
+   "en": "Black Rook Hold",
+   "de": "Die Rabenwehr",
+   "fr": "Bastion du Freux"
+  }
+ },
+ "741": {
+  "name": {
+   "en": "Molten Core",
+   "de": "Der Geschmolzene Kern",
+   "fr": "Cœur du Magma"
+  }
+ },
+ "742": {
+  "name": {
+   "en": "Blackwing Lair",
+   "de": "Pechschwingenhort",
+   "fr": "Repaire de l’Aile noire"
+  }
+ },
+ "743": {
+  "name": {
+   "en": "Ruins of Ahn'Qiraj",
+   "de": "Ruinen von Ahn'Qiraj",
+   "fr": "Ruines d’Ahn’Qiraj"
+  }
+ },
+ "744": {
+  "name": {
+   "en": "Temple of Ahn'Qiraj",
+   "de": "Tempel von Ahn'Qiraj",
+   "fr": "Temple d’Ahn’Qiraj"
+  }
+ },
+ "745": {
+  "name": {
+   "en": "Karazhan",
+   "de": "Karazhan",
+   "fr": "Karazhan"
+  }
+ },
+ "746": {
+  "name": {
+   "en": "Gruul's Lair",
+   "de": "Gruuls Unterschlupf",
+   "fr": "Repaire de Gruul"
+  }
+ },
+ "747": {
+  "name": {
+   "en": "Magtheridon's Lair",
+   "de": "Magtheridons Kammer",
+   "fr": "Le repaire de Magtheridon"
+  }
+ },
+ "748": {
+  "name": {
+   "en": "Serpentshrine Cavern",
+   "de": "Höhle des Schlangenschreins",
+   "fr": "Caverne du sanctuaire du Serpent"
+  }
+ },
+ "749": {
+  "name": {
+   "en": "The Eye",
+   "de": "Das Auge",
+   "fr": "L’Œil"
+  }
+ },
+ "750": {
+  "name": {
+   "en": "The Battle for Mount Hyjal",
+   "de": "Die Schlacht um den Hyjal",
+   "fr": "La bataille du mont Hyjal"
+  }
+ },
+ "751": {
+  "name": {
+   "en": "Black Temple",
+   "de": "Der Schwarze Tempel",
+   "fr": "Le Temple noir"
+  }
+ },
+ "752": {
+  "name": {
+   "en": "Sunwell Plateau",
+   "de": "Sonnenbrunnenplateau",
+   "fr": "Plateau du Puits de soleil"
+  }
+ },
+ "753": {
+  "name": {
+   "en": "Vault of Archavon",
+   "de": "Archavons Kammer",
+   "fr": "Caveau d’Archavon"
+  }
+ },
+ "754": {
+  "name": {
+   "en": "Naxxramas",
+   "de": "Naxxramas",
+   "fr": "Naxxramas"
+  }
+ },
+ "755": {
+  "name": {
+   "en": "The Obsidian Sanctum",
+   "de": "Das Obsidiansanktum",
+   "fr": "Le sanctum Obsidien"
+  }
+ },
+ "756": {
+  "name": {
+   "en": "The Eye of Eternity",
+   "de": "Das Auge der Ewigkeit",
+   "fr": "L’Œil de l’éternité"
+  }
+ },
+ "757": {
+  "name": {
+   "en": "Trial of the Crusader",
+   "de": "Prüfung des Kreuzfahrers",
+   "fr": "L’épreuve du croisé"
+  }
+ },
+ "758": {
+  "name": {
+   "en": "Icecrown Citadel",
+   "de": "Die Eiskronenzitadelle",
+   "fr": "Citadelle de la Couronne de glace"
+  }
+ },
+ "759": {
+  "name": {
+   "en": "Ulduar",
+   "de": "Ulduar",
+   "fr": "Ulduar"
+  }
+ },
+ "760": {
+  "name": {
+   "en": "Onyxia's Lair",
+   "de": "Onyxias Hort",
+   "fr": "Repaire d’Onyxia"
+  }
+ },
+ "761": {
+  "name": {
+   "en": "The Ruby Sanctum",
+   "de": "Das Rubinsanktum",
+   "fr": "Le sanctum Rubis"
+  }
+ },
+ "762": {
+  "name": {
+   "en": "Darkheart Thicket",
+   "de": "Das Finsterherzdickicht",
+   "fr": "Fourré Sombrecœur"
+  }
+ },
+ "767": {
+  "name": {
+   "en": "Neltharion's Lair",
+   "de": "Neltharions Hort",
+   "fr": "Repaire de Neltharion"
+  }
+ },
+ "768": {
+  "name": {
+   "en": "The Emerald Nightmare",
+   "de": "Der Smaragdgrüne Alptraum",
+   "fr": "Le Cauchemar d’émeraude"
+  }
+ },
+ "777": {
+  "name": {
+   "en": "Assault on Violet Hold",
+   "de": "Sturm auf die Violette Festung",
+   "fr": "Assaut sur le fort Pourpre"
+  }
+ },
+ "786": {
+  "name": {
+   "en": "The Nighthold",
+   "de": "Die Nachtfestung",
+   "fr": "Palais Sacrenuit"
+  }
+ },
+ "800": {
+  "name": {
+   "en": "Court of Stars",
+   "de": "Der Hof der Sterne",
+   "fr": "Cour des Étoiles"
+  }
+ },
+ "822": {
+  "name": {
+   "en": "Broken Isles",
+   "de": "Die Verheerten Inseln",
+   "fr": "Îles Brisées"
+  }
+ },
+ "860": {
+  "name": {
+   "en": "Return to Karazhan",
+   "de": "Rückkehr nach Karazhan",
+   "fr": "Retour à Karazhan"
+  }
+ },
+ "861": {
+  "name": {
+   "en": "Trial of Valor",
+   "de": "Die Prüfung der Tapferkeit",
+   "fr": "Le Jugement des Valeureux"
+  }
+ },
+ "875": {
+  "name": {
+   "en": "Tomb of Sargeras",
+   "de": "Das Grabmal des Sargeras",
+   "fr": "Tombe de Sargeras"
+  }
+ },
+ "900": {
+  "name": {
+   "en": "Cathedral of Eternal Night",
+   "de": "Die Kathedrale der Ewigen Nacht",
+   "fr": "Cathédrale de la Nuit éternelle"
+  }
+ },
+ "945": {
+  "name": {
+   "en": "Seat of the Triumvirate",
+   "de": "Sitz des Triumvirats",
+   "fr": "Siège du triumvirat"
+  }
+ },
+ "946": {
+  "name": {
+   "en": "Antorus, the Burning Throne",
+   "de": "Antorus, der Brennende Thron",
+   "fr": "Antorus, le Trône ardent"
+  }
+ },
+ "959": {
+  "name": {
+   "en": "Invasion Points",
+   "de": "Invasionspunkte",
+   "fr": "Sites d’invasion"
+  }
+ },
+ "968": {
+  "name": {
+   "en": "Atal'Dazar",
+   "de": "Atal'Dazar",
+   "fr": "Atal’Dazar"
+  }
+ },
+ "1001": {
+  "name": {
+   "en": "Freehold",
+   "de": "Freihafen",
+   "fr": "Port-Liberté"
+  }
+ },
+ "1002": {
+  "name": {
+   "en": "Tol Dagor",
+   "de": "Tol Dagor",
+   "fr": "Tol Dagor"
+  }
+ },
+ "1012": {
+  "name": {
+   "en": "The MOTHERLODE!!",
+   "de": "Das RIESENFLÖZ!!",
+   "fr": "Le Filon"
+  }
+ },
+ "1021": {
+  "name": {
+   "en": "Waycrest Manor",
+   "de": "Das Kronsteiganwesen",
+   "fr": "Manoir Malvoie"
+  }
+ },
+ "1022": {
+  "name": {
+   "en": "The Underrot",
+   "de": "Der Tiefenpfuhl",
+   "fr": "Les tréfonds Putrides"
+  }
+ },
+ "1023": {
+  "name": {
+   "en": "Siege of Boralus",
+   "de": "Die Belagerung von Boralus",
+   "fr": "Siège de Boralus"
+  }
+ },
+ "1028": {
+  "name": {
+   "en": "Azeroth",
+   "de": "Azeroth",
+   "fr": "Azeroth"
+  }
+ },
+ "1030": {
+  "name": {
+   "en": "Temple of Sethraliss",
+   "de": "Der Tempel von Sethraliss",
+   "fr": "Temple de Sephraliss"
+  }
+ },
+ "1031": {
+  "name": {
+   "en": "Uldir",
+   "de": "Uldir",
+   "fr": "Uldir"
+  }
+ },
+ "1036": {
+  "name": {
+   "en": "Shrine of the Storm",
+   "de": "Der Schrein des Sturms",
+   "fr": "Sanctuaire des Tempêtes"
+  }
+ },
+ "1041": {
+  "name": {
+   "en": "Kings' Rest",
+   "de": "Die Königsruh",
+   "fr": "Repos des rois"
+  }
+ },
+ "1176": {
+  "name": {
+   "en": "Battle of Dazar'alor",
+   "de": "Schlacht von Dazar'alor",
+   "fr": "Bataille de Dazar’alor"
+  }
+ },
+ "1177": {
+  "name": {
+   "en": "Crucible of Storms",
+   "de": "Tiegel der Stürme",
+   "fr": "Creuset des Tempêtes"
+  }
+ },
+ "1178": {
+  "name": {
+   "en": "Operation: Mechagon",
+   "de": "Operation: Mechagon",
+   "fr": "Opération Mécagone"
+  }
+ },
+ "1179": {
+  "name": {
+   "en": "The Eternal Palace",
+   "de": "Der Ewige Palast",
+   "fr": "Palais Éternel"
+  }
+ },
+ "1180": {
+  "name": {
+   "en": "Ny'alotha, the Waking City",
+   "de": "Ny'alotha, die Erwachte Stadt",
+   "fr": "Ny’alotha, la cité en éveil"
+  }
+ },
+ "1182": {
+  "name": {
+   "en": "The Necrotic Wake",
+   "de": "Die Nekrotische Schneise",
+   "fr": "Sillage nécrotique"
+  }
+ },
+ "1183": {
+  "name": {
+   "en": "Plaguefall",
+   "de": "Seuchensturz",
+   "fr": "Malepeste"
+  }
+ },
+ "1184": {
+  "name": {
+   "en": "Mists of Tirna Scithe",
+   "de": "Die Nebel von Tirna Scithe",
+   "fr": "Brumes de Tirna Scithe"
+  }
+ },
+ "1185": {
+  "name": {
+   "en": "Halls of Atonement",
+   "de": "Hallen der Sühne",
+   "fr": "Salles de l’Expiation"
+  }
+ },
+ "1186": {
+  "name": {
+   "en": "Spires of Ascension",
+   "de": "Die Spitzen des Aufstiegs",
+   "fr": "Flèches de l’Ascension"
+  }
+ },
+ "1187": {
+  "name": {
+   "en": "Theater of Pain",
+   "de": "Theater der Schmerzen",
+   "fr": "Théâtre de la Souffrance"
+  }
+ },
+ "1188": {
+  "name": {
+   "en": "De Other Side",
+   "de": "Die Andre Seite",
+   "fr": "L’Autre côté"
+  }
+ },
+ "1189": {
+  "name": {
+   "en": "Sanguine Depths",
+   "de": "Die Blutigen Tiefen",
+   "fr": "Profondeurs Sanguines"
+  }
+ },
+ "1190": {
+  "name": {
+   "en": "Castle Nathria",
+   "de": "Schloss Nathria",
+   "fr": "Château Nathria"
+  }
+ },
+ "1192": {
+  "name": {
+   "en": "Shadowlands",
+   "de": "Schattenlande",
+   "fr": "Ombreterre"
+  }
+ },
+ "1193": {
+  "name": {
+   "en": "Sanctum of Domination",
+   "de": "Sanktum der Herrschaft",
+   "fr": "Sanctum de Domination"
+  }
+ },
+ "1194": {
+  "name": {
+   "en": "Tazavesh, the Veiled Market",
+   "de": "Tazavesh, der Verhüllte Markt",
+   "fr": "Tazavesh, le marché dissimulé"
+  }
+ },
+ "1195": {
+  "name": {
+   "en": "Sepulcher of the First Ones",
+   "de": "Mausoleum der Ersten",
+   "fr": "Sépulcre des Fondateurs"
+  }
+ },
+ "1196": {
+  "name": {
+   "en": "Brackenhide Hollow",
+   "de": "Brackenfellhöhle",
+   "fr": "Creux des Fougerobes"
+  }
+ },
+ "1197": {
+  "name": {
+   "en": "Uldaman: Legacy of Tyr",
+   "de": "Uldaman: Vermächtnis von Tyr",
+   "fr": "Uldaman : l’héritage de Tyr"
+  }
+ },
+ "1198": {
+  "name": {
+   "en": "The Nokhud Offensive",
+   "de": "Der Angriff der Nokhud",
+   "fr": "L’offensive nokhud"
+  }
+ },
+ "1199": {
+  "name": {
+   "en": "Neltharus",
+   "de": "Neltharus",
+   "fr": "Neltharus"
+  }
+ },
+ "1200": {
+  "name": {
+   "en": "Vault of the Incarnates",
+   "de": "Gewölbe der Inkarnationen",
+   "fr": "Caveau des Incarnations"
+  }
+ },
+ "1201": {
+  "name": {
+   "en": "Algeth'ar Academy",
+   "de": "Akademie von Algeth'ar",
+   "fr": "Académie d’Algeth’ar"
+  }
+ },
+ "1202": {
+  "name": {
+   "en": "Ruby Life Pools",
+   "de": "Rubinlebensbecken",
+   "fr": "Bassins de l’Essence rubis"
+  }
+ },
+ "1203": {
+  "name": {
+   "en": "The Azure Vault",
+   "de": "Das Azurblaue Gewölbe",
+   "fr": "Caveau d’Azur"
+  }
+ },
+ "1204": {
+  "name": {
+   "en": "Halls of Infusion",
+   "de": "Hallen der Infusion",
+   "fr": "Salles de l’Imprégnation"
+  }
+ },
+ "1205": {
+  "name": {
+   "en": "Dragon Isles",
+   "de": "Dracheninseln",
+   "fr": "Îles aux Dragons"
+  }
+ },
+ "1207": {
+  "name": {
+   "en": "Amirdrassil, the Dream's Hope",
+   "de": "Amirdrassil, Hoffnung des Traums",
+   "fr": "Amirdrassil, l’Espoir du Rêve"
+  }
+ },
+ "1208": {
+  "name": {
+   "en": "Aberrus, the Shadowed Crucible",
+   "de": "Aberrus, Schmelztiegel der Schatten",
+   "fr": "Aberrus, le creuset de l’Ombre"
+  }
+ },
+ "1209": {
+  "name": {
+   "en": "Dawn of the Infinite",
+   "de": "Dämmerung des Ewigen",
+   "fr": "Aube de l’Infini"
+  }
+ },
+ "1210": {
+  "name": {
+   "en": "Darkflame Cleft",
+   "de": "Dunkelflammenspalt",
+   "fr": "Faille de Flamme-Noire"
+  }
+ },
+ "1267": {
+  "name": {
+   "en": "Priory of the Sacred Flame",
+   "de": "Priorat der Heiligen Flamme",
+   "fr": "Prieuré de la Flamme sacrée"
+  }
+ },
+ "1268": {
+  "name": {
+   "en": "The Rookery",
+   "de": "Die Brutstätte",
+   "fr": "La colonie"
+  }
+ },
+ "1269": {
+  "name": {
+   "en": "The Stonevault",
+   "de": "Das Steingewölbe",
+   "fr": "La Cavepierre"
+  }
+ },
+ "1270": {
+  "name": {
+   "en": "The Dawnbreaker",
+   "de": "Die Morgenbringer",
+   "fr": "Le Brise-Aube"
+  }
+ },
+ "1271": {
+  "name": {
+   "en": "Ara-Kara, City of Echoes",
+   "de": "Ara-Kara, Stadt der Echos",
+   "fr": "Ara-Kara, la cité des Échos"
+  }
+ },
+ "1272": {
+  "name": {
+   "en": "Cinderbrew Meadery",
+   "de": "Metbrauerei Glutbräu",
+   "fr": "Hydromellerie de Brassecendre"
+  }
+ },
+ "1273": {
+  "name": {
+   "en": "Nerub-ar Palace",
+   "de": "Palast der Nerub'ar",
+   "fr": "Palais des Nérub’ar"
+  }
+ },
+ "1274": {
+  "name": {
+   "en": "City of Threads",
+   "de": "Stadt der Fäden",
+   "fr": "Cité des Fils"
+  }
+ },
+ "1276": {
+  "name": {
+   "en": "Dire Maul - Warpwood Quarter",
+   "de": "Düsterbruch - Wucherborkenviertel",
+   "fr": "Hache-Tripes – Quartier de Crochebois"
+  }
+ },
+ "1277": {
+  "name": {
+   "en": "Dire Maul - Gordok Commons",
+   "de": "Düsterbruch - Gordokhallen",
+   "fr": "Hache-Tripes – Communs gordok"
+  }
+ },
+ "1278": {
+  "name": {
+   "en": "Khaz Algar",
+   "de": "Khaz Algar",
+   "fr": "Khaz Algar"
+  }
+ },
+ "1292": {
+  "name": {
+   "en": "Stratholme - Service Entrance",
+   "de": "Stratholme - Dienstboteneingang",
+   "fr": "Stratholme – Entrée de service"
+  }
+ },
+ "1296": {
+  "name": {
+   "en": "Liberation of Undermine",
+   "de": "Befreiung von Lorenhall",
+   "fr": "Libération de Terremine"
+  }
+ },
+ "1298": {
+  "name": {
+   "en": "Operation: Floodgate",
+   "de": "Operation: Schleuse",
+   "fr": "Opération Vannes ouvertes"
+  }
+ },
+ "1299": {
+  "name": {
+   "en": "Windrunner Spire",
+   "de": "Windläuferturm",
+   "fr": "Flèche de Coursevent"
+  }
+ },
+ "1300": {
+  "name": {
+   "en": "Magisters' Terrace",
+   "de": "Terrasse der Magister",
+   "fr": "Terrasse des Magistères"
+  }
+ },
+ "1301": {
+  "name": {
+   "en": "Blackrock Depths",
+   "de": "Schwarzfelstiefen",
+   "fr": "Les profondeurs de Rochenoire"
+  }
+ },
+ "1302": {
+  "name": {
+   "en": "Manaforge Omega",
+   "de": "Manaschmiede Omega",
+   "fr": "Manaforge Oméga"
+  }
+ },
+ "1303": {
+  "name": {
+   "en": "Eco-Dome Al'dani",
+   "de": "Biokuppel Al'dani",
+   "fr": "Écodôme Al’dani"
+  }
+ },
+ "1304": {
+  "name": {
+   "en": "Murder Row",
+   "de": "Mördergasse",
+   "fr": "L’Allée du meurtre"
+  }
+ },
+ "1307": {
+  "name": {
+   "en": "The Voidspire",
+   "de": "Die Leerenspitze",
+   "fr": "Flèche du Vide"
+  }
+ },
+ "1308": {
+  "name": {
+   "en": "March on Quel'Danas",
+   "de": "Marsch auf Quel'Danas",
+   "fr": "Marche sur Quel’Danas"
+  }
+ },
+ "1309": {
+  "name": {
+   "en": "The Blinding Vale",
+   "de": "Das blendende Tal",
+   "fr": "Le val Aveuglant"
+  }
+ },
+ "1311": {
+  "name": {
+   "en": "Den of Nalorakk",
+   "de": "Nalorakks Bau",
+   "fr": "Antre de Nalorakk"
+  }
+ },
+ "1312": {
+  "name": {
+   "en": "Midnight",
+   "de": "Midnight",
+   "fr": "Midnight"
+  }
+ },
+ "1313": {
+  "name": {
+   "en": "Voidscar Arena",
+   "de": "Arena der Leerennarbe",
+   "fr": "Arène de la Cicatrice du Vide"
+  }
+ },
+ "1314": {
+  "name": {
+   "en": "The Dreamrift",
+   "de": "Der Traumriss",
+   "fr": "Faille du Rêve"
+  }
+ },
+ "1315": {
+  "name": {
+   "en": "Maisara Caverns",
+   "de": "Maisarakavernen",
+   "fr": "Cavernes de Maisara"
+  }
+ },
+ "1316": {
+  "name": {
+   "en": "Nexus-Point Xenas",
+   "de": "Nexuspunkt Xenas",
+   "fr": "Point-nexus Xenas"
+  }
+ },
+ "1319": {
+  "name": {
+   "en": "Keystone Dungeons",
+   "de": "Schlüsselsteindungeons",
+   "fr": "Donjons de clé mythique"
+  }
+ },
+ "1305": {
+  "name": {
+   "en": "Sporefall",
+   "de": "Sporenfall",
+   "fr": "Chute-des-Spores"
+  }
+ }
+}

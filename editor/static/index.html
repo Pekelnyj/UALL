@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>temnozelena.com — редактор перекладів WoW</title>
+<script>try{document.documentElement.dataset.theme=localStorage.getItem("wowua-theme")||"dark"}catch(e){}</script>
+<link rel="stylesheet" href="/theme.css">
+<script src="/theme.js" defer></script>
+<style>
+  :root{
+    --bg:#16181d; --bg2:#1d2027; --bg3:#23272f; --line:#2e333d;
+    --fg:#e6e8ec; --muted:#8b919c; --muted2:#6b7180;
+    --gold:#f0c64a; --gold-dim:#c9a23a;
+    --green:#3fb950; --green-bg:#16321d;
+    --yellow:#e3b341; --yellow-bg:#2f2710;
+    --red:#f0584f; --red-bg:#341816;
+    --en:#cfd3da; --aux:#9aa0ab;
+    --focus:#5a7fb5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--fg);
+    font-family:"Segoe UI","Noto Sans",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif;
+    font-size:15px; line-height:1.45;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--gold)}
+
+  header{
+    position:sticky; top:0; z-index:10;
+    background:var(--bg2); border-bottom:1px solid var(--line);
+    padding:12px 18px;
+  }
+  .brand{
+    font-size:18px; font-weight:600; color:var(--green);
+    margin:0 0 10px; letter-spacing:.2px;
+  }
+  .brand small{color:var(--muted); font-weight:400; font-size:13px; margin-left:8px}
+  .topbar{display:flex; align-items:center; gap:12px; margin-bottom:10px; flex-wrap:wrap}
+  .topbar .brand{margin:0}
+  .hspacer{flex:1}
+  .who{color:var(--muted); font-size:13px; white-space:nowrap}
+  .who b{color:var(--fg)}
+  .userbtn{
+    font-size:13px; color:var(--fg); background:var(--bg3); border:1px solid var(--line);
+    border-radius:7px; padding:7px 10px; text-decoration:none; white-space:nowrap;
+  }
+  .userbtn:hover{background:#2b303a}
+  .dlbtn{
+    font-size:13px; font-weight:600; color:#221d05; background:var(--gold);
+    border:1px solid var(--gold-dim); border-radius:7px; padding:7px 12px;
+    text-decoration:none; white-space:nowrap;
+  }
+  .dlbtn:hover{background:var(--gold-dim)}
+  /* версія + час викладення поруч із кнопкою; приглушено, щоб не сперечалось із нею */
+  .dlmeta{font-size:12px; color:var(--muted,#8b93a1); white-space:nowrap; margin-left:8px}
+  /* CurseForge — другорядна кнопка (контурна), поруч із головною «Завантажити реліз» */
+  .cfbtn{
+    font-size:13px; font-weight:600; color:var(--gold); background:transparent;
+    border:1px solid var(--gold-dim); border-radius:7px; padding:7px 12px;
+    text-decoration:none; white-space:nowrap; margin-left:8px;
+  }
+  .cfbtn:hover{background:var(--gold-dim); color:#221d05}
+  .controls{display:flex; gap:10px; flex-wrap:wrap; align-items:center}
+  select,input[type=text],textarea,button{
+    font-family:inherit; font-size:14px; color:var(--fg);
+    background:var(--bg3); border:1px solid var(--line); border-radius:7px;
+    padding:8px 10px; outline:none;
+  }
+  select:focus,input:focus,textarea:focus{border-color:var(--focus)}
+  select{min-width:230px; cursor:pointer}
+  #q{flex:1; min-width:240px}
+  button{
+    background:var(--gold); color:#221d05; border:1px solid var(--gold-dim);
+    font-weight:600; cursor:pointer; white-space:nowrap;
+  }
+  button:hover{background:var(--gold-dim)}
+  button:active{transform:translateY(1px)}
+  button:disabled{opacity:.45; cursor:default; transform:none}
+  button.ghost{
+    background:var(--bg3); color:var(--fg); border:1px solid var(--line);
+    font-weight:500;
+  }
+  button.ghost:hover{background:#2b303a}
+
+  main{max-width:980px; margin:0 auto; padding:18px}
+
+  .bar{
+    display:flex; align-items:center; justify-content:space-between;
+    gap:12px; flex-wrap:wrap; margin:4px 2px 14px; color:var(--muted); font-size:13px;
+  }
+  .pager{display:flex; gap:8px; align-items:center}
+  .pager .range{color:var(--muted); min-width:120px; text-align:center; font-variant-numeric:tabular-nums}
+
+  .row{
+    background:var(--bg2); border:1px solid var(--line); border-radius:10px;
+    padding:14px 16px; margin-bottom:12px;
+  }
+  .meta{
+    font-size:12px; color:var(--muted2);
+    margin-bottom:8px; word-break:break-word;
+  }
+  .meta b{color:var(--muted); font-weight:600}
+  .meta .sep{margin:0 6px; color:var(--line)}
+
+  .src{margin:0 0 6px}
+  .src .lbl{
+    display:inline-block; min-width:26px;
+    font-size:11px; font-weight:700; color:var(--muted2);
+    vertical-align:top; margin-right:6px; padding-top:2px;
+  }
+  .src .txt{display:inline; white-space:pre-wrap; word-break:break-word}
+  .src.en .txt{color:var(--en); font-size:14.5px}
+  .src.aux .txt{color:var(--aux); font-size:13px}
+  .src.aux .lbl{color:var(--muted2)}
+
+  .ua-wrap{margin-top:10px}
+  .ua-wrap .lbl{
+    display:block; font-size:11px; font-weight:700; color:var(--gold);
+    margin-bottom:4px; letter-spacing:.3px;
+  }
+  textarea.ua{
+    width:100%; resize:vertical; min-height:42px; line-height:1.45;
+    white-space:pre-wrap; overflow:hidden; color:var(--fg);
+  }
+
+  .actions{display:flex; gap:10px; align-items:center; margin-top:8px; flex-wrap:wrap}
+  input.comment{flex:1; min-width:160px; font-size:13px; color:var(--muted)}
+  input.comment::placeholder{color:var(--muted2)}
+  .actions button{padding:7px 16px}
+  .status{font-size:13px; margin-left:2px}
+  .status.ok{color:var(--green)}
+  .status.err{color:var(--red)}
+  .status.saving{color:var(--muted)}
+
+  .warns{
+    margin-top:10px; border-left:3px solid var(--yellow);
+    background:var(--yellow-bg); border-radius:0 7px 7px 0;
+    padding:8px 12px; font-size:13px; color:var(--yellow);
+  }
+  .warns ul{margin:4px 0 0; padding-left:18px}
+  .warns li{margin:2px 0}
+  .warns .head{font-weight:600}
+  .warns.conflict{border-left-color:var(--red); background:var(--red-bg); color:var(--red)}
+
+  .note{padding:40px 10px; text-align:center; color:var(--muted)}
+  .note.err{color:var(--red)}
+
+  .spinner{
+    display:inline-block; width:14px; height:14px; vertical-align:-2px;
+    border:2px solid var(--muted2); border-top-color:transparent;
+    border-radius:50%; animation:spin .7s linear infinite; margin-right:6px;
+  }
+  @keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<header>
+  <div class="topbar">
+    <h1 class="brand"><a href="/" style="color:inherit;text-decoration:none" title="На головну">temnozelena.com</a> <small>редактор перекладів WoW</small></h1>
+    <div class="hspacer"></div>
+    <a href="/download" id="dlbtn" class="dlbtn"
+       title="Тестерська збірка: свіжі переклади раніше за CurseForge">⬇ Реліз для тестерів</a>
+    <span class="dlmeta" id="dlmeta"></span>
+    <a href="https://www.curseforge.com/wow/addons/uall-ukrainian-localization"
+       class="cfbtn" target="_blank" rel="noopener noreferrer"
+       title="Публічна (стабільна) збірка на CurseForge">CurseForge</a>
+    <div class="hspacer"></div>
+    <span class="who" id="who">&nbsp;</span>
+    <select id="themeSel" class="themesel" title="Тема">
+      <option value="dark">🌙 Темна</option>
+      <option value="light">☀️ Світла</option>
+      <option value="oled">⬛ OLED</option>
+      <option value="medoid">🌿 Медоїд</option>
+    </select>
+    <a href="/suggestions" class="userbtn">Пропозиції</a>
+    <a href="/glossary" class="userbtn">Глосарій</a>
+    <a href="/comparisons" class="userbtn">Порівняння</a>
+    <a href="/mine" class="userbtn">Мої правки</a>
+    <a href="https://discord.com/invite/je7ruJVay6" target="_blank" rel="noopener noreferrer" class="userbtn" style="color:#5865f2">Discord</a>
+    <a href="/admin" id="adminLink" class="userbtn" hidden>Адмінпанель</a>
+    <button class="ghost" id="logout">Вийти</button>
+  </div>
+  <div class="controls">
+    <select id="section" title="База / секція"></select>
+    <input type="text" id="q" placeholder="пошук за текстом EN або UA" autocomplete="off">
+    <button id="searchBtn">Шукати</button>
+    <label style="display:flex;align-items:center;gap:6px;color:var(--muted);font-size:13px;cursor:pointer;white-space:nowrap">
+      <input type="checkbox" id="untr"> лише неперекладені</label>
+  </div>
+</header>
+
+<main>
+  <div class="bar">
+    <div id="summary" class="range">&nbsp;</div>
+    <div class="pager">
+      <button class="ghost" id="prev">‹ назад</button>
+      <span class="range" id="range">&nbsp;</span>
+      <button class="ghost" id="next">далі ›</button>
+    </div>
+  </div>
+  <div id="list"></div>
+  <div class="bar" id="barBottom" style="margin:14px 2px 4px">
+    <div id="summary2" class="range">&nbsp;</div>
+    <div class="pager">
+      <button class="ghost" id="prev2">‹ назад</button>
+      <span class="range" id="range2">&nbsp;</span>
+      <button class="ghost" id="next2">далі ›</button>
+    </div>
+  </div>
+</main>
+
+<script>
+"use strict";
+(function(){
+  const LIMIT = 100;
+  const $ = (id) => document.getElementById(id);
+  const elSection = $("section");
+  const elQ       = $("q");
+  const elUntr    = $("untr");
+  const elList    = $("list");
+  // пагінація продубльована вгорі й унизу сторінки
+  const prevBtns  = [$("prev"), $("prev2")];
+  const nextBtns  = [$("next"), $("next2")];
+  const rangeEls  = [$("range"), $("range2")];
+  const summaryEls= [$("summary"), $("summary2")];
+
+  // active query state
+  const state = { section:"", q:"", untr:false, offset:0, total:0 };
+
+  // ---- helpers --------------------------------------------------------------
+  function esc(s){
+    return String(s == null ? "" : s)
+      .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+      .replace(/"/g,"&quot;");
+  }
+  function fmtNum(n){
+    // 11119 -> "11 119"
+    return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+  }
+  function autosize(ta){
+    ta.style.height = "auto";
+    ta.style.height = (ta.scrollHeight + 2) + "px";
+  }
+
+  async function api(url, opts){
+    const r = await fetch(url, opts);
+    if(r.status === 401){ location.href = "/login"; throw new Error("Потрібен вхід"); }
+    let body = null;
+    try { body = await r.json(); } catch(e){}
+    if(!r.ok){
+      const d = body && body.detail;
+      const err = new Error("HTTP " + r.status + (typeof d === "string" ? " — " + d : ""));
+      err.status = r.status; err.detail = d;   // d може бути об'єктом (напр. конфлікт 409)
+      throw err;
+    }
+    return body;
+  }
+
+  // поточний користувач (роль визначає: пряма правка чи пропозиція)
+  const ME = { name:"", role:"contributor" };
+  const canEdit = () => ME.role === "editor" || ME.role === "admin";
+  async function loadMe(){
+    try{
+      const m = await api("/api/me");
+      ME.name = m.name; ME.role = m.role;
+      $("who").innerHTML = `<b>${esc(m.name)}</b> · ${esc(m.role)}`;
+      if(m.role === "admin") $("adminLink").hidden = false;
+    }catch(e){ /* api() вже перекине на /login при 401 */ }
+  }
+  $("logout").addEventListener("click", async () => {
+    try{ await fetch("/api/logout", {method:"POST"}); }catch(e){}
+    location.href = "/login";
+  });
+
+  // ---- версія й час викладення релізу поруч із кнопкою завантаження ---------
+  // Час приходить у UTC («…Z»), браузер показує його МІСЦЕВИМ часом користувача.
+  (function releaseMeta(){
+    fetch("/api/release").then(r=>r.json()).then(d=>{
+      const el = document.getElementById("dlmeta");
+      if(!el || !d || !d.available) return;
+      const mb = d.size ? (d.size/1048576).toFixed(1)+" МБ" : "";
+      let when = "";
+      if(d.published){
+        const t = new Date(d.published);
+        if(!isNaN(t)){
+          const hhmm = t.toLocaleTimeString("uk-UA",{hour:"2-digit",minute:"2-digit"});
+          const day0 = new Date(); day0.setHours(0,0,0,0);
+          const days = Math.floor((day0 - new Date(t).setHours(0,0,0,0))/86400000);
+          if(days === 0)      when = "сьогодні о " + hhmm;
+          else if(days === 1) when = "вчора о " + hhmm;
+          else when = t.toLocaleDateString("uk-UA",{day:"numeric",month:"long"}) + " о " + hhmm;
+        }
+      }
+      el.textContent = "v" + d.version + (mb ? " · " + mb : "") + (when ? " · " + when : "");
+      el.title = "Останній реліз: " + d.file;
+    }).catch(()=>{});
+  })();
+
+  // ---- sections -------------------------------------------------------------
+  async function loadSections(){
+    try{
+      const secs = await api("/api/sections");
+      const opts = ['<option value="">усі бази</option>'];
+      let totalAll = 0;
+      for(const s of secs){
+        totalAll += s.count;
+        opts.push(`<option value="${esc(s.section)}">${esc(s.section)} (${fmtNum(s.count)})</option>`);
+      }
+      // показати загальну кількість у пункті "усі"
+      opts[0] = `<option value="">усі бази (${fmtNum(totalAll)})</option>`;
+      elSection.innerHTML = opts.join("");
+    }catch(e){
+      elSection.innerHTML = '<option value="">усі бази</option>';
+      elList.innerHTML = `<div class="note err">Не вдалося завантажити список баз: ${esc(e.message)}</div>`;
+    }
+  }
+
+  // ---- search / render ------------------------------------------------------
+  function setBusy(busy){
+    for(const b of prevBtns) b.disabled = busy || state.offset <= 0;
+    for(const b of nextBtns) b.disabled = busy || (state.offset + LIMIT) >= state.total;
+    $("searchBtn").disabled = busy;
+  }
+
+  async function runSearch(){
+    // snapshot current inputs into active state
+    state.section = elSection.value;
+    state.q = elQ.value.trim();
+    state.untr = elUntr.checked;
+    // offset is managed by caller; for a fresh search we reset it
+    setBusy(true);
+    elList.innerHTML = `<div class="note"><span class="spinner"></span>Завантаження…</div>`;
+    for(const e of rangeEls) e.innerHTML = "&nbsp;";
+    for(const e of summaryEls) e.innerHTML = "&nbsp;";
+
+    const params = new URLSearchParams({
+      section: state.section,
+      q: state.q,
+      untr: state.untr ? "1" : "0",
+      offset: String(state.offset),
+      limit: String(LIMIT),
+    });
+    try{
+      const data = await api("/api/strings?" + params.toString());
+      state.total = data.total || 0;
+      render(data.rows || []);
+      updatePager();
+    }catch(e){
+      elList.innerHTML = `<div class="note err">Помилка пошуку: ${esc(e.message)}</div>`;
+      state.total = 0;
+      updatePager();
+    }finally{
+      setBusy(false);
+    }
+  }
+
+  function updatePager(){
+    const total = state.total;
+    let rangeTxt, summaryTxt;
+    if(total === 0){
+      rangeTxt = "0 з 0";
+      summaryTxt = "Нічого не знайдено";
+    }else{
+      const from = state.offset + 1;
+      const to = Math.min(state.offset + LIMIT, total);
+      rangeTxt = `${fmtNum(from)}–${fmtNum(to)} з ${fmtNum(total)}`;
+      summaryTxt = `Знайдено: ${fmtNum(total)}`;
+    }
+    for(const e of rangeEls) e.textContent = rangeTxt;
+    for(const e of summaryEls) e.textContent = summaryTxt;
+    for(const b of prevBtns) b.disabled = state.offset <= 0;
+    for(const b of nextBtns) b.disabled = (state.offset + LIMIT) >= total;
+  }
+
+  function render(rows){
+    if(!rows.length){
+      elList.innerHTML = `<div class="note">Нічого не знайдено. Спробуй інший запит або базу.</div>`;
+      return;
+    }
+    elList.innerHTML = "";
+    for(const r of rows){
+      elList.appendChild(buildRow(r));
+    }
+  }
+
+  function buildRow(r){
+    const wrap = document.createElement("div");
+    wrap.className = "row";
+
+    // meta line: section / item_key / field
+    const meta = document.createElement("div");
+    meta.className = "meta";
+    const parts = [];
+    if(r.section) parts.push(`<b>${esc(r.section)}</b>`);
+    if(r.item_key != null && r.item_key !== "") parts.push(esc(r.item_key));
+    if(r.field) parts.push(esc(r.field));
+    meta.innerHTML = parts.join('<span class="sep">·</span>') || "&nbsp;";
+    wrap.appendChild(meta);
+
+    // source lines — only when EN present
+    const en = (r.en == null ? "" : String(r.en));
+    if(en.trim() !== ""){
+      wrap.appendChild(srcLine("EN", en, "en"));
+      if(r.de && String(r.de).trim() !== "") wrap.appendChild(srcLine("DE", r.de, "aux"));
+      if(r.fr && String(r.fr).trim() !== "") wrap.appendChild(srcLine("FR", r.fr, "aux"));
+    }
+
+    // UA editor
+    const uaWrap = document.createElement("div");
+    uaWrap.className = "ua-wrap";
+    const uaLbl = document.createElement("span");
+    uaLbl.className = "lbl";
+    uaLbl.textContent = "UA — переклад";
+    const ta = document.createElement("textarea");
+    ta.className = "ua";
+    ta.value = (r.ua == null ? "" : String(r.ua));
+    ta.spellcheck = false;
+    uaWrap.appendChild(uaLbl);
+    uaWrap.appendChild(ta);
+    wrap.appendChild(uaWrap);
+
+    // actions: comment, save button, status
+    const actions = document.createElement("div");
+    actions.className = "actions";
+    const comment = document.createElement("input");
+    comment.type = "text";
+    comment.className = "comment";
+    comment.placeholder = "коментар (необов'язково: чому саме так)";
+    const saveBtn = document.createElement("button");
+    saveBtn.textContent = canEdit() ? "Зберегти" : "Запропонувати";
+    const status = document.createElement("span");
+    status.className = "status";
+    actions.appendChild(saveBtn);
+    // editor/admin теж можуть НАДІСЛАТИ пропозицію (на розгляд) замість прямої правки
+    let proposeBtn = null;
+    if(canEdit()){
+      proposeBtn = document.createElement("button");
+      proposeBtn.className = "ghost";
+      proposeBtn.textContent = "Запропонувати";
+      proposeBtn.title = "Надіслати як пропозицію на розгляд (не правити напряму)";
+      actions.appendChild(proposeBtn);
+    }
+    actions.appendChild(comment);
+    actions.appendChild(status);
+    wrap.appendChild(actions);
+
+    // warnings container
+    const warns = document.createElement("div");
+    warns.style.display = "none";
+    wrap.appendChild(warns);
+
+    // ---- «брудність»: кнопки активні лише коли текст ВІДРІЗНЯЄТЬСЯ від поточного (без флуду) ----
+    let baseline = (r.ua == null ? "" : String(r.ua));
+    function syncDirty(){
+      const dirty = ta.value !== baseline;
+      saveBtn.disabled = !dirty;
+      if(proposeBtn) proposeBtn.disabled = !dirty;
+    }
+
+    // ---- autosize wiring ----
+    requestAnimationFrame(() => autosize(ta));
+    ta.addEventListener("input", () => {
+      autosize(ta);
+      status.className = "status";
+      status.textContent = "";
+      syncDirty();
+    });
+    syncDirty();   // початково: змін немає -> кнопки вимкнені
+
+    // ---- save wiring ----
+    function showWarns(ws, doneWord){
+      if(!ws || !ws.length) return;
+      warns.className = "warns";
+      warns.style.display = "block";
+      warns.innerHTML = `<div class="head">Зауваження (${doneWord}):</div><ul>`
+        + ws.map(w => `<li>${esc(w)}</li>`).join("") + `</ul>`;
+    }
+
+    // пряма правка (editor/admin) — з контролем версій (OCC)
+    async function doSave(force){
+      saveBtn.disabled = true; if(proposeBtn) proposeBtn.disabled = true;
+      status.className = "status saving";
+      status.innerHTML = `<span class="spinner"></span>збереження…`;
+      warns.style.display = "none";
+      try{
+        const res = await api("/api/strings/" + encodeURIComponent(r.id), {
+          method:"PUT", headers:{"Content-Type":"application/json"},
+          body: JSON.stringify({ ua: ta.value, comment: comment.value, base_rev: (r.rev || 0), force: !!force }),
+        });
+        r.rev = res.rev; r.ua = ta.value; baseline = ta.value;   // нова база -> кнопки знову вимкнуться
+        showWarns(res && res.warnings, "збережено");
+        status.className = "status ok";
+        status.textContent = "✓ збережено";
+      }catch(e){
+        if(e.status === 409 && e.detail && e.detail.conflict){
+          showConflict(e.detail);
+          status.className = "status err"; status.textContent = "⚠ конфлікт правок";
+        }else{
+          status.className = "status err"; status.textContent = "✗ помилка: " + e.message;
+        }
+      }finally{ syncDirty(); }
+    }
+
+    // пропозиція на розгляд (будь-яка роль)
+    async function doPropose(){
+      saveBtn.disabled = true; if(proposeBtn) proposeBtn.disabled = true;
+      status.className = "status saving";
+      status.innerHTML = `<span class="spinner"></span>надсилання…`;
+      warns.style.display = "none";
+      try{
+        const res = await api("/api/suggestions", {
+          method:"POST", headers:{"Content-Type":"application/json"},
+          body: JSON.stringify({ string_id: r.id, ua: ta.value, comment: comment.value }),
+        });
+        baseline = ta.value;   // надіслано -> без нової зміни повторно не надіслати (антиспам)
+        showWarns(res && res.warnings, "надіслано");
+        status.className = "status ok";
+        status.textContent = "✓ пропозицію надіслано на розгляд";
+      }catch(e){
+        status.className = "status err"; status.textContent = "✗ помилка: " + e.message;
+      }finally{ syncDirty(); }
+    }
+
+    // двоє правили той самий рядок: показати їхній варіант і дати вибір
+    function showConflict(d){
+      warns.className = "warns conflict";
+      warns.style.display = "block";
+      warns.innerHTML = "";
+      const head = document.createElement("div");
+      head.className = "head";
+      head.textContent = `⚠ Конфлікт: ${d.by ? d.by + " " : ""}щойно змінив(-ла) цей рядок. Твою правку НЕ збережено.`;
+      const cur = document.createElement("div");
+      cur.style.margin = "6px 0";
+      cur.innerHTML = `<span style="color:var(--muted)">їхній варіант зараз:</span> ` +
+        `<span style="color:var(--en)">${esc(d.current_ua)}</span>`;
+      const bar = document.createElement("div");
+      bar.style.cssText = "display:flex; gap:8px; margin-top:8px; flex-wrap:wrap";
+      const bOver = document.createElement("button");
+      bOver.textContent = "Перезаписати їхній моїм";
+      const bTake = document.createElement("button");
+      bTake.className = "ghost";
+      bTake.textContent = "Узяти їхній у поле";
+      bar.appendChild(bOver); bar.appendChild(bTake);
+      warns.appendChild(head); warns.appendChild(cur); warns.appendChild(bar);
+      bOver.addEventListener("click", () => { r.rev = d.current_rev; doSave(true); });
+      bTake.addEventListener("click", () => {
+        ta.value = d.current_ua; r.rev = d.current_rev; r.ua = d.current_ua; baseline = d.current_ua;
+        autosize(ta); syncDirty();
+        warns.style.display = "none"; status.className = "status"; status.textContent = "";
+      });
+    }
+
+    const primary = () => canEdit() ? doSave() : doPropose();
+    saveBtn.addEventListener("click", primary);
+    if(proposeBtn) proposeBtn.addEventListener("click", () => doPropose());
+    // Ctrl+Enter у textarea = основна дія (зберегти / запропонувати)
+    ta.addEventListener("keydown", (ev) => {
+      if((ev.ctrlKey || ev.metaKey) && ev.key === "Enter"){
+        ev.preventDefault();
+        primary();
+      }
+    });
+
+    return wrap;
+  }
+
+  function srcLine(label, text, cls){
+    const div = document.createElement("div");
+    div.className = "src " + cls;
+    const lbl = document.createElement("span");
+    lbl.className = "lbl";
+    lbl.textContent = label;
+    const txt = document.createElement("span");
+    txt.className = "txt";
+    txt.textContent = String(text);
+    div.appendChild(lbl);
+    div.appendChild(txt);
+    return div;
+  }
+
+  // ---- events ---------------------------------------------------------------
+  function freshSearch(){ state.offset = 0; runSearch(); }
+
+  $("searchBtn").addEventListener("click", freshSearch);
+  elQ.addEventListener("keydown", (e) => { if(e.key === "Enter"){ e.preventDefault(); freshSearch(); } });
+  elSection.addEventListener("change", freshSearch);
+  elUntr.addEventListener("change", freshSearch);
+
+  function goPrev(){
+    if(state.offset <= 0) return;
+    state.offset = Math.max(0, state.offset - LIMIT);
+    runSearch();
+    window.scrollTo({top:0, behavior:"smooth"});
+  }
+  function goNext(){
+    if((state.offset + LIMIT) >= state.total) return;
+    state.offset += LIMIT;
+    runSearch();
+    window.scrollTo({top:0, behavior:"smooth"});
+  }
+  for(const b of prevBtns) b.addEventListener("click", goPrev);
+  for(const b of nextBtns) b.addEventListener("click", goNext);
+
+  // ---- boot -----------------------------------------------------------------
+  (async function init(){
+    await loadMe();
+    await loadSections();
+    freshSearch();
+  })();
+})();
+</script>
+</body>
+</html>
